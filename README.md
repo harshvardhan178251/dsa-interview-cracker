@@ -1,5 +1,11 @@
 # DSA Interview Cracker
 
+[![Live site](https://img.shields.io/badge/live%20site-View%20now-4f46e5?style=for-the-badge)](https://harshvardhan178251.github.io/dsa-interview-cracker/)
+[![Problems](https://img.shields.io/badge/problems-322-4338ca?style=for-the-badge)](https://harshvardhan178251.github.io/dsa-interview-cracker/problems)
+[![Topics](https://img.shields.io/badge/topics-24-0f766e?style=for-the-badge)](https://harshvardhan178251.github.io/dsa-interview-cracker/)
+[![Java](https://img.shields.io/badge/java-17%20%7C%20JDK-orange?style=for-the-badge)](https://adoptium.net/)
+[![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
+
 ## 🌐 Live site
 
 **https://harshvardhan178251.github.io/dsa-interview-cracker/**
