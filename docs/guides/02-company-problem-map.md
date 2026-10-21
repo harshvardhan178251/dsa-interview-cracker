@@ -1,0 +1,1687 @@
+---
+title: Company problem map
+order: 2
+summary: Which problems are tagged for which company, so you can focus revision on the set that actually comes up in your target company's loop.
+---
+
+# Company problem map
+
+> **This page is generated.** It is rebuilt from the problem catalogue by
+> `web/scripts/generate-guides.mjs`, so it always matches the problems that exist.
+
+Companies are tagged from publicly reported interview experiences. Treat them as a
+*frequency hint*, not a guarantee — the same core set of problems keeps coming back
+regardless of who is interviewing.
+
+## Summary
+
+| Company | Problems | ★★★★★ | ★★★★ | Hard |
+|---|---:|---:|---:|---:|
+| **Amazon** | 323 | 43 | 168 | 36 |
+| **Google** | 321 | 43 | 168 | 36 |
+| **Meta** | 316 | 42 | 167 | 35 |
+| **Uber** | 276 | 41 | 147 | 27 |
+| **Microsoft** | 100 | 24 | 60 | 13 |
+| **Bloomberg** | 65 | 22 | 39 | 9 |
+| **Adobe** | 42 | 12 | 17 | 4 |
+| **Apple** | 19 | 3 | 11 | 1 |
+| **LinkedIn** | 17 | 1 | 13 | 6 |
+| **Airbnb** | 16 | 2 | 5 | 3 |
+| **Facebook** | 7 | 0 | 5 | 2 |
+| **Netflix** | 6 | 2 | 3 | 1 |
+| **Pinterest** | 3 | 1 | 1 | 2 |
+| **Intel** | 2 | 0 | 1 | 1 |
+| **Twitter** | 2 | 0 | 1 | 1 |
+| **ByteDance** | 1 | 0 | 1 | 0 |
+| **Cloudflare** | 1 | 0 | 1 | 0 |
+| **Flipkart** | 1 | 0 | 0 | 1 |
+| **Lyft** | 1 | 0 | 0 | 0 |
+| **Oracle** | 1 | 0 | 1 | 0 |
+| **Poker sites** | 1 | 0 | 0 | 0 |
+| **Stripe** | 1 | 0 | 1 | 0 |
+
+## Reading this
+
+- **★★★★★** means the problem is asked repeatedly and often appears in the first round.
+  If you have limited time, do these first.
+- A ★★★★★ problem in a company you are targeting outranks a ★★★ problem at a company
+  you are not.
+- The intersection across companies is the safest set to master.
+
+## The universal core
+
+These problems show up at essentially every company. If you only do one thing, do these:
+
+- **Dijkstra's Shortest Path** (Medium) — `advancedgraphs.DijkstraShortestPath`
+- **Two Sum** (Easy) — `arrays.TwoSum`
+- **Combination Sum** (Medium) — `backtracking.CombinationSum`
+- **Permutations** (Medium) — `backtracking.Permutations`
+- **Subsets** (Medium) — `backtracking.Subsets`
+- **Search in Rotated Sorted Array** (Medium) — `binarysearch.SearchInRotatedSortedArray`
+- **Single Number** (Easy) — `bitmanipulation.SingleNumber`
+- **LRU Cache** (Medium) — `design.LRUCache`
+- **Coin Change** (Medium) — `dynamicprogramming.CoinChange`
+- **Edit Distance** (Medium) — `dynamicprogramming.EditDistance`
+- **House Robber** (Medium) — `dynamicprogramming.HouseRobber`
+- **Longest Common Subsequence** (Medium) — `dynamicprogramming.LongestCommonSubsequence`
+- **Longest Increasing Subsequence** (Medium) — `dynamicprogramming.LongestIncreasingSubsequence`
+- **Unique Paths** (Medium) — `dynamicprogramming.UniquePaths`
+- **Find Median from Data Stream** (Hard) — `heaps.FindMedianFromDataStream`
+- **Kth Largest Element in an Array** (Medium) — `heaps.KthLargestElement`
+- **Median of Two Sorted Arrays** (Hard) — `heaps.MedianOfTwoSortedArrays`
+- **Task Scheduler** (Medium) — `heaps.TaskScheduler`
+- **Top K Frequent Elements** (Medium) — `heaps.TopKFrequentElements`
+- **Merge Intervals** (Medium) — `intervals.MergeIntervals`
+- **Add Two Numbers** (Medium) — `linkedlist.AddTwoNumbers`
+- **Linked List Cycle** (Easy) — `linkedlist.DetectCycle`
+- **Merge Two Sorted Lists** (Easy) — `linkedlist.MergeTwoSortedLists`
+- **Remove Nth Node From End of List** (Medium) — `linkedlist.DeleteNthFromEnd`
+- **Reverse Linked List** (Easy) — `linkedlist.ReverseLinkedList`
+- **Sliding Window Maximum** (Hard) — `queues.SlidingWindowMaximum`
+- **Longest Substring Without Repeating Characters** (Medium) — `slidingwindow.LongestSubstringWithoutRepeatingCharacters`
+- **Min Stack** (Medium) — `stacks.MinStack`
+- **Trapping Rain Water** (Hard) — `stacks.TrappingRainWater`
+- **Valid Parentheses** (Easy) — `stacks.ValidParentheses`
+- **Balanced Binary Tree** (Easy) — `trees.BalancedBinaryTree`
+- **Binary Tree Inorder Traversal** (Easy) — `trees.BinaryTreeInorderTraversal`
+- **Binary Tree Level Order Traversal** (Medium) — `trees.BinaryTreeLevelOrderTraversal`
+- **Kth Smallest Element in a BST** (Medium) — `trees.KthSmallestElementInBST`
+- **Lowest Common Ancestor of a Binary Tree** (Medium) — `trees.LowestCommonAncestor`
+- **Lowest Common Ancestor of a BST** (Medium) — `trees.LowestCommonAncestorOfBST`
+- **Maximum Depth of Binary Tree** (Easy) — `trees.BinaryTreeMaximumDepth`
+- **Path Sum** (Easy) — `trees.PathSum`
+- **Same Tree** (Easy) — `trees.SameTree`
+- **Validate Binary Search Tree** (Medium) — `trees.ValidateBinarySearchTree`
+- **3Sum** (Medium) — `twopointers.ThreeSum`
+- **Container With Most Water** (Medium) — `twopointers.ContainerWithMostWater`
+
+## Per-company breakdown
+
+### Amazon (323)
+
+- **3Sum** — Medium · `twopointers.ThreeSum`
+- **Add Two Numbers** — Medium · `linkedlist.AddTwoNumbers`
+- **Balanced Binary Tree** — Easy · `trees.BalancedBinaryTree`
+- **Binary Tree Inorder Traversal** — Easy · `trees.BinaryTreeInorderTraversal`
+- **Binary Tree Level Order Traversal** — Medium · `trees.BinaryTreeLevelOrderTraversal`
+- **Coin Change** — Medium · `dynamicprogramming.CoinChange`
+- **Combination Sum** — Medium · `backtracking.CombinationSum`
+- **Container With Most Water** — Medium · `twopointers.ContainerWithMostWater`
+- **Dijkstra's Shortest Path** — Medium · `advancedgraphs.DijkstraShortestPath`
+- **Edit Distance** — Medium · `dynamicprogramming.EditDistance`
+- **Find Median from Data Stream** — Hard · `heaps.FindMedianFromDataStream`
+- **House Robber** — Medium · `dynamicprogramming.HouseRobber`
+- **Kth Largest Element in an Array** — Medium · `heaps.KthLargestElement`
+- **Kth Smallest Element in a BST** — Medium · `trees.KthSmallestElementInBST`
+- **Linked List Cycle** — Easy · `linkedlist.DetectCycle`
+- **Longest Common Subsequence** — Medium · `dynamicprogramming.LongestCommonSubsequence`
+- **Longest Increasing Subsequence** — Medium · `dynamicprogramming.LongestIncreasingSubsequence`
+- **Longest Substring Without Repeating Characters** — Medium · `slidingwindow.LongestSubstringWithoutRepeatingCharacters`
+- **Lowest Common Ancestor of a Binary Tree** — Medium · `trees.LowestCommonAncestor`
+- **Lowest Common Ancestor of a BST** — Medium · `trees.LowestCommonAncestorOfBST`
+- **LRU Cache** — Medium · `design.LRUCache`
+- **Maximum Depth of Binary Tree** — Easy · `trees.BinaryTreeMaximumDepth`
+- **Median of Two Sorted Arrays** — Hard · `heaps.MedianOfTwoSortedArrays`
+- **Merge Intervals** — Medium · `intervals.MergeIntervals`
+- **Merge Two Sorted Lists** — Easy · `linkedlist.MergeTwoSortedLists`
+- **Min Stack** — Medium · `stacks.MinStack`
+- **Min Stack** — Medium · `stacks.MinStack`
+- **Path Sum** — Easy · `trees.PathSum`
+- **Permutations** — Medium · `backtracking.Permutations`
+- **Remove Nth Node From End of List** — Medium · `linkedlist.DeleteNthFromEnd`
+- **Reverse Linked List** — Easy · `linkedlist.ReverseLinkedList`
+- **Same Tree** — Easy · `trees.SameTree`
+- **Search in Rotated Sorted Array** — Medium · `binarysearch.SearchInRotatedSortedArray`
+- **Single Number** — Easy · `bitmanipulation.SingleNumber`
+- **Sliding Window Maximum** — Hard · `queues.SlidingWindowMaximum`
+- **Subsets** — Medium · `backtracking.Subsets`
+- **Task Scheduler** — Medium · `heaps.TaskScheduler`
+- **Top K Frequent Elements** — Medium · `heaps.TopKFrequentElements`
+- **Trapping Rain Water** — Hard · `stacks.TrappingRainWater`
+- **Two Sum** — Easy · `arrays.TwoSum`
+- **Unique Paths** — Medium · `dynamicprogramming.UniquePaths`
+- **Valid Parentheses** — Easy · `stacks.ValidParentheses`
+- **Validate Binary Search Tree** — Medium · `trees.ValidateBinarySearchTree`
+- **01 Matrix** — Medium · `graphs.DistanceToNearestZero`
+- **3Sum Closest** — Medium · `twopointers.ThreeSumClosest`
+- **Add Binary** — Easy · `math.AddBinary`
+- **Add Two Numbers II** — Medium · `linkedlist.AddTwoNumbersII`
+- **Articulation Points in a Graph** — Hard · `advancedgraphs.ArticulationPoints`
+- **Basic Calculator** — Hard · `stacks.BasicCalculator`
+- **Basic Calculator II** — Medium · `stacks.BasicCalculatorII`
+- **Bellman-Ford Shortest Path** — Medium · `advancedgraphs.BellmanFord`
+- **Best Time to Buy and Sell Stock** — Easy · `arrays.BestTimeToBuyAndSellStock`
+- **Best Time to Buy and Sell Stock III** — Hard · `dynamicprogramming.BestTimeToBuySellStockIII`
+- **Binary Search** — Easy · `binarysearch.BinarySearch`
+- **Binary Tree Minimum Depth** — Easy · `trees.BinaryTreeMinimumDepth`
+- **Binary Tree Paths** — Easy · `trees.BinaryTreePaths`
+- **Bounded Blocking Queue** — Medium · `concurrency.BoundedBlockingQueue`
+- **Bridges in a Graph** — Hard · `advancedgraphs.BridgesInGraph`
+- **Burst Balloons** — Hard · `dynamicprogramming.BurstBalloons`
+- **Candy** — Hard · `greedy.Candy`
+- **Capacity To Ship Packages Within D Days** — Medium · `binarysearch.CapacityToShipPackages`
+- **Car Fleet** — Medium · `intervals.CarFleet`
+- **Catalan Number** — Medium · `dynamicprogramming.CatalanNumber`
+- **Cheapest Flights Within K Stops** — Medium · `graphs.CheapestFlightsWithinKStops`
+- **Climbing Stairs** — Easy · `dynamicprogramming.ClimbingStairs`
+- **Coin Change II** — Medium · `dynamicprogramming.CoinChangeII`
+- **Combination Sum II** — Medium · `backtracking.CombinationSumII`
+- **Construct Binary Tree from Preorder and Inorder Traversal** — Medium · `trees.BuildTreeFromPreorderAndInorder`
+- **Contains Duplicate** — Easy · `hashing.ContainsDuplicate`
+- **Copy List with Random Pointer** — Medium · `linkedlist.CopyListWithRandomPointer`
+- **Count Primes** — Medium · `math.SieveOfEratosthenes`
+- **Course Schedule** — Medium · `graphs.CourseSchedule`
+- **Course Schedule II** — Medium · `graphs.CourseScheduleII`
+- **Daily Temperatures** — Medium · `stacks.DailyTemperatures`
+- **Decode String** — Medium · `stacks.DecodeString`
+- **Decode Ways** — Medium · `dynamicprogramming.DecodeWays`
+- **Delete Node in a BST** — Medium · `trees.DeleteFromBST`
+- **Design a Min Queue** — Medium · `queues.MinQueue`
+- **Design Add and Search Words** — Medium · `trie.DesignAddAndSearchWords`
+- **Diameter of Binary Tree** — Easy · `trees.DiameterOfBinaryTree`
+- **Divide Two Integers** — Medium · `bitmanipulation.DivideTwoIntegers`
+- **Dutch National Flag** — Medium · `sorting.DutchNationalFlag`
+- **Eulerian Path** — Hard · `advancedgraphs.EulerianPath`
+- **Evaluate Reverse Polish Notation** — Medium · `stacks.EvaluateReversePolishNotation`
+- **Find All Anagrams in a String** — Medium · `slidingwindow.FindAllAnagramsInString`
+- **Find First and Last Position of Element in Sorted Array** — Medium · `binarysearch.FindFirstAndLastPosition`
+- **Find Minimum in Rotated Sorted Array** — Medium · `binarysearch.FindMinimumInRotatedSortedArray`
+- **Find Peak Element** — Medium · `binarysearch.PeakElement`
+- **First Bad Version** — Easy · `binarysearch.FirstBadVersion`
+- **Floyd-Warshall All-Pairs Shortest Path** — Medium · `advancedgraphs.FloydWarshall`
+- **Fruit Into Baskets** — Medium · `slidingwindow.FruitIntoBaskets`
+- **Gas Station** — Medium · `greedy.GasStation`
+- **GCD and LCM** — Easy · `math.GcdAndLcm`
+- **Generate Parentheses** — Medium · `backtracking.GenerateParentheses`
+- **Graph Coloring** — Hard · `advancedgraphs.GraphColoring`
+- **Group Anagrams** — Medium · `hashing.GroupAnagrams`
+- **Hamming Distance** — Easy · `bitmanipulation.HammingDistance`
+- **House Robber II** — Medium · `dynamicprogramming.HouseRobberII`
+- **Implement Queue using Stacks** — Medium · `queues.ImplementQueueUsingStacks`
+- **Implement Trie** — Medium · `trie.ImplementTrie`
+- **Insert Interval** — Medium · `intervals.InsertInterval`
+- **Insert into a Binary Search Tree** — Medium · `trees.InsertIntoBST`
+- **Interleaving String** — Medium · `dynamicprogramming.InterleavingString`
+- **Intersection of Two Linked Lists** — Easy · `linkedlist.IntersectionOfTwoLinkedLists`
+- **Invert Binary Tree** — Easy · `trees.InvertBinaryTree`
+- **Is Graph Bipartite** — Medium · `graphs.BipartiteCheck`
+- **Jump Game** — Medium · `greedy.JumpGame`
+- **Jump Game II** — Medium · `dynamicprogramming.MinimumJumpSteps`
+- **Jump Game II** — Medium · `greedy.JumpGameII`
+- **K Closest Elements** — Medium · `heaps.KClosestElements`
+- **Koko Eating Bananas** — Medium · `binarysearch.KokoEatingBananas`
+- **Kosaraju's Strongly Connected Components** — Hard · `advancedgraphs.KosarajuStronglyConnectedComponents`
+- **Kruskal's Minimum Spanning Tree** — Medium · `advancedgraphs.KruskalMinimumSpanningTree`
+- **Kth Smallest Element in a Sorted Matrix** — Medium · `heaps.KthSmallestElement`
+- **Largest Number** — Medium · `greedy.LargestNumber`
+- **Largest Rectangle in Histogram** — Hard · `stacks.LargestRectangleInHistogram`
+- **Last Stone Weight II** — Medium · `heaps.LastStoneWeightII`
+- **Letter Combinations of a Phone Number** — Medium · `backtracking.LetterCombinationsOfAPhoneNumber`
+- **LFU Cache** — Hard · `design.LFUCache`
+- **Linked List Cycle II** — Medium · `linkedlist.LinkedListCycleII`
+- **Longest Common Prefix** — Easy · `strings.LongestCommonPrefix`
+- **Longest Common Substring** — Medium · `dynamicprogramming.LongestCommonSubstring`
+- **Longest Consecutive Sequence** — Medium · `hashing.LongestConsecutiveSequence`
+- **Longest Palindromic Substring** — Medium · `strings.LongestPalindromicSubstring`
+- **Longest Repeating Character Replacement** — Medium · `slidingwindow.LongestRepeatingCharacterReplacement`
+- **Longest Subarray with At Most K Distinct** — Medium · `slidingwindow.LongestSubarrayWithAtMostKDistinct`
+- **Majority Element** — Easy · `arrays.MajorityElement`
+- **Maximum Product Subarray** — Medium · `dynamicprogramming.MaximumProductSubarray`
+- **Maximum Subarray** — Medium · `arrays.MaxSubarray`
+- **Meeting Rooms** — Easy · `intervals.MeetingRooms`
+- **Meeting Rooms II** — Medium · `intervals.MeetingRoomsII`
+- **Merge k Sorted Lists** — Hard · `heaps.MergeKSortedLists`
+- **Merge Sort** — Medium · `sorting.MergeSort`
+- **Middle of the Linked List** — Easy · `linkedlist.MiddleOfTheLinkedList`
+- **Minimum Path Sum** — Medium · `dynamicprogramming.MinimumPathSum`
+- **Minimum Spanning Tree** — Medium · `advancedgraphs.MinimumSpanningTree`
+- **Minimum Window Substring** — Hard · `slidingwindow.MinimumWindowSubstring`
+- **Move Zeroes** — Easy · `twopointers.MoveZeroes`
+- **N-Queens** — Hard · `backtracking.NQueens`
+- **Network Delay Time** — Medium · `graphs.NetworkDelayTime`
+- **Next Greater Element** — Easy · `stacks.NextGreaterElement`
+- **Next Greater Element II** — Medium · `stacks.NextGreaterElementII`
+- **Non-overlapping Intervals** — Medium · `intervals.NonOverlappingIntervals`
+- **Number of 1 Bits** — Easy · `bitmanipulation.CountSetBits`
+- **Number of Connected Components in an Undirected Graph** — Medium · `graphs.NumberOfConnectedComponents`
+- **Number of Islands** — Medium · `graphs.NumberOfIslands`
+- **Number of Provinces** — Medium · `graphs.NumberOfProvinces`
+- **Odd Even Linked List** — Medium · `linkedlist.OddEvenLinkedList`
+- **Palindrome Linked List** — Medium · `linkedlist.PalindromeLinkedList`
+- **Palindrome Number** — Easy · `math.PalindromeNumber`
+- **Palindrome Partitioning** — Medium · `backtracking.PalindromePartitioning`
+- **Palindromic Substrings** — Medium · `dynamicprogramming.PalindromicSubstrings`
+- **Partition Equal Subset Sum** — Medium · `dynamicprogramming.PartitionEqualSubsetSum`
+- **Path Sum III** — Medium · `trees.CountPathsWithGivenSum`
+- **Permutation in String** — Medium · `slidingwindow.PermutationInString`
+- **Permutations II** — Medium · `backtracking.PermutationsII`
+- **Populating Next Right Pointers in Each Node** — Medium · `trees.PopulateNextRightPointers`
+- **Pow(x, n)** — Medium · `math.PowOfANumber`
+- **Power of Two** — Easy · `bitmanipulation.PowerOfTwo`
+- **Prim's Minimum Spanning Tree** — Medium · `advancedgraphs.PrimMinimumSpanningTree`
+- **Producer–Consumer Problem** — Medium · `concurrency.ProducerConsumer`
+- **Product of Array Except Self** — Medium · `prefixsum.ProductExceptSelf`
+- **Quick Sort** — Medium · `sorting.QuickSort`
+- **Rate Limiter** — Medium · `design.RateLimiter`
+- **Reconstruct Itinerary** — Hard · `graphs.ReconstructItinerary`
+- **Regular Expression Matching** — Hard · `dynamicprogramming.RegexMatching`
+- **Remove Duplicates from Sorted Array** — Easy · `twopointers.RemoveDuplicatesFromSortedArray`
+- **Remove Duplicates from Sorted Array II** — Medium · `twopointers.RemoveDuplicatesFromSortedArrayII`
+- **Remove Duplicates from Sorted List II** — Medium · `linkedlist.RemoveDuplicatesFromSortedListII`
+- **Reorder List** — Medium · `linkedlist.ReorderList`
+- **Reorganize String** — Medium · `heaps.ReorganizeString`
+- **Reverse Bits** — Easy · `bitmanipulation.ReverseBits`
+- **Reverse Integer** — Medium · `math.ReverseInteger`
+- **Reverse Linked List II** — Medium · `linkedlist.ReverseLinkedListII`
+- **Reverse Nodes in k-Group** — Hard · `linkedlist.ReverseNodesInKGroup`
+- **Rotate Image** — Medium · `arrays.RotateImage`
+- **Rotate List** — Medium · `linkedlist.RotateList`
+- **Rotting Oranges** — Medium · `graphs.RottingOranges`
+- **Search a 2D Matrix** — Medium · `binarysearch.Search2DMatrix`
+- **Search a 2D Matrix II** — Medium · `binarysearch.Search2DMatrixII`
+- **Search in a Binary Search Tree** — Easy · `trees.SearchInBST`
+- **Search in Rotated Sorted Array II** — Medium · `binarysearch.SearchInRotatedSortedArrayII`
+- **Search Insert Position** — Easy · `binarysearch.SearchInsertPosition`
+- **Serialize and Deserialize Binary Tree** — Medium · `trees.SerializeAndDeserializeBinaryTree`
+- **Set Matrix Zeroes** — Medium · `arrays.SetMatrixZeroes`
+- **Single Number III** — Medium · `bitmanipulation.SingleNumberIII`
+- **Singleton with Double-Checked Locking** — Medium · `concurrency.SingletonDoubleCheckedLocking`
+- **Spiral Matrix** — Medium · `arrays.SpiralMatrix`
+- **Split Array Largest Sum** — Hard · `binarysearch.SplitArrayLargestSum`
+- **Sqrt(x)** — Easy · `binarysearch.SquareRootOfANumber`
+- **Squares of a Sorted Array** — Easy · `twopointers.SquaresOfSortedArray`
+- **String to Integer (atoi)** — Medium · `strings.StringToInteger`
+- **Subarray Sum Equals K** — Medium · `prefixsum.SubarraySumEqualsK`
+- **Subtree of Another Tree** — Easy · `trees.SubtreeOfAnotherTree`
+- **Sudoku Solver** — Hard · `backtracking.SudokuSolver`
+- **Sum of Two Integers** — Medium · `bitmanipulation.AddTwoIntegers`
+- **Swap Nodes in Pairs** — Medium · `linkedlist.SwapPairs`
+- **Symmetric Tree** — Easy · `trees.SymmetricTree`
+- **Target Sum** — Medium · `dynamicprogramming.TargetSum`
+- **Tarjan's Strongly Connected Components** — Hard · `advancedgraphs.TarjanStronglyConnectedComponents`
+- **Thread-Safe Counter** — Easy · `concurrency.AtomicCounter`
+- **Topological Sort** — Medium · `graphs.TopologicalSort`
+- **Two Sum II - Input Array Is Sorted** — Easy · `twopointers.TwoSumII`
+- **Valid Anagram** — Easy · `strings.ValidAnagram`
+- **Valid Palindrome** — Easy · `twopointers.ValidPalindrome`
+- **Wildcard Matching** — Hard · `dynamicprogramming.WildcardMatching`
+- **Word Break** — Medium · `dynamicprogramming.WordBreak`
+- **Word Ladder** — Medium · `graphs.WordLadder`
+- **Word Search** — Medium · `backtracking.WordSearch`
+- **Word Search II** — Hard · `trie.WordSearchII`
+- **Zigzag Level Order Traversal** — Medium · `trees.ZigzagLevelOrderTraversal`
+- **Aggressive Cows** — Medium · `binarysearch.AggressiveCows`
+- **Alien Dictionary** — Medium · `graphs.AlienDictionary`
+- **Allocate Minimum Number of Painters** — Hard · `binarysearch.AllocateMinimumNumberOfPainters`
+- **Assign Cookies** — Easy · `greedy.AssignCookies`
+- **Best Time to Buy and Sell Stock II** — Medium · `arrays.BestTimeToBuyAndSellStockII`
+- **Binary Tree Cameras** — Medium · `trees.BinaryTreeCameras`
+- **Bubble Sort** — Easy · `sorting.BubbleSort`
+- **Camelcase Matching** — Medium · `trie.CamelCaseMatching`
+- **Clone Graph** — Medium · `graphs.CloneGraph`
+- **Coin Change with Greedy** — Medium · `greedy.GreedyCoinChange`
+- **Compare Version Numbers** — Medium · `strings.CompareVersionNumbers`
+- **Concurrent Sum using Threads** — Medium · `concurrency.ConcurrentSumWithThreads`
+- **Contains Duplicate II** — Medium · `arrays.ContainsDuplicateII`
+- **Contiguous Array** — Medium · `prefixsum.ContiguousArray`
+- **Count and Say** — Medium · `strings.CountAndSay`
+- **Counting Bits** — Easy · `bitmanipulation.NumberOfSetBits`
+- **Counting Sort** — Medium · `sorting.CountingSort`
+- **Design Browser History** — Medium · `design.DesignBrowserHistory`
+- **Design Circular Queue** — Medium · `queues.ImplementCircularQueue`
+- **Design HashMap** — Easy · `design.DesignHashMap`
+- **Design Hit Counter** — Medium · `design.DesignHitCounter`
+- **Design Tic-Tac-Toe** — Medium · `design.DesignTicTacToe`
+- **Design Underground System** — Medium · `design.DesignUndergroundSystem`
+- **Distinct Subsequences** — Medium · `dynamicprogramming.DistinctSubsequences`
+- **Employee Free Day** — Medium · `heaps.EmployeeFreeDay`
+- **Employee Free Time** — Medium · `intervals.EmployeeFreeTime`
+- **Excel Sheet Column Number** — Easy · `strings.ExcelSheetColumnNumber`
+- **Excel Sheet Column Title** — Easy · `strings.ExcelSheetColumnTitle`
+- **Factorial Trailing Zeroes** — Easy · `math.FactorialTrailingZeroes`
+- **Fibonacci Number** — Easy · `dynamicprogramming.FibonacciNumber`
+- **Find All Duplicates in an Array** — Medium · `hashing.FindAllDuplicatesInArray`
+- **Find Kth Largest and Kth Smallest** — Medium · `heaps.FindKthLargestAndSmallest`
+- **First Unique Character in a String** — Easy · `hashing.FirstUniqueCharacterInString`
+- **Flatten a Multilevel Linked List** — Medium · `linkedlist.FlattenLinkedList`
+- **Flood Fill** — Easy · `backtracking.FloodFill`
+- **Graph Valid Tree** — Medium · `graphs.GraphValidTree`
+- **Gray Code** — Medium · `bitmanipulation.GrayCode`
+- **Hand of Straights** — Medium · `greedy.HandOfStraights`
+- **Happy Number** — Easy · `math.HappyNumber`
+- **Heap Sort** — Medium · `sorting.HeapSort`
+- **Implement Deque using Two Stacks** — Medium · `queues.ImplementDequeUsingTwoStacks`
+- **Implement Stack using Queues** — Medium · `queues.ImplementStackUsingQueues`
+- **Insertion Sort** — Easy · `sorting.InsertionSort`
+- **Integer to Roman** — Medium · `strings.IntegerToRoman`
+- **Intersection of Two Arrays** — Easy · `hashing.IntersectionOfTwoArrays`
+- **Interval List Intersections** — Medium · `intervals.IntervalListIntersections`
+- **Is a Number Prime** — Medium · `math.DetectPrime`
+- **Isomorphic Strings** — Easy · `hashing.IsomorphicStrings`
+- **Josephus Problem** — Medium · `linkedlist.JosephusProblem`
+- **Jump Game III** — Medium · `greedy.JumpGameIII`
+- **Keys and Rooms** — Medium · `graphs.KeysAndRooms`
+- **Longest Palindromic Subsequence** — Medium · `strings.LongestPalindromicSubsequence`
+- **Longest Prefix of a Phone Number** — Medium · `trie.LongestPrefixOfAPhoneNumber`
+- **Longest Repeating Substring** — Hard · `slidingwindow.LongestRepeatingSubstring`
+- **Majority Element II** — Medium · `arrays.MajorityElementII`
+- **Max of Min for Every Window** — Hard · `stacks.MaxOfMinForEveryWindow`
+- **Maximum Difference Between Two Elements of an Array** — Medium · `twopointers.MaximumDifferenceBetweenTwoElements`
+- **Maximum Profit Scheduling Jobs** — Medium · `greedy.SchedulingMaximumProfit`
+- **Meeting Rooms III** — Hard · `intervals.MeetingRoomsIII`
+- **Min Max Stack** — Medium · `design.MinMaxStack`
+- **Minimum Height Trees** — Medium · `binarysearch.MinimumHeightTrees`
+- **Minimum Number of Flips to Make the Binary String Alternating** — Medium · `slidingwindow.MinimumNumberOfFlips`
+- **Minimum Number of Refueling Stops** — Medium · `greedy.MinimumNumberOfRefuelingStops`
+- **Missing Number** — Easy · `arrays.MissingNumber`
+- **Moving Average** — Easy · `design.MovingAverage`
+- **N-Queens II** — Hard · `backtracking.NQueensII`
+- **Number of Partitions** — Medium · `dynamicprogramming.NumberOfPartitions`
+- **Pacman Paths** — Medium · `graphs.PacmanPaths`
+- **Partition Array Into Maximum Subarrays** — Medium · `greedy.PartitionArrayToMaximumSum`
+- **Perfect Number** — Easy · `math.PerfectNumber`
+- **Pivot Index** — Easy · `prefixsum.PivotIndex`
+- **Plus One** — Easy · `arrays.PlusOne`
+- **Range Sum Query — Immutable** — Easy · `prefixsum.RangeSumQuery`
+- **Reverse String** — Easy · `strings.ReverseString`
+- **Reverse Words in a String** — Medium · `strings.ReverseWordsInString`
+- **Rod Cutting** — Medium · `dynamicprogramming.RodCutting`
+- **Roman to Integer** — Easy · `strings.RomanToInteger`
+- **Rotate Array** — Medium · `arrays.RotateArray`
+- **Semaphore** — Medium · `design.SemaphoreClass`
+- **Shortest Path in a Binary Maze** — Medium · `graphs.ShortestPathInBinaryGrid`
+- **Shuffle Array** — Medium · `arrays.ShuffleArray`
+- **Snapshot Array** — Medium · `design.SnapshotArray`
+- **Sort Array By Parity** — Easy · `sorting.SortArrayByParity`
+- **Stock Span** — Medium · `stacks.StockSpan`
+- **Stone Game II** — Medium · `dynamicprogramming.StoneGameII`
+- **Subtract Two Integers without Minus** — Medium · `bitmanipulation.SubtractWithoutMinus`
+- **Sum of Left Leaves** — Easy · `trees.SumOfLeftLeaves`
+- **Trie with Prefix Counting** — Medium · `trie.PrefixCount`
+- **Ugly Number** — Medium · `math.UglyNumber`
+- **Unique Paths III** — Hard · `dynamicprogramming.GridUniquePathsIII`
+- **Valid Palindrome II** — Easy · `strings.ValidPalindromeII`
+- **Walls and Gates** — Medium · `graphs.WallAndGates`
+- **Word Pattern** — Easy · `hashing.WordPattern`
+- **XOR of All Elements** — Easy · `bitmanipulation.XOROfArrayElements`
+- **2D Prefix Sum** — Medium · `prefixsum.TwoDimensionalPrefixSum`
+- **Design Text Editor** — Hard · `design.DesignTextEditor`
+- **Find Minimum and Maximum Element** — Easy · `arrays.FindMinimumAndMaximumElement`
+- **Largest Prime Factor** — Medium · `math.LargestPrimeFactor`
+- **Maximum Circular Subarray** — Medium · `arrays.MaxCircularSubarray`
+- **Maximum Gap** — Hard · `arrays.MaxGap`
+- **Maximum Units on a Truck** — Easy · `greedy.MaximumUnitsOnATruck`
+- **Maximum Width Ramp** — Hard · `arrays.MaximumWidthRamp`
+- **Minimum Absolute Difference** — Medium · `arrays.MinimumAbsoluteDifference`
+- **Pairs With a Target Sum** — Medium · `prefixsum.PairsWithTargetSum`
+- **Parallel Pipeline Merge** — Hard · `concurrency.ParallelPipelineMerge`
+- **Remove Element** — Easy · `arrays.RemoveElement`
+- **Running Sum of 1d Array** — Easy · `prefixsum.RunningSum`
+- **Selection Sort** — Easy · `sorting.SelectionSort`
+- **Sort a Hand of Cards** — Medium · `sorting.SortHand`
+- **Sort by Frequency of Characters** — Medium · `hashing.FrequencySort`
+- **String Compression** — Easy · `strings.StringCompression`
+- **Valid Number** — Medium · `strings.ValidNumber`
+
+### Google (321)
+
+- **3Sum** — Medium · `twopointers.ThreeSum`
+- **Add Two Numbers** — Medium · `linkedlist.AddTwoNumbers`
+- **Balanced Binary Tree** — Easy · `trees.BalancedBinaryTree`
+- **Binary Tree Inorder Traversal** — Easy · `trees.BinaryTreeInorderTraversal`
+- **Binary Tree Level Order Traversal** — Medium · `trees.BinaryTreeLevelOrderTraversal`
+- **Coin Change** — Medium · `dynamicprogramming.CoinChange`
+- **Combination Sum** — Medium · `backtracking.CombinationSum`
+- **Container With Most Water** — Medium · `twopointers.ContainerWithMostWater`
+- **Dijkstra's Shortest Path** — Medium · `advancedgraphs.DijkstraShortestPath`
+- **Edit Distance** — Medium · `dynamicprogramming.EditDistance`
+- **Find Median from Data Stream** — Hard · `heaps.FindMedianFromDataStream`
+- **House Robber** — Medium · `dynamicprogramming.HouseRobber`
+- **Kth Largest Element in an Array** — Medium · `heaps.KthLargestElement`
+- **Kth Smallest Element in a BST** — Medium · `trees.KthSmallestElementInBST`
+- **Linked List Cycle** — Easy · `linkedlist.DetectCycle`
+- **Longest Common Subsequence** — Medium · `dynamicprogramming.LongestCommonSubsequence`
+- **Longest Increasing Subsequence** — Medium · `dynamicprogramming.LongestIncreasingSubsequence`
+- **Longest Substring Without Repeating Characters** — Medium · `slidingwindow.LongestSubstringWithoutRepeatingCharacters`
+- **Lowest Common Ancestor of a Binary Tree** — Medium · `trees.LowestCommonAncestor`
+- **Lowest Common Ancestor of a BST** — Medium · `trees.LowestCommonAncestorOfBST`
+- **LRU Cache** — Medium · `design.LRUCache`
+- **Maximum Depth of Binary Tree** — Easy · `trees.BinaryTreeMaximumDepth`
+- **Median of Two Sorted Arrays** — Hard · `heaps.MedianOfTwoSortedArrays`
+- **Merge Intervals** — Medium · `intervals.MergeIntervals`
+- **Merge Two Sorted Lists** — Easy · `linkedlist.MergeTwoSortedLists`
+- **Min Stack** — Medium · `stacks.MinStack`
+- **Path Sum** — Easy · `trees.PathSum`
+- **Permutations** — Medium · `backtracking.Permutations`
+- **Remove Nth Node From End of List** — Medium · `linkedlist.DeleteNthFromEnd`
+- **Reverse Linked List** — Easy · `linkedlist.ReverseLinkedList`
+- **Same Tree** — Easy · `trees.SameTree`
+- **Search in Rotated Sorted Array** — Medium · `binarysearch.SearchInRotatedSortedArray`
+- **Single Number** — Easy · `bitmanipulation.SingleNumber`
+- **Sliding Window Maximum** — Hard · `queues.SlidingWindowMaximum`
+- **Subsets** — Medium · `backtracking.Subsets`
+- **Task Scheduler** — Medium · `heaps.TaskScheduler`
+- **Task Scheduler** — Medium · `heaps.TaskScheduler`
+- **Top K Frequent Elements** — Medium · `heaps.TopKFrequentElements`
+- **Trapping Rain Water** — Hard · `stacks.TrappingRainWater`
+- **Two Sum** — Easy · `arrays.TwoSum`
+- **Unique Paths** — Medium · `dynamicprogramming.UniquePaths`
+- **Valid Parentheses** — Easy · `stacks.ValidParentheses`
+- **Validate Binary Search Tree** — Medium · `trees.ValidateBinarySearchTree`
+- **01 Matrix** — Medium · `graphs.DistanceToNearestZero`
+- **3Sum Closest** — Medium · `twopointers.ThreeSumClosest`
+- **Add Binary** — Easy · `math.AddBinary`
+- **Add Two Numbers II** — Medium · `linkedlist.AddTwoNumbersII`
+- **Articulation Points in a Graph** — Hard · `advancedgraphs.ArticulationPoints`
+- **Basic Calculator** — Hard · `stacks.BasicCalculator`
+- **Basic Calculator II** — Medium · `stacks.BasicCalculatorII`
+- **Bellman-Ford Shortest Path** — Medium · `advancedgraphs.BellmanFord`
+- **Best Time to Buy and Sell Stock** — Easy · `arrays.BestTimeToBuyAndSellStock`
+- **Best Time to Buy and Sell Stock III** — Hard · `dynamicprogramming.BestTimeToBuySellStockIII`
+- **Binary Search** — Easy · `binarysearch.BinarySearch`
+- **Binary Tree Minimum Depth** — Easy · `trees.BinaryTreeMinimumDepth`
+- **Binary Tree Paths** — Easy · `trees.BinaryTreePaths`
+- **Bounded Blocking Queue** — Medium · `concurrency.BoundedBlockingQueue`
+- **Bridges in a Graph** — Hard · `advancedgraphs.BridgesInGraph`
+- **Burst Balloons** — Hard · `dynamicprogramming.BurstBalloons`
+- **Candy** — Hard · `greedy.Candy`
+- **Capacity To Ship Packages Within D Days** — Medium · `binarysearch.CapacityToShipPackages`
+- **Car Fleet** — Medium · `intervals.CarFleet`
+- **Catalan Number** — Medium · `dynamicprogramming.CatalanNumber`
+- **Cheapest Flights Within K Stops** — Medium · `graphs.CheapestFlightsWithinKStops`
+- **Climbing Stairs** — Easy · `dynamicprogramming.ClimbingStairs`
+- **Coin Change II** — Medium · `dynamicprogramming.CoinChangeII`
+- **Combination Sum II** — Medium · `backtracking.CombinationSumII`
+- **Construct Binary Tree from Preorder and Inorder Traversal** — Medium · `trees.BuildTreeFromPreorderAndInorder`
+- **Contains Duplicate** — Easy · `hashing.ContainsDuplicate`
+- **Copy List with Random Pointer** — Medium · `linkedlist.CopyListWithRandomPointer`
+- **Count Primes** — Medium · `math.SieveOfEratosthenes`
+- **Course Schedule** — Medium · `graphs.CourseSchedule`
+- **Course Schedule II** — Medium · `graphs.CourseScheduleII`
+- **Daily Temperatures** — Medium · `stacks.DailyTemperatures`
+- **Decode String** — Medium · `stacks.DecodeString`
+- **Decode Ways** — Medium · `dynamicprogramming.DecodeWays`
+- **Delete Node in a BST** — Medium · `trees.DeleteFromBST`
+- **Design a Min Queue** — Medium · `queues.MinQueue`
+- **Design Add and Search Words** — Medium · `trie.DesignAddAndSearchWords`
+- **Diameter of Binary Tree** — Easy · `trees.DiameterOfBinaryTree`
+- **Divide Two Integers** — Medium · `bitmanipulation.DivideTwoIntegers`
+- **Dutch National Flag** — Medium · `sorting.DutchNationalFlag`
+- **Eulerian Path** — Hard · `advancedgraphs.EulerianPath`
+- **Evaluate Reverse Polish Notation** — Medium · `stacks.EvaluateReversePolishNotation`
+- **Find All Anagrams in a String** — Medium · `slidingwindow.FindAllAnagramsInString`
+- **Find First and Last Position of Element in Sorted Array** — Medium · `binarysearch.FindFirstAndLastPosition`
+- **Find Minimum in Rotated Sorted Array** — Medium · `binarysearch.FindMinimumInRotatedSortedArray`
+- **Find Peak Element** — Medium · `binarysearch.PeakElement`
+- **First Bad Version** — Easy · `binarysearch.FirstBadVersion`
+- **Floyd-Warshall All-Pairs Shortest Path** — Medium · `advancedgraphs.FloydWarshall`
+- **Fruit Into Baskets** — Medium · `slidingwindow.FruitIntoBaskets`
+- **Gas Station** — Medium · `greedy.GasStation`
+- **GCD and LCM** — Easy · `math.GcdAndLcm`
+- **Generate Parentheses** — Medium · `backtracking.GenerateParentheses`
+- **Graph Coloring** — Hard · `advancedgraphs.GraphColoring`
+- **Group Anagrams** — Medium · `hashing.GroupAnagrams`
+- **Hamming Distance** — Easy · `bitmanipulation.HammingDistance`
+- **House Robber II** — Medium · `dynamicprogramming.HouseRobberII`
+- **Implement Queue using Stacks** — Medium · `queues.ImplementQueueUsingStacks`
+- **Implement Trie** — Medium · `trie.ImplementTrie`
+- **Insert Interval** — Medium · `intervals.InsertInterval`
+- **Insert into a Binary Search Tree** — Medium · `trees.InsertIntoBST`
+- **Interleaving String** — Medium · `dynamicprogramming.InterleavingString`
+- **Intersection of Two Linked Lists** — Easy · `linkedlist.IntersectionOfTwoLinkedLists`
+- **Invert Binary Tree** — Easy · `trees.InvertBinaryTree`
+- **Is Graph Bipartite** — Medium · `graphs.BipartiteCheck`
+- **Jump Game** — Medium · `greedy.JumpGame`
+- **Jump Game II** — Medium · `dynamicprogramming.MinimumJumpSteps`
+- **Jump Game II** — Medium · `greedy.JumpGameII`
+- **K Closest Elements** — Medium · `heaps.KClosestElements`
+- **Koko Eating Bananas** — Medium · `binarysearch.KokoEatingBananas`
+- **Kosaraju's Strongly Connected Components** — Hard · `advancedgraphs.KosarajuStronglyConnectedComponents`
+- **Kruskal's Minimum Spanning Tree** — Medium · `advancedgraphs.KruskalMinimumSpanningTree`
+- **Kth Smallest Element in a Sorted Matrix** — Medium · `heaps.KthSmallestElement`
+- **Largest Number** — Medium · `greedy.LargestNumber`
+- **Largest Rectangle in Histogram** — Hard · `stacks.LargestRectangleInHistogram`
+- **Last Stone Weight II** — Medium · `heaps.LastStoneWeightII`
+- **Letter Combinations of a Phone Number** — Medium · `backtracking.LetterCombinationsOfAPhoneNumber`
+- **LFU Cache** — Hard · `design.LFUCache`
+- **Linked List Cycle II** — Medium · `linkedlist.LinkedListCycleII`
+- **Longest Common Prefix** — Easy · `strings.LongestCommonPrefix`
+- **Longest Common Substring** — Medium · `dynamicprogramming.LongestCommonSubstring`
+- **Longest Consecutive Sequence** — Medium · `hashing.LongestConsecutiveSequence`
+- **Longest Palindromic Substring** — Medium · `strings.LongestPalindromicSubstring`
+- **Longest Repeating Character Replacement** — Medium · `slidingwindow.LongestRepeatingCharacterReplacement`
+- **Longest Subarray with At Most K Distinct** — Medium · `slidingwindow.LongestSubarrayWithAtMostKDistinct`
+- **Majority Element** — Easy · `arrays.MajorityElement`
+- **Maximum Product Subarray** — Medium · `dynamicprogramming.MaximumProductSubarray`
+- **Maximum Subarray** — Medium · `arrays.MaxSubarray`
+- **Meeting Rooms** — Easy · `intervals.MeetingRooms`
+- **Meeting Rooms II** — Medium · `intervals.MeetingRoomsII`
+- **Merge k Sorted Lists** — Hard · `heaps.MergeKSortedLists`
+- **Merge Sort** — Medium · `sorting.MergeSort`
+- **Middle of the Linked List** — Easy · `linkedlist.MiddleOfTheLinkedList`
+- **Minimum Path Sum** — Medium · `dynamicprogramming.MinimumPathSum`
+- **Minimum Spanning Tree** — Medium · `advancedgraphs.MinimumSpanningTree`
+- **Minimum Window Substring** — Hard · `slidingwindow.MinimumWindowSubstring`
+- **Move Zeroes** — Easy · `twopointers.MoveZeroes`
+- **N-Queens** — Hard · `backtracking.NQueens`
+- **Network Delay Time** — Medium · `graphs.NetworkDelayTime`
+- **Next Greater Element** — Easy · `stacks.NextGreaterElement`
+- **Next Greater Element II** — Medium · `stacks.NextGreaterElementII`
+- **Non-overlapping Intervals** — Medium · `intervals.NonOverlappingIntervals`
+- **Number of 1 Bits** — Easy · `bitmanipulation.CountSetBits`
+- **Number of Connected Components in an Undirected Graph** — Medium · `graphs.NumberOfConnectedComponents`
+- **Number of Islands** — Medium · `graphs.NumberOfIslands`
+- **Number of Provinces** — Medium · `graphs.NumberOfProvinces`
+- **Odd Even Linked List** — Medium · `linkedlist.OddEvenLinkedList`
+- **Palindrome Linked List** — Medium · `linkedlist.PalindromeLinkedList`
+- **Palindrome Number** — Easy · `math.PalindromeNumber`
+- **Palindrome Partitioning** — Medium · `backtracking.PalindromePartitioning`
+- **Palindromic Substrings** — Medium · `dynamicprogramming.PalindromicSubstrings`
+- **Partition Equal Subset Sum** — Medium · `dynamicprogramming.PartitionEqualSubsetSum`
+- **Path Sum III** — Medium · `trees.CountPathsWithGivenSum`
+- **Permutation in String** — Medium · `slidingwindow.PermutationInString`
+- **Permutations II** — Medium · `backtracking.PermutationsII`
+- **Populating Next Right Pointers in Each Node** — Medium · `trees.PopulateNextRightPointers`
+- **Pow(x, n)** — Medium · `math.PowOfANumber`
+- **Power of Two** — Easy · `bitmanipulation.PowerOfTwo`
+- **Prim's Minimum Spanning Tree** — Medium · `advancedgraphs.PrimMinimumSpanningTree`
+- **Producer–Consumer Problem** — Medium · `concurrency.ProducerConsumer`
+- **Product of Array Except Self** — Medium · `prefixsum.ProductExceptSelf`
+- **Quick Sort** — Medium · `sorting.QuickSort`
+- **Rate Limiter** — Medium · `design.RateLimiter`
+- **Reconstruct Itinerary** — Hard · `graphs.ReconstructItinerary`
+- **Regular Expression Matching** — Hard · `dynamicprogramming.RegexMatching`
+- **Remove Duplicates from Sorted Array** — Easy · `twopointers.RemoveDuplicatesFromSortedArray`
+- **Remove Duplicates from Sorted Array II** — Medium · `twopointers.RemoveDuplicatesFromSortedArrayII`
+- **Remove Duplicates from Sorted List II** — Medium · `linkedlist.RemoveDuplicatesFromSortedListII`
+- **Reorder List** — Medium · `linkedlist.ReorderList`
+- **Reorganize String** — Medium · `heaps.ReorganizeString`
+- **Reverse Bits** — Easy · `bitmanipulation.ReverseBits`
+- **Reverse Integer** — Medium · `math.ReverseInteger`
+- **Reverse Linked List II** — Medium · `linkedlist.ReverseLinkedListII`
+- **Reverse Nodes in k-Group** — Hard · `linkedlist.ReverseNodesInKGroup`
+- **Rotate Image** — Medium · `arrays.RotateImage`
+- **Rotate List** — Medium · `linkedlist.RotateList`
+- **Rotting Oranges** — Medium · `graphs.RottingOranges`
+- **Search a 2D Matrix** — Medium · `binarysearch.Search2DMatrix`
+- **Search a 2D Matrix II** — Medium · `binarysearch.Search2DMatrixII`
+- **Search in a Binary Search Tree** — Easy · `trees.SearchInBST`
+- **Search in Rotated Sorted Array II** — Medium · `binarysearch.SearchInRotatedSortedArrayII`
+- **Search Insert Position** — Easy · `binarysearch.SearchInsertPosition`
+- **Serialize and Deserialize Binary Tree** — Medium · `trees.SerializeAndDeserializeBinaryTree`
+- **Set Matrix Zeroes** — Medium · `arrays.SetMatrixZeroes`
+- **Single Number III** — Medium · `bitmanipulation.SingleNumberIII`
+- **Singleton with Double-Checked Locking** — Medium · `concurrency.SingletonDoubleCheckedLocking`
+- **Spiral Matrix** — Medium · `arrays.SpiralMatrix`
+- **Split Array Largest Sum** — Hard · `binarysearch.SplitArrayLargestSum`
+- **Sqrt(x)** — Easy · `binarysearch.SquareRootOfANumber`
+- **Squares of a Sorted Array** — Easy · `twopointers.SquaresOfSortedArray`
+- **String to Integer (atoi)** — Medium · `strings.StringToInteger`
+- **Subarray Sum Equals K** — Medium · `prefixsum.SubarraySumEqualsK`
+- **Subtree of Another Tree** — Easy · `trees.SubtreeOfAnotherTree`
+- **Sudoku Solver** — Hard · `backtracking.SudokuSolver`
+- **Sum of Two Integers** — Medium · `bitmanipulation.AddTwoIntegers`
+- **Swap Nodes in Pairs** — Medium · `linkedlist.SwapPairs`
+- **Symmetric Tree** — Easy · `trees.SymmetricTree`
+- **Target Sum** — Medium · `dynamicprogramming.TargetSum`
+- **Tarjan's Strongly Connected Components** — Hard · `advancedgraphs.TarjanStronglyConnectedComponents`
+- **Thread-Safe Counter** — Easy · `concurrency.AtomicCounter`
+- **Topological Sort** — Medium · `graphs.TopologicalSort`
+- **Two Sum II - Input Array Is Sorted** — Easy · `twopointers.TwoSumII`
+- **Valid Anagram** — Easy · `strings.ValidAnagram`
+- **Valid Palindrome** — Easy · `twopointers.ValidPalindrome`
+- **Wildcard Matching** — Hard · `dynamicprogramming.WildcardMatching`
+- **Word Break** — Medium · `dynamicprogramming.WordBreak`
+- **Word Ladder** — Medium · `graphs.WordLadder`
+- **Word Search** — Medium · `backtracking.WordSearch`
+- **Word Search II** — Hard · `trie.WordSearchII`
+- **Zigzag Level Order Traversal** — Medium · `trees.ZigzagLevelOrderTraversal`
+- **Aggressive Cows** — Medium · `binarysearch.AggressiveCows`
+- **Alien Dictionary** — Medium · `graphs.AlienDictionary`
+- **Allocate Minimum Number of Painters** — Hard · `binarysearch.AllocateMinimumNumberOfPainters`
+- **Assign Cookies** — Easy · `greedy.AssignCookies`
+- **Best Time to Buy and Sell Stock II** — Medium · `arrays.BestTimeToBuyAndSellStockII`
+- **Binary Tree Cameras** — Medium · `trees.BinaryTreeCameras`
+- **Bubble Sort** — Easy · `sorting.BubbleSort`
+- **Camelcase Matching** — Medium · `trie.CamelCaseMatching`
+- **Clone Graph** — Medium · `graphs.CloneGraph`
+- **Coin Change with Greedy** — Medium · `greedy.GreedyCoinChange`
+- **Compare Version Numbers** — Medium · `strings.CompareVersionNumbers`
+- **Concurrent Sum using Threads** — Medium · `concurrency.ConcurrentSumWithThreads`
+- **Contains Duplicate II** — Medium · `arrays.ContainsDuplicateII`
+- **Contiguous Array** — Medium · `prefixsum.ContiguousArray`
+- **Count and Say** — Medium · `strings.CountAndSay`
+- **Counting Bits** — Easy · `bitmanipulation.NumberOfSetBits`
+- **Counting Sort** — Medium · `sorting.CountingSort`
+- **Design Browser History** — Medium · `design.DesignBrowserHistory`
+- **Design Circular Queue** — Medium · `queues.ImplementCircularQueue`
+- **Design HashMap** — Easy · `design.DesignHashMap`
+- **Design Hit Counter** — Medium · `design.DesignHitCounter`
+- **Design Tic-Tac-Toe** — Medium · `design.DesignTicTacToe`
+- **Design Underground System** — Medium · `design.DesignUndergroundSystem`
+- **Distinct Subsequences** — Medium · `dynamicprogramming.DistinctSubsequences`
+- **Employee Free Day** — Medium · `heaps.EmployeeFreeDay`
+- **Employee Free Time** — Medium · `intervals.EmployeeFreeTime`
+- **Excel Sheet Column Number** — Easy · `strings.ExcelSheetColumnNumber`
+- **Excel Sheet Column Title** — Easy · `strings.ExcelSheetColumnTitle`
+- **Factorial Trailing Zeroes** — Easy · `math.FactorialTrailingZeroes`
+- **Fibonacci Number** — Easy · `dynamicprogramming.FibonacciNumber`
+- **Find All Duplicates in an Array** — Medium · `hashing.FindAllDuplicatesInArray`
+- **Find Kth Largest and Kth Smallest** — Medium · `heaps.FindKthLargestAndSmallest`
+- **First Unique Character in a String** — Easy · `hashing.FirstUniqueCharacterInString`
+- **Flatten a Multilevel Linked List** — Medium · `linkedlist.FlattenLinkedList`
+- **Flood Fill** — Easy · `backtracking.FloodFill`
+- **Graph Valid Tree** — Medium · `graphs.GraphValidTree`
+- **Gray Code** — Medium · `bitmanipulation.GrayCode`
+- **Hand of Straights** — Medium · `greedy.HandOfStraights`
+- **Happy Number** — Easy · `math.HappyNumber`
+- **Heap Sort** — Medium · `sorting.HeapSort`
+- **Implement Deque using Two Stacks** — Medium · `queues.ImplementDequeUsingTwoStacks`
+- **Implement Stack using Queues** — Medium · `queues.ImplementStackUsingQueues`
+- **Insertion Sort** — Easy · `sorting.InsertionSort`
+- **Integer to Roman** — Medium · `strings.IntegerToRoman`
+- **Intersection of Two Arrays** — Easy · `hashing.IntersectionOfTwoArrays`
+- **Interval List Intersections** — Medium · `intervals.IntervalListIntersections`
+- **Is a Number Prime** — Medium · `math.DetectPrime`
+- **Isomorphic Strings** — Easy · `hashing.IsomorphicStrings`
+- **Josephus Problem** — Medium · `linkedlist.JosephusProblem`
+- **Jump Game III** — Medium · `greedy.JumpGameIII`
+- **Keys and Rooms** — Medium · `graphs.KeysAndRooms`
+- **Longest Palindromic Subsequence** — Medium · `strings.LongestPalindromicSubsequence`
+- **Longest Prefix of a Phone Number** — Medium · `trie.LongestPrefixOfAPhoneNumber`
+- **Longest Repeating Substring** — Hard · `slidingwindow.LongestRepeatingSubstring`
+- **Majority Element II** — Medium · `arrays.MajorityElementII`
+- **Max of Min for Every Window** — Hard · `stacks.MaxOfMinForEveryWindow`
+- **Maximum Difference Between Two Elements of an Array** — Medium · `twopointers.MaximumDifferenceBetweenTwoElements`
+- **Maximum Profit Scheduling Jobs** — Medium · `greedy.SchedulingMaximumProfit`
+- **Meeting Rooms III** — Hard · `intervals.MeetingRoomsIII`
+- **Min Max Stack** — Medium · `design.MinMaxStack`
+- **Minimum Height Trees** — Medium · `binarysearch.MinimumHeightTrees`
+- **Minimum Number of Flips to Make the Binary String Alternating** — Medium · `slidingwindow.MinimumNumberOfFlips`
+- **Minimum Number of Refueling Stops** — Medium · `greedy.MinimumNumberOfRefuelingStops`
+- **Missing Number** — Easy · `arrays.MissingNumber`
+- **Moving Average** — Easy · `design.MovingAverage`
+- **N-Queens II** — Hard · `backtracking.NQueensII`
+- **Number of Partitions** — Medium · `dynamicprogramming.NumberOfPartitions`
+- **Pacman Paths** — Medium · `graphs.PacmanPaths`
+- **Partition Array Into Maximum Subarrays** — Medium · `greedy.PartitionArrayToMaximumSum`
+- **Perfect Number** — Easy · `math.PerfectNumber`
+- **Plus One** — Easy · `arrays.PlusOne`
+- **Range Sum Query — Immutable** — Easy · `prefixsum.RangeSumQuery`
+- **Reverse String** — Easy · `strings.ReverseString`
+- **Reverse Words in a String** — Medium · `strings.ReverseWordsInString`
+- **Rod Cutting** — Medium · `dynamicprogramming.RodCutting`
+- **Roman to Integer** — Easy · `strings.RomanToInteger`
+- **Rotate Array** — Medium · `arrays.RotateArray`
+- **Semaphore** — Medium · `design.SemaphoreClass`
+- **Shortest Path in a Binary Maze** — Medium · `graphs.ShortestPathInBinaryGrid`
+- **Shuffle Array** — Medium · `arrays.ShuffleArray`
+- **Snapshot Array** — Medium · `design.SnapshotArray`
+- **Sort Array By Parity** — Easy · `sorting.SortArrayByParity`
+- **Stock Span** — Medium · `stacks.StockSpan`
+- **Stone Game II** — Medium · `dynamicprogramming.StoneGameII`
+- **Subtract Two Integers without Minus** — Medium · `bitmanipulation.SubtractWithoutMinus`
+- **Sum of Left Leaves** — Easy · `trees.SumOfLeftLeaves`
+- **Trie with Prefix Counting** — Medium · `trie.PrefixCount`
+- **Ugly Number** — Medium · `math.UglyNumber`
+- **Unique Paths III** — Hard · `dynamicprogramming.GridUniquePathsIII`
+- **Valid Palindrome II** — Easy · `strings.ValidPalindromeII`
+- **Walls and Gates** — Medium · `graphs.WallAndGates`
+- **Word Pattern** — Easy · `hashing.WordPattern`
+- **XOR of All Elements** — Easy · `bitmanipulation.XOROfArrayElements`
+- **2D Prefix Sum** — Medium · `prefixsum.TwoDimensionalPrefixSum`
+- **Design Text Editor** — Hard · `design.DesignTextEditor`
+- **Find Minimum and Maximum Element** — Easy · `arrays.FindMinimumAndMaximumElement`
+- **Largest Prime Factor** — Medium · `math.LargestPrimeFactor`
+- **Maximum Circular Subarray** — Medium · `arrays.MaxCircularSubarray`
+- **Maximum Gap** — Hard · `arrays.MaxGap`
+- **Maximum Units on a Truck** — Easy · `greedy.MaximumUnitsOnATruck`
+- **Maximum Width Ramp** — Hard · `arrays.MaximumWidthRamp`
+- **Minimum Absolute Difference** — Medium · `arrays.MinimumAbsoluteDifference`
+- **Pairs With a Target Sum** — Medium · `prefixsum.PairsWithTargetSum`
+- **Parallel Pipeline Merge** — Hard · `concurrency.ParallelPipelineMerge`
+- **Running Sum of 1d Array** — Easy · `prefixsum.RunningSum`
+- **Selection Sort** — Easy · `sorting.SelectionSort`
+- **Sort a Hand of Cards** — Medium · `sorting.SortHand`
+- **Sort by Frequency of Characters** — Medium · `hashing.FrequencySort`
+- **String Compression** — Easy · `strings.StringCompression`
+- **Valid Number** — Medium · `strings.ValidNumber`
+
+### Meta (316)
+
+- **3Sum** — Medium · `twopointers.ThreeSum`
+- **Add Two Numbers** — Medium · `linkedlist.AddTwoNumbers`
+- **Balanced Binary Tree** — Easy · `trees.BalancedBinaryTree`
+- **Binary Tree Inorder Traversal** — Easy · `trees.BinaryTreeInorderTraversal`
+- **Binary Tree Level Order Traversal** — Medium · `trees.BinaryTreeLevelOrderTraversal`
+- **Coin Change** — Medium · `dynamicprogramming.CoinChange`
+- **Combination Sum** — Medium · `backtracking.CombinationSum`
+- **Container With Most Water** — Medium · `twopointers.ContainerWithMostWater`
+- **Dijkstra's Shortest Path** — Medium · `advancedgraphs.DijkstraShortestPath`
+- **Edit Distance** — Medium · `dynamicprogramming.EditDistance`
+- **Find Median from Data Stream** — Hard · `heaps.FindMedianFromDataStream`
+- **House Robber** — Medium · `dynamicprogramming.HouseRobber`
+- **Kth Largest Element in an Array** — Medium · `heaps.KthLargestElement`
+- **Kth Smallest Element in a BST** — Medium · `trees.KthSmallestElementInBST`
+- **Linked List Cycle** — Easy · `linkedlist.DetectCycle`
+- **Longest Common Subsequence** — Medium · `dynamicprogramming.LongestCommonSubsequence`
+- **Longest Increasing Subsequence** — Medium · `dynamicprogramming.LongestIncreasingSubsequence`
+- **Longest Substring Without Repeating Characters** — Medium · `slidingwindow.LongestSubstringWithoutRepeatingCharacters`
+- **Lowest Common Ancestor of a Binary Tree** — Medium · `trees.LowestCommonAncestor`
+- **Lowest Common Ancestor of a BST** — Medium · `trees.LowestCommonAncestorOfBST`
+- **LRU Cache** — Medium · `design.LRUCache`
+- **Maximum Depth of Binary Tree** — Easy · `trees.BinaryTreeMaximumDepth`
+- **Median of Two Sorted Arrays** — Hard · `heaps.MedianOfTwoSortedArrays`
+- **Merge Intervals** — Medium · `intervals.MergeIntervals`
+- **Merge Two Sorted Lists** — Easy · `linkedlist.MergeTwoSortedLists`
+- **Min Stack** — Medium · `stacks.MinStack`
+- **Path Sum** — Easy · `trees.PathSum`
+- **Permutations** — Medium · `backtracking.Permutations`
+- **Remove Nth Node From End of List** — Medium · `linkedlist.DeleteNthFromEnd`
+- **Reverse Linked List** — Easy · `linkedlist.ReverseLinkedList`
+- **Same Tree** — Easy · `trees.SameTree`
+- **Search in Rotated Sorted Array** — Medium · `binarysearch.SearchInRotatedSortedArray`
+- **Single Number** — Easy · `bitmanipulation.SingleNumber`
+- **Sliding Window Maximum** — Hard · `queues.SlidingWindowMaximum`
+- **Subsets** — Medium · `backtracking.Subsets`
+- **Task Scheduler** — Medium · `heaps.TaskScheduler`
+- **Top K Frequent Elements** — Medium · `heaps.TopKFrequentElements`
+- **Trapping Rain Water** — Hard · `stacks.TrappingRainWater`
+- **Two Sum** — Easy · `arrays.TwoSum`
+- **Unique Paths** — Medium · `dynamicprogramming.UniquePaths`
+- **Valid Parentheses** — Easy · `stacks.ValidParentheses`
+- **Validate Binary Search Tree** — Medium · `trees.ValidateBinarySearchTree`
+- **01 Matrix** — Medium · `graphs.DistanceToNearestZero`
+- **3Sum Closest** — Medium · `twopointers.ThreeSumClosest`
+- **Add Binary** — Easy · `math.AddBinary`
+- **Add Two Numbers II** — Medium · `linkedlist.AddTwoNumbersII`
+- **Articulation Points in a Graph** — Hard · `advancedgraphs.ArticulationPoints`
+- **Basic Calculator** — Hard · `stacks.BasicCalculator`
+- **Basic Calculator II** — Medium · `stacks.BasicCalculatorII`
+- **Bellman-Ford Shortest Path** — Medium · `advancedgraphs.BellmanFord`
+- **Best Time to Buy and Sell Stock** — Easy · `arrays.BestTimeToBuyAndSellStock`
+- **Best Time to Buy and Sell Stock III** — Hard · `dynamicprogramming.BestTimeToBuySellStockIII`
+- **Binary Search** — Easy · `binarysearch.BinarySearch`
+- **Binary Tree Minimum Depth** — Easy · `trees.BinaryTreeMinimumDepth`
+- **Binary Tree Paths** — Easy · `trees.BinaryTreePaths`
+- **Bounded Blocking Queue** — Medium · `concurrency.BoundedBlockingQueue`
+- **Bridges in a Graph** — Hard · `advancedgraphs.BridgesInGraph`
+- **Burst Balloons** — Hard · `dynamicprogramming.BurstBalloons`
+- **Candy** — Hard · `greedy.Candy`
+- **Capacity To Ship Packages Within D Days** — Medium · `binarysearch.CapacityToShipPackages`
+- **Car Fleet** — Medium · `intervals.CarFleet`
+- **Catalan Number** — Medium · `dynamicprogramming.CatalanNumber`
+- **Cheapest Flights Within K Stops** — Medium · `graphs.CheapestFlightsWithinKStops`
+- **Coin Change II** — Medium · `dynamicprogramming.CoinChangeII`
+- **Combination Sum II** — Medium · `backtracking.CombinationSumII`
+- **Construct Binary Tree from Preorder and Inorder Traversal** — Medium · `trees.BuildTreeFromPreorderAndInorder`
+- **Contains Duplicate** — Easy · `hashing.ContainsDuplicate`
+- **Copy List with Random Pointer** — Medium · `linkedlist.CopyListWithRandomPointer`
+- **Count Primes** — Medium · `math.SieveOfEratosthenes`
+- **Course Schedule** — Medium · `graphs.CourseSchedule`
+- **Course Schedule II** — Medium · `graphs.CourseScheduleII`
+- **Daily Temperatures** — Medium · `stacks.DailyTemperatures`
+- **Decode String** — Medium · `stacks.DecodeString`
+- **Decode Ways** — Medium · `dynamicprogramming.DecodeWays`
+- **Delete Node in a BST** — Medium · `trees.DeleteFromBST`
+- **Design a Min Queue** — Medium · `queues.MinQueue`
+- **Design Add and Search Words** — Medium · `trie.DesignAddAndSearchWords`
+- **Diameter of Binary Tree** — Easy · `trees.DiameterOfBinaryTree`
+- **Divide Two Integers** — Medium · `bitmanipulation.DivideTwoIntegers`
+- **Dutch National Flag** — Medium · `sorting.DutchNationalFlag`
+- **Eulerian Path** — Hard · `advancedgraphs.EulerianPath`
+- **Evaluate Reverse Polish Notation** — Medium · `stacks.EvaluateReversePolishNotation`
+- **Find All Anagrams in a String** — Medium · `slidingwindow.FindAllAnagramsInString`
+- **Find First and Last Position of Element in Sorted Array** — Medium · `binarysearch.FindFirstAndLastPosition`
+- **Find Minimum in Rotated Sorted Array** — Medium · `binarysearch.FindMinimumInRotatedSortedArray`
+- **Find Peak Element** — Medium · `binarysearch.PeakElement`
+- **First Bad Version** — Easy · `binarysearch.FirstBadVersion`
+- **Floyd-Warshall All-Pairs Shortest Path** — Medium · `advancedgraphs.FloydWarshall`
+- **Fruit Into Baskets** — Medium · `slidingwindow.FruitIntoBaskets`
+- **Gas Station** — Medium · `greedy.GasStation`
+- **GCD and LCM** — Easy · `math.GcdAndLcm`
+- **Generate Parentheses** — Medium · `backtracking.GenerateParentheses`
+- **Graph Coloring** — Hard · `advancedgraphs.GraphColoring`
+- **Group Anagrams** — Medium · `hashing.GroupAnagrams`
+- **Hamming Distance** — Easy · `bitmanipulation.HammingDistance`
+- **House Robber II** — Medium · `dynamicprogramming.HouseRobberII`
+- **Implement Queue using Stacks** — Medium · `queues.ImplementQueueUsingStacks`
+- **Implement Trie** — Medium · `trie.ImplementTrie`
+- **Insert Interval** — Medium · `intervals.InsertInterval`
+- **Insert into a Binary Search Tree** — Medium · `trees.InsertIntoBST`
+- **Interleaving String** — Medium · `dynamicprogramming.InterleavingString`
+- **Intersection of Two Linked Lists** — Easy · `linkedlist.IntersectionOfTwoLinkedLists`
+- **Invert Binary Tree** — Easy · `trees.InvertBinaryTree`
+- **Is Graph Bipartite** — Medium · `graphs.BipartiteCheck`
+- **Jump Game** — Medium · `greedy.JumpGame`
+- **Jump Game II** — Medium · `dynamicprogramming.MinimumJumpSteps`
+- **Jump Game II** — Medium · `greedy.JumpGameII`
+- **K Closest Elements** — Medium · `heaps.KClosestElements`
+- **Koko Eating Bananas** — Medium · `binarysearch.KokoEatingBananas`
+- **Kosaraju's Strongly Connected Components** — Hard · `advancedgraphs.KosarajuStronglyConnectedComponents`
+- **Kruskal's Minimum Spanning Tree** — Medium · `advancedgraphs.KruskalMinimumSpanningTree`
+- **Kth Smallest Element in a Sorted Matrix** — Medium · `heaps.KthSmallestElement`
+- **Largest Number** — Medium · `greedy.LargestNumber`
+- **Largest Rectangle in Histogram** — Hard · `stacks.LargestRectangleInHistogram`
+- **Last Stone Weight II** — Medium · `heaps.LastStoneWeightII`
+- **Letter Combinations of a Phone Number** — Medium · `backtracking.LetterCombinationsOfAPhoneNumber`
+- **LFU Cache** — Hard · `design.LFUCache`
+- **Linked List Cycle II** — Medium · `linkedlist.LinkedListCycleII`
+- **Longest Common Prefix** — Easy · `strings.LongestCommonPrefix`
+- **Longest Common Substring** — Medium · `dynamicprogramming.LongestCommonSubstring`
+- **Longest Consecutive Sequence** — Medium · `hashing.LongestConsecutiveSequence`
+- **Longest Palindromic Substring** — Medium · `strings.LongestPalindromicSubstring`
+- **Longest Repeating Character Replacement** — Medium · `slidingwindow.LongestRepeatingCharacterReplacement`
+- **Longest Subarray with At Most K Distinct** — Medium · `slidingwindow.LongestSubarrayWithAtMostKDistinct`
+- **Majority Element** — Easy · `arrays.MajorityElement`
+- **Maximum Product Subarray** — Medium · `dynamicprogramming.MaximumProductSubarray`
+- **Maximum Subarray** — Medium · `arrays.MaxSubarray`
+- **Meeting Rooms** — Easy · `intervals.MeetingRooms`
+- **Meeting Rooms II** — Medium · `intervals.MeetingRoomsII`
+- **Merge k Sorted Lists** — Hard · `heaps.MergeKSortedLists`
+- **Merge Sort** — Medium · `sorting.MergeSort`
+- **Middle of the Linked List** — Easy · `linkedlist.MiddleOfTheLinkedList`
+- **Minimum Path Sum** — Medium · `dynamicprogramming.MinimumPathSum`
+- **Minimum Spanning Tree** — Medium · `advancedgraphs.MinimumSpanningTree`
+- **Minimum Window Substring** — Hard · `slidingwindow.MinimumWindowSubstring`
+- **Move Zeroes** — Easy · `twopointers.MoveZeroes`
+- **N-Queens** — Hard · `backtracking.NQueens`
+- **Network Delay Time** — Medium · `graphs.NetworkDelayTime`
+- **Next Greater Element** — Easy · `stacks.NextGreaterElement`
+- **Next Greater Element II** — Medium · `stacks.NextGreaterElementII`
+- **Non-overlapping Intervals** — Medium · `intervals.NonOverlappingIntervals`
+- **Number of 1 Bits** — Easy · `bitmanipulation.CountSetBits`
+- **Number of Connected Components in an Undirected Graph** — Medium · `graphs.NumberOfConnectedComponents`
+- **Number of Islands** — Medium · `graphs.NumberOfIslands`
+- **Number of Provinces** — Medium · `graphs.NumberOfProvinces`
+- **Odd Even Linked List** — Medium · `linkedlist.OddEvenLinkedList`
+- **Palindrome Linked List** — Medium · `linkedlist.PalindromeLinkedList`
+- **Palindrome Number** — Easy · `math.PalindromeNumber`
+- **Palindrome Partitioning** — Medium · `backtracking.PalindromePartitioning`
+- **Palindromic Substrings** — Medium · `dynamicprogramming.PalindromicSubstrings`
+- **Partition Equal Subset Sum** — Medium · `dynamicprogramming.PartitionEqualSubsetSum`
+- **Path Sum III** — Medium · `trees.CountPathsWithGivenSum`
+- **Permutation in String** — Medium · `slidingwindow.PermutationInString`
+- **Permutations II** — Medium · `backtracking.PermutationsII`
+- **Populating Next Right Pointers in Each Node** — Medium · `trees.PopulateNextRightPointers`
+- **Pow(x, n)** — Medium · `math.PowOfANumber`
+- **Power of Two** — Easy · `bitmanipulation.PowerOfTwo`
+- **Prim's Minimum Spanning Tree** — Medium · `advancedgraphs.PrimMinimumSpanningTree`
+- **Producer–Consumer Problem** — Medium · `concurrency.ProducerConsumer`
+- **Product of Array Except Self** — Medium · `prefixsum.ProductExceptSelf`
+- **Quick Sort** — Medium · `sorting.QuickSort`
+- **Rate Limiter** — Medium · `design.RateLimiter`
+- **Reconstruct Itinerary** — Hard · `graphs.ReconstructItinerary`
+- **Regular Expression Matching** — Hard · `dynamicprogramming.RegexMatching`
+- **Remove Duplicates from Sorted Array** — Easy · `twopointers.RemoveDuplicatesFromSortedArray`
+- **Remove Duplicates from Sorted Array II** — Medium · `twopointers.RemoveDuplicatesFromSortedArrayII`
+- **Remove Duplicates from Sorted List II** — Medium · `linkedlist.RemoveDuplicatesFromSortedListII`
+- **Reorder List** — Medium · `linkedlist.ReorderList`
+- **Reorganize String** — Medium · `heaps.ReorganizeString`
+- **Reverse Bits** — Easy · `bitmanipulation.ReverseBits`
+- **Reverse Integer** — Medium · `math.ReverseInteger`
+- **Reverse Linked List II** — Medium · `linkedlist.ReverseLinkedListII`
+- **Reverse Nodes in k-Group** — Hard · `linkedlist.ReverseNodesInKGroup`
+- **Rotate Image** — Medium · `arrays.RotateImage`
+- **Rotate List** — Medium · `linkedlist.RotateList`
+- **Rotting Oranges** — Medium · `graphs.RottingOranges`
+- **Search a 2D Matrix** — Medium · `binarysearch.Search2DMatrix`
+- **Search a 2D Matrix II** — Medium · `binarysearch.Search2DMatrixII`
+- **Search in a Binary Search Tree** — Easy · `trees.SearchInBST`
+- **Search in Rotated Sorted Array II** — Medium · `binarysearch.SearchInRotatedSortedArrayII`
+- **Search Insert Position** — Easy · `binarysearch.SearchInsertPosition`
+- **Serialize and Deserialize Binary Tree** — Medium · `trees.SerializeAndDeserializeBinaryTree`
+- **Set Matrix Zeroes** — Medium · `arrays.SetMatrixZeroes`
+- **Single Number III** — Medium · `bitmanipulation.SingleNumberIII`
+- **Singleton with Double-Checked Locking** — Medium · `concurrency.SingletonDoubleCheckedLocking`
+- **Spiral Matrix** — Medium · `arrays.SpiralMatrix`
+- **Split Array Largest Sum** — Hard · `binarysearch.SplitArrayLargestSum`
+- **Sqrt(x)** — Easy · `binarysearch.SquareRootOfANumber`
+- **Squares of a Sorted Array** — Easy · `twopointers.SquaresOfSortedArray`
+- **String to Integer (atoi)** — Medium · `strings.StringToInteger`
+- **Subarray Sum Equals K** — Medium · `prefixsum.SubarraySumEqualsK`
+- **Subtree of Another Tree** — Easy · `trees.SubtreeOfAnotherTree`
+- **Sudoku Solver** — Hard · `backtracking.SudokuSolver`
+- **Sum of Two Integers** — Medium · `bitmanipulation.AddTwoIntegers`
+- **Swap Nodes in Pairs** — Medium · `linkedlist.SwapPairs`
+- **Symmetric Tree** — Easy · `trees.SymmetricTree`
+- **Target Sum** — Medium · `dynamicprogramming.TargetSum`
+- **Tarjan's Strongly Connected Components** — Hard · `advancedgraphs.TarjanStronglyConnectedComponents`
+- **Thread-Safe Counter** — Easy · `concurrency.AtomicCounter`
+- **Topological Sort** — Medium · `graphs.TopologicalSort`
+- **Two Sum II - Input Array Is Sorted** — Easy · `twopointers.TwoSumII`
+- **Valid Anagram** — Easy · `strings.ValidAnagram`
+- **Valid Palindrome** — Easy · `twopointers.ValidPalindrome`
+- **Wildcard Matching** — Hard · `dynamicprogramming.WildcardMatching`
+- **Word Break** — Medium · `dynamicprogramming.WordBreak`
+- **Word Ladder** — Medium · `graphs.WordLadder`
+- **Word Search** — Medium · `backtracking.WordSearch`
+- **Word Search II** — Hard · `trie.WordSearchII`
+- **Zigzag Level Order Traversal** — Medium · `trees.ZigzagLevelOrderTraversal`
+- **Aggressive Cows** — Medium · `binarysearch.AggressiveCows`
+- **Alien Dictionary** — Medium · `graphs.AlienDictionary`
+- **Assign Cookies** — Easy · `greedy.AssignCookies`
+- **Best Time to Buy and Sell Stock II** — Medium · `arrays.BestTimeToBuyAndSellStockII`
+- **Binary Tree Cameras** — Medium · `trees.BinaryTreeCameras`
+- **Bubble Sort** — Easy · `sorting.BubbleSort`
+- **Camelcase Matching** — Medium · `trie.CamelCaseMatching`
+- **Clone Graph** — Medium · `graphs.CloneGraph`
+- **Coin Change with Greedy** — Medium · `greedy.GreedyCoinChange`
+- **Compare Version Numbers** — Medium · `strings.CompareVersionNumbers`
+- **Concurrent Sum using Threads** — Medium · `concurrency.ConcurrentSumWithThreads`
+- **Contains Duplicate II** — Medium · `arrays.ContainsDuplicateII`
+- **Contiguous Array** — Medium · `prefixsum.ContiguousArray`
+- **Count and Say** — Medium · `strings.CountAndSay`
+- **Counting Bits** — Easy · `bitmanipulation.NumberOfSetBits`
+- **Counting Sort** — Medium · `sorting.CountingSort`
+- **Design Browser History** — Medium · `design.DesignBrowserHistory`
+- **Design Circular Queue** — Medium · `queues.ImplementCircularQueue`
+- **Design HashMap** — Easy · `design.DesignHashMap`
+- **Design Hit Counter** — Medium · `design.DesignHitCounter`
+- **Design Tic-Tac-Toe** — Medium · `design.DesignTicTacToe`
+- **Design Underground System** — Medium · `design.DesignUndergroundSystem`
+- **Employee Free Day** — Medium · `heaps.EmployeeFreeDay`
+- **Employee Free Time** — Medium · `intervals.EmployeeFreeTime`
+- **Excel Sheet Column Number** — Easy · `strings.ExcelSheetColumnNumber`
+- **Excel Sheet Column Title** — Easy · `strings.ExcelSheetColumnTitle`
+- **Factorial Trailing Zeroes** — Easy · `math.FactorialTrailingZeroes`
+- **Fibonacci Number** — Easy · `dynamicprogramming.FibonacciNumber`
+- **Find All Duplicates in an Array** — Medium · `hashing.FindAllDuplicatesInArray`
+- **Find Kth Largest and Kth Smallest** — Medium · `heaps.FindKthLargestAndSmallest`
+- **First Unique Character in a String** — Easy · `hashing.FirstUniqueCharacterInString`
+- **Flatten a Multilevel Linked List** — Medium · `linkedlist.FlattenLinkedList`
+- **Flood Fill** — Easy · `backtracking.FloodFill`
+- **Graph Valid Tree** — Medium · `graphs.GraphValidTree`
+- **Gray Code** — Medium · `bitmanipulation.GrayCode`
+- **Hand of Straights** — Medium · `greedy.HandOfStraights`
+- **Happy Number** — Easy · `math.HappyNumber`
+- **Heap Sort** — Medium · `sorting.HeapSort`
+- **Implement Deque using Two Stacks** — Medium · `queues.ImplementDequeUsingTwoStacks`
+- **Implement Stack using Queues** — Medium · `queues.ImplementStackUsingQueues`
+- **Insertion Sort** — Easy · `sorting.InsertionSort`
+- **Integer to Roman** — Medium · `strings.IntegerToRoman`
+- **Intersection of Two Arrays** — Easy · `hashing.IntersectionOfTwoArrays`
+- **Interval List Intersections** — Medium · `intervals.IntervalListIntersections`
+- **Is a Number Prime** — Medium · `math.DetectPrime`
+- **Isomorphic Strings** — Easy · `hashing.IsomorphicStrings`
+- **Josephus Problem** — Medium · `linkedlist.JosephusProblem`
+- **Jump Game III** — Medium · `greedy.JumpGameIII`
+- **Keys and Rooms** — Medium · `graphs.KeysAndRooms`
+- **Longest Palindromic Subsequence** — Medium · `strings.LongestPalindromicSubsequence`
+- **Longest Prefix of a Phone Number** — Medium · `trie.LongestPrefixOfAPhoneNumber`
+- **Longest Repeating Substring** — Hard · `slidingwindow.LongestRepeatingSubstring`
+- **Majority Element II** — Medium · `arrays.MajorityElementII`
+- **Max of Min for Every Window** — Hard · `stacks.MaxOfMinForEveryWindow`
+- **Maximum Difference Between Two Elements of an Array** — Medium · `twopointers.MaximumDifferenceBetweenTwoElements`
+- **Maximum Profit Scheduling Jobs** — Medium · `greedy.SchedulingMaximumProfit`
+- **Meeting Rooms III** — Hard · `intervals.MeetingRoomsIII`
+- **Min Max Stack** — Medium · `design.MinMaxStack`
+- **Minimum Height Trees** — Medium · `binarysearch.MinimumHeightTrees`
+- **Minimum Number of Flips to Make the Binary String Alternating** — Medium · `slidingwindow.MinimumNumberOfFlips`
+- **Minimum Number of Refueling Stops** — Medium · `greedy.MinimumNumberOfRefuelingStops`
+- **Missing Number** — Easy · `arrays.MissingNumber`
+- **Moving Average** — Easy · `design.MovingAverage`
+- **N-Queens II** — Hard · `backtracking.NQueensII`
+- **Pacman Paths** — Medium · `graphs.PacmanPaths`
+- **Partition Array Into Maximum Subarrays** — Medium · `greedy.PartitionArrayToMaximumSum`
+- **Perfect Number** — Easy · `math.PerfectNumber`
+- **Pivot Index** — Easy · `prefixsum.PivotIndex`
+- **Plus One** — Easy · `arrays.PlusOne`
+- **Range Sum Query — Immutable** — Easy · `prefixsum.RangeSumQuery`
+- **Reverse String** — Easy · `strings.ReverseString`
+- **Reverse Words in a String** — Medium · `strings.ReverseWordsInString`
+- **Roman to Integer** — Easy · `strings.RomanToInteger`
+- **Rotate Array** — Medium · `arrays.RotateArray`
+- **Semaphore** — Medium · `design.SemaphoreClass`
+- **Shortest Path in a Binary Maze** — Medium · `graphs.ShortestPathInBinaryGrid`
+- **Shuffle Array** — Medium · `arrays.ShuffleArray`
+- **Snapshot Array** — Medium · `design.SnapshotArray`
+- **Sort Array By Parity** — Easy · `sorting.SortArrayByParity`
+- **Stock Span** — Medium · `stacks.StockSpan`
+- **Stone Game II** — Medium · `dynamicprogramming.StoneGameII`
+- **Subtract Two Integers without Minus** — Medium · `bitmanipulation.SubtractWithoutMinus`
+- **Sum of Left Leaves** — Easy · `trees.SumOfLeftLeaves`
+- **Trie with Prefix Counting** — Medium · `trie.PrefixCount`
+- **Ugly Number** — Medium · `math.UglyNumber`
+- **Unique Paths III** — Hard · `dynamicprogramming.GridUniquePathsIII`
+- **Valid Palindrome II** — Easy · `strings.ValidPalindromeII`
+- **Walls and Gates** — Medium · `graphs.WallAndGates`
+- **Word Pattern** — Easy · `hashing.WordPattern`
+- **XOR of All Elements** — Easy · `bitmanipulation.XOROfArrayElements`
+- **2D Prefix Sum** — Medium · `prefixsum.TwoDimensionalPrefixSum`
+- **Design Text Editor** — Hard · `design.DesignTextEditor`
+- **Find Minimum and Maximum Element** — Easy · `arrays.FindMinimumAndMaximumElement`
+- **Largest Prime Factor** — Medium · `math.LargestPrimeFactor`
+- **Maximum Circular Subarray** — Medium · `arrays.MaxCircularSubarray`
+- **Maximum Gap** — Hard · `arrays.MaxGap`
+- **Maximum Width Ramp** — Hard · `arrays.MaximumWidthRamp`
+- **Minimum Absolute Difference** — Medium · `arrays.MinimumAbsoluteDifference`
+- **Pairs With a Target Sum** — Medium · `prefixsum.PairsWithTargetSum`
+- **Parallel Pipeline Merge** — Hard · `concurrency.ParallelPipelineMerge`
+- **Remove Element** — Easy · `arrays.RemoveElement`
+- **Running Sum of 1d Array** — Easy · `prefixsum.RunningSum`
+- **Selection Sort** — Easy · `sorting.SelectionSort`
+- **Sort a Hand of Cards** — Medium · `sorting.SortHand`
+- **Sort by Frequency of Characters** — Medium · `hashing.FrequencySort`
+- **String Compression** — Easy · `strings.StringCompression`
+- **Valid Number** — Medium · `strings.ValidNumber`
+
+### Uber (276)
+
+- **3Sum** — Medium · `twopointers.ThreeSum`
+- **Add Two Numbers** — Medium · `linkedlist.AddTwoNumbers`
+- **Balanced Binary Tree** — Easy · `trees.BalancedBinaryTree`
+- **Binary Tree Inorder Traversal** — Easy · `trees.BinaryTreeInorderTraversal`
+- **Binary Tree Level Order Traversal** — Medium · `trees.BinaryTreeLevelOrderTraversal`
+- **Coin Change** — Medium · `dynamicprogramming.CoinChange`
+- **Combination Sum** — Medium · `backtracking.CombinationSum`
+- **Container With Most Water** — Medium · `twopointers.ContainerWithMostWater`
+- **Dijkstra's Shortest Path** — Medium · `advancedgraphs.DijkstraShortestPath`
+- **Edit Distance** — Medium · `dynamicprogramming.EditDistance`
+- **Find Median from Data Stream** — Hard · `heaps.FindMedianFromDataStream`
+- **House Robber** — Medium · `dynamicprogramming.HouseRobber`
+- **Kth Largest Element in an Array** — Medium · `heaps.KthLargestElement`
+- **Kth Smallest Element in a BST** — Medium · `trees.KthSmallestElementInBST`
+- **Linked List Cycle** — Easy · `linkedlist.DetectCycle`
+- **Longest Increasing Subsequence** — Medium · `dynamicprogramming.LongestIncreasingSubsequence`
+- **Longest Substring Without Repeating Characters** — Medium · `slidingwindow.LongestSubstringWithoutRepeatingCharacters`
+- **Lowest Common Ancestor of a Binary Tree** — Medium · `trees.LowestCommonAncestor`
+- **Lowest Common Ancestor of a BST** — Medium · `trees.LowestCommonAncestorOfBST`
+- **LRU Cache** — Medium · `design.LRUCache`
+- **Maximum Depth of Binary Tree** — Easy · `trees.BinaryTreeMaximumDepth`
+- **Median of Two Sorted Arrays** — Hard · `heaps.MedianOfTwoSortedArrays`
+- **Merge Intervals** — Medium · `intervals.MergeIntervals`
+- **Merge Two Sorted Lists** — Easy · `linkedlist.MergeTwoSortedLists`
+- **Min Stack** — Medium · `stacks.MinStack`
+- **Path Sum** — Easy · `trees.PathSum`
+- **Permutations** — Medium · `backtracking.Permutations`
+- **Remove Nth Node From End of List** — Medium · `linkedlist.DeleteNthFromEnd`
+- **Reverse Linked List** — Easy · `linkedlist.ReverseLinkedList`
+- **Same Tree** — Easy · `trees.SameTree`
+- **Search in Rotated Sorted Array** — Medium · `binarysearch.SearchInRotatedSortedArray`
+- **Single Number** — Easy · `bitmanipulation.SingleNumber`
+- **Sliding Window Maximum** — Hard · `queues.SlidingWindowMaximum`
+- **Subsets** — Medium · `backtracking.Subsets`
+- **Task Scheduler** — Medium · `heaps.TaskScheduler`
+- **Top K Frequent Elements** — Medium · `heaps.TopKFrequentElements`
+- **Trapping Rain Water** — Hard · `stacks.TrappingRainWater`
+- **Two Sum** — Easy · `arrays.TwoSum`
+- **Unique Paths** — Medium · `dynamicprogramming.UniquePaths`
+- **Valid Parentheses** — Easy · `stacks.ValidParentheses`
+- **Validate Binary Search Tree** — Medium · `trees.ValidateBinarySearchTree`
+- **01 Matrix** — Medium · `graphs.DistanceToNearestZero`
+- **3Sum Closest** — Medium · `twopointers.ThreeSumClosest`
+- **Add Binary** — Easy · `math.AddBinary`
+- **Add Two Numbers II** — Medium · `linkedlist.AddTwoNumbersII`
+- **Articulation Points in a Graph** — Hard · `advancedgraphs.ArticulationPoints`
+- **Basic Calculator** — Hard · `stacks.BasicCalculator`
+- **Basic Calculator II** — Medium · `stacks.BasicCalculatorII`
+- **Bellman-Ford Shortest Path** — Medium · `advancedgraphs.BellmanFord`
+- **Best Time to Buy and Sell Stock** — Easy · `arrays.BestTimeToBuyAndSellStock`
+- **Binary Search** — Easy · `binarysearch.BinarySearch`
+- **Bounded Blocking Queue** — Medium · `concurrency.BoundedBlockingQueue`
+- **Bridges in a Graph** — Hard · `advancedgraphs.BridgesInGraph`
+- **Burst Balloons** — Hard · `dynamicprogramming.BurstBalloons`
+- **Capacity To Ship Packages Within D Days** — Medium · `binarysearch.CapacityToShipPackages`
+- **Car Fleet** — Medium · `intervals.CarFleet`
+- **Cheapest Flights Within K Stops** — Medium · `graphs.CheapestFlightsWithinKStops`
+- **Climbing Stairs** — Easy · `dynamicprogramming.ClimbingStairs`
+- **Coin Change II** — Medium · `dynamicprogramming.CoinChangeII`
+- **Construct Binary Tree from Preorder and Inorder Traversal** — Medium · `trees.BuildTreeFromPreorderAndInorder`
+- **Contains Duplicate** — Easy · `hashing.ContainsDuplicate`
+- **Copy List with Random Pointer** — Medium · `linkedlist.CopyListWithRandomPointer`
+- **Count Primes** — Medium · `math.SieveOfEratosthenes`
+- **Course Schedule** — Medium · `graphs.CourseSchedule`
+- **Course Schedule II** — Medium · `graphs.CourseScheduleII`
+- **Daily Temperatures** — Medium · `stacks.DailyTemperatures`
+- **Decode String** — Medium · `stacks.DecodeString`
+- **Decode Ways** — Medium · `dynamicprogramming.DecodeWays`
+- **Delete Node in a BST** — Medium · `trees.DeleteFromBST`
+- **Design a Min Queue** — Medium · `queues.MinQueue`
+- **Design Add and Search Words** — Medium · `trie.DesignAddAndSearchWords`
+- **Diameter of Binary Tree** — Easy · `trees.DiameterOfBinaryTree`
+- **Divide Two Integers** — Medium · `bitmanipulation.DivideTwoIntegers`
+- **Dutch National Flag** — Medium · `sorting.DutchNationalFlag`
+- **Eulerian Path** — Hard · `advancedgraphs.EulerianPath`
+- **Evaluate Reverse Polish Notation** — Medium · `stacks.EvaluateReversePolishNotation`
+- **Find All Anagrams in a String** — Medium · `slidingwindow.FindAllAnagramsInString`
+- **Find First and Last Position of Element in Sorted Array** — Medium · `binarysearch.FindFirstAndLastPosition`
+- **Find Minimum in Rotated Sorted Array** — Medium · `binarysearch.FindMinimumInRotatedSortedArray`
+- **Find Peak Element** — Medium · `binarysearch.PeakElement`
+- **Floyd-Warshall All-Pairs Shortest Path** — Medium · `advancedgraphs.FloydWarshall`
+- **Fruit Into Baskets** — Medium · `slidingwindow.FruitIntoBaskets`
+- **Gas Station** — Medium · `greedy.GasStation`
+- **GCD and LCM** — Easy · `math.GcdAndLcm`
+- **Graph Coloring** — Hard · `advancedgraphs.GraphColoring`
+- **Group Anagrams** — Medium · `hashing.GroupAnagrams`
+- **Hamming Distance** — Easy · `bitmanipulation.HammingDistance`
+- **Implement Queue using Stacks** — Medium · `queues.ImplementQueueUsingStacks`
+- **Implement Trie** — Medium · `trie.ImplementTrie`
+- **Insert Interval** — Medium · `intervals.InsertInterval`
+- **Intersection of Two Linked Lists** — Easy · `linkedlist.IntersectionOfTwoLinkedLists`
+- **Invert Binary Tree** — Easy · `trees.InvertBinaryTree`
+- **Is Graph Bipartite** — Medium · `graphs.BipartiteCheck`
+- **Jump Game** — Medium · `greedy.JumpGame`
+- **Jump Game II** — Medium · `dynamicprogramming.MinimumJumpSteps`
+- **Jump Game II** — Medium · `greedy.JumpGameII`
+- **K Closest Elements** — Medium · `heaps.KClosestElements`
+- **Koko Eating Bananas** — Medium · `binarysearch.KokoEatingBananas`
+- **Kosaraju's Strongly Connected Components** — Hard · `advancedgraphs.KosarajuStronglyConnectedComponents`
+- **Kruskal's Minimum Spanning Tree** — Medium · `advancedgraphs.KruskalMinimumSpanningTree`
+- **Kth Smallest Element in a Sorted Matrix** — Medium · `heaps.KthSmallestElement`
+- **Largest Number** — Medium · `greedy.LargestNumber`
+- **Largest Rectangle in Histogram** — Hard · `stacks.LargestRectangleInHistogram`
+- **Letter Combinations of a Phone Number** — Medium · `backtracking.LetterCombinationsOfAPhoneNumber`
+- **LFU Cache** — Hard · `design.LFUCache`
+- **Linked List Cycle II** — Medium · `linkedlist.LinkedListCycleII`
+- **Longest Common Prefix** — Easy · `strings.LongestCommonPrefix`
+- **Longest Consecutive Sequence** — Medium · `hashing.LongestConsecutiveSequence`
+- **Longest Palindromic Substring** — Medium · `strings.LongestPalindromicSubstring`
+- **Longest Repeating Character Replacement** — Medium · `slidingwindow.LongestRepeatingCharacterReplacement`
+- **Longest Subarray with At Most K Distinct** — Medium · `slidingwindow.LongestSubarrayWithAtMostKDistinct`
+- **Majority Element** — Easy · `arrays.MajorityElement`
+- **Maximum Product Subarray** — Medium · `dynamicprogramming.MaximumProductSubarray`
+- **Maximum Subarray** — Medium · `arrays.MaxSubarray`
+- **Meeting Rooms** — Easy · `intervals.MeetingRooms`
+- **Meeting Rooms II** — Medium · `intervals.MeetingRoomsII`
+- **Merge k Sorted Lists** — Hard · `heaps.MergeKSortedLists`
+- **Merge Sort** — Medium · `sorting.MergeSort`
+- **Middle of the Linked List** — Easy · `linkedlist.MiddleOfTheLinkedList`
+- **Minimum Path Sum** — Medium · `dynamicprogramming.MinimumPathSum`
+- **Minimum Spanning Tree** — Medium · `advancedgraphs.MinimumSpanningTree`
+- **Minimum Window Substring** — Hard · `slidingwindow.MinimumWindowSubstring`
+- **Move Zeroes** — Easy · `twopointers.MoveZeroes`
+- **N-Queens** — Hard · `backtracking.NQueens`
+- **Network Delay Time** — Medium · `graphs.NetworkDelayTime`
+- **Next Greater Element** — Easy · `stacks.NextGreaterElement`
+- **Next Greater Element II** — Medium · `stacks.NextGreaterElementII`
+- **Non-overlapping Intervals** — Medium · `intervals.NonOverlappingIntervals`
+- **Number of 1 Bits** — Easy · `bitmanipulation.CountSetBits`
+- **Number of Connected Components in an Undirected Graph** — Medium · `graphs.NumberOfConnectedComponents`
+- **Number of Islands** — Medium · `graphs.NumberOfIslands`
+- **Number of Provinces** — Medium · `graphs.NumberOfProvinces`
+- **Odd Even Linked List** — Medium · `linkedlist.OddEvenLinkedList`
+- **Palindrome Linked List** — Medium · `linkedlist.PalindromeLinkedList`
+- **Palindrome Number** — Easy · `math.PalindromeNumber`
+- **Palindrome Partitioning** — Medium · `backtracking.PalindromePartitioning`
+- **Palindromic Substrings** — Medium · `dynamicprogramming.PalindromicSubstrings`
+- **Path Sum III** — Medium · `trees.CountPathsWithGivenSum`
+- **Permutation in String** — Medium · `slidingwindow.PermutationInString`
+- **Populating Next Right Pointers in Each Node** — Medium · `trees.PopulateNextRightPointers`
+- **Pow(x, n)** — Medium · `math.PowOfANumber`
+- **Power of Two** — Easy · `bitmanipulation.PowerOfTwo`
+- **Prim's Minimum Spanning Tree** — Medium · `advancedgraphs.PrimMinimumSpanningTree`
+- **Producer–Consumer Problem** — Medium · `concurrency.ProducerConsumer`
+- **Product of Array Except Self** — Medium · `prefixsum.ProductExceptSelf`
+- **Quick Sort** — Medium · `sorting.QuickSort`
+- **Rate Limiter** — Medium · `design.RateLimiter`
+- **Reconstruct Itinerary** — Hard · `graphs.ReconstructItinerary`
+- **Remove Duplicates from Sorted Array** — Easy · `twopointers.RemoveDuplicatesFromSortedArray`
+- **Remove Duplicates from Sorted Array II** — Medium · `twopointers.RemoveDuplicatesFromSortedArrayII`
+- **Remove Duplicates from Sorted List II** — Medium · `linkedlist.RemoveDuplicatesFromSortedListII`
+- **Reorder List** — Medium · `linkedlist.ReorderList`
+- **Reorganize String** — Medium · `heaps.ReorganizeString`
+- **Reverse Bits** — Easy · `bitmanipulation.ReverseBits`
+- **Reverse Integer** — Medium · `math.ReverseInteger`
+- **Reverse Linked List II** — Medium · `linkedlist.ReverseLinkedListII`
+- **Reverse Nodes in k-Group** — Hard · `linkedlist.ReverseNodesInKGroup`
+- **Rotate Image** — Medium · `arrays.RotateImage`
+- **Rotate List** — Medium · `linkedlist.RotateList`
+- **Rotting Oranges** — Medium · `graphs.RottingOranges`
+- **Search a 2D Matrix** — Medium · `binarysearch.Search2DMatrix`
+- **Search a 2D Matrix II** — Medium · `binarysearch.Search2DMatrixII`
+- **Search in Rotated Sorted Array II** — Medium · `binarysearch.SearchInRotatedSortedArrayII`
+- **Search Insert Position** — Easy · `binarysearch.SearchInsertPosition`
+- **Serialize and Deserialize Binary Tree** — Medium · `trees.SerializeAndDeserializeBinaryTree`
+- **Set Matrix Zeroes** — Medium · `arrays.SetMatrixZeroes`
+- **Single Number III** — Medium · `bitmanipulation.SingleNumberIII`
+- **Singleton with Double-Checked Locking** — Medium · `concurrency.SingletonDoubleCheckedLocking`
+- **Spiral Matrix** — Medium · `arrays.SpiralMatrix`
+- **Split Array Largest Sum** — Hard · `binarysearch.SplitArrayLargestSum`
+- **Sqrt(x)** — Easy · `binarysearch.SquareRootOfANumber`
+- **Squares of a Sorted Array** — Easy · `twopointers.SquaresOfSortedArray`
+- **String to Integer (atoi)** — Medium · `strings.StringToInteger`
+- **Subarray Sum Equals K** — Medium · `prefixsum.SubarraySumEqualsK`
+- **Subtree of Another Tree** — Easy · `trees.SubtreeOfAnotherTree`
+- **Sum of Two Integers** — Medium · `bitmanipulation.AddTwoIntegers`
+- **Swap Nodes in Pairs** — Medium · `linkedlist.SwapPairs`
+- **Tarjan's Strongly Connected Components** — Hard · `advancedgraphs.TarjanStronglyConnectedComponents`
+- **Thread-Safe Counter** — Easy · `concurrency.AtomicCounter`
+- **Topological Sort** — Medium · `graphs.TopologicalSort`
+- **Two Sum II - Input Array Is Sorted** — Easy · `twopointers.TwoSumII`
+- **Valid Anagram** — Easy · `strings.ValidAnagram`
+- **Valid Palindrome** — Easy · `twopointers.ValidPalindrome`
+- **Word Break** — Medium · `dynamicprogramming.WordBreak`
+- **Word Ladder** — Medium · `graphs.WordLadder`
+- **Word Search** — Medium · `backtracking.WordSearch`
+- **Word Search II** — Hard · `trie.WordSearchII`
+- **Zigzag Level Order Traversal** — Medium · `trees.ZigzagLevelOrderTraversal`
+- **Alien Dictionary** — Medium · `graphs.AlienDictionary`
+- **Assign Cookies** — Easy · `greedy.AssignCookies`
+- **Best Time to Buy and Sell Stock II** — Medium · `arrays.BestTimeToBuyAndSellStockII`
+- **Bubble Sort** — Easy · `sorting.BubbleSort`
+- **Camelcase Matching** — Medium · `trie.CamelCaseMatching`
+- **Clone Graph** — Medium · `graphs.CloneGraph`
+- **Coin Change with Greedy** — Medium · `greedy.GreedyCoinChange`
+- **Compare Version Numbers** — Medium · `strings.CompareVersionNumbers`
+- **Concurrent Sum using Threads** — Medium · `concurrency.ConcurrentSumWithThreads`
+- **Contains Duplicate II** — Medium · `arrays.ContainsDuplicateII`
+- **Contiguous Array** — Medium · `prefixsum.ContiguousArray`
+- **Count and Say** — Medium · `strings.CountAndSay`
+- **Counting Bits** — Easy · `bitmanipulation.NumberOfSetBits`
+- **Counting Sort** — Medium · `sorting.CountingSort`
+- **Design Browser History** — Medium · `design.DesignBrowserHistory`
+- **Design Circular Queue** — Medium · `queues.ImplementCircularQueue`
+- **Design HashMap** — Easy · `design.DesignHashMap`
+- **Design Hit Counter** — Medium · `design.DesignHitCounter`
+- **Design Tic-Tac-Toe** — Medium · `design.DesignTicTacToe`
+- **Design Underground System** — Medium · `design.DesignUndergroundSystem`
+- **Employee Free Day** — Medium · `heaps.EmployeeFreeDay`
+- **Employee Free Time** — Medium · `intervals.EmployeeFreeTime`
+- **Excel Sheet Column Number** — Easy · `strings.ExcelSheetColumnNumber`
+- **Excel Sheet Column Title** — Easy · `strings.ExcelSheetColumnTitle`
+- **Factorial Trailing Zeroes** — Easy · `math.FactorialTrailingZeroes`
+- **Find All Duplicates in an Array** — Medium · `hashing.FindAllDuplicatesInArray`
+- **First Unique Character in a String** — Easy · `hashing.FirstUniqueCharacterInString`
+- **Flood Fill** — Easy · `backtracking.FloodFill`
+- **Graph Valid Tree** — Medium · `graphs.GraphValidTree`
+- **Gray Code** — Medium · `bitmanipulation.GrayCode`
+- **Hand of Straights** — Medium · `greedy.HandOfStraights`
+- **Happy Number** — Easy · `math.HappyNumber`
+- **Happy Number** — Easy · `math.HappyNumber`
+- **Heap Sort** — Medium · `sorting.HeapSort`
+- **Insertion Sort** — Easy · `sorting.InsertionSort`
+- **Integer to Roman** — Medium · `strings.IntegerToRoman`
+- **Intersection of Two Arrays** — Easy · `hashing.IntersectionOfTwoArrays`
+- **Is a Number Prime** — Medium · `math.DetectPrime`
+- **Isomorphic Strings** — Easy · `hashing.IsomorphicStrings`
+- **Josephus Problem** — Medium · `linkedlist.JosephusProblem`
+- **Jump Game III** — Medium · `greedy.JumpGameIII`
+- **Keys and Rooms** — Medium · `graphs.KeysAndRooms`
+- **Longest Prefix of a Phone Number** — Medium · `trie.LongestPrefixOfAPhoneNumber`
+- **Longest Repeating Substring** — Hard · `slidingwindow.LongestRepeatingSubstring`
+- **Majority Element II** — Medium · `arrays.MajorityElementII`
+- **Maximum Difference Between Two Elements of an Array** — Medium · `twopointers.MaximumDifferenceBetweenTwoElements`
+- **Maximum Profit Scheduling Jobs** — Medium · `greedy.SchedulingMaximumProfit`
+- **Min Max Stack** — Medium · `design.MinMaxStack`
+- **Minimum Height Trees** — Medium · `binarysearch.MinimumHeightTrees`
+- **Minimum Number of Refueling Stops** — Medium · `greedy.MinimumNumberOfRefuelingStops`
+- **Missing Number** — Easy · `arrays.MissingNumber`
+- **Moving Average** — Easy · `design.MovingAverage`
+- **Pacman Paths** — Medium · `graphs.PacmanPaths`
+- **Perfect Number** — Easy · `math.PerfectNumber`
+- **Pivot Index** — Easy · `prefixsum.PivotIndex`
+- **Plus One** — Easy · `arrays.PlusOne`
+- **Range Sum Query — Immutable** — Easy · `prefixsum.RangeSumQuery`
+- **Reverse String** — Easy · `strings.ReverseString`
+- **Reverse Words in a String** — Medium · `strings.ReverseWordsInString`
+- **Roman to Integer** — Easy · `strings.RomanToInteger`
+- **Rotate Array** — Medium · `arrays.RotateArray`
+- **Semaphore** — Medium · `design.SemaphoreClass`
+- **Shortest Path in a Binary Maze** — Medium · `graphs.ShortestPathInBinaryGrid`
+- **Shuffle Array** — Medium · `arrays.ShuffleArray`
+- **Snapshot Array** — Medium · `design.SnapshotArray`
+- **Sort Array By Parity** — Easy · `sorting.SortArrayByParity`
+- **Stock Span** — Medium · `stacks.StockSpan`
+- **Stone Game II** — Medium · `dynamicprogramming.StoneGameII`
+- **Ugly Number** — Medium · `math.UglyNumber`
+- **Unique Paths III** — Hard · `dynamicprogramming.GridUniquePathsIII`
+- **Walls and Gates** — Medium · `graphs.WallAndGates`
+- **Word Pattern** — Easy · `hashing.WordPattern`
+- **XOR of All Elements** — Easy · `bitmanipulation.XOROfArrayElements`
+- **2D Prefix Sum** — Medium · `prefixsum.TwoDimensionalPrefixSum`
+- **Design Text Editor** — Hard · `design.DesignTextEditor`
+- **Maximum Circular Subarray** — Medium · `arrays.MaxCircularSubarray`
+- **Maximum Gap** — Hard · `arrays.MaxGap`
+- **Maximum Units on a Truck** — Easy · `greedy.MaximumUnitsOnATruck`
+- **Maximum Width Ramp** — Hard · `arrays.MaximumWidthRamp`
+- **Pairs With a Target Sum** — Medium · `prefixsum.PairsWithTargetSum`
+- **Parallel Pipeline Merge** — Hard · `concurrency.ParallelPipelineMerge`
+- **Remove Element** — Easy · `arrays.RemoveElement`
+- **Running Sum of 1d Array** — Easy · `prefixsum.RunningSum`
+- **Selection Sort** — Easy · `sorting.SelectionSort`
+- **Sort a Hand of Cards** — Medium · `sorting.SortHand`
+- **Sort by Frequency of Characters** — Medium · `hashing.FrequencySort`
+- **String Compression** — Easy · `strings.StringCompression`
+- **Valid Number** — Medium · `strings.ValidNumber`
+
+### Microsoft (100)
+
+- **3Sum** — Medium · `twopointers.ThreeSum`
+- **Add Two Numbers** — Medium · `linkedlist.AddTwoNumbers`
+- **Container With Most Water** — Medium · `twopointers.ContainerWithMostWater`
+- **Edit Distance** — Medium · `dynamicprogramming.EditDistance`
+- **Find Median from Data Stream** — Hard · `heaps.FindMedianFromDataStream`
+- **Kth Largest Element in an Array** — Medium · `heaps.KthLargestElement`
+- **Linked List Cycle** — Easy · `linkedlist.DetectCycle`
+- **Longest Common Subsequence** — Medium · `dynamicprogramming.LongestCommonSubsequence`
+- **Longest Increasing Subsequence** — Medium · `dynamicprogramming.LongestIncreasingSubsequence`
+- **Median of Two Sorted Arrays** — Hard · `heaps.MedianOfTwoSortedArrays`
+- **Merge Intervals** — Medium · `intervals.MergeIntervals`
+- **Merge Two Sorted Lists** — Easy · `linkedlist.MergeTwoSortedLists`
+- **Min Stack** — Medium · `stacks.MinStack`
+- **Permutations** — Medium · `backtracking.Permutations`
+- **Remove Nth Node From End of List** — Medium · `linkedlist.DeleteNthFromEnd`
+- **Reverse Linked List** — Easy · `linkedlist.ReverseLinkedList`
+- **Search in Rotated Sorted Array** — Medium · `binarysearch.SearchInRotatedSortedArray`
+- **Sliding Window Maximum** — Hard · `queues.SlidingWindowMaximum`
+- **Subsets** — Medium · `backtracking.Subsets`
+- **Task Scheduler** — Medium · `heaps.TaskScheduler`
+- **Top K Frequent Elements** — Medium · `heaps.TopKFrequentElements`
+- **Trapping Rain Water** — Hard · `stacks.TrappingRainWater`
+- **Unique Paths** — Medium · `dynamicprogramming.UniquePaths`
+- **Valid Parentheses** — Easy · `stacks.ValidParentheses`
+- **3Sum Closest** — Medium · `twopointers.ThreeSumClosest`
+- **Add Two Numbers II** — Medium · `linkedlist.AddTwoNumbersII`
+- **Basic Calculator** — Hard · `stacks.BasicCalculator`
+- **Basic Calculator II** — Medium · `stacks.BasicCalculatorII`
+- **Binary Search** — Easy · `binarysearch.BinarySearch`
+- **Candy** — Hard · `greedy.Candy`
+- **Capacity To Ship Packages Within D Days** — Medium · `binarysearch.CapacityToShipPackages`
+- **Catalan Number** — Medium · `dynamicprogramming.CatalanNumber`
+- **Copy List with Random Pointer** — Medium · `linkedlist.CopyListWithRandomPointer`
+- **Count Primes** — Medium · `math.SieveOfEratosthenes`
+- **Daily Temperatures** — Medium · `stacks.DailyTemperatures`
+- **Decode String** — Medium · `stacks.DecodeString`
+- **Design a Min Queue** — Medium · `queues.MinQueue`
+- **Evaluate Reverse Polish Notation** — Medium · `stacks.EvaluateReversePolishNotation`
+- **Find First and Last Position of Element in Sorted Array** — Medium · `binarysearch.FindFirstAndLastPosition`
+- **Find Minimum in Rotated Sorted Array** — Medium · `binarysearch.FindMinimumInRotatedSortedArray`
+- **Gas Station** — Medium · `greedy.GasStation`
+- **Implement Queue using Stacks** — Medium · `queues.ImplementQueueUsingStacks`
+- **Interleaving String** — Medium · `dynamicprogramming.InterleavingString`
+- **Intersection of Two Linked Lists** — Easy · `linkedlist.IntersectionOfTwoLinkedLists`
+- **Jump Game II** — Medium · `greedy.JumpGameII`
+- **K Closest Elements** — Medium · `heaps.KClosestElements`
+- **Kth Smallest Element in a Sorted Matrix** — Medium · `heaps.KthSmallestElement`
+- **Largest Number** — Medium · `greedy.LargestNumber`
+- **Largest Rectangle in Histogram** — Hard · `stacks.LargestRectangleInHistogram`
+- **Last Stone Weight II** — Medium · `heaps.LastStoneWeightII`
+- **Letter Combinations of a Phone Number** — Medium · `backtracking.LetterCombinationsOfAPhoneNumber`
+- **Linked List Cycle II** — Medium · `linkedlist.LinkedListCycleII`
+- **Majority Element** — Easy · `arrays.MajorityElement`
+- **Maximum Subarray** — Medium · `arrays.MaxSubarray`
+- **Merge k Sorted Lists** — Hard · `heaps.MergeKSortedLists`
+- **Merge Sort** — Medium · `sorting.MergeSort`
+- **Middle of the Linked List** — Easy · `linkedlist.MiddleOfTheLinkedList`
+- **Move Zeroes** — Easy · `twopointers.MoveZeroes`
+- **Next Greater Element** — Easy · `stacks.NextGreaterElement`
+- **Next Greater Element II** — Medium · `stacks.NextGreaterElementII`
+- **Number of Islands** — Medium · `graphs.NumberOfIslands`
+- **Odd Even Linked List** — Medium · `linkedlist.OddEvenLinkedList`
+- **Palindrome Linked List** — Medium · `linkedlist.PalindromeLinkedList`
+- **Partition Equal Subset Sum** — Medium · `dynamicprogramming.PartitionEqualSubsetSum`
+- **Quick Sort** — Medium · `sorting.QuickSort`
+- **Regular Expression Matching** — Hard · `dynamicprogramming.RegexMatching`
+- **Remove Duplicates from Sorted Array** — Easy · `twopointers.RemoveDuplicatesFromSortedArray`
+- **Remove Duplicates from Sorted Array II** — Medium · `twopointers.RemoveDuplicatesFromSortedArrayII`
+- **Remove Duplicates from Sorted List II** — Medium · `linkedlist.RemoveDuplicatesFromSortedListII`
+- **Reorder List** — Medium · `linkedlist.ReorderList`
+- **Reorganize String** — Medium · `heaps.ReorganizeString`
+- **Reverse Linked List II** — Medium · `linkedlist.ReverseLinkedListII`
+- **Reverse Nodes in k-Group** — Hard · `linkedlist.ReverseNodesInKGroup`
+- **Rotate List** — Medium · `linkedlist.RotateList`
+- **Search a 2D Matrix** — Medium · `binarysearch.Search2DMatrix`
+- **Search a 2D Matrix II** — Medium · `binarysearch.Search2DMatrixII`
+- **Search in Rotated Sorted Array II** — Medium · `binarysearch.SearchInRotatedSortedArrayII`
+- **Set Matrix Zeroes** — Medium · `arrays.SetMatrixZeroes`
+- **Squares of a Sorted Array** — Easy · `twopointers.SquaresOfSortedArray`
+- **String to Integer (atoi)** — Medium · `strings.StringToInteger`
+- **Sudoku Solver** — Hard · `backtracking.SudokuSolver`
+- **Swap Nodes in Pairs** — Medium · `linkedlist.SwapPairs`
+- **Two Sum II - Input Array Is Sorted** — Easy · `twopointers.TwoSumII`
+- **Valid Palindrome** — Easy · `twopointers.ValidPalindrome`
+- **Employee Free Day** — Medium · `heaps.EmployeeFreeDay`
+- **Find Kth Largest and Kth Smallest** — Medium · `heaps.FindKthLargestAndSmallest`
+- **Flatten a Multilevel Linked List** — Medium · `linkedlist.FlattenLinkedList`
+- **Implement Deque using Two Stacks** — Medium · `queues.ImplementDequeUsingTwoStacks`
+- **Implement Stack using Queues** — Medium · `queues.ImplementStackUsingQueues`
+- **Josephus Problem** — Medium · `linkedlist.JosephusProblem`
+- **Longest Palindromic Subsequence** — Medium · `strings.LongestPalindromicSubsequence`
+- **Max of Min for Every Window** — Hard · `stacks.MaxOfMinForEveryWindow`
+- **Maximum Difference Between Two Elements of an Array** — Medium · `twopointers.MaximumDifferenceBetweenTwoElements`
+- **Meeting Rooms III** — Hard · `intervals.MeetingRoomsIII`
+- **Number of Partitions** — Medium · `dynamicprogramming.NumberOfPartitions`
+- **Plus One** — Easy · `arrays.PlusOne`
+- **Rod Cutting** — Medium · `dynamicprogramming.RodCutting`
+- **Shuffle Array** — Medium · `arrays.ShuffleArray`
+- **Stock Span** — Medium · `stacks.StockSpan`
+- **Valid Palindrome II** — Easy · `strings.ValidPalindromeII`
+
+### Bloomberg (65)
+
+- **3Sum** — Medium · `twopointers.ThreeSum`
+- **Add Two Numbers** — Medium · `linkedlist.AddTwoNumbers`
+- **Binary Tree Level Order Traversal** — Medium · `trees.BinaryTreeLevelOrderTraversal`
+- **Coin Change** — Medium · `dynamicprogramming.CoinChange`
+- **Container With Most Water** — Medium · `twopointers.ContainerWithMostWater`
+- **Find Median from Data Stream** — Hard · `heaps.FindMedianFromDataStream`
+- **Kth Largest Element in an Array** — Medium · `heaps.KthLargestElement`
+- **Kth Smallest Element in a BST** — Medium · `trees.KthSmallestElementInBST`
+- **Linked List Cycle** — Easy · `linkedlist.DetectCycle`
+- **Longest Substring Without Repeating Characters** — Medium · `slidingwindow.LongestSubstringWithoutRepeatingCharacters`
+- **Lowest Common Ancestor of a BST** — Medium · `trees.LowestCommonAncestorOfBST`
+- **Median of Two Sorted Arrays** — Hard · `heaps.MedianOfTwoSortedArrays`
+- **Merge Two Sorted Lists** — Easy · `linkedlist.MergeTwoSortedLists`
+- **Min Stack** — Medium · `stacks.MinStack`
+- **Remove Nth Node From End of List** — Medium · `linkedlist.DeleteNthFromEnd`
+- **Reverse Linked List** — Easy · `linkedlist.ReverseLinkedList`
+- **Search in Rotated Sorted Array** — Medium · `binarysearch.SearchInRotatedSortedArray`
+- **Sliding Window Maximum** — Hard · `queues.SlidingWindowMaximum`
+- **Trapping Rain Water** — Hard · `stacks.TrappingRainWater`
+- **Two Sum** — Easy · `arrays.TwoSum`
+- **Valid Parentheses** — Easy · `stacks.ValidParentheses`
+- **Validate Binary Search Tree** — Medium · `trees.ValidateBinarySearchTree`
+- **01 Matrix** — Medium · `graphs.DistanceToNearestZero`
+- **Add Two Numbers II** — Medium · `linkedlist.AddTwoNumbersII`
+- **Basic Calculator** — Hard · `stacks.BasicCalculator`
+- **Basic Calculator II** — Medium · `stacks.BasicCalculatorII`
+- **Best Time to Buy and Sell Stock** — Easy · `arrays.BestTimeToBuyAndSellStock`
+- **Best Time to Buy and Sell Stock III** — Hard · `dynamicprogramming.BestTimeToBuySellStockIII`
+- **Car Fleet** — Medium · `intervals.CarFleet`
+- **Copy List with Random Pointer** — Medium · `linkedlist.CopyListWithRandomPointer`
+- **Daily Temperatures** — Medium · `stacks.DailyTemperatures`
+- **Decode String** — Medium · `stacks.DecodeString`
+- **Evaluate Reverse Polish Notation** — Medium · `stacks.EvaluateReversePolishNotation`
+- **Group Anagrams** — Medium · `hashing.GroupAnagrams`
+- **Intersection of Two Linked Lists** — Easy · `linkedlist.IntersectionOfTwoLinkedLists`
+- **Jump Game** — Medium · `greedy.JumpGame`
+- **Kruskal's Minimum Spanning Tree** — Medium · `advancedgraphs.KruskalMinimumSpanningTree`
+- **Largest Rectangle in Histogram** — Hard · `stacks.LargestRectangleInHistogram`
+- **Linked List Cycle II** — Medium · `linkedlist.LinkedListCycleII`
+- **Longest Common Prefix** — Easy · `strings.LongestCommonPrefix`
+- **Longest Consecutive Sequence** — Medium · `hashing.LongestConsecutiveSequence`
+- **Middle of the Linked List** — Easy · `linkedlist.MiddleOfTheLinkedList`
+- **Minimum Spanning Tree** — Medium · `advancedgraphs.MinimumSpanningTree`
+- **Minimum Window Substring** — Hard · `slidingwindow.MinimumWindowSubstring`
+- **Next Greater Element** — Easy · `stacks.NextGreaterElement`
+- **Next Greater Element II** — Medium · `stacks.NextGreaterElementII`
+- **Odd Even Linked List** — Medium · `linkedlist.OddEvenLinkedList`
+- **Palindrome Linked List** — Medium · `linkedlist.PalindromeLinkedList`
+- **Palindrome Number** — Easy · `math.PalindromeNumber`
+- **Pow(x, n)** — Medium · `math.PowOfANumber`
+- **Prim's Minimum Spanning Tree** — Medium · `advancedgraphs.PrimMinimumSpanningTree`
+- **Remove Duplicates from Sorted List II** — Medium · `linkedlist.RemoveDuplicatesFromSortedListII`
+- **Reorder List** — Medium · `linkedlist.ReorderList`
+- **Reverse Integer** — Medium · `math.ReverseInteger`
+- **Reverse Nodes in k-Group** — Hard · `linkedlist.ReverseNodesInKGroup`
+- **Rotate Image** — Medium · `arrays.RotateImage`
+- **Rotate List** — Medium · `linkedlist.RotateList`
+- **Spiral Matrix** — Medium · `arrays.SpiralMatrix`
+- **Swap Nodes in Pairs** — Medium · `linkedlist.SwapPairs`
+- **Two Sum II - Input Array Is Sorted** — Easy · `twopointers.TwoSumII`
+- **Valid Anagram** — Easy · `strings.ValidAnagram`
+- **Design HashMap** — Easy · `design.DesignHashMap`
+- **Excel Sheet Column Number** — Easy · `strings.ExcelSheetColumnNumber`
+- **Excel Sheet Column Title** — Easy · `strings.ExcelSheetColumnTitle`
+- **Min Max Stack** — Medium · `design.MinMaxStack`
+
+### Adobe (42)
+
+- **Add Two Numbers** — Medium · `linkedlist.AddTwoNumbers`
+- **Balanced Binary Tree** — Easy · `trees.BalancedBinaryTree`
+- **Binary Tree Inorder Traversal** — Easy · `trees.BinaryTreeInorderTraversal`
+- **House Robber** — Medium · `dynamicprogramming.HouseRobber`
+- **Longest Substring Without Repeating Characters** — Medium · `slidingwindow.LongestSubstringWithoutRepeatingCharacters`
+- **Lowest Common Ancestor of a Binary Tree** — Medium · `trees.LowestCommonAncestor`
+- **Maximum Depth of Binary Tree** — Easy · `trees.BinaryTreeMaximumDepth`
+- **Path Sum** — Easy · `trees.PathSum`
+- **Single Number** — Easy · `bitmanipulation.SingleNumber`
+- **Trapping Rain Water** — Hard · `stacks.TrappingRainWater`
+- **Two Sum** — Easy · `arrays.TwoSum`
+- **Valid Parentheses** — Easy · `stacks.ValidParentheses`
+- **Climbing Stairs** — Easy · `dynamicprogramming.ClimbingStairs`
+- **Construct Binary Tree from Preorder and Inorder Traversal** — Medium · `trees.BuildTreeFromPreorderAndInorder`
+- **Contains Duplicate** — Easy · `hashing.ContainsDuplicate`
+- **Decode Ways** — Medium · `dynamicprogramming.DecodeWays`
+- **Find All Anagrams in a String** — Medium · `slidingwindow.FindAllAnagramsInString`
+- **Fruit Into Baskets** — Medium · `slidingwindow.FruitIntoBaskets`
+- **Generate Parentheses** — Medium · `backtracking.GenerateParentheses`
+- **Maximum Subarray** — Medium · `arrays.MaxSubarray`
+- **Minimum Window Substring** — Hard · `slidingwindow.MinimumWindowSubstring`
+- **Move Zeroes** — Easy · `twopointers.MoveZeroes`
+- **Permutation in String** — Medium · `slidingwindow.PermutationInString`
+- **Product of Array Except Self** — Medium · `prefixsum.ProductExceptSelf`
+- **Serialize and Deserialize Binary Tree** — Medium · `trees.SerializeAndDeserializeBinaryTree`
+- **Spiral Matrix** — Medium · `arrays.SpiralMatrix`
+- **Subarray Sum Equals K** — Medium · `prefixsum.SubarraySumEqualsK`
+- **Target Sum** — Medium · `dynamicprogramming.TargetSum`
+- **Word Break** — Medium · `dynamicprogramming.WordBreak`
+- **Aggressive Cows** — Medium · `binarysearch.AggressiveCows`
+- **Allocate Minimum Number of Painters** — Hard · `binarysearch.AllocateMinimumNumberOfPainters`
+- **Count and Say** — Medium · `strings.CountAndSay`
+- **Design Circular Queue** — Medium · `queues.ImplementCircularQueue`
+- **Distinct Subsequences** — Medium · `dynamicprogramming.DistinctSubsequences`
+- **Heap Sort** — Medium · `sorting.HeapSort`
+- **Insertion Sort** — Easy · `sorting.InsertionSort`
+- **Longest Palindromic Subsequence** — Medium · `strings.LongestPalindromicSubsequence`
+- **Rod Cutting** — Medium · `dynamicprogramming.RodCutting`
+- **Rotate Array** — Medium · `arrays.RotateArray`
+- **Subtract Two Integers without Minus** — Medium · `bitmanipulation.SubtractWithoutMinus`
+- **2D Prefix Sum** — Medium · `prefixsum.TwoDimensionalPrefixSum`
+- **Design Text Editor** — Hard · `design.DesignTextEditor`
+
+### Apple (19)
+
+- **3Sum** — Medium · `twopointers.ThreeSum`
+- **Median of Two Sorted Arrays** — Hard · `heaps.MedianOfTwoSortedArrays`
+- **Single Number** — Easy · `bitmanipulation.SingleNumber`
+- **Divide Two Integers** — Medium · `bitmanipulation.DivideTwoIntegers`
+- **Hamming Distance** — Easy · `bitmanipulation.HammingDistance`
+- **Longest Palindromic Substring** — Medium · `strings.LongestPalindromicSubstring`
+- **Merge Sort** — Medium · `sorting.MergeSort`
+- **Number of 1 Bits** — Easy · `bitmanipulation.CountSetBits`
+- **Power of Two** — Easy · `bitmanipulation.PowerOfTwo`
+- **Quick Sort** — Medium · `sorting.QuickSort`
+- **Reverse Bits** — Easy · `bitmanipulation.ReverseBits`
+- **Single Number III** — Medium · `bitmanipulation.SingleNumberIII`
+- **String to Integer (atoi)** — Medium · `strings.StringToInteger`
+- **Sum of Two Integers** — Medium · `bitmanipulation.AddTwoIntegers`
+- **Bubble Sort** — Easy · `sorting.BubbleSort`
+- **Gray Code** — Medium · `bitmanipulation.GrayCode`
+- **Range Sum Query — Immutable** — Easy · `prefixsum.RangeSumQuery`
+- **XOR of All Elements** — Easy · `bitmanipulation.XOROfArrayElements`
+- **String Compression** — Easy · `strings.StringCompression`
+
+### LinkedIn (17)
+
+- **LRU Cache** — Medium · `design.LRUCache`
+- **Articulation Points in a Graph** — Hard · `advancedgraphs.ArticulationPoints`
+- **Bridges in a Graph** — Hard · `advancedgraphs.BridgesInGraph`
+- **Course Schedule** — Medium · `graphs.CourseSchedule`
+- **Is Graph Bipartite** — Medium · `graphs.BipartiteCheck`
+- **Kosaraju's Strongly Connected Components** — Hard · `advancedgraphs.KosarajuStronglyConnectedComponents`
+- **LFU Cache** — Hard · `design.LFUCache`
+- **Longest Repeating Character Replacement** — Medium · `slidingwindow.LongestRepeatingCharacterReplacement`
+- **Merge k Sorted Lists** — Hard · `heaps.MergeKSortedLists`
+- **Number of Connected Components in an Undirected Graph** — Medium · `graphs.NumberOfConnectedComponents`
+- **Number of Provinces** — Medium · `graphs.NumberOfProvinces`
+- **Tarjan's Strongly Connected Components** — Hard · `advancedgraphs.TarjanStronglyConnectedComponents`
+- **Topological Sort** — Medium · `graphs.TopologicalSort`
+- **Word Ladder** — Medium · `graphs.WordLadder`
+- **Clone Graph** — Medium · `graphs.CloneGraph`
+- **Graph Valid Tree** — Medium · `graphs.GraphValidTree`
+- **Moving Average** — Easy · `design.MovingAverage`
+
+### Airbnb (16)
+
+- **LRU Cache** — Medium · `design.LRUCache`
+- **Top K Frequent Elements** — Medium · `heaps.TopKFrequentElements`
+- **Cheapest Flights Within K Stops** — Medium · `graphs.CheapestFlightsWithinKStops`
+- **Meeting Rooms** — Easy · `intervals.MeetingRooms`
+- **Reconstruct Itinerary** — Hard · `graphs.ReconstructItinerary`
+- **Search Insert Position** — Easy · `binarysearch.SearchInsertPosition`
+- **Word Search II** — Hard · `trie.WordSearchII`
+- **Alien Dictionary** — Medium · `graphs.AlienDictionary`
+- **Assign Cookies** — Easy · `greedy.AssignCookies`
+- **Compare Version Numbers** — Medium · `strings.CompareVersionNumbers`
+- **Design Browser History** — Medium · `design.DesignBrowserHistory`
+- **Keys and Rooms** — Medium · `graphs.KeysAndRooms`
+- **Longest Repeating Substring** — Hard · `slidingwindow.LongestRepeatingSubstring`
+- **Missing Number** — Easy · `arrays.MissingNumber`
+- **Pacman Paths** — Medium · `graphs.PacmanPaths`
+- **Snapshot Array** — Medium · `design.SnapshotArray`
+
+### Facebook (7)
+
+- **First Bad Version** — Easy · `binarysearch.FirstBadVersion`
+- **Split Array Largest Sum** — Hard · `binarysearch.SplitArrayLargestSum`
+- **Sqrt(x)** — Easy · `binarysearch.SquareRootOfANumber`
+- **Squares of a Sorted Array** — Easy · `twopointers.SquaresOfSortedArray`
+- **Wildcard Matching** — Hard · `dynamicprogramming.WildcardMatching`
+- **Minimum Number of Flips to Make the Binary String Alternating** — Medium · `slidingwindow.MinimumNumberOfFlips`
+- **Reverse Words in a String** — Medium · `strings.ReverseWordsInString`
+
+### Netflix (6)
+
+- **Dijkstra's Shortest Path** — Medium · `advancedgraphs.DijkstraShortestPath`
+- **LRU Cache** — Medium · `design.LRUCache`
+- **Bounded Blocking Queue** — Medium · `concurrency.BoundedBlockingQueue`
+- **Producer–Consumer Problem** — Medium · `concurrency.ProducerConsumer`
+- **Thread-Safe Counter** — Easy · `concurrency.AtomicCounter`
+- **Parallel Pipeline Merge** — Hard · `concurrency.ParallelPipelineMerge`
+
+### Pinterest (3)
+
+- **Find Median from Data Stream** — Hard · `heaps.FindMedianFromDataStream`
+- **LFU Cache** — Hard · `design.LFUCache`
+- **Design Hit Counter** — Medium · `design.DesignHitCounter`
+
+### Intel (2)
+
+- **Graph Coloring** — Hard · `advancedgraphs.GraphColoring`
+- **Remove Element** — Easy · `arrays.RemoveElement`
+
+### Twitter (2)
+
+- **Implement Trie** — Medium · `trie.ImplementTrie`
+- **Maximum Gap** — Hard · `arrays.MaxGap`
+
+### ByteDance (1)
+
+- **Find Peak Element** — Medium · `binarysearch.PeakElement`
+
+### Cloudflare (1)
+
+- **Rate Limiter** — Medium · `design.RateLimiter`
+
+### Flipkart (1)
+
+- **Allocate Minimum Number of Painters** — Hard · `binarysearch.AllocateMinimumNumberOfPainters`
+
+### Lyft (1)
+
+- **Design Underground System** — Medium · `design.DesignUndergroundSystem`
+
+### Oracle (1)
+
+- **Singleton with Double-Checked Locking** — Medium · `concurrency.SingletonDoubleCheckedLocking`
+
+### Poker sites (1)
+
+- **Sort a Hand of Cards** — Medium · `sorting.SortHand`
+
+### Stripe (1)
+
+- **Rate Limiter** — Medium · `design.RateLimiter`
+

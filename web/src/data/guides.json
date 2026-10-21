@@ -1,0 +1,482 @@
+[
+  {
+    "id": "guide:how-to-use-this-repo",
+    "slug": "guide/how-to-use-this-repo",
+    "title": "How to use this repository",
+    "category": "guide",
+    "topic": null,
+    "order": 0,
+    "summary": "The learning loop that turns this pile of solutions into interview-ready skill, and how the website, the Maven tests and the Java sources fit together.",
+    "file": "guide-guide-how-to-use-this-repo.json"
+  },
+  {
+    "id": "guide:8-week-study-plan",
+    "slug": "guide/8-week-study-plan",
+    "title": "The 8-week interview study plan",
+    "category": "guide",
+    "topic": null,
+    "order": 1,
+    "summary": "A day-by-day plan that sequences 24 topics so each builds on the last, with weekly checkpoints, mock-interview drills and a progress tracker.",
+    "file": "guide-guide-8-week-study-plan.json"
+  },
+  {
+    "id": "guide:company-problem-map",
+    "slug": "guide/company-problem-map",
+    "title": "Company problem map",
+    "category": "guide",
+    "topic": null,
+    "order": 2,
+    "summary": "Which problems are tagged for which company, so you can focus revision on the set that actually comes up in your target company's loop.",
+    "file": "guide-guide-company-problem-map.json"
+  },
+  {
+    "id": "guide:pattern-index",
+    "slug": "guide/pattern-index",
+    "title": "Interview pattern index",
+    "category": "guide",
+    "topic": null,
+    "order": 3,
+    "summary": "Every DSA problem is an instance of a small number of patterns. This index groups the whole catalogue by pattern so you can recognise one you have not seen yet.",
+    "file": "guide-guide-pattern-index.json"
+  },
+  {
+    "id": "guide:coverage-matrix",
+    "slug": "guide/coverage-matrix",
+    "title": "Coverage matrix",
+    "category": "guide",
+    "topic": null,
+    "order": 4,
+    "summary": "Exactly what is in the set — problem counts per topic and difficulty, how many are interview hot, and how complete the write-ups and tests are.",
+    "file": "guide-guide-coverage-matrix.json"
+  },
+  {
+    "id": "guide:java-cheatsheet",
+    "slug": "guide/java-cheatsheet",
+    "title": "Java cheatsheet for DSA interviews",
+    "category": "guide",
+    "topic": null,
+    "order": 5,
+    "summary": "The Java standard library surface you actually need in a DSA interview, plus the language-level traps that cost candidates marks.",
+    "file": "guide-guide-java-cheatsheet.json"
+  },
+  {
+    "id": "guide:interview-playbook",
+    "slug": "guide/interview-playbook",
+    "title": "The DSA interview playbook",
+    "category": "guide",
+    "topic": null,
+    "order": 6,
+    "summary": "How to open, narrate, debug and close a DSA interview round — the soft skills that decide the offer, plus what each stage is actually looking for.",
+    "file": "guide-guide-interview-playbook.json"
+  },
+  {
+    "id": "guide:problem-index",
+    "slug": "guide/problem-index",
+    "title": "Full problem index",
+    "category": "guide",
+    "topic": null,
+    "order": 7,
+    "summary": "Every problem in the repository, grouped by topic, with difficulty, LeetCode number, interview heat, patterns and company tags.",
+    "file": "guide-guide-problem-index.json"
+  },
+  {
+    "id": "lld:lru-cache",
+    "slug": "lld/lru-cache",
+    "title": "LLD — LRU cache",
+    "category": "lld",
+    "topic": null,
+    "order": 1,
+    "summary": "The classic low-level design question. HashMap plus doubly linked list, get and put both in O(1), with the sentinel-node trick and the thread-safety variant.",
+    "file": "lld-lld-lru-cache.json"
+  },
+  {
+    "id": "lld:parking-lot",
+    "slug": "lld/parking-lot",
+    "title": "LLD — Parking lot",
+    "category": "lld",
+    "topic": null,
+    "order": 2,
+    "summary": "The multi-level parking lot design question — vehicle types, spot allocation, pricing, and the ticket lifecycle.",
+    "file": "lld-lld-parking-lot.json"
+  },
+  {
+    "id": "lld:elevator",
+    "slug": "lld/elevator",
+    "title": "LLD — Elevator system",
+    "category": "lld",
+    "topic": null,
+    "order": 3,
+    "summary": "Designing elevators as a state machine — the request queue, the scheduling algorithm, and the observer pattern that keeps the display in sync.",
+    "file": "lld-lld-elevator.json"
+  },
+  {
+    "id": "lld:chess",
+    "slug": "lld/chess",
+    "title": "LLD — Chess game",
+    "category": "lld",
+    "topic": null,
+    "order": 4,
+    "summary": "Designing a chess engine — the board model, piece hierarchy, legal move generation, and why the hard part is validation, not the representation.",
+    "file": "lld-lld-chess.json"
+  },
+  {
+    "id": "lld:rate-limiter",
+    "slug": "lld/rate-limiter",
+    "title": "LLD — Rate limiter",
+    "category": "lld",
+    "topic": null,
+    "order": 99,
+    "summary": "A production-shaped rate limiter — the four algorithms as interchangeable strategies, the token bucket in detail, and the operational concerns that make it usable.",
+    "file": "lld-lld-rate-limiter.json"
+  },
+  {
+    "id": "lld:tic-tac-toe",
+    "slug": "lld/tic-tac-toe",
+    "title": "LLD — Tic-tac-toe and a game engine",
+    "category": "lld",
+    "topic": null,
+    "order": 99,
+    "summary": "A small but complete game design — the board, the win conditions, minimax with alpha-beta pruning, and the strategy pattern that makes the AI swappable.",
+    "file": "lld-lld-tic-tac-toe.json"
+  },
+  {
+    "id": "system-design:fundamentals",
+    "slug": "system-design/fundamentals",
+    "title": "System design fundamentals",
+    "category": "system-design",
+    "topic": null,
+    "order": 1,
+    "summary": "The vocabulary, the estimation method and the clarifying questions every system design round depends on, before any technology is chosen.",
+    "file": "system-design-system-design-fundamentals.json"
+  },
+  {
+    "id": "system-design:caching",
+    "slug": "system-design/caching",
+    "title": "Caching",
+    "category": "system-design",
+    "topic": null,
+    "order": 2,
+    "summary": "Every caching strategy, how to pick one, and the three questions every interviewer asks about a cache — what is the key, when does it expire, and how do you invalidate it.",
+    "file": "system-design-system-design-caching.json"
+  },
+  {
+    "id": "system-design:load-balancing",
+    "slug": "system-design/load-balancing",
+    "title": "Load balancing and scaling",
+    "category": "system-design",
+    "topic": null,
+    "order": 3,
+    "summary": "How requests get distributed, how systems grow from one box to a global deployment, and the health checks, autoscaling and failover that keep it running.",
+    "file": "system-design-system-design-load-balancing.json"
+  },
+  {
+    "id": "system-design:database-sharding",
+    "slug": "system-design/database-sharding",
+    "title": "Database sharding and replication",
+    "category": "system-design",
+    "topic": null,
+    "order": 4,
+    "summary": "Splitting data across nodes and keeping copies in sync — shard keys, rebalancing, the CAP trade-off, and the replication topologies that actually work.",
+    "file": "system-design-system-design-database-sharding.json"
+  },
+  {
+    "id": "system-design:message-queues",
+    "slug": "system-design/message-queues",
+    "title": "Message queues and event streaming",
+    "category": "system-design",
+    "topic": null,
+    "order": 5,
+    "summary": "Decoupling with queues — delivery guarantees, ordering, retries, dead letters, and the difference between a message queue and an event log.",
+    "file": "system-design-system-design-message-queues.json"
+  },
+  {
+    "id": "system-design:rate-limiting",
+    "slug": "system-design/rate-limiting",
+    "title": "Rate limiting and throttling",
+    "category": "system-design",
+    "topic": null,
+    "order": 6,
+    "summary": "The four rate-limiting algorithms, where to enforce them, and the fairness and correctness problems that show up in production.",
+    "file": "system-design-system-design-rate-limiting.json"
+  },
+  {
+    "id": "system-design:url-shortener",
+    "slug": "system-design/url-shortener",
+    "title": "Design a URL shortener",
+    "category": "system-design",
+    "topic": null,
+    "order": 7,
+    "summary": "TinyRocketURL — the classic \"design X\" question, with the short-code generation strategy, the 5000-characters-per-hour limit, and the read-heavy design that makes it fast.",
+    "file": "system-design-system-design-url-shortener.json"
+  },
+  {
+    "id": "system-design:news-feed",
+    "slug": "system-design/news-feed",
+    "title": "Design a news feed",
+    "category": "system-design",
+    "topic": null,
+    "order": 8,
+    "summary": "Facebook's news feed — pull vs push vs hybrid fan-out, the ranking layer, and why the naive \"fan out on write\" design breaks at scale.",
+    "file": "system-design-system-design-news-feed.json"
+  },
+  {
+    "id": "system-design:rideshare",
+    "slug": "system-design/rideshare",
+    "title": "Design a rideshare service",
+    "category": "system-design",
+    "topic": null,
+    "order": 9,
+    "summary": "Uber-style ride matching — the hardest real-time system to design, because it is a matching problem on a moving graph with strict latency budgets.",
+    "file": "system-design-system-design-rideshare.json"
+  },
+  {
+    "id": "system-design:video-platform",
+    "slug": "system-design/video-platform",
+    "title": "Design a video streaming platform",
+    "category": "system-design",
+    "topic": null,
+    "order": 10,
+    "summary": "YouTube-style — transcoding pipelines, adaptive bitrate streaming, CDN delivery, the watch-history write path, and feed ranking.",
+    "file": "system-design-system-design-video-platform.json"
+  },
+  {
+    "id": "topic:arrays",
+    "slug": "topic/arrays",
+    "title": "Arrays — concept notes",
+    "category": "topic",
+    "topic": "arrays",
+    "order": 1,
+    "summary": "The base topic. Index arithmetic, in-place mutation, prefix products, and the decision framework for choosing a one-pass, two-pass, or in-place approach.",
+    "file": "topic-topic-arrays.json"
+  },
+  {
+    "id": "topic:strings",
+    "slug": "topic/strings",
+    "title": "Strings — concept notes",
+    "category": "topic",
+    "topic": "strings",
+    "order": 2,
+    "summary": "Character-level thinking — parsing, palindromes, anagrams, and the difference between the immutable-String tricks that work in Java and the ones that do not.",
+    "file": "topic-topic-strings.json"
+  },
+  {
+    "id": "topic:linkedlist",
+    "slug": "topic/linkedlist",
+    "title": "Linked lists — concept notes",
+    "category": "topic",
+    "topic": "linkedlist",
+    "order": 3,
+    "summary": "Pointer manipulation without a language that frees memory for you — the four patterns (dummy head, fast/slow, two pointers, recursion) and the invariants that make them correct.",
+    "file": "topic-topic-linkedlist.json"
+  },
+  {
+    "id": "topic:stacks",
+    "slug": "topic/stacks",
+    "title": "Stacks — concept notes",
+    "category": "topic",
+    "topic": "stacks",
+    "order": 4,
+    "summary": "LIFO thinking, the monotonic stack, and the expression evaluators — plus when a stack is the wrong tool and a deque is right.",
+    "file": "topic-topic-stacks.json"
+  },
+  {
+    "id": "topic:queues",
+    "slug": "topic/queues",
+    "title": "Queues and deques — concept notes",
+    "category": "topic",
+    "topic": "queues",
+    "order": 5,
+    "summary": "FIFO structures, the two-ended deque, and the design questions — implement a queue with stacks, a stack with queues, and a circular array.",
+    "file": "topic-topic-queues.json"
+  },
+  {
+    "id": "topic:heaps",
+    "slug": "topic/heaps",
+    "title": "Heaps and priority queues — concept notes",
+    "category": "topic",
+    "topic": "heaps",
+    "order": 6,
+    "summary": "The heap invariant, top-K selection, the two-heap median, and when a heap beats sorting — plus the streaming problems that are asked constantly.",
+    "file": "topic-topic-heaps.json"
+  },
+  {
+    "id": "topic:binarysearch",
+    "slug": "topic/binarysearch",
+    "title": "Binary search — concept notes",
+    "category": "topic",
+    "topic": "binarysearch",
+    "order": 7,
+    "summary": "Four flavours of binary search — on an index, on a boundary, on a rotated array, and on the answer — plus the loop invariants that make each correct.",
+    "file": "topic-topic-binarysearch.json"
+  },
+  {
+    "id": "topic:sorting",
+    "slug": "topic/sorting",
+    "title": "Sorting — concept notes",
+    "category": "topic",
+    "topic": "sorting",
+    "order": 8,
+    "summary": "The classic sorts, their invariants and complexities, stability, custom comparators, and when a non-comparison sort beats them.",
+    "file": "topic-topic-sorting.json"
+  },
+  {
+    "id": "topic:hashing",
+    "slug": "topic/hashing",
+    "title": "Hashing — concept notes",
+    "category": "topic",
+    "topic": "hashing",
+    "order": 9,
+    "summary": "Turning \"have I seen this?\" into O(1) — the four counting idioms, hashing pitfalls, and the moment a hash map stops being the right answer.",
+    "file": "topic-topic-hashing.json"
+  },
+  {
+    "id": "topic:twopointers",
+    "slug": "topic/twopointers",
+    "title": "Two pointers — concept notes",
+    "category": "topic",
+    "topic": "twopointers",
+    "order": 10,
+    "summary": "The opposite-direction and same-direction patterns, the three questions that decide which one applies, and the monotonicity argument that makes each correct.",
+    "file": "topic-topic-twopointers.json"
+  },
+  {
+    "id": "topic:slidingwindow",
+    "slug": "topic/slidingwindow",
+    "title": "Sliding window — concept notes",
+    "category": "topic",
+    "topic": "slidingwindow",
+    "order": 11,
+    "summary": "Fixed and variable windows, the \"expand then shrink\" loop, and how to tell in ten seconds which window problem you have.",
+    "file": "topic-topic-slidingwindow.json"
+  },
+  {
+    "id": "topic:prefixsum",
+    "slug": "topic/prefixsum",
+    "title": "Prefix and suffix sums — concept notes",
+    "category": "topic",
+    "topic": "prefixsum",
+    "order": 12,
+    "summary": "Turning range queries into subtractions, the difference array, and the running-state pattern that solves a surprising number of array problems.",
+    "file": "topic-topic-prefixsum.json"
+  },
+  {
+    "id": "topic:trees",
+    "slug": "topic/trees",
+    "title": "Trees and BSTs — concept notes",
+    "category": "topic",
+    "topic": "trees",
+    "order": 13,
+    "summary": "Recursive thinking on a recursive structure — the four traversals, when to use each, BST invariants, and the shape that most tree problems have.",
+    "file": "topic-topic-trees.json"
+  },
+  {
+    "id": "topic:trie",
+    "slug": "topic/trie",
+    "title": "Trie (prefix tree) — concept notes",
+    "category": "topic",
+    "topic": "trie",
+    "order": 14,
+    "summary": "When a trie beats a hash map — prefix queries, autocomplete, and word search — plus the fixed-alphabet trick that makes it fast.",
+    "file": "topic-topic-trie.json"
+  },
+  {
+    "id": "topic:graphs",
+    "slug": "topic/graphs",
+    "title": "Graphs — concept notes",
+    "category": "topic",
+    "topic": "graphs",
+    "order": 15,
+    "summary": "Choosing between BFS, DFS, topological sort and shortest-path algorithms — and reading the question to know which one is wanted.",
+    "file": "topic-topic-graphs.json"
+  },
+  {
+    "id": "topic:advancedgraphs",
+    "slug": "topic/advancedgraphs",
+    "title": "Advanced graphs — concept notes",
+    "category": "topic",
+    "topic": "advancedgraphs",
+    "order": 16,
+    "summary": "MST, shortest paths with weights, strongly connected components, and bridges — the algorithms that come up when the graph interview goes deep.",
+    "file": "topic-topic-advancedgraphs.json"
+  },
+  {
+    "id": "topic:dynamicprogramming",
+    "slug": "topic/dynamicprogramming",
+    "title": "Dynamic programming — concept notes",
+    "category": "topic",
+    "topic": "dynamicprogramming",
+    "order": 17,
+    "summary": "The state-transition framework — how to define the state, choose the transition, and decide between memoisation and tabulation.",
+    "file": "topic-topic-dynamicprogramming.json"
+  },
+  {
+    "id": "topic:backtracking",
+    "slug": "topic/backtracking",
+    "title": "Backtracking — concept notes",
+    "category": "topic",
+    "topic": "backtracking",
+    "order": 18,
+    "summary": "Choose, explore, undo — the template that covers subsets, permutations, combinations, and board problems.",
+    "file": "topic-topic-backtracking.json"
+  },
+  {
+    "id": "topic:greedy",
+    "slug": "topic/greedy",
+    "title": "Greedy — concept notes",
+    "category": "topic",
+    "topic": "greedy",
+    "order": 19,
+    "summary": "Taking the locally best move — the exchange argument that proves it works, and the four problem shapes where greedy is valid.",
+    "file": "topic-topic-greedy.json"
+  },
+  {
+    "id": "topic:intervals",
+    "slug": "topic/intervals",
+    "title": "Intervals — concept notes",
+    "category": "topic",
+    "topic": "intervals",
+    "order": 20,
+    "summary": "Overlapping ranges, the sort key that makes interval problems easy, and the sweep-line technique.",
+    "file": "topic-topic-intervals.json"
+  },
+  {
+    "id": "topic:bitmanipulation",
+    "slug": "topic/bitmanipulation",
+    "title": "Bit manipulation — concept notes",
+    "category": "topic",
+    "topic": "bitmanipulation",
+    "order": 21,
+    "summary": "XOR tricks, shifts and masks — the small set of idioms that solve a surprising number of problems, and how to derive them rather than memorise them.",
+    "file": "topic-topic-bitmanipulation.json"
+  },
+  {
+    "id": "topic:math",
+    "slug": "topic/math",
+    "title": "Math and number theory — concept notes",
+    "category": "topic",
+    "topic": "math",
+    "order": 22,
+    "summary": "The numeric problems that appear in interviews — overflow, modular arithmetic, primes, and the digit tricks.",
+    "file": "topic-topic-math.json"
+  },
+  {
+    "id": "topic:design",
+    "slug": "topic/design",
+    "title": "Design problems — concept notes",
+    "category": "topic",
+    "topic": "design",
+    "order": 23,
+    "summary": "Building a data structure from scratch under a contract — the patterns behind LRU, LFU, a min-stack, hit counters and rate limiters.",
+    "file": "topic-topic-design.json"
+  },
+  {
+    "id": "topic:concurrency",
+    "slug": "topic/concurrency",
+    "title": "Concurrency — concept notes",
+    "category": "topic",
+    "topic": "concurrency",
+    "order": 24,
+    "summary": "The Java concurrency tools an interview actually tests — happens-before, the memory model, and how to write a correct producer-consumer.",
+    "file": "topic-topic-concurrency.json"
+  }
+]

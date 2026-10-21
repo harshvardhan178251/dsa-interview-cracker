@@ -1,0 +1,15 @@
+{
+  "name": "dsa-interview-cracker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tooling for the DSA Interview Cracker repository. The study site itself lives in web/.",
+  "type": "module",
+  "scripts": {
+    "qa": "node scripts/qa.mjs",
+    "qa:install": "npx patchright install chromium"
+  },
+  "devDependencies": {
+    "patchright": "^1.64.1",
+    "yaml": "^2.9.1"
+  }
+}

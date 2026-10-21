@@ -1,0 +1,28 @@
+# ---- Java / Maven ----
+target/
+*.class
+*.jar
+!.mvn/wrapper/maven-wrapper.jar
+
+# ---- Node ----
+node_modules/
+web/dist/
+web/dev.log
+web/.vite/
+*.tsbuildinfo
+
+# ---- QA artefacts ----
+web/qa-*.png
+qa-*.png
+
+# ---- Tooling ----
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# ---- Local scratch ----
+tmp/
+scratch/
+*.log
