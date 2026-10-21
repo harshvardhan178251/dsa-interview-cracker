@@ -29,10 +29,14 @@ D:\dsa
 .\scripts\dev.ps1
 # → http://localhost:5173
 
-# 2. just the tests
+# 2. the site plus the Java compiler backend
+cd web; npm run build; npm run serve
+# → http://localhost:4173  (the Run tab compiles your code on the server)
+
+# 3. just the tests
 .\scripts\test.ps1
 
-# 3. run one problem
+# 4. run one problem
 .\scripts\run.ps1 arrays.TwoSum "4`n2 7 11 15`n9"
 # → 0 1
 ```
@@ -186,11 +190,13 @@ Four gates, all green:
 | **Unit tests** | `.\scripts\test.ps1` | 2000+ JUnit tests — every algorithm is correct |
 | **Runner sources** | `cd web; npm run verify:judge` | Every problem compiles standalone and prints exactly its documented output — the same path the browser uses |
 | **Site build** | `cd web; npm run build` | The site compiles and bundles cleanly |
-| **Browser smoke test** | `npm run qa` | The landing page, topic pages, catalogue, search, filters, write-ups, code viewer and progress tracking all work in a real browser |
+| **Browser smoke test** | `npm run qa` | The landing page, topic pages, catalogue, search, filters, write-ups, code viewer, the Java editor and progress tracking all work in a real browser |
+| **Compiler backend** | `cd web; npm run test:backend` | The backend compiles, runs, detects wrong answers and produces a diff |
 | **Production build** | `node scripts/qa-offline.mjs` | The built static bundle works when served over http, with no console errors |
 
 `npm run qa` needs a running server (`cd web; npm run dev`) and a one-time
-`npm run qa:install` to fetch the headless browser.
+`npm run qa:install` to fetch the headless browser. The backend checks need the
+backend running (`cd web; npm run serve`).
 
 ---
 
@@ -208,18 +214,82 @@ npm run verify:judge -- --id arrays.MyNewProblem
 
 ---
 
+## The compiler backend
+
+Every problem page has a **Run** tab with a real Java editor. Write your own solution,
+run it, and the server tells you exactly what went wrong.
+
+```
+Client (CodeMirror)  ──POST /api/run──►  Node backend  ──►  javac + java
+      ▲                                        │
+      └────── verdict, stdout, diff ────────────┘
+```
+
+**What the backend does**
+
+1. **Compiles** the submitted Java with the local JDK, in a throwaway temp directory.
+2. **Runs** it against the input, with a memory cap and a timeout.
+3. **Judges** the output against the problem's documented expected output.
+4. **Diffs** it line by line when the answer is wrong.
+
+**The verdict**
+
+| Verdict | Meaning |
+|---|---|
+| **Accepted** | Every test case produced the expected output |
+| **Wrong Answer** | It ran, but the output differs — with an expected-vs-actual diff |
+| **Compile Error** | `javac` rejected it — the compiler output is shown verbatim |
+| **Runtime Error** | It crashed — the stack trace is shown |
+| **Time Limit Exceeded** | It ran past the time limit and was killed |
+
+**Differential checking.** A problem's documented sample is always run. Any *other* input
+you type has no recorded expected output, so the backend runs the **reference solution**
+on the same input and compares the two. That means a wrong answer is caught on any input,
+not just the sample.
+
+**Your own test cases.** "Add as test case" turns the current input into a named case
+with an optional expected output. Cases are sent with every run.
+
+**The API**
+
+| Endpoint | Purpose |
+|---|---|
+| `GET /api/health` | Liveness, the JDK version and the configured limits |
+| `POST /api/run` | `{ problemId, source, stdin, cases[] }` → verdict, per-case results and diffs |
+| `GET /api/problems/<id>/cases` | The documented test cases for a problem |
+
+```powershell
+cd web
+npm run serve          # http://localhost:4173 — the site and the compiler together
+npm run test:backend   # 17 checks against a running backend
+```
+
+**Limits** (in `web/server/judge.js`): 8 s per run, 15 s per compile, 256 MB heap,
+200 kB of source, 4 concurrent runs, and 200 kB of captured output.
+
+> **Security.** The backend compiles and executes code you supply, with the permissions
+> of the server process. That is fine for a local study tool or a private deployment, but
+> if you expose it publicly, put it behind a container or a sandbox with no network
+> access — the Docker image in this repository is the right shape for that.
+
+**Static deployments still work.** When the backend is not reachable the site falls back
+to the public Judge0 API automatically, and the UI says which engine it used.
+
+---
+
 ## Deployment
 
-The site is a static single-page app — no server, no database, no API keys. It deploys
-anywhere that can serve files, and every target below is pre-configured.
+The site is a static single-page app. It deploys anywhere that can serve files — and,
+with the compiler backend, it also deploys anywhere that can run a Node process.
 
-| Target | Command | Notes |
-|---|---|---|
-| **Docker** | `npm run docker:build` then `npm run docker:run` | Builds the bundle and serves it with nginx on <http://localhost:8080>. `docker compose up --build` works too |
-| **Vercel** | `vercel --cwd web` | `web/vercel.json` has the build command, the SPA rewrite and the cache headers |
-| **Netlify** | `netlify deploy --dir=web/dist` | `web/netlify.toml` and `web/public/_redirects` cover the rewrite |
-| **GitHub Pages** | push to `main` | `.github/workflows/deploy.yml` builds and publishes, including the `404.html` fallback Pages needs |
-| **Any static host** | upload `web/dist` | Serve `index.html` for unknown paths |
+| Target | Command | Compiler? | Notes |
+|---|---|---|---|
+| **Docker** | `npm run docker:build` then `npm run docker:run` | **yes** | nginx serves the site and proxies `/api` to the Node backend, which has its own JDK. <http://localhost:8080> |
+| **Your own server** | `cd web && npm run build && npm run serve` | **yes** | One process serves the site and the compiler. Needs a JDK on the machine |
+| **Vercel** | `vercel --cwd web` | no | `web/vercel.json` has the build command, the SPA rewrite and the cache headers. Falls back to Judge0 |
+| **Netlify** | `netlify deploy --dir=web/dist` | no | `web/netlify.toml` and `web/public/_redirects` cover the rewrite |
+| **GitHub Pages** | push to `main` | no | `.github/workflows/deploy.yml` builds and publishes, including the `404.html` fallback Pages needs |
+| **Any static host** | upload `web/dist` | no | Serve `index.html` for unknown paths |
 
 **Before deploying, set the site URL.** It feeds the canonical link, the Open Graph tags,
 the sitemap and the structured data:
@@ -237,13 +307,13 @@ everything else.
 **What a deployment includes**
 
 - **SEO** — per-page titles and descriptions, Open Graph and Twitter cards, canonical
-  links, `robots.txt`, and a generated `sitemap.xml` covering all 421 routes.
+  links, `robots.txt`, and a generated `sitemap.xml` covering all 430 routes.
 - **PWA** — a web manifest, generated icons (192/512/maskable) and a service worker, so
   the site is installable and keeps working offline.
 - **Resilience** — an error boundary around the app shell, so a bad page cannot
   white-screen the site, and a styled 404 that points at the catalogue.
-- **Performance** — the initial bundle is ~390 kB (87 kB gzipped); every problem and guide
-  is a separate lazy chunk that loads on demand.
+- **Performance** — the initial bundle is ~390 kB (87 kB gzipped); every problem, guide
+  and the code editor are separate lazy chunks that load on demand.
 
 ---
 

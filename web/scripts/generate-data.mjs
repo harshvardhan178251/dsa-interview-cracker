@@ -265,6 +265,27 @@ function collectProblems() {
 
       const difficulty = ['Easy', 'Medium', 'Hard'].includes(data.difficulty) ? data.difficulty : 'Easy'
       const hasTest = existsSync(join(TEST_ROOT, topic, `${className}Test.java`))
+      const sampleInput = stringify(data.sampleInput ?? '')
+      const sampleOutput = stringify(data.sampleOutput ?? '')
+
+      // The documented sample is always test case one. A problem may declare extra
+      // cases in the frontmatter:
+      //
+      //   tests:
+      //     - name: empty input
+      //       input: "0\n"
+      //       expected: "-1"
+      const extraTests = Array.isArray(data.tests) ? data.tests : []
+      const tests = [
+        ...(sampleInput ? [{ name: 'sample', input: sampleInput, expected: sampleOutput }] : []),
+        ...extraTests
+          .filter((t) => t && t.input !== undefined)
+          .map((t, i) => ({
+            name: t.name ?? `case ${i + 2}`,
+            input: stringify(t.input ?? ''),
+            expected: t.expected === undefined ? null : stringify(t.expected),
+          })),
+      ]
 
       problems.push({
         id: `${topic}.${className}`,
@@ -282,8 +303,9 @@ function collectProblems() {
         source,
         judgeSource: buildJudgeSource(source, className),
         doc: body,
-        sampleInput: stringify(data.sampleInput ?? ''),
-        sampleOutput: stringify(data.sampleOutput ?? ''),
+        sampleInput,
+        sampleOutput,
+        tests,
         methods: extractMethods(source),
         hasTest,
         hasDoc,
@@ -447,6 +469,7 @@ function summaryOf(problem) {
     frequency: problem.frequency,
     sampleInput: problem.sampleInput,
     sampleOutput: problem.sampleOutput,
+    tests: problem.tests,
     hasTest: problem.hasTest,
     hasDoc: problem.hasDoc,
   }

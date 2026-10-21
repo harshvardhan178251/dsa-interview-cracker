@@ -228,9 +228,11 @@ export function ProblemDetail() {
 
       {tab === 'run' && (
         <section className="rounded-2xl border border-line bg-surface p-5 sm:p-6">
-          {loading && <Spinner label="Preparing the runner…" />}
+          {loading && <Spinner label="Preparing the compiler…" />}
           {error && <p className="text-sm text-bad">{error}</p>}
-          {detail && <RunPanel problem={problem} judgeSource={detail.judgeSource} />}
+          {detail && (
+            <RunPanel problem={problem} referenceSource={detail.judgeSource} />
+          )}
         </section>
       )}
 

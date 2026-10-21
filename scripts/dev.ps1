@@ -31,6 +31,12 @@ if (-not $SkipTests) {
 }
 
 if (-not $NoServe) {
+    Write-Host "Starting the compiler backend on http://localhost:4173" -ForegroundColor Green
+    Start-Process -FilePath "cmd.exe" `
+        -ArgumentList "/c", "node server\index.js > D:\dsa\web\server.log 2>&1" `
+        -WorkingDirectory (Join-Path $root "web") -WindowStyle Hidden
+
+    Start-Sleep -Seconds 2
     Write-Host "Starting the dev server on http://localhost:5173" -ForegroundColor Green
     Push-Location "web"
     & npm run dev

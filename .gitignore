@@ -9,6 +9,7 @@ node_modules/
 web/dist/
 web/dev.log
 web/.vite/
+web/.env.local
 *.tsbuildinfo
 
 # ---- QA artefacts ----

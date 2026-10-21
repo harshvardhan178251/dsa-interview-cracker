@@ -174,6 +174,64 @@ try {
   const persisted = await page.locator('button[aria-label^="Status:"]').first().innerText()
   check('progress survives a reload', persisted === after, persisted.trim())
 
+  // --- The Java editor and the compiler backend ---
+  await go('/problems/arrays-two-sum')
+  await page.waitForSelector('h1', { timeout: 30000 })
+  await page.getByRole('tab', { name: 'Run' }).click()
+  await page.waitForTimeout(1500)
+
+  const editor = page.locator('.cm-content').first()
+  check('the Java editor loads', (await editor.count()) > 0)
+
+  const engineBadge = await page.locator('main').innerText()
+  check(
+    'the compiler engine is reported',
+    engineBadge.includes('local compiler') || engineBadge.includes('Judge0 fallback'),
+    engineBadge.includes('local compiler') ? 'local compiler' : 'Judge0 fallback',
+  )
+
+  // Write a deliberately wrong solution and check that it is detected.
+  await page.getByRole('button', { name: 'Your code' }).click()
+  await page.waitForTimeout(400)
+  await editor.click()
+  await page.keyboard.press('Control+a')
+  // `insertText` rather than `type`: the editor auto-closes brackets, which is
+  // right for a human but mangles synthetic keystrokes.
+  await page.keyboard.insertText(
+    'public class Main {\n' +
+      '  public static void main(String[] args) {\n' +
+      '    java.util.Scanner in = new java.util.Scanner(System.in);\n' +
+      '    int n = in.nextInt();\n' +
+      '    for (int i = 0; i < n; i++) in.nextInt();\n' +
+      '    System.out.println("9 9");\n' +
+      '  }\n' +
+      '}\n',
+  )
+  await page.waitForTimeout(400)
+
+  await page.getByRole('button', { name: 'Run code' }).click()
+  await page.waitForTimeout(1200)
+  await page
+    .getByText('Wrong Answer', { exact: false })
+    .first()
+    .waitFor({ timeout: 45000 })
+    .catch(() => {})
+
+  const runText = await page.locator('main').innerText()
+  check(
+    'a wrong answer is detected',
+    runText.includes('Wrong Answer'),
+    runText.includes('Wrong Answer') ? 'detected' : 'not detected',
+  )
+  check(
+    'the diff shows the expected output',
+    /expected/i.test(runText) && /actual/i.test(runText),
+  )
+  check(
+    'the failing case is named',
+    runText.includes('failed'),
+  )
+
   // --- Guides ---
   await go('/guides')
   await page.waitForSelector('h1', { timeout: 30000 })
