@@ -31,12 +31,14 @@ out.landing = {
   problemLinks: await page.locator('a[href*="/problems/"]').count(),
 }
 
-// 2. Deep link straight to a problem
+// 2. Deep link straight to a problem — GitHub Pages answers with 404.html, which
+//    redirects to the app shell; the deep link must be restored in the address bar.
 await go('/problems/arrays-two-sum')
 out.problem = {
   h1: await page.locator('h1').first().innerText(),
   tables: await page.locator('.md table').count(),
   hasDryRun: (await page.locator('.md').first().innerText()).includes('Dry Run'),
+  finalUrl: page.url().replace(BASE, ''),
 }
 
 // 3. Topic page (all its problems)

@@ -69,7 +69,13 @@ export async function backendAvailable(): Promise<boolean> {
     const timer = setTimeout(() => controller.abort(), 2500)
     const response = await fetch(`${API_BASE}/api/health`, { signal: controller.signal })
     clearTimeout(timer)
-    backendChecked = response.ok
+    if (!response.ok) {
+      backendChecked = false
+      return backendChecked
+    }
+    // A static deployment ships a stub that says `ok: false`.
+    const payload = (await response.json().catch(() => null)) as { ok?: boolean } | null
+    backendChecked = payload?.ok === true
   } catch {
     backendChecked = false
   }
