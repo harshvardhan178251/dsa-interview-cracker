@@ -43,9 +43,11 @@ function collectMarkdownFiles() {
     const full = join(REPO, dir)
     if (existsSync(full)) {
       for (const file of walk(full)) {
-        if (!file.includes(`${sep}node_modules${sep}`) && !file.includes(`${sep}dist${sep}`)) {
-          files.push(file)
-        }
+        // `web/src/data` is generated output — the links inside it are site routes,
+        // not file paths, so they must be left alone.
+        if (file.includes(`${sep}src${sep}data${sep}`)) continue
+        if (file.includes(`${sep}node_modules${sep}`) || file.includes(`${sep}dist${sep}`)) continue
+        files.push(file)
       }
     }
   }

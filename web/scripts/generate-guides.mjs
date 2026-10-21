@@ -61,18 +61,18 @@ const companyRows = sortedCompanies
 
 const tierSections = TIERS.map((tier, index) => {
   const members = tier
-    .map((company) => ({ company, count: companyCounts.get(company) ?? 0 }))
+    .map((company) => ({ company, count: companyCounts.get(company)?.length ?? 0 }))
     .filter((entry) => entry.count > 0)
     .sort((a, b) => b.count - a.count || a.company.localeCompare(b.company))
   if (!members.length) return ''
   const rows = members
-    .map((entry) => `| ${entry.company} | ${entry.count} | ${companyCounts.get(entry.company) ?? 0} |`)
+    .map((entry) => `| ${entry.company} | ${entry.count} | ${Math.round((entry.count / problems.length) * 100)}% |`)
     .join('\n')
   return `### ${TIER_LABELS[index]}\n\n| Company | Problems tagged | Share of the set |\n|---|---:|---:|\n${rows}\n`
 }).join('\n')
 
 const itServices = TIERS[3]
-  .map((company) => ({ company, count: companyCounts.get(company) ?? 0 }))
+  .map((company) => ({ company, count: companyCounts.get(company)?.length ?? 0 }))
   .filter((entry) => entry.count > 0)
   .sort((a, b) => b.count - a.count)
 

@@ -154,7 +154,7 @@ for the O(1) extra space trade-off.
 
 ## Related Problems
 
-- [Two Sum II — Input Array Is Sorted](../../../../../../docs/topics/10-twopointers.md) — O(1) extra space
-- [3Sum](../../../../../../docs/topics/10-twopointers.md) — the same idea, extended to triples
-- [Subarray Sum Equals K](../../../../../../docs/topics/12-prefixsum.md) — the same hash-map pattern
-- [Group Anagrams](../../../../../../docs/topics/09-hashing.md) — grouping by a canonical key
+- [Two Sum II - Input Array Is Sorted](../twopointers/TwoSumII.md) - O(1) extra space
+- [3Sum](../twopointers/ThreeSum.md) - the same idea, extended to triples
+- [Subarray Sum Equals K](../prefixsum/SubarraySumEqualsK.md) - the same hash-map pattern
+- [Group Anagrams](../hashing/GroupAnagrams.md) - grouping by a canonical key

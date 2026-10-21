@@ -71,7 +71,9 @@ export function GuideDetail() {
       <article className="rounded-2xl border border-line bg-surface p-5 sm:p-8">
         {loading && <Spinner label="Loading the guide…" />}
         {error && <p className="text-sm text-bad">{error}</p>}
-        {!loading && !error && <MarkdownView content={body ?? ''} />}
+        {!loading && !error && (
+          <MarkdownView content={body ?? ''} category={guide.category} />
+        )}
       </article>
     </div>
   )

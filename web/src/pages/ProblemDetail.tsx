@@ -157,7 +157,12 @@ export function ProblemDetail() {
         <section className="rounded-2xl border border-line bg-surface p-5 sm:p-6">
           {loading && <Spinner label="Loading the write-up…" />}
           {error && <p className="text-sm text-bad">{error}</p>}
-          {!loading && !error && <MarkdownView content={detail?.doc ?? ''} />}
+          {!loading && !error && (
+            <MarkdownView
+              content={detail?.doc ?? ''}
+              sourceDir={`src/main/java/com/dsa/${problem.topic}`}
+            />
+          )}
         </section>
       )}
 

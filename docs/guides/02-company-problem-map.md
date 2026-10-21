@@ -104,10 +104,92 @@ company showing all 322.
 
 ## Companies by tier
 
+### Product companies — the broadest pools
 
+| Company | Problems tagged | Share of the set |
+|---|---:|---:|
+| Amazon | 191 | 59% |
+| Google | 189 | 59% |
+| Meta | 172 | 53% |
 
+### Large product and fintech companies
 
+| Company | Problems tagged | Share of the set |
+|---|---:|---:|
+| Microsoft | 62 | 19% |
+| Uber | 61 | 19% |
+| Adobe | 58 | 18% |
+| Salesforce | 58 | 18% |
+| LinkedIn | 57 | 18% |
+| Apple | 56 | 17% |
+| Airbnb | 54 | 17% |
+| Facebook | 52 | 16% |
+| Bloomberg | 51 | 16% |
+| Netflix | 50 | 16% |
+| JP Morgan | 46 | 14% |
+| Goldman Sachs | 36 | 11% |
 
+### Selective product and startup companies
+
+| Company | Problems tagged | Share of the set |
+|---|---:|---:|
+| Lyft | 21 | 7% |
+| ByteDance | 17 | 5% |
+| Cloudflare | 14 | 4% |
+| Stripe | 14 | 4% |
+| Visa | 14 | 4% |
+| Zillow | 14 | 4% |
+| Flipkart | 13 | 4% |
+| Paytm | 12 | 4% |
+| eBay | 11 | 3% |
+| Oracle | 11 | 3% |
+| Spotify | 10 | 3% |
+| Datadog | 8 | 2% |
+| Intel | 8 | 2% |
+| Twitter | 8 | 2% |
+| Walmart | 8 | 2% |
+| Pinterest | 6 | 2% |
+
+### IT services and global SIs
+
+| Company | Problems tagged | Share of the set |
+|---|---:|---:|
+| Capgemini | 69 | 21% |
+| HCLTech | 68 | 21% |
+| TCS | 67 | 21% |
+| Wipro | 66 | 20% |
+| Cognizant | 65 | 20% |
+| Infosys | 59 | 18% |
+| Tech Mahindra | 58 | 18% |
+| Accenture | 49 | 15% |
+
+### Selective enterprise and other companies
+
+| Company | Problems tagged | Share of the set |
+|---|---:|---:|
+| Philips | 22 | 7% |
+| Zebra | 19 | 6% |
+| EY | 18 | 6% |
+| KPMG | 18 | 6% |
+| Razorpay | 18 | 6% |
+| Barclays | 15 | 5% |
+| Qualcomm | 14 | 4% |
+| Sony | 13 | 4% |
+| Deloitte | 12 | 4% |
+| Siemens | 12 | 4% |
+| Swiggy | 12 | 4% |
+| Zomato | 12 | 4% |
+| Bosch | 11 | 3% |
+| Freshworks | 11 | 3% |
+| IBM | 11 | 3% |
+| Standard Chartered | 10 | 3% |
+| Canva | 9 | 3% |
+| Samsung | 9 | 3% |
+| Cisco | 8 | 2% |
+| Dell | 8 | 2% |
+| Figma | 6 | 2% |
+| Atlassian | 5 | 2% |
+| HSBC | 5 | 2% |
 
 ## IT services and campus hiring
 
@@ -118,7 +200,14 @@ dynamic programming.
 
 | Company | Problems tagged | Share of the set |
 |---|---:|---:|
-
+| **Capgemini** | 69 | 21% |
+| **HCLTech** | 68 | 21% |
+| **TCS** | 67 | 21% |
+| **Wipro** | 66 | 20% |
+| **Cognizant** | 65 | 20% |
+| **Infosys** | 59 | 18% |
+| **Tech Mahindra** | 58 | 18% |
+| **Accenture** | 49 | 15% |
 
 **What to expect in an IT services interview.** The loop is usually **aptitude → coding →
 HR**, and the coding round leans hard on the standard patterns:
