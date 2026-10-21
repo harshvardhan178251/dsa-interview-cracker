@@ -1,9 +1,17 @@
 # DSA Interview Cracker
 
-**316 Java DSA problems** across **24 topics** for SDE interviews — each with a clean
+## 🌐 Live site
+
+**https://harshvardhan178251.github.io/dsa-interview-cracker/**
+
+Anyone can browse it, search it, read every write-up and run the Java solutions — no
+account, no install. The repository is public at
+[github.com/harshvardhan178251/dsa-interview-cracker](https://github.com/harshvardhan178251/dsa-interview-cracker).
+
+**322 Java DSA problems** across **24 topics** for SDE interviews — each with a clean
 solution, the exact stdin format, a **step-by-step dry run**, a complexity analysis,
-interview notes, a JUnit test, and a browser UI where you can **run the Java code against
-your own test cases**.
+interview notes, a JUnit test, and an in-browser editor that compiles and runs your code
+and tells you exactly why it is wrong.
 
 Plus 48 written guides: topic concept notes, an 8-week study plan, the interview
 playbook, a Java cheatsheet, and system-design / low-level-design material.
@@ -284,12 +292,21 @@ with the compiler backend, it also deploys anywhere that can run a Node process.
 
 | Target | Command | Compiler? | Notes |
 |---|---|---|---|
+| **GitHub Pages** | `cd web; npm run deploy:pages -- --repo owner/name` | no | Already live at the URL above. Publishes the built site to a `gh-pages` branch |
 | **Docker** | `npm run docker:build` then `npm run docker:run` | **yes** | nginx serves the site and proxies `/api` to the Node backend, which has its own JDK. <http://localhost:8080> |
 | **Your own server** | `cd web && npm run build && npm run serve` | **yes** | One process serves the site and the compiler. Needs a JDK on the machine |
 | **Vercel** | `vercel --cwd web` | no | `web/vercel.json` has the build command, the SPA rewrite and the cache headers. Falls back to Judge0 |
 | **Netlify** | `netlify deploy --dir=web/dist` | no | `web/netlify.toml` and `web/public/_redirects` cover the rewrite |
-| **GitHub Pages** | push to `main` | no | `.github/workflows/deploy.yml` builds and publishes, including the `404.html` fallback Pages needs |
 | **Any static host** | upload `web/dist` | no | Serve `index.html` for unknown paths |
+
+**One caveat about GitHub Pages.** Pages has no rewrite rules, so an unknown path is
+answered with `404.html` and a **404 status**. The build generates a `404.html` that
+stores the requested URL and bounces to the app shell, which restores it — so a visitor
+lands on the right page and the content itself is served with a 200. But the *first*
+request still carries a 404 status, which matters for crawlers and uptime monitoring.
+**If you need true 200s on deep links, deploy to Vercel, Netlify or Cloudflare Pages
+instead** — they support SPA rewrites, and `web/vercel.json` and `web/netlify.toml` are
+already configured for it.
 
 **Before deploying, set the site URL.** It feeds the canonical link, the Open Graph tags,
 the sitemap and the structured data:

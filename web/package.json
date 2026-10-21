@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "npm run gen:sitemap && tsc -b && vite build",
+    "build": "npm run gen:sitemap && tsc -b && vite build && npm run gen:404",
     "lint": "oxlint",
     "preview": "vite preview --port 4173",
     "serve": "node server/index.js",
@@ -13,6 +13,8 @@
     "gen:data": "node scripts/generate-data.mjs",
     "gen:guides": "node scripts/generate-guides.mjs",
     "gen:sitemap": "node scripts/generate-sitemap.mjs",
+    "gen:404": "node scripts/generate-404.mjs",
+    "deploy:pages": "node scripts/deploy-pages.mjs",
     "verify:judge": "node scripts/verify-judge-sources.mjs",
     "sync": "npm run gen:guides && npm run gen:data && npm run gen:sitemap"
   },

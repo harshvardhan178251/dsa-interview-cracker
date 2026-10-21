@@ -19,6 +19,9 @@ const SITE = (
   urlIndex >= 0 ? args[urlIndex + 1] : process.env.VITE_SITE_URL ?? 'http://localhost:5173'
 ).replace(/\/+$/, '')
 
+/** The sub-path the site is served from, e.g. "/dsa-interview-cracker". */
+const BASE = (process.env.BASE_PATH ?? '/').replace(/\/+$/, '')
+
 if (!process.env.VITE_SITE_URL && urlIndex === -1) {
   console.warn(
     '[generate-sitemap] VITE_SITE_URL is not set — emitting localhost URLs. ' +
@@ -34,7 +37,7 @@ const entries = []
 const seen = new Set()
 
 function add(path, priority, changefreq) {
-  const loc = `${SITE}${path}`
+  const loc = `${SITE}${BASE}${path}`
   if (seen.has(loc)) return
   seen.add(loc)
   entries.push({ loc, priority, changefreq })

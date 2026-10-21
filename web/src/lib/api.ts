@@ -58,13 +58,16 @@ export interface TestCase {
 
 let backendChecked: boolean | null = null
 
+/** The path the API lives under, honouring a sub-path deployment. */
+const API_BASE = import.meta.env.BASE_URL.replace(/\/+$/, '')
+
 /** Probes the backend once per session. */
 export async function backendAvailable(): Promise<boolean> {
   if (backendChecked !== null) return backendChecked
   try {
     const controller = new AbortController()
     const timer = setTimeout(() => controller.abort(), 2500)
-    const response = await fetch('/api/health', { signal: controller.signal })
+    const response = await fetch(`${API_BASE}/api/health`, { signal: controller.signal })
     clearTimeout(timer)
     backendChecked = response.ok
   } catch {
@@ -94,7 +97,7 @@ export async function runSubmission(options: {
 }): Promise<RunResponse> {
   if (await backendAvailable()) {
     try {
-      const response = await fetch('/api/run', {
+      const response = await fetch(`${API_BASE}/api/run`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({

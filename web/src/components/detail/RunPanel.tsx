@@ -101,9 +101,9 @@ export function RunPanel({
           <h3 className="text-sm font-semibold text-ink">Java compiler</h3>
           <p className="text-xs text-muted">
             {backend === true
-              ? 'Running on the local compiler — your code is compiled and executed by the server.'
+              ? 'Your code is compiled and executed by this server.'
               : backend === false
-                ? 'The local compiler is not available, so runs go to the public Judge0 API.'
+                ? 'No local compiler here — runs are sent to the public Judge0 API.'
                 : 'Checking for the local compiler…'}
           </p>
         </div>

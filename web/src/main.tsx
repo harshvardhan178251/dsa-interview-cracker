@@ -9,10 +9,33 @@ import './index.css'
 const container = document.getElementById('root')
 if (!container) throw new Error('Root element #root not found')
 
+// `import.meta.env.BASE_URL` is e.g. "/dsa-interview-cracker/" for a sub-path
+// deployment; React Router wants it without the trailing slash.
+const basename = import.meta.env.BASE_URL.replace(/\/+$/, '')
+
+// GitHub Pages answers an unknown path with `404.html`, which stores the
+// requested URL and bounces here. Restore it before the router reads the
+// location, so the deep link renders on a 200 instead of a 404.
+try {
+  const stored = sessionStorage.getItem('dsa:redirect')
+  if (stored) {
+    sessionStorage.removeItem('dsa:redirect')
+    const target = new URL(stored)
+    if (
+      target.origin === window.location.origin &&
+      target.pathname.startsWith(`${basename}/`)
+    ) {
+      window.history.replaceState(null, '', target.pathname + target.search + target.hash)
+    }
+  }
+} catch {
+  /* sessionStorage unavailable — the app still works, just at the root */
+}
+
 createRoot(container).render(
   <StrictMode>
     <ThemeProvider>
-      <BrowserRouter basename={import.meta.env.BASE_URL}>
+      <BrowserRouter basename={basename}>
         <App />
       </BrowserRouter>
     </ThemeProvider>
