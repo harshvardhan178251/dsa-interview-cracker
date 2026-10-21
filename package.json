@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "qa": "node scripts/qa.mjs",
+    "qa:offline": "node scripts/qa-offline.mjs",
     "qa:install": "npx patchright install chromium"
   },
   "devDependencies": {

@@ -63,11 +63,15 @@ The site is the fastest way to work through the set.
 cd web
 npm install
 npm run dev          # http://localhost:5173
-npm run build        # static bundle in web/dist — open dist/index.html directly
+npm run build        # static bundle in web/dist
+npm run preview      # serve the built bundle on http://localhost:4173
 ```
 
-The build is fully static and works from `file://` (the router uses hashes), so you can
-carry the whole site around on a USB stick.
+The build is fully static — no server logic, no database, no API keys. Browsers refuse to
+load ES modules over `file://`, so serve the `dist` folder over http (any static server
+works: `npm run preview`, `npx serve dist`, `python -m http.server`). The site then runs
+entirely offline; only the in-browser Java runner needs an internet connection, because it
+compiles on the public Judge0 API.
 
 ---
 
@@ -182,6 +186,7 @@ Four gates, all green:
 | **Runner sources** | `cd web; npm run verify:judge` | Every problem compiles standalone and prints exactly its documented output — the same path the browser uses |
 | **Site build** | `cd web; npm run build` | The site compiles and bundles cleanly |
 | **Browser smoke test** | `npm run qa` | The catalogue, search, filters, write-ups, code viewer and progress tracking all work in a real browser |
+| **Production build** | `node scripts/qa-offline.mjs` | The built static bundle works when served over http, with no console errors |
 
 `npm run qa` needs a running server (`cd web; npm run dev`) and a one-time
 `npm run qa:install` to fetch the headless browser.
