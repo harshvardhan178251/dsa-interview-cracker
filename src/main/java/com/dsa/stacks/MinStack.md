@@ -3,7 +3,7 @@ title: Min Stack
 leetcode: 155
 difficulty: Medium
 patterns: [Stack, Auxiliary minimum tracking]
-companies: [Amazon, Google, Meta, Microsoft, Uber, Bloomberg, Amazon]
+companies: [Meta, Amazon, Google, Airbnb, Bloomberg, Uber, ByteDance]
 frequency: 5
 tags: [stack, design, auxiliary]
 sampleInput: |

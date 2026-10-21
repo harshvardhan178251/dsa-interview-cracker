@@ -3,7 +3,7 @@ title: Bridges in a Graph
 leetcode: null
 difficulty: Hard
 patterns: [Low-link values, DFS, Tarjan]
-companies: [Amazon, Google, Meta, Uber, LinkedIn]
+companies: [Amazon, Bloomberg, Salesforce]
 frequency: 4
 tags: [graph, undirected, bridges, low-link, tarjan]
 sampleInput: |

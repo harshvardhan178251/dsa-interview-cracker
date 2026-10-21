@@ -3,7 +3,7 @@ title: Copy List with Random Pointer
 leetcode: 138
 difficulty: Medium
 patterns: [Interleaving, Deep copy with cycles]
-companies: [Amazon, Google, Meta, Microsoft, Uber, Bloomberg]
+companies: [Google, Meta, Adobe, Goldman Sachs, Walmart]
 frequency: 4
 tags: [linked-list, pointers, deep-copy]
 sampleInput: |

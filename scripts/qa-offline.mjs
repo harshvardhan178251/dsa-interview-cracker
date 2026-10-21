@@ -27,12 +27,12 @@ try {
   await page.waitForSelector('h1', { timeout: 30000 })
   out.heading = await page.locator('h1').first().innerText()
 
-  await page.goto(`${BASE}#/problems`)
-  await page.waitForSelector('a[href*="#/problems/"]', { timeout: 30000 })
+  await page.goto(`${BASE}/problems`)
+  await page.waitForSelector('a[href*="/problems/"]', { timeout: 30000 })
   await page.waitForTimeout(800)
-  out.cards = await page.locator('a[href*="#/problems/"]').count()
+  out.cards = await page.locator('a[href*="/problems/"]').count()
 
-  await page.goto(`${BASE}#/problems/arrays-two-sum`)
+  await page.goto(`${BASE}/problems/arrays-two-sum`)
   await page.waitForSelector('h1', { timeout: 30000 })
   await page.waitForTimeout(1200)
   out.dryRunVisible = (await page.locator('main').innerText()).includes('Dry Run')
@@ -42,9 +42,9 @@ try {
   await page.waitForTimeout(600)
   out.sourceVisible = (await page.locator('pre').first().innerText()).includes('twoSum')
 
-  await page.goto(`${BASE}#/guides`)
+  await page.goto(`${BASE}/guides`)
   await page.waitForTimeout(1200)
-  out.guides = await page.locator('a[href*="#/guides/"]').count()
+  out.guides = await page.locator('a[href*="/guides/"]').count()
 
   out.consoleErrors = consoleErrors
 } finally {

@@ -3,7 +3,7 @@ title: Reverse Words in a String
 leetcode: 151
 difficulty: Medium
 patterns: [String splitting, Two pointers]
-companies: [Amazon, Meta, Google, Uber, Facebook]
+companies: [Amazon, Goldman Sachs, Facebook]
 frequency: 3
 tags: [string, parsing, two-pointers]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Permutation in String
 leetcode: 567
 difficulty: Medium
 patterns: [Sliding window, Frequency counting, Hashing]
-companies: [Amazon, Google, Meta, Uber, Adobe]
+companies: [Google, Meta, JP Morgan, Goldman Sachs, Intel]
 frequency: 4
 tags: [string, sliding-window, hashmap]
 sampleInput: |

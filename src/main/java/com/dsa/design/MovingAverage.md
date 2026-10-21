@@ -3,7 +3,7 @@ title: Moving Average
 leetcode: 346
 difficulty: Easy
 patterns: [Design, Sliding window, Running sum]
-companies: [Amazon, Google, Meta, Uber, LinkedIn]
+companies: [Amazon, LinkedIn, Facebook]
 frequency: 3
 tags: [sliding window, deque, running sum]
 sampleInput: |

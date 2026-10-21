@@ -3,7 +3,7 @@ title: Contains Duplicate II
 leetcode: 219
 difficulty: Medium
 patterns: [Hashing, Sliding distance window]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Meta, JP Morgan, Uber]
 frequency: 3
 tags: [array, hashmap, sliding-window]
 sampleInput: |

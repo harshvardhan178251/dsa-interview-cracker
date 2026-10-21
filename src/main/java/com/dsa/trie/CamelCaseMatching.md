@@ -3,7 +3,7 @@ title: Camelcase Matching
 leetcode: 1253
 difficulty: Medium
 patterns: [Two pointers, Case rules]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Google, Adobe, Bloomberg]
 frequency: 3
 tags: [two-pointers, strings, case, matching]
 sampleInput: |

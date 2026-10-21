@@ -3,7 +3,7 @@ title: Concurrent Sum using Threads
 leetcode: null
 difficulty: Medium
 patterns: [Concurrency, Work splitting, Join before reading]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Meta, Apple]
 frequency: 3
 tags: [concurrency, threads, work splitting, join]
 sampleInput: |

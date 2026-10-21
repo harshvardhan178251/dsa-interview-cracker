@@ -3,7 +3,7 @@ title: XOR of All Elements
 leetcode: 1486
 difficulty: Easy
 patterns: [XOR, Bit tricks]
-companies: [Amazon, Google, Meta, Uber, Apple]
+companies: [Google, Uber, Microsoft]
 frequency: 3
 tags: [array, bit-manipulation, xor]
 sampleInput: |

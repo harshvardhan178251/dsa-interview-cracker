@@ -3,7 +3,7 @@ title: Tarjan's Strongly Connected Components
 leetcode: null
 difficulty: Hard
 patterns: [Tarjan, Low-link values, DFS]
-companies: [Amazon, Google, Meta, Uber, LinkedIn]
+companies: [Meta, LinkedIn, Airbnb]
 frequency: 4
 tags: [graph, directed, scc, tarjan, low-link]
 sampleInput: |

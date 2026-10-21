@@ -3,7 +3,7 @@ title: Maximum Width Ramp
 leetcode: 962
 difficulty: Hard
 patterns: [Monotonic stack, Two pointers]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Amazon, LinkedIn]
 frequency: 2
 tags: [array, stack, hard]
 sampleInput: |

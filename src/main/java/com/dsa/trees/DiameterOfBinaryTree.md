@@ -3,7 +3,7 @@ title: Diameter of Binary Tree
 leetcode: 543
 difficulty: Easy
 patterns: [DFS, Post-order with global state]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Google, Amazon, Microsoft, Uber, Paytm]
 frequency: 4
 tags: [tree, dfs, recursion, diameter]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Producer–Consumer Problem
 leetcode: null
 difficulty: Medium
 patterns: [Concurrency, Blocking queue, Poison pill]
-companies: [Amazon, Google, Meta, Uber, Netflix]
+companies: [Google, JP Morgan, Microsoft]
 frequency: 4
 tags: [concurrency, blocking queue, threads]
 sampleInput: |

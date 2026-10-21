@@ -3,7 +3,7 @@ title: Search a 2D Matrix
 leetcode: 74
 difficulty: Medium
 patterns: [Binary search, Matrix, Divide and conquer]
-companies: [Amazon, Google, Meta, Microsoft, Uber]
+companies: [Google, Meta, Microsoft, JP Morgan, Flipkart]
 frequency: 4
 tags: [matrix, array, binary-search]
 sampleInput: |

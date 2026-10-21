@@ -3,7 +3,7 @@ title: First Bad Version
 leetcode: 278
 difficulty: Easy
 patterns: [Binary search, Monotone predicate]
-companies: [Amazon, Google, Meta, Facebook]
+companies: [Google, Amazon, Apple, Uber, Cloudflare]
 frequency: 4
 tags: [binary-search, api-design, versioning]
 sampleInput: |

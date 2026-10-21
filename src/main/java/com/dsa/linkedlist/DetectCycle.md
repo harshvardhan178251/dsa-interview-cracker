@@ -3,7 +3,7 @@ title: Linked List Cycle
 leetcode: 141
 difficulty: Easy
 patterns: [Two pointers, Floyd cycle detection]
-companies: [Amazon, Google, Meta, Microsoft, Uber, Bloomberg]
+companies: [Amazon, Meta, Google, Goldman Sachs, Adobe, Airbnb, Cloudflare]
 frequency: 5
 tags: [linked-list, pointers, cycle]
 sampleInput: |

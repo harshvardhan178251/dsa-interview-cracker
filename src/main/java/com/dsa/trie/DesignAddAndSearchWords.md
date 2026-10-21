@@ -3,7 +3,7 @@ title: Design Add and Search Words
 leetcode: 211
 difficulty: Medium
 patterns: [Trie, Backtracking with wildcards]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Google, Meta, JP Morgan, Netflix, Visa]
 frequency: 4
 tags: [trie, design, backtracking, wildcard]
 sampleInput: |

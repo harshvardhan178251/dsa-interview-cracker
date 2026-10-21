@@ -3,7 +3,7 @@ title: Bounded Blocking Queue
 leetcode: null
 difficulty: Medium
 patterns: [Concurrency, Lock, Condition variables]
-companies: [Amazon, Google, Meta, Uber, Netflix]
+companies: [Google, LinkedIn, Adobe]
 frequency: 4
 tags: [concurrency, lock, condition, blocking queue]
 sampleInput: |

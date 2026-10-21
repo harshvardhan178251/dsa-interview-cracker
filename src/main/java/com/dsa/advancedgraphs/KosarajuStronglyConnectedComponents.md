@@ -3,7 +3,7 @@ title: Kosaraju's Strongly Connected Components
 leetcode: null
 difficulty: Hard
 patterns: [Kosaraju, Two DFS passes, Transpose graph]
-companies: [Amazon, Google, Meta, Uber, LinkedIn]
+companies: [Meta, Uber, Microsoft]
 frequency: 4
 tags: [graph, directed, scc, kosaraju]
 sampleInput: |

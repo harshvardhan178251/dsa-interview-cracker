@@ -3,7 +3,7 @@ title: LRU Cache
 leetcode: 146
 difficulty: Medium
 patterns: [Design, HashMap, Doubly linked list]
-companies: [Amazon, Google, Meta, Uber, LinkedIn, Netflix, Airbnb]
+companies: [Google, Meta, Amazon, Facebook, Adobe, Airbnb, Walmart]
 frequency: 5
 tags: [cache, hashmap, linked list, eviction]
 sampleInput: |

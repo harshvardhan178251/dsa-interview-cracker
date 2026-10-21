@@ -3,7 +3,7 @@ title: Container With Most Water
 leetcode: 11
 difficulty: Medium
 patterns: [Two Pointers, Greedy]
-companies: [Amazon, Meta, Google, Microsoft, Uber, Bloomberg]
+companies: [Meta, Amazon, Google, Uber, Apple, JP Morgan, Twitter]
 frequency: 5
 tags: [array, two-pointers, greedy]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Add Two Numbers II
 leetcode: 445
 difficulty: Medium
 patterns: [Two stacks, Carry propagation]
-companies: [Amazon, Google, Meta, Microsoft, Uber, Bloomberg]
+companies: [Amazon, Meta, Bloomberg, Apple, Lyft]
 frequency: 4
 tags: [linked-list, stack, math, carry]
 sampleInput: |

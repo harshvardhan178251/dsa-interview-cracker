@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react'
 import { Outlet, useLocation, useNavigate } from 'react-router-dom'
 import { Sidebar } from './Sidebar'
 import { Topbar } from './Topbar'
+import { ErrorBoundary } from '../common/ErrorBoundary'
 import { ProgressProvider } from '../../hooks/useProgress'
 
 export function AppShell() {
@@ -42,7 +43,9 @@ export function AppShell() {
         <div className="flex min-w-0 flex-1 flex-col">
           <Topbar onOpenNav={() => setMobileNavOpen(true)} />
           <main className="flex-1 px-4 py-6 sm:px-6 lg:px-8">
-            <Outlet />
+            <ErrorBoundary>
+              <Outlet />
+            </ErrorBoundary>
           </main>
           <footer className="border-t border-line px-6 py-4 text-xs text-faint">
             <div className="flex flex-wrap items-center justify-between gap-2">

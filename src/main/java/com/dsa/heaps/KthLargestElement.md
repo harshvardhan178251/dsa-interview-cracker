@@ -3,7 +3,7 @@ title: Kth Largest Element in an Array
 leetcode: 215
 difficulty: Medium
 patterns: [Heap, Top-K, Bounded heap]
-companies: [Amazon, Meta, Google, Microsoft, Uber, Bloomberg]
+companies: [Meta, Google, Amazon, Uber, Facebook, Netflix, Cloudflare]
 frequency: 5
 tags: [heap, array, top-k, selection]
 sampleInput: |

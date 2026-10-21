@@ -3,7 +3,7 @@ title: Spiral Matrix
 leetcode: 54
 difficulty: Medium
 patterns: [Boundary shrinking, Simulation]
-companies: [Amazon, Google, Meta, Uber, Bloomberg, Adobe]
+companies: [Meta, Amazon, Uber, Netflix, Cloudflare]
 frequency: 4
 tags: [matrix, simulation, two-pointers]
 sampleInput: |

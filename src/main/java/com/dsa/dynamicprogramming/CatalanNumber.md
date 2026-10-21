@@ -3,7 +3,7 @@ title: Catalan Number
 leetcode: 96
 difficulty: Medium
 patterns: [Counting DP, Combinatorics]
-companies: [Amazon, Google, Meta, Microsoft]
+companies: [Amazon, Google, Apple, Bloomberg, Spotify]
 frequency: 4
 tags: [dynamic-programming, combinatorics, trees]
 sampleInput: |

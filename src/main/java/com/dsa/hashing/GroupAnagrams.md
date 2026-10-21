@@ -3,7 +3,7 @@ title: Group Anagrams
 leetcode: 49
 difficulty: Medium
 patterns: [Hashing, Canonical key]
-companies: [Amazon, Uber, Meta, Google, Bloomberg]
+companies: [Meta, Google, Uber, Facebook, Walmart]
 frequency: 4
 tags: [hashmap, string, sorting, grouping]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Kth Smallest Element in a BST
 leetcode: 230
 difficulty: Medium
 patterns: [BST, In-order iteration]
-companies: [Amazon, Google, Meta, Uber, Bloomberg]
+companies: [Amazon, Google, Meta, LinkedIn, Adobe, Apple, Stripe]
 frequency: 5
 tags: [tree, bst, traversal, stack]
 sampleInput: |

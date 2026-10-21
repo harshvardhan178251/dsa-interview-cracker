@@ -6,7 +6,6 @@ import type { Problem } from '../../lib/types'
 import { Badge } from '../common/Badge'
 import { DifficultyBadge } from './DifficultyBadge'
 import { StatusToggle } from './StatusToggle'
-
 export function ProblemCard({ problem }: { problem: Problem }) {
   const { entryFor } = useProgress()
   const entry = entryFor(problem.id)
@@ -28,7 +27,13 @@ export function ProblemCard({ problem }: { problem: Problem }) {
             {problem.title}
           </Link>
           <div className="mt-1.5 flex flex-wrap items-center gap-1.5">
-            <Badge tone="brand">{problem.topicLabel}</Badge>
+            <Link
+              to={`/topics/${problem.topic}`}
+              onClick={(e) => e.stopPropagation()}
+              className="rounded-md border border-brand/30 bg-brand-soft px-1.5 py-0.5 text-[11px] font-medium text-brand transition-colors hover:bg-brand hover:text-brand-ink"
+            >
+              {problem.topicLabel}
+            </Link>
             <DifficultyBadge difficulty={problem.difficulty} />
             {problem.leetcode != null && (
               <Badge tone="neutral" title={`LeetCode #${problem.leetcode}`}>

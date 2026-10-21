@@ -3,7 +3,7 @@ title: Maximum Circular Subarray
 leetcode: 134
 difficulty: Medium
 patterns: [Kadane's algorithm, Complement trick]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Amazon, Airbnb]
 frequency: 2
 tags: [array, dynamic-programming, kadane, circular]
 sampleInput: |

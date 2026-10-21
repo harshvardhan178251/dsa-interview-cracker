@@ -3,7 +3,7 @@ title: Design Tic-Tac-Toe
 leetcode: null
 difficulty: Medium
 patterns: [Design, State machine, Win detection]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Amazon, Salesforce]
 frequency: 3
 tags: [matrix, game, state machine]
 sampleInput: |

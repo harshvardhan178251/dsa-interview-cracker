@@ -3,7 +3,7 @@ title: Longest Prefix of a Phone Number
 leetcode: 17
 difficulty: Medium
 patterns: [Trie, Prefix walk]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Google, Netflix, Microsoft]
 frequency: 3
 tags: [trie, strings, prefix, phone]
 sampleInput: |

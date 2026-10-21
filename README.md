@@ -53,8 +53,9 @@ The site is the fastest way to work through the set.
 | Feature | What it does |
 |---|---|
 | **Search + filters** | Instant client-side search over title, pattern, company, tag and LeetCode id. Filter chips for topic, difficulty, company, pattern and status. All state lives in the URL, so any filtered view is shareable. |
+| **Topic pages** | Click any topic to open a page with **every** problem it contains, its difficulty mix, the patterns it covers, the companies that ask it, and a per-difficulty filter. Company pages work the same way. |
 | **Dry-run viewer** | The companion markdown rendered as styled HTML — including the dry-run tables as real tables. |
-| **Code viewer** | Syntax-highlighted Java with line numbers and a copy button. |
+| **Code viewer** | Syntax-highlighted Java with line numbers and a copy button, plus the self-contained source the browser runner receives. |
 | **In-browser Java runner** | Compiles and runs the solution on the public Judge0 API against stdin you type. Verifies the output against the documented sample. |
 | **Progress tracking** | Per-problem status (to do / attempted / solved), stars and attempts, persisted in `localStorage`. A dashboard, per-topic progress, and a spaced-repetition review queue. |
 | **Guides** | The topic notes, study plan, playbook, system design and LLD material, all in the same UI. |
@@ -185,7 +186,7 @@ Four gates, all green:
 | **Unit tests** | `.\scripts\test.ps1` | 2000+ JUnit tests — every algorithm is correct |
 | **Runner sources** | `cd web; npm run verify:judge` | Every problem compiles standalone and prints exactly its documented output — the same path the browser uses |
 | **Site build** | `cd web; npm run build` | The site compiles and bundles cleanly |
-| **Browser smoke test** | `npm run qa` | The catalogue, search, filters, write-ups, code viewer and progress tracking all work in a real browser |
+| **Browser smoke test** | `npm run qa` | The landing page, topic pages, catalogue, search, filters, write-ups, code viewer and progress tracking all work in a real browser |
 | **Production build** | `node scripts/qa-offline.mjs` | The built static bundle works when served over http, with no console errors |
 
 `npm run qa` needs a running server (`cd web; npm run dev`) and a one-time
@@ -204,6 +205,45 @@ cd web
 npm run gen:data
 npm run verify:judge -- --id arrays.MyNewProblem
 ```
+
+---
+
+## Deployment
+
+The site is a static single-page app — no server, no database, no API keys. It deploys
+anywhere that can serve files, and every target below is pre-configured.
+
+| Target | Command | Notes |
+|---|---|---|
+| **Docker** | `npm run docker:build` then `npm run docker:run` | Builds the bundle and serves it with nginx on <http://localhost:8080>. `docker compose up --build` works too |
+| **Vercel** | `vercel --cwd web` | `web/vercel.json` has the build command, the SPA rewrite and the cache headers |
+| **Netlify** | `netlify deploy --dir=web/dist` | `web/netlify.toml` and `web/public/_redirects` cover the rewrite |
+| **GitHub Pages** | push to `main` | `.github/workflows/deploy.yml` builds and publishes, including the `404.html` fallback Pages needs |
+| **Any static host** | upload `web/dist` | Serve `index.html` for unknown paths |
+
+**Before deploying, set the site URL.** It feeds the canonical link, the Open Graph tags,
+the sitemap and the structured data:
+
+```powershell
+cd web
+Copy-Item .env.example .env
+# edit .env:  VITE_SITE_URL=https://your-domain.com
+npm run build
+```
+
+`BASE_PATH` is only needed for a sub-path deployment (GitHub Pages); leave it `/` for
+everything else.
+
+**What a deployment includes**
+
+- **SEO** — per-page titles and descriptions, Open Graph and Twitter cards, canonical
+  links, `robots.txt`, and a generated `sitemap.xml` covering all 421 routes.
+- **PWA** — a web manifest, generated icons (192/512/maskable) and a service worker, so
+  the site is installable and keeps working offline.
+- **Resilience** — an error boundary around the app shell, so a bad page cannot
+  white-screen the site, and a styled 404 that points at the catalogue.
+- **Performance** — the initial bundle is ~390 kB (87 kB gzipped); every problem and guide
+  is a separate lazy chunk that loads on demand.
 
 ---
 

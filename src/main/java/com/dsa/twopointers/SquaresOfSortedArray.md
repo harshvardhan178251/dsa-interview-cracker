@@ -3,7 +3,7 @@ title: Squares of a Sorted Array
 leetcode: 977
 difficulty: Easy
 patterns: [Two Pointers, Sorted array]
-companies: [Amazon, Meta, Google, Microsoft, Uber, Facebook]
+companies: [Amazon, Google, Microsoft, JP Morgan, Flipkart]
 frequency: 4
 tags: [array, two-pointers, sorting]
 sampleInput: |

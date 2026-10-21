@@ -3,7 +3,7 @@ title: Unique Paths III
 leetcode: 980
 difficulty: Hard
 patterns: [Backtracking, DFS on a grid]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Amazon, Goldman Sachs, Facebook]
 frequency: 3
 tags: [dynamic-programming, backtracking, grid, hard]
 sampleInput: |

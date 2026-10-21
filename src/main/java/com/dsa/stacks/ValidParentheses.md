@@ -3,7 +3,7 @@ title: Valid Parentheses
 leetcode: 20
 difficulty: Easy
 patterns: [Stack, Bracket matching]
-companies: [Amazon, Google, Meta, Microsoft, Uber, Bloomberg, Adobe]
+companies: [Google, Amazon, Meta, Goldman Sachs, JP Morgan, Salesforce, Pinterest]
 frequency: 5
 tags: [stack, string, parsing]
 sampleInput: |

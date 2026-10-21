@@ -3,7 +3,7 @@ title: Non-overlapping Intervals
 leetcode: 435
 difficulty: Medium
 patterns: [Greedy, Earliest finishing time]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Meta, Google, JP Morgan, LinkedIn, Oracle]
 frequency: 4
 tags: [array, sorting, greedy, intervals]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Minimum Number of Refueling Stops
 leetcode: 871
 difficulty: Medium
 patterns: [Greedy, Max-heap simulation]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Meta, Salesforce, Adobe]
 frequency: 3
 tags: [array, heap, greedy]
 sampleInput: |

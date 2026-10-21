@@ -3,7 +3,7 @@ title: Palindrome Number
 leetcode: 9
 difficulty: Easy
 patterns: [Digit manipulation, Half reversal]
-companies: [Amazon, Google, Meta, Uber, Bloomberg]
+companies: [Google, Meta, Apple, Goldman Sachs, Walmart]
 frequency: 4
 tags: [math, numbers]
 sampleInput: |

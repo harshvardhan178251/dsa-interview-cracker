@@ -3,7 +3,7 @@ title: Permutations
 leetcode: 46
 difficulty: Medium
 patterns: [Backtracking, Used array]
-companies: [Amazon, Google, Meta, Microsoft, Uber]
+companies: [Google, Amazon, Meta, Adobe, JP Morgan, Uber, Stripe]
 frequency: 5
 tags: [backtracking, arrays, recursion]
 sampleInput: |

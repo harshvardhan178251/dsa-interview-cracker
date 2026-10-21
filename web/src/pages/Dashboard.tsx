@@ -137,7 +137,7 @@ export function Dashboard() {
                 label={topic.label}
                 solved={stats.perTopic.get(topic.key) ?? 0}
                 total={topic.count}
-                href={`/problems?topic=${topic.key}`}
+                href={`/topics/${topic.key}`}
               />
             ))}
           </div>
@@ -189,8 +189,7 @@ export function Dashboard() {
       </section>
 
       <section className={cn('rounded-2xl border border-line bg-surface p-5')}>
-        <h2 className="mb-2 text-sm font-semibold text-ink">How to use this repository</h2>
-        <ol className="list-decimal space-y-1.5 pl-5 text-sm text-muted">
+        <h2 className="mb-2 text-sm font-semibold text-ink">How to use this repository</h2>        <ol className="list-decimal space-y-1.5 pl-5 text-sm text-muted">
           <li>
             Read the <strong className="text-ink">dry run</strong> first — it shows exactly what
             happens at every step, which is what interviewers probe.

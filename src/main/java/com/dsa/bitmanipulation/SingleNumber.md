@@ -3,7 +3,7 @@ title: Single Number
 leetcode: 136
 difficulty: Easy
 patterns: [XOR, Bit tricks]
-companies: [Amazon, Google, Meta, Uber, Apple, Adobe]
+companies: [Meta, Amazon, Google, Uber, Airbnb, Microsoft, Lyft]
 frequency: 5
 tags: [array, bit-manipulation, xor]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Remove Duplicates from Sorted Array
 leetcode: 26
 difficulty: Easy
 patterns: [Two Pointers, In-place compaction]
-companies: [Amazon, Meta, Google, Microsoft, Uber]
+companies: [Google, Meta, Bloomberg, Goldman Sachs, eBay]
 frequency: 4
 tags: [array, two-pointers, in-place]
 sampleInput: |

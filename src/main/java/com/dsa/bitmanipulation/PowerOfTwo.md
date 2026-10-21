@@ -3,7 +3,7 @@ title: Power of Two
 leetcode: 231
 difficulty: Easy
 patterns: [Bit tricks]
-companies: [Amazon, Google, Meta, Uber, Apple]
+companies: [Meta, Amazon, Microsoft, Netflix, Zillow]
 frequency: 4
 tags: [bit-manipulation, numbers]
 sampleInput: |

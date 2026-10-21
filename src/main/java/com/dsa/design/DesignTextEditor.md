@@ -3,7 +3,7 @@ title: Design Text Editor
 leetcode: 2296
 difficulty: Hard
 patterns: [Design, Undo journal, Two stacks]
-companies: [Amazon, Google, Meta, Uber, Adobe]
+companies: [Meta, Facebook]
 frequency: 2
 tags: [stack, undo, journal]
 sampleInput: |

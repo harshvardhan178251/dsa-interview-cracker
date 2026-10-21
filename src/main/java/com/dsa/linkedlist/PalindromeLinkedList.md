@@ -3,7 +3,7 @@ title: Palindrome Linked List
 leetcode: 234
 difficulty: Medium
 patterns: [Two pointers, Reverse a half list]
-companies: [Amazon, Google, Meta, Microsoft, Uber, Bloomberg]
+companies: [Meta, Amazon, Goldman Sachs, Apple, eBay]
 frequency: 4
 tags: [linked-list, pointers, palindrome]
 sampleInput: |

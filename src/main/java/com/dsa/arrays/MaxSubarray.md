@@ -3,7 +3,7 @@ title: Maximum Subarray
 leetcode: 53
 difficulty: Medium
 patterns: [Dynamic programming, Kadane's algorithm]
-companies: [Amazon, Google, Meta, Uber, Microsoft, Adobe]
+companies: [Google, Meta, Netflix, Salesforce, Intel]
 frequency: 4
 tags: [array, dynamic-programming, kadane]
 sampleInput: |

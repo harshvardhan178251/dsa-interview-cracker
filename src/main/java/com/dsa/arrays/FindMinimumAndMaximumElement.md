@@ -3,7 +3,7 @@ title: Find Minimum and Maximum Element
 leetcode: null
 difficulty: Easy
 patterns: [Linear scan, Single pass]
-companies: [Amazon, Google, Meta]
+companies: [Meta, Apple]
 frequency: 2
 tags: [array, scan, min-max]
 sampleInput: |

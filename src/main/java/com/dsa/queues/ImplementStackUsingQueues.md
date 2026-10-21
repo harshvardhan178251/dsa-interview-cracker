@@ -3,7 +3,7 @@ title: Implement Stack using Queues
 leetcode: null
 difficulty: Medium
 patterns: [Queue, Rotation, LIFO over FIFO]
-companies: [Amazon, Meta, Google, Microsoft]
+companies: [Amazon, Microsoft]
 frequency: 3
 tags: [queue, stack, design, rotation]
 sampleInput: |

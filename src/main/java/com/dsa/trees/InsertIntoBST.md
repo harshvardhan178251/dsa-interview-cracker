@@ -3,7 +3,7 @@ title: Insert into a Binary Search Tree
 leetcode: 701
 difficulty: Medium
 patterns: [BST, Recursive descent]
-companies: [Amazon, Google, Meta]
+companies: [Meta, Amazon, Bloomberg, Goldman Sachs, Cloudflare]
 frequency: 4
 tags: [tree, bst, recursion, insertion]
 sampleInput: |

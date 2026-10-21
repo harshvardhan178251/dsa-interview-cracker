@@ -3,7 +3,7 @@ title: Word Search II
 leetcode: 212
 difficulty: Hard
 patterns: [Trie + backtracking, Grid search]
-companies: [Amazon, Google, Meta, Uber, Airbnb]
+companies: [Google, Meta, JP Morgan, Goldman Sachs, Visa]
 frequency: 4
 tags: [trie, backtracking, grid, hard]
 sampleInput: |

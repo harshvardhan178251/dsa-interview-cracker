@@ -3,7 +3,7 @@ title: Validate Binary Search Tree
 leetcode: 98
 difficulty: Medium
 patterns: [DFS, Range bounds]
-companies: [Amazon, Google, Meta, Uber, Bloomberg]
+companies: [Meta, Amazon, Google, Salesforce, LinkedIn, Microsoft, Zillow]
 frequency: 5
 tags: [tree, dfs, recursion, bst]
 sampleInput: |

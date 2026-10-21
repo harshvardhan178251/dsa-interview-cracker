@@ -3,7 +3,7 @@ title: Palindrome Partitioning
 leetcode: 131
 difficulty: Medium
 patterns: [Backtracking, Pruning]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Amazon, Meta, Apple, Salesforce, ByteDance]
 frequency: 4
 tags: [backtracking, strings]
 sampleInput: |

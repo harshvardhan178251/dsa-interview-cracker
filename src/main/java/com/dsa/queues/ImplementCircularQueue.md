@@ -3,7 +3,7 @@ title: Design Circular Queue
 leetcode: 622
 difficulty: Medium
 patterns: [Ring buffer, Modular arithmetic, Array]
-companies: [Amazon, Meta, Google, Uber, Adobe]
+companies: [Meta, LinkedIn, Salesforce]
 frequency: 3
 tags: [queue, ring-buffer, array, design]
 sampleInput: |

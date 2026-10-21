@@ -3,7 +3,7 @@ title: Count Primes
 leetcode: 204
 difficulty: Medium
 patterns: [Number theory, Sieve of Eratosthenes]
-companies: [Amazon, Google, Meta, Uber, Microsoft]
+companies: [Amazon, Google, Airbnb, Bloomberg, Flipkart]
 frequency: 4
 tags: [math, sieve, arrays]
 sampleInput: |

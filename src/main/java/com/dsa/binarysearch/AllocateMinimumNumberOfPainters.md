@@ -3,7 +3,7 @@ title: Allocate Minimum Number of Painters
 leetcode: null
 difficulty: Hard
 patterns: [Binary search on the answer, Greedy, Partition]
-companies: [Amazon, Google, Adobe, Flipkart]
+companies: [Google, Apple]
 frequency: 3
 tags: [binary-search, greedy, partition, hard]
 sampleInput: |

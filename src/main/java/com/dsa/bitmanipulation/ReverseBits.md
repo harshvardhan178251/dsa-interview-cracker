@@ -3,7 +3,7 @@ title: Reverse Bits
 leetcode: 190
 difficulty: Easy
 patterns: [Bit tricks, Shifts]
-companies: [Amazon, Google, Meta, Uber, Apple]
+companies: [Amazon, Google, Apple, Goldman Sachs, Walmart]
 frequency: 4
 tags: [bit-manipulation, numbers]
 sampleInput: |

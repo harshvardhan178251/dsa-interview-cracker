@@ -3,7 +3,7 @@ title: Sudoku Solver
 leetcode: 37
 difficulty: Hard
 patterns: [Backtracking, Constraint pruning]
-companies: [Amazon, Google, Meta, Microsoft]
+companies: [Meta, Amazon, Microsoft, Airbnb, eBay]
 frequency: 4
 tags: [backtracking, hard, matrix]
 sampleInput: |

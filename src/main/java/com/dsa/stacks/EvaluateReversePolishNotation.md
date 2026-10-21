@@ -3,7 +3,7 @@ title: Evaluate Reverse Polish Notation
 leetcode: 150
 difficulty: Medium
 patterns: [Stack, Postfix evaluation]
-companies: [Amazon, Google, Meta, Microsoft, Uber, Bloomberg]
+companies: [Google, Amazon, Salesforce, Netflix, Cloudflare]
 frequency: 4
 tags: [stack, parsing, math]
 sampleInput: |

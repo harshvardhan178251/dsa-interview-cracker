@@ -3,7 +3,7 @@ title: Binary Tree Inorder Traversal
 leetcode: 94
 difficulty: Easy
 patterns: [DFS, Explicit stack]
-companies: [Amazon, Google, Meta, Uber, Adobe]
+companies: [Google, Amazon, Meta, Bloomberg, Microsoft, Facebook, Paytm]
 frequency: 5
 tags: [tree, traversal, stack]
 sampleInput: |

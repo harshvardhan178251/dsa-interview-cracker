@@ -3,7 +3,7 @@ title: Reverse Linked List II
 leetcode: 92
 difficulty: Medium
 patterns: [Pointer rewiring, Segment reversal]
-companies: [Amazon, Google, Meta, Microsoft, Uber]
+companies: [Amazon, Google, JP Morgan, Netflix, Walmart]
 frequency: 4
 tags: [linked-list, pointers, in-place]
 sampleInput: |

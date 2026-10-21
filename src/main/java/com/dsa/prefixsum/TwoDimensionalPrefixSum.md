@@ -3,7 +3,7 @@ title: 2D Prefix Sum
 leetcode: null
 difficulty: Medium
 patterns: [2D prefix sums, Inclusion-exclusion]
-companies: [Amazon, Google, Meta, Uber, Adobe]
+companies: [Google, Microsoft]
 frequency: 2
 tags: [prefix-sum, matrix, range-query]
 sampleInput: |

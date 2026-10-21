@@ -3,7 +3,7 @@ title: Candy
 leetcode: 135
 difficulty: Hard
 patterns: [Greedy, Two-pass constraint propagation]
-companies: [Amazon, Meta, Google, Microsoft]
+companies: [Meta, Google, Microsoft, Netflix, ByteDance]
 frequency: 4
 tags: [array, greedy]
 sampleInput: |

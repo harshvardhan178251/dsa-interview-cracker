@@ -3,7 +3,7 @@ title: Excel Sheet Column Number
 leetcode: 171
 difficulty: Easy
 patterns: [Base-26 conversion, Running value]
-companies: [Amazon, Google, Meta, Uber, Bloomberg]
+companies: [Google, Apple, Goldman Sachs]
 frequency: 3
 tags: [string, math, base-conversion]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Missing Number
 leetcode: 268
 difficulty: Easy
 patterns: [Arithmetic, XOR trick]
-companies: [Amazon, Google, Meta, Uber, Airbnb]
+companies: [Amazon, Uber, Microsoft]
 frequency: 3
 tags: [array, math, bit-manipulation]
 sampleInput: |

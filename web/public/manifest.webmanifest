@@ -1,0 +1,46 @@
+{
+  "name": "DSA Interview Cracker — Java DSA problems with dry runs",
+  "short_name": "DSA Cracker",
+  "description": "322 Java DSA problems across 24 topics for SDE interviews, each with a step-by-step dry run, complexity analysis and interview notes.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#070a12",
+  "theme_color": "#070a12",
+  "categories": ["education", "developer", "productivity"],
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "All problems",
+      "url": "./problems"
+    },
+    {
+      "name": "My dashboard",
+      "url": "./dashboard"
+    },
+    {
+      "name": "Review queue",
+      "url": "./review"
+    }
+  ]
+}

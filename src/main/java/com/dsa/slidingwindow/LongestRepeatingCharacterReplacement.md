@@ -3,7 +3,7 @@ title: Longest Repeating Character Replacement
 leetcode: 424
 difficulty: Medium
 patterns: [Sliding window, Greedy]
-companies: [Amazon, Google, Meta, Uber, LinkedIn]
+companies: [Amazon, Meta, Facebook, LinkedIn, Flipkart]
 frequency: 4
 tags: [string, sliding-window, greedy]
 sampleInput: |

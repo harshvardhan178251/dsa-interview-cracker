@@ -3,7 +3,7 @@ title: Path Sum III
 leetcode: 437
 difficulty: Medium
 patterns: [DFS, Prefix sums]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Meta, Google, Adobe, LinkedIn, Oracle]
 frequency: 4
 tags: [tree, dfs, prefix-sum, hashmap]
 sampleInput: |

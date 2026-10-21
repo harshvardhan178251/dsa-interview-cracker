@@ -3,7 +3,7 @@ title: Dijkstra's Shortest Path
 leetcode: null
 difficulty: Medium
 patterns: [Dijkstra, Priority queue, Greedy]
-companies: [Amazon, Google, Meta, Uber, Netflix]
+companies: [Google, Meta, Goldman Sachs, Netflix, Visa]
 frequency: 5
 tags: [graph, weighted, shortest-path, dijkstra, priority-queue]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Reverse Linked List
 leetcode: 206
 difficulty: Easy
 patterns: [Pointer rewiring, Iterative reversal]
-companies: [Amazon, Google, Meta, Microsoft, Uber, Bloomberg]
+companies: [Google, Meta, Amazon, LinkedIn, JP Morgan, Salesforce, Paytm]
 frequency: 5
 tags: [linked-list, pointers, in-place]
 sampleInput: |

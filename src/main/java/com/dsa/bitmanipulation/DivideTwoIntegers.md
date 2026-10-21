@@ -3,7 +3,7 @@ title: Divide Two Integers
 leetcode: 29
 difficulty: Medium
 patterns: [Bit tricks, Shifts, Long division]
-companies: [Amazon, Google, Meta, Uber, Apple]
+companies: [Google, Meta, Apple, Uber, Datadog]
 frequency: 4
 tags: [bit-manipulation, numbers, math]
 sampleInput: |

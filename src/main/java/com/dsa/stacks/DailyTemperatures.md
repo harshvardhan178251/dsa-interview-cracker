@@ -3,7 +3,7 @@ title: Daily Temperatures
 leetcode: 739
 difficulty: Medium
 patterns: [Monotonic stack]
-companies: [Amazon, Google, Meta, Microsoft, Uber, Bloomberg]
+companies: [Google, Meta, Bloomberg, Airbnb, Cloudflare]
 frequency: 4
 tags: [stack, monotonic-stack, array]
 sampleInput: |

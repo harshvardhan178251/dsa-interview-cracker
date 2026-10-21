@@ -3,7 +3,7 @@ title: Binary Search
 leetcode: 704
 difficulty: Easy
 patterns: [Binary search, Divide and conquer]
-companies: [Amazon, Google, Microsoft, Meta, Uber]
+companies: [Amazon, Meta, JP Morgan, Microsoft, Intel]
 frequency: 4
 tags: [array, sorting, binary-search]
 sampleInput: |

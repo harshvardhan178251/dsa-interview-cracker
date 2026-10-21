@@ -3,7 +3,7 @@ title: Search in a Binary Search Tree
 leetcode: 700
 difficulty: Easy
 patterns: [BST, Iterative descent]
-companies: [Amazon, Google, Meta]
+companies: [Amazon, Meta, Adobe, Bloomberg, Cloudflare]
 frequency: 4
 tags: [tree, bst, iteration, search]
 sampleInput: |

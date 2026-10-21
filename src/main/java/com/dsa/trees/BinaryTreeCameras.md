@@ -3,7 +3,7 @@ title: Binary Tree Cameras
 leetcode: 757
 difficulty: Medium
 patterns: [Greedy post-order, Tree DP]
-companies: [Amazon, Google, Meta]
+companies: [Google, JP Morgan, Facebook]
 frequency: 3
 tags: [tree, dfs, greedy, dynamic-programming]
 sampleInput: |

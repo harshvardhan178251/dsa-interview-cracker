@@ -3,7 +3,7 @@ title: Implement Queue using Stacks
 leetcode: null
 difficulty: Medium
 patterns: [Stack, Two-stack FIFO, Amortised O(1)]
-companies: [Amazon, Meta, Google, Microsoft, Uber]
+companies: [Google, Salesforce, Bloomberg]
 frequency: 4
 tags: [stack, queue, design, fifo]
 sampleInput: |

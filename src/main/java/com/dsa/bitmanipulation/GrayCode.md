@@ -3,7 +3,7 @@ title: Gray Code
 leetcode: 89
 difficulty: Medium
 patterns: [Bit tricks, XOR]
-companies: [Amazon, Google, Meta, Uber, Apple]
+companies: [Amazon, Adobe, Salesforce]
 frequency: 3
 tags: [bit-manipulation, numbers, math]
 sampleInput: |

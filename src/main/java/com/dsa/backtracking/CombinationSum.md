@@ -3,7 +3,7 @@ title: Combination Sum
 leetcode: 39
 difficulty: Medium
 patterns: [Backtracking, DFS with a path]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Amazon, Google, Meta, JP Morgan, Airbnb, Uber, Lyft]
 frequency: 5
 tags: [backtracking, arrays, recursion]
 sampleInput: |

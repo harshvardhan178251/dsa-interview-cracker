@@ -3,7 +3,7 @@ title: GCD and LCM
 leetcode: null
 difficulty: Easy
 patterns: [Euclidean algorithm]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Meta, Adobe, Bloomberg]
 frequency: 4
 tags: [math, numbers]
 sampleInput: |

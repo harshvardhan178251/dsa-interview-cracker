@@ -3,7 +3,7 @@ title: Sort by Frequency of Characters
 leetcode: null
 difficulty: Medium
 patterns: [Frequency counting, Custom ordering]
-companies: [Amazon, Meta, Google, Uber]
+companies: [Amazon, JP Morgan]
 frequency: 2
 tags: [hashmap, string, frequency-counting, sorting]
 sampleInput: |

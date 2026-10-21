@@ -3,7 +3,7 @@ title: Majority Element
 leetcode: 169
 difficulty: Easy
 patterns: [Boyer-Moore voting, Majority guarantee]
-companies: [Amazon, Google, Meta, Uber, Microsoft]
+companies: [Meta, Google, LinkedIn, Salesforce, Visa]
 frequency: 4
 tags: [array, voting, frequency]
 sampleInput: |

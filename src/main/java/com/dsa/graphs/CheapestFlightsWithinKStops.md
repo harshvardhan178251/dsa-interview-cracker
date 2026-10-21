@@ -3,7 +3,7 @@ title: Cheapest Flights Within K Stops
 leetcode: 787
 difficulty: Medium
 patterns: [Bellman-Ford, Dynamic programming, Shortest path]
-companies: [Amazon, Google, Meta, Uber, Airbnb]
+companies: [Meta, Amazon, Facebook, Goldman Sachs, Lyft]
 frequency: 4
 tags: [graph, weighted, shortest-path, bellman-ford, k-stops]
 sampleInput: |

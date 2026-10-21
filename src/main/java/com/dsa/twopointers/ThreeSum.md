@@ -3,7 +3,7 @@ title: 3Sum
 leetcode: 15
 difficulty: Medium
 patterns: [Two Pointers, Sorting, Duplicate skipping]
-companies: [Amazon, Meta, Google, Microsoft, Uber, Bloomberg, Apple]
+companies: [Amazon, Google, Meta, Facebook, Microsoft, JP Morgan, Zillow]
 frequency: 5
 tags: [array, two-pointers, sorting, backtracking]
 sampleInput: |

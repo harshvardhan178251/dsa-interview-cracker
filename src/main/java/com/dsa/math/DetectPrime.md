@@ -3,7 +3,7 @@ title: Is a Number Prime
 leetcode: null
 difficulty: Medium
 patterns: [Number theory, Trial division]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Google, Apple]
 frequency: 3
 tags: [math, numbers]
 sampleInput: |

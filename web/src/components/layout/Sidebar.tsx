@@ -1,11 +1,12 @@
 import { useMemo, useState } from 'react'
-import { NavLink, useSearchParams } from 'react-router-dom'
+import { NavLink, useLocation } from 'react-router-dom'
 
 import { problems, siteMeta } from '../../lib/data'
 import { cn } from '../../lib/utils'
 
 const NAV_ITEMS = [
-  { to: '/', label: 'Dashboard', icon: 'M3 12l9-9 9 9M5 10v10h5v-6h4v6h5V10', end: true },
+  { to: '/', label: 'Home', icon: 'M3 11l9-8 9 8M5 10v10h5v-6h4v6h5V10', end: true },
+  { to: '/dashboard', label: 'My dashboard', icon: 'M4 13h6V4H4v9zM4 20h6v-3H4v3zM14 20h6v-9h-6v9zM14 4v3h6V4h-6z' },
   { to: '/problems', label: 'All problems', icon: 'M4 6h16M4 12h16M4 18h10' },
   { to: '/review', label: 'Review queue', icon: 'M12 8v4l3 2M21 12a9 9 0 11-18 0 9 9 0 0118 0z' },
   { to: '/guides', label: 'Guides & notes', icon: 'M4 5h7v15H4zM13 5h7v15h-7z' },
@@ -30,18 +31,23 @@ function Icon({ path, className }: { path: string; className?: string }) {
 }
 
 export function Sidebar() {
-  const [params] = useSearchParams()
   const [topicsOpen, setTopicsOpen] = useState(true)
   const [companiesOpen, setCompaniesOpen] = useState(false)
-
-  const activeTopic = params.get('topic')
-  const activeCompany = params.get('company')
+  const location = useLocation()
+  const path = location.pathname
 
   const topics = useMemo(
     () => siteMeta.topics.filter((t) => t.count > 0).sort((a, b) => a.order - b.order),
     [],
   )
-  const companies = useMemo(() => siteMeta.companies, [])
+  const companies = useMemo(
+    () =>
+      siteMeta.companies.map((company) => ({
+        company,
+        count: problems.filter((p) => p.companies.includes(company)).length,
+      })),
+    [],
+  )
 
   return (
     <nav className="flex h-full flex-col gap-6 p-4">
@@ -82,6 +88,7 @@ export function Sidebar() {
         <button
           type="button"
           onClick={() => setTopicsOpen((v) => !v)}
+          aria-expanded={topicsOpen}
           className="flex w-full items-center justify-between px-2.5 pb-1.5 text-[11px] font-semibold uppercase tracking-wider text-faint"
         >
           Topics
@@ -89,23 +96,26 @@ export function Sidebar() {
         </button>
         {topicsOpen && (
           <div className="flex flex-col gap-0.5">
-            {topics.map((topic) => (
-              <NavLink
-                key={topic.key}
-                to={`/problems?topic=${topic.key}`}
-                className={cn(
-                  'flex items-center justify-between rounded-lg px-2.5 py-1.5 text-sm transition-colors',
-                  activeTopic === topic.key
-                    ? 'bg-elevated font-medium text-ink'
-                    : 'text-muted hover:bg-elevated hover:text-ink',
-                )}
-              >
-                <span className="truncate">{topic.label}</span>
-                <span className="ml-2 shrink-0 rounded bg-elevated px-1.5 text-[10px] font-semibold text-faint">
-                  {topic.count}
-                </span>
-              </NavLink>
-            ))}
+            {topics.map((topic) => {
+              const active = path === `/topics/${topic.key}`
+              return (
+                <NavLink
+                  key={topic.key}
+                  to={`/topics/${topic.key}`}
+                  className={cn(
+                    'flex items-center justify-between rounded-lg px-2.5 py-1.5 text-sm transition-colors',
+                    active
+                      ? 'bg-elevated font-medium text-ink'
+                      : 'text-muted hover:bg-elevated hover:text-ink',
+                  )}
+                >
+                  <span className="truncate">{topic.label}</span>
+                  <span className="ml-2 shrink-0 rounded bg-elevated px-1.5 text-[10px] font-semibold text-faint">
+                    {topic.count}
+                  </span>
+                </NavLink>
+              )
+            })}
           </div>
         )}
       </div>
@@ -114,6 +124,7 @@ export function Sidebar() {
         <button
           type="button"
           onClick={() => setCompaniesOpen((v) => !v)}
+          aria-expanded={companiesOpen}
           className="flex w-full items-center justify-between px-2.5 pb-1.5 text-[11px] font-semibold uppercase tracking-wider text-faint"
         >
           Companies
@@ -121,15 +132,15 @@ export function Sidebar() {
         </button>
         {companiesOpen && (
           <div className="flex flex-col gap-0.5">
-            {companies.map((company) => {
-              const count = problems.filter((p) => p.companies.includes(company)).length
+            {companies.map(({ company, count }) => {
+              const active = path === `/companies/${encodeURIComponent(company)}`
               return (
                 <NavLink
                   key={company}
-                  to={`/problems?company=${encodeURIComponent(company)}`}
+                  to={`/companies/${encodeURIComponent(company)}`}
                   className={cn(
                     'flex items-center justify-between rounded-lg px-2.5 py-1.5 text-sm transition-colors',
-                    activeCompany === company
+                    active
                       ? 'bg-elevated font-medium text-ink'
                       : 'text-muted hover:bg-elevated hover:text-ink',
                   )}

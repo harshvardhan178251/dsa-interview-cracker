@@ -3,7 +3,7 @@ title: Add Binary
 leetcode: 415
 difficulty: Easy
 patterns: [Bit manipulation, Carry propagation]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Amazon, Meta, JP Morgan, LinkedIn, Spotify]
 frequency: 4
 tags: [math, strings, bit-manipulation]
 sampleInput: |

@@ -1,0 +1,18 @@
+services:
+  dsa-cracker:
+    build:
+      context: .
+      args:
+        # The public origin — used for the canonical link, Open Graph tags and the sitemap.
+        VITE_SITE_URL: ${VITE_SITE_URL:-http://localhost:8080}
+        BASE_PATH: ${BASE_PATH:-/}
+    image: dsa-cracker
+    ports:
+      - '8080:80'
+    restart: unless-stopped
+    healthcheck:
+      test: ['CMD', 'curl', '-fsS', 'http://localhost/']
+      interval: 30s
+      timeout: 3s
+      retries: 3
+      start_period: 5s

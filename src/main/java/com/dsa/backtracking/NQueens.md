@@ -3,7 +3,7 @@ title: N-Queens
 leetcode: 51
 difficulty: Hard
 patterns: [Backtracking, Constraint pruning]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Google, Meta, Apple, Adobe, Zillow]
 frequency: 4
 tags: [backtracking, hard, board]
 sampleInput: |

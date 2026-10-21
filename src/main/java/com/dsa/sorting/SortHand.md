@@ -3,7 +3,7 @@ title: Sort a Hand of Cards
 leetcode: null
 difficulty: Medium
 patterns: [Radix sort, Stable counting sort]
-companies: [Amazon, Google, Meta, Uber, Poker sites]
+companies: [Meta, Netflix]
 frequency: 2
 tags: [sorting, radix-sort, counting-sort, cards]
 sampleInput: |

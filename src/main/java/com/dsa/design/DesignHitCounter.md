@@ -3,7 +3,7 @@ title: Design Hit Counter
 leetcode: 362
 difficulty: Medium
 patterns: [Design, Sliding window, Bucketing]
-companies: [Amazon, Google, Meta, Uber, Pinterest]
+companies: [Google, Bloomberg, Uber]
 frequency: 3
 tags: [sliding window, deque, timestamps]
 sampleInput: |

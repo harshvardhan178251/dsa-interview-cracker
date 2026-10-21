@@ -3,7 +3,7 @@ title: Valid Palindrome
 leetcode: 125
 difficulty: Easy
 patterns: [Two Pointers, String scanning]
-companies: [Amazon, Meta, Google, Microsoft, Uber]
+companies: [Amazon, Google, Bloomberg, Salesforce, Intel]
 frequency: 4
 tags: [string, two-pointers, palindrome]
 sampleInput: |

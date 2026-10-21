@@ -3,7 +3,7 @@ title: Design Browser History
 leetcode: 348
 difficulty: Medium
 patterns: [Design, Array with a cursor]
-companies: [Amazon, Google, Meta, Uber, Airbnb]
+companies: [Google, Airbnb, JP Morgan]
 frequency: 3
 tags: [array, cursor, history]
 sampleInput: |

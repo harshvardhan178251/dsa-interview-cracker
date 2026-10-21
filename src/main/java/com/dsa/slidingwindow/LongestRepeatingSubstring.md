@@ -3,7 +3,7 @@ title: Longest Repeating Substring
 leetcode: 1062
 difficulty: Hard
 patterns: [Dynamic programming, Sliding window, String hashing]
-companies: [Amazon, Google, Meta, Uber, Airbnb]
+companies: [Amazon, Salesforce, Apple]
 frequency: 3
 tags: [string, dynamic-programming, sliding-window, hard]
 sampleInput: |

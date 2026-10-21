@@ -3,7 +3,7 @@ title: Is Graph Bipartite
 leetcode: 785
 difficulty: Medium
 patterns: [BFS, Two-colouring, Union-Find]
-companies: [Amazon, Google, Meta, Uber, LinkedIn]
+companies: [Google, Amazon, Facebook, Bloomberg, ByteDance]
 frequency: 4
 tags: [graph, undirected, bfs, bipartite]
 sampleInput: |

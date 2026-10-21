@@ -3,7 +3,7 @@ title: Merge k Sorted Lists
 leetcode: 23
 difficulty: Hard
 patterns: [Heap, K-way merge, Divide and conquer]
-companies: [Amazon, Meta, Google, Microsoft, Uber, LinkedIn]
+companies: [Amazon, Google, Apple, Bloomberg, Stripe]
 frequency: 4
 tags: [heap, linked-list, merge, k-way]
 sampleInput: |

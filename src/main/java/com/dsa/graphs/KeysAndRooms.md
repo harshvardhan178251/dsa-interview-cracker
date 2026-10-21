@@ -3,7 +3,7 @@ title: Keys and Rooms
 leetcode: 841
 difficulty: Medium
 patterns: [Graph traversal, DFS, Reachability]
-companies: [Amazon, Google, Meta, Uber, Airbnb]
+companies: [Meta, Salesforce, Apple]
 frequency: 3
 tags: [graph, traversal, dfs, visited]
 sampleInput: |

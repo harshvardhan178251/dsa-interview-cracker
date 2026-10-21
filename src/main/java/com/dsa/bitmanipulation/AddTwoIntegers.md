@@ -3,7 +3,7 @@ title: Sum of Two Integers
 leetcode: 371
 difficulty: Medium
 patterns: [Bit tricks, Addition without the + operator]
-companies: [Amazon, Google, Meta, Uber, Apple]
+companies: [Amazon, Meta, Uber, Facebook, Datadog]
 frequency: 4
 tags: [bit-manipulation, numbers]
 sampleInput: |

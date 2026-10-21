@@ -3,7 +3,7 @@ title: Insert Interval
 leetcode: 57
 difficulty: Medium
 patterns: [Sorting, Three-way sweep]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Meta, Amazon, Microsoft, Uber, Pinterest]
 frequency: 4
 tags: [array, sorting, intervals]
 sampleInput: |

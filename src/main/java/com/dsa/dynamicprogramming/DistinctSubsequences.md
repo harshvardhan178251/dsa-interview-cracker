@@ -3,7 +3,7 @@ title: Distinct Subsequences
 leetcode: null
 difficulty: Medium
 patterns: [Counting DP, Prefix DP]
-companies: [Amazon, Google, Adobe]
+companies: [Google, LinkedIn]
 frequency: 3
 tags: [dynamic-programming, strings, counting]
 sampleInput: |

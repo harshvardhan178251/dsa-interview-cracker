@@ -3,7 +3,7 @@ title: Fibonacci Number
 leetcode: 509
 difficulty: Easy
 patterns: [Bottom-up DP, Iterative recurrence]
-companies: [Amazon, Google, Meta]
+companies: [Meta, Adobe, Airbnb]
 frequency: 3
 tags: [dynamic-programming, fibonacci]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Meeting Rooms II
 leetcode: 692
 difficulty: Medium
 patterns: [Sweep line, Min-heap of end times]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Meta, Google, Microsoft, Uber, Paytm]
 frequency: 4
 tags: [array, heap, sorting, intervals]
 sampleInput: |

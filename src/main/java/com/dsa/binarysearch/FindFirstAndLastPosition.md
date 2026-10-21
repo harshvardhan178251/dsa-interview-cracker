@@ -3,7 +3,7 @@ title: Find First and Last Position of Element in Sorted Array
 leetcode: 34
 difficulty: Medium
 patterns: [Binary search, Lower bound, Upper bound]
-companies: [Amazon, Google, Meta, Microsoft, Uber]
+companies: [Meta, Google, LinkedIn, Salesforce, Paytm]
 frequency: 4
 tags: [array, sorting, binary-search]
 sampleInput: |

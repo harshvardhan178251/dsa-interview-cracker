@@ -3,7 +3,7 @@ title: Longest Consecutive Sequence
 leetcode: 128
 difficulty: Medium
 patterns: [Hashing, Run detection]
-companies: [Amazon, Meta, Google, Uber, Bloomberg]
+companies: [Google, Meta, Apple, Facebook, Spotify]
 frequency: 4
 tags: [hashmap, set, array, longest-run]
 sampleInput: |

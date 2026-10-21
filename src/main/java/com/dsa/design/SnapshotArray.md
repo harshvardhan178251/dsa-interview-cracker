@@ -3,7 +3,7 @@ title: Snapshot Array
 leetcode: 1146
 difficulty: Medium
 patterns: [Design, Versioning, Per-index history]
-companies: [Amazon, Google, Meta, Uber, Airbnb]
+companies: [Amazon, Adobe, Facebook]
 frequency: 3
 tags: [snapshot, versioning, history]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Longest Subarray with At Most K Distinct
 leetcode: 340
 difficulty: Medium
 patterns: [Sliding window, Frequency counting, Hashing]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Meta, Google, Microsoft, Uber, eBay]
 frequency: 4
 tags: [array, sliding-window, hashmap]
 sampleInput: |

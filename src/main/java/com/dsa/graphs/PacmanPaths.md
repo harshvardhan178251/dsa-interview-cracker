@@ -3,7 +3,7 @@ title: Pacman Paths
 leetcode: null
 difficulty: Medium
 patterns: [BFS, Grid traversal, Shortest path]
-companies: [Amazon, Google, Meta, Uber, Airbnb]
+companies: [Meta, Salesforce]
 frequency: 3
 tags: [graph, grid, bfs, shortest-path]
 sampleInput: |

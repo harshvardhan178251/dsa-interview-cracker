@@ -3,7 +3,7 @@ title: Search Insert Position
 leetcode: 35
 difficulty: Easy
 patterns: [Binary search, Lower bound]
-companies: [Amazon, Google, Meta, Uber, Airbnb]
+companies: [Meta, Google, Apple, Airbnb, Spotify]
 frequency: 4
 tags: [array, sorting, binary-search]
 sampleInput: |

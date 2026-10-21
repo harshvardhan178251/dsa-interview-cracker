@@ -3,7 +3,7 @@ title: Number of 1 Bits
 leetcode: 191
 difficulty: Easy
 patterns: [Bit tricks, Kernighan's algorithm]
-companies: [Amazon, Google, Meta, Uber, Apple]
+companies: [Amazon, Meta, Goldman Sachs, Uber, eBay]
 frequency: 4
 tags: [bit-manipulation, numbers]
 sampleInput: |

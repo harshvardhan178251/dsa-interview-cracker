@@ -3,7 +3,7 @@ title: Isomorphic Strings
 leetcode: 205
 difficulty: Easy
 patterns: [Hashing, Bijective mapping]
-companies: [Amazon, Meta, Google, Uber]
+companies: [Amazon, Airbnb, Uber]
 frequency: 3
 tags: [hashmap, string, bijection, character-mapping]
 sampleInput: |

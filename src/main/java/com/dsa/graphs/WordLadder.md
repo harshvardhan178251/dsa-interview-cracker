@@ -3,7 +3,7 @@ title: Word Ladder
 leetcode: 127
 difficulty: Medium
 patterns: [BFS, Wildcard bucketing, String manipulation]
-companies: [Amazon, Google, Meta, Uber, LinkedIn]
+companies: [Amazon, Google, Facebook, Adobe, Oracle]
 frequency: 4
 tags: [graph, strings, bfs, hashing]
 sampleInput: |

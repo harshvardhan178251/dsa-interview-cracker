@@ -3,7 +3,7 @@ title: Serialize and Deserialize Binary Tree
 leetcode: 297
 difficulty: Medium
 patterns: [Level-order encoding, Round trip]
-companies: [Amazon, Google, Meta, Uber, Adobe]
+companies: [Meta, Amazon, Adobe, Microsoft, ByteDance]
 frequency: 4
 tags: [tree, serialization, design, level-order]
 sampleInput: |

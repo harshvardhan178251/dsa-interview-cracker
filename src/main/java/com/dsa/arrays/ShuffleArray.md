@@ -3,7 +3,7 @@ title: Shuffle Array
 leetcode: 384
 difficulty: Medium
 patterns: [Fisher-Yates, Uniform random permutation]
-companies: [Amazon, Google, Meta, Uber, Microsoft]
+companies: [Meta, LinkedIn, Microsoft]
 frequency: 3
 tags: [array, random, permutation]
 sampleInput: |

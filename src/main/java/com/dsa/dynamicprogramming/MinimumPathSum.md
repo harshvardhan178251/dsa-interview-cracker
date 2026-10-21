@@ -3,7 +3,7 @@ title: Minimum Path Sum
 leetcode: 64
 difficulty: Medium
 patterns: [Grid DP, Bottom-up DP]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Google, Amazon, Airbnb, Adobe, eBay]
 frequency: 4
 tags: [dynamic-programming, grid]
 sampleInput: |

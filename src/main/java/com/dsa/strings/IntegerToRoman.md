@@ -3,7 +3,7 @@ title: Integer to Roman
 leetcode: 12
 difficulty: Medium
 patterns: [Greedy, Lookup table]
-companies: [Amazon, Meta, Google, Uber]
+companies: [Google, Adobe, Facebook]
 frequency: 3
 tags: [string, roman-numerals, greedy]
 sampleInput: |

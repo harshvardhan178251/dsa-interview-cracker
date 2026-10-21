@@ -3,7 +3,7 @@ title: Basic Calculator
 leetcode: 224
 difficulty: Hard
 patterns: [Stack of pending results, Recursive descent]
-companies: [Amazon, Google, Meta, Microsoft, Uber, Bloomberg]
+companies: [Google, Amazon, JP Morgan, Netflix, Cloudflare]
 frequency: 4
 tags: [stack, parsing, math, hard]
 sampleInput: |

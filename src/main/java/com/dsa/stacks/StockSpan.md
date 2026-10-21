@@ -3,7 +3,7 @@ title: Stock Span
 leetcode: null
 difficulty: Medium
 patterns: [Monotonic stack]
-companies: [Amazon, Google, Meta, Microsoft, Uber]
+companies: [Meta, LinkedIn]
 frequency: 3
 tags: [stack, monotonic-stack, array]
 sampleInput: |

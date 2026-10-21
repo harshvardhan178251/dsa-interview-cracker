@@ -3,7 +3,7 @@ title: Reverse Nodes in k-Group
 leetcode: 25
 difficulty: Hard
 patterns: [Pointer rewiring, Block reversal]
-companies: [Amazon, Google, Meta, Microsoft, Uber, Bloomberg]
+companies: [Amazon, Google, Microsoft, JP Morgan, Stripe]
 frequency: 4
 tags: [linked-list, pointers, in-place]
 sampleInput: |

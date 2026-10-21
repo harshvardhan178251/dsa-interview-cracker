@@ -3,7 +3,7 @@ title: Minimum Height Trees
 leetcode: 910
 difficulty: Medium
 patterns: [BFS by layers, Tree, Degree peeling]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Google, Facebook, Adobe]
 frequency: 3
 tags: [tree, bfs, graph, degrees]
 sampleInput: |

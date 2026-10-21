@@ -3,7 +3,7 @@ title: Employee Free Day
 leetcode: 1497
 difficulty: Medium
 patterns: [Greedy, Interval scheduling, Bounded heap]
-companies: [Amazon, Meta, Google, Microsoft, Uber]
+companies: [Google, Facebook, Bloomberg]
 frequency: 3
 tags: [greedy, intervals, heap, scheduling]
 sampleInput: |

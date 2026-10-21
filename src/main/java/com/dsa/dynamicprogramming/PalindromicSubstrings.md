@@ -3,7 +3,7 @@ title: Palindromic Substrings
 leetcode: 647
 difficulty: Medium
 patterns: [Interval DP, Expand around the centre]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Meta, Google, Airbnb, Bloomberg, Stripe]
 frequency: 4
 tags: [dynamic-programming, strings, palindrome]
 sampleInput: |

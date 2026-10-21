@@ -3,7 +3,7 @@ title: Josephus Problem
 leetcode: null
 difficulty: Medium
 patterns: [Recurrence, Simulation]
-companies: [Amazon, Google, Meta, Microsoft, Uber]
+companies: [Google, Microsoft]
 frequency: 3
 tags: [math, recurrence, circular, linked-list]
 sampleInput: |

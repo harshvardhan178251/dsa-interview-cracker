@@ -3,7 +3,7 @@ title: Intersection of Two Linked Lists
 leetcode: 160
 difficulty: Easy
 patterns: [Two pointers, Pointer switching]
-companies: [Amazon, Google, Meta, Microsoft, Uber, Bloomberg]
+companies: [Amazon, Google, Apple, LinkedIn, eBay]
 frequency: 4
 tags: [linked-list, pointers, identity]
 sampleInput: |

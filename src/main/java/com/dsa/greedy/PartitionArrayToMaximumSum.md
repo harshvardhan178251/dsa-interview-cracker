@@ -3,7 +3,7 @@ title: Partition Array Into Maximum Subarrays
 leetcode: 813
 difficulty: Medium
 patterns: [Greedy, Keep the k largest]
-companies: [Amazon, Google, Meta]
+companies: [Amazon, Apple, Netflix]
 frequency: 3
 tags: [array, greedy, heap]
 sampleInput: |

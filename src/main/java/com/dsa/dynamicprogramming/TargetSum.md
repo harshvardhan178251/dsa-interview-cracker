@@ -3,7 +3,7 @@ title: Target Sum
 leetcode: 494
 difficulty: Medium
 patterns: [Subset-sum DP, Counting DP]
-companies: [Amazon, Google, Meta, Adobe]
+companies: [Amazon, Google, Airbnb, Uber, Pinterest]
 frequency: 4
 tags: [dynamic-programming, knapsack, arrays]
 sampleInput: |

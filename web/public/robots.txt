@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# The whole site is a static single-page app.
+Sitemap: /sitemap.xml

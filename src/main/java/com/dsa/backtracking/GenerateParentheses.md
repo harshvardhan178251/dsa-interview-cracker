@@ -3,7 +3,7 @@ title: Generate Parentheses
 leetcode: 22
 difficulty: Medium
 patterns: [Backtracking, Pruning]
-companies: [Amazon, Google, Meta, Adobe]
+companies: [Amazon, Google, Facebook, Netflix, Stripe]
 frequency: 4
 tags: [backtracking, strings, recursion]
 sampleInput: |

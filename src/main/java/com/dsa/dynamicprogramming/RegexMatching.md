@@ -3,7 +3,7 @@ title: Regular Expression Matching
 leetcode: 10
 difficulty: Hard
 patterns: [2-D DP, String DP]
-companies: [Amazon, Google, Meta, Microsoft]
+companies: [Google, Meta, Bloomberg, Salesforce, Walmart]
 frequency: 4
 tags: [dynamic-programming, strings, regex, hard]
 sampleInput: |

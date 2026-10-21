@@ -3,7 +3,7 @@ title: Subsets
 leetcode: 78
 difficulty: Medium
 patterns: [Backtracking, DFS with a path]
-companies: [Amazon, Google, Meta, Microsoft, Uber]
+companies: [Amazon, Google, Meta, Facebook, JP Morgan, Apple, Visa]
 frequency: 5
 tags: [backtracking, arrays, recursion]
 sampleInput: |

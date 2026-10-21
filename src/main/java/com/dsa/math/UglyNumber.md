@@ -3,7 +3,7 @@ title: Ugly Number
 leetcode: 313
 difficulty: Medium
 patterns: [Dynamic programming, Three pointers]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Meta, Apple, Microsoft]
 frequency: 3
 tags: [math, dynamic-programming, pointers]
 sampleInput: |

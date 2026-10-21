@@ -3,7 +3,7 @@ title: Binary Tree Level Order Traversal
 leetcode: 102
 difficulty: Medium
 patterns: [BFS, Queue]
-companies: [Amazon, Google, Meta, Uber, Bloomberg]
+companies: [Meta, Amazon, Google, Salesforce, Microsoft, Airbnb, Flipkart]
 frequency: 5
 tags: [tree, traversal, bfs, queue]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Flatten a Multilevel Linked List
 leetcode: null
 difficulty: Medium
 patterns: [Recursion, Parsing a nested structure]
-companies: [Amazon, Google, Meta, Microsoft]
+companies: [Amazon, Facebook]
 frequency: 3
 tags: [linked-list, recursion, tree, parsing]
 sampleInput: |

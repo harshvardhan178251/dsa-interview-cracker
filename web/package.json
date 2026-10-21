@@ -5,13 +5,14 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build",
+    "build": "npm run gen:sitemap && tsc -b && vite build",
     "lint": "oxlint",
-    "preview": "vite preview",
+    "preview": "vite preview --port 4173",
     "gen:data": "node scripts/generate-data.mjs",
     "gen:guides": "node scripts/generate-guides.mjs",
+    "gen:sitemap": "node scripts/generate-sitemap.mjs",
     "verify:judge": "node scripts/verify-judge-sources.mjs",
-    "sync": "npm run gen:guides && npm run gen:data"
+    "sync": "npm run gen:guides && npm run gen:data && npm run gen:sitemap"
   },
   "dependencies": {
     "prism-react-renderer": "^2.4.1",

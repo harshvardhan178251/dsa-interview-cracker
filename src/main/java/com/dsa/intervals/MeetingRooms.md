@@ -3,7 +3,7 @@ title: Meeting Rooms
 leetcode: 862
 difficulty: Easy
 patterns: [Sorting, Overlap detection]
-companies: [Amazon, Google, Meta, Uber, Airbnb]
+companies: [Meta, Google, Facebook, Microsoft, Flipkart]
 frequency: 4
 tags: [array, sorting, intervals]
 sampleInput: |

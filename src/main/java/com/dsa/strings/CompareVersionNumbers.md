@@ -3,7 +3,7 @@ title: Compare Version Numbers
 leetcode: 165
 difficulty: Medium
 patterns: [Two Pointers, Segment by segment]
-companies: [Amazon, Google, Meta, Uber, Airbnb]
+companies: [Amazon, Salesforce, Facebook]
 frequency: 3
 tags: [string, parsing, version-control]
 sampleInput: |

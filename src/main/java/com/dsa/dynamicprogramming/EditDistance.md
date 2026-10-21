@@ -3,7 +3,7 @@ title: Edit Distance
 leetcode: 72
 difficulty: Medium
 patterns: [2-D DP, String DP]
-companies: [Amazon, Google, Meta, Microsoft, Uber]
+companies: [Google, Amazon, Meta, Uber, LinkedIn, JP Morgan, Flipkart]
 frequency: 5
 tags: [dynamic-programming, strings]
 sampleInput: |

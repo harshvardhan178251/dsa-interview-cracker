@@ -3,7 +3,7 @@ title: First Unique Character in a String
 leetcode: 387
 difficulty: Easy
 patterns: [Frequency counting, Hash map]
-companies: [Amazon, Meta, Google, Uber]
+companies: [Amazon, Airbnb, JP Morgan]
 frequency: 3
 tags: [hashmap, string, frequency-counting]
 sampleInput: |

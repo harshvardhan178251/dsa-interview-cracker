@@ -3,7 +3,7 @@ title: Swap Nodes in Pairs
 leetcode: 24
 difficulty: Medium
 patterns: [Pointer rewiring, Dummy head]
-companies: [Amazon, Google, Meta, Microsoft, Uber, Bloomberg]
+companies: [Amazon, Google, Apple, Microsoft, Zillow]
 frequency: 4
 tags: [linked-list, pointers, in-place]
 sampleInput: |

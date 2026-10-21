@@ -3,7 +3,7 @@ title: Singleton with Double-Checked Locking
 leetcode: null
 difficulty: Medium
 patterns: [Concurrency, Double-checked locking, Safe publication]
-companies: [Amazon, Google, Meta, Uber, Oracle]
+companies: [Google, Netflix, Adobe]
 frequency: 4
 tags: [concurrency, singleton, volatile, dcl]
 sampleInput: |

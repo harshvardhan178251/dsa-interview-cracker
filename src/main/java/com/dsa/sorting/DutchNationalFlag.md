@@ -3,7 +3,7 @@ title: Dutch National Flag
 leetcode: 75
 difficulty: Medium
 patterns: [Three-way partitioning, Two pointers]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Amazon, Google, Netflix, Adobe, Cloudflare]
 frequency: 4
 tags: [sorting, partitioning, two-pointers, array]
 sampleInput: |

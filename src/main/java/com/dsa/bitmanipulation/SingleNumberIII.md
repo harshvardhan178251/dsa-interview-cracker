@@ -3,7 +3,7 @@ title: Single Number III
 leetcode: 260
 difficulty: Medium
 patterns: [XOR, Bit partitioning]
-companies: [Amazon, Google, Meta, Uber, Apple]
+companies: [Amazon, Google, Salesforce, Uber, Datadog]
 frequency: 4
 tags: [array, bit-manipulation, xor]
 sampleInput: |

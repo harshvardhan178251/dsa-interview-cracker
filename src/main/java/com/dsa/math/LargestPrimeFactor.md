@@ -3,7 +3,7 @@ title: Largest Prime Factor
 leetcode: null
 difficulty: Medium
 patterns: [Number theory, Trial division]
-companies: [Amazon, Google, Meta]
+companies: [Amazon, Bloomberg]
 frequency: 2
 tags: [math, numbers]
 sampleInput: |

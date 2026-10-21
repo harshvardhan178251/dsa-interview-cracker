@@ -3,7 +3,7 @@ title: Letter Combinations of a Phone Number
 leetcode: 17
 difficulty: Medium
 patterns: [Backtracking, DFS with a path]
-companies: [Amazon, Google, Meta, Microsoft, Uber]
+companies: [Google, Amazon, Adobe, Netflix, Lyft]
 frequency: 4
 tags: [backtracking, strings, maps]
 sampleInput: |

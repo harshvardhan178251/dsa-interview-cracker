@@ -3,7 +3,7 @@ title: Merge Sort
 leetcode: null
 difficulty: Medium
 patterns: [Divide and conquer, Merging]
-companies: [Amazon, Google, Meta, Uber, Microsoft, Apple]
+companies: [Amazon, JP Morgan, Netflix]
 frequency: 4
 tags: [sorting, merge-sort, divide-and-conquer]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Parallel Pipeline Merge
 leetcode: null
 difficulty: Hard
 patterns: [Concurrency, Pipeline, Ordered merge]
-companies: [Amazon, Google, Meta, Uber, Netflix]
+companies: [Google, LinkedIn]
 frequency: 2
 tags: [concurrency, pipeline, queues, merge]
 sampleInput: |

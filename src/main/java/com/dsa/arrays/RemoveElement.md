@@ -3,7 +3,7 @@ title: Remove Element
 leetcode: 27
 difficulty: Easy
 patterns: [Two pointers, In-place compaction]
-companies: [Amazon, Meta, Uber, Intel]
+companies: [Meta, Microsoft]
 frequency: 2
 tags: [array, two-pointers, in-place]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Contiguous Array
 leetcode: 525
 difficulty: Medium
 patterns: [Prefix sum with a hash map, Balance counting]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Meta, Adobe, Microsoft]
 frequency: 3
 tags: [prefix-sum, hashmap, array]
 sampleInput: |

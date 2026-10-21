@@ -7,7 +7,17 @@
   "scripts": {
     "qa": "node scripts/qa.mjs",
     "qa:offline": "node scripts/qa-offline.mjs",
-    "qa:install": "npx patchright install chromium"
+    "qa:install": "npx patchright install chromium",
+    "icons": "node scripts/generate-icons.mjs",
+    "links:check": "node scripts/fix-links.mjs --check",
+    "links:fix": "node scripts/fix-links.mjs",
+    "samples:check": "node scripts/sync-samples.mjs --check",
+    "samples:fix": "node scripts/sync-samples.mjs",
+    "companies:check": "node scripts/normalise-companies.mjs --check",
+    "companies:fix": "node scripts/normalise-companies.mjs",
+    "sync": "npm run companies:fix && npm --prefix web run sync",
+    "docker:build": "docker build -t dsa-cracker .",
+    "docker:run": "docker run --rm -p 8080:80 dsa-cracker"
   },
   "devDependencies": {
     "patchright": "^1.64.1",

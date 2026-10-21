@@ -219,7 +219,13 @@ a case that exercises the boundary of the constraint.
 |---|---|
 | `node scripts/fix-links.mjs` | Rewrites relative links inside the write-ups so they resolve (`--check` to report only) |
 | `node scripts/sync-samples.mjs` | Copies the frontmatter `sampleOutput` into the JavaDoc sample block so the two cannot drift (`--check` to report only) |
+| `node scripts/normalise-companies.mjs` | Gives every problem a company set sized to how likely it is to be asked, so the company map and the company pages actually discriminate (`--check` to report only) |
+| `node scripts/generate-icons.mjs` | Regenerates the PWA icons from the site logo |
 | `cd web; npm run gen:guides` | Rebuilds the company map, pattern index, coverage matrix and problem index from the catalogue |
 | `cd web; npm run gen:data` | Rebuilds `web/src/data/**` from the Java sources |
+| `cd web; npm run gen:sitemap` | Rebuilds `web/public/sitemap.xml` |
 | `cd web; npm run verify:judge` | Compiles and runs every problem's runner source against its sample |
 | `.\scripts\test.ps1` | The whole JUnit suite |
+
+**Run them in this order** after editing a problem: `normalise-companies` → `gen:data` →
+`gen:guides` → `gen:sitemap`. `npm run sync` at the repository root does the first three.

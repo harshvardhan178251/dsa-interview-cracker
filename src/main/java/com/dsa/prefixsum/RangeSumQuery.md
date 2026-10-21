@@ -3,7 +3,7 @@ title: Range Sum Query — Immutable
 leetcode: 303
 difficulty: Easy
 patterns: [Prefix sums, O(1) range queries]
-companies: [Amazon, Google, Meta, Uber, Apple]
+companies: [Amazon, Salesforce, Goldman Sachs]
 frequency: 3
 tags: [prefix-sum, array, range-query]
 sampleInput: |

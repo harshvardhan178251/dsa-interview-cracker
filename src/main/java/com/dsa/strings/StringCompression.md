@@ -3,7 +3,7 @@ title: String Compression
 leetcode: null
 difficulty: Easy
 patterns: [Run-length encoding, Two Pointers]
-companies: [Amazon, Meta, Google, Uber, Apple]
+companies: [Google, Microsoft]
 frequency: 2
 tags: [string, run-length-encoding, two-pointers]
 sampleInput: |

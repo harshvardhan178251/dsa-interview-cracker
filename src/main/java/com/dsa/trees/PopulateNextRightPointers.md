@@ -3,7 +3,7 @@ title: Populating Next Right Pointers in Each Node
 leetcode: 116
 difficulty: Medium
 patterns: [BFS, Level linking]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Meta, Google, LinkedIn, Uber, Cloudflare]
 frequency: 4
 tags: [tree, bfs, pointers, level-order]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Climbing Stairs
 leetcode: 70
 difficulty: Easy
 patterns: [Bottom-up DP, Recursion + memoization]
-companies: [Amazon, Google, Adobe, Uber]
+companies: [Amazon, Meta, JP Morgan, Apple, Paytm]
 frequency: 4
 tags: [dynamic-programming, fibonacci, recursion]
 sampleInput: |

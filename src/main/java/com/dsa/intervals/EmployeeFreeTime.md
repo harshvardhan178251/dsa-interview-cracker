@@ -3,7 +3,7 @@ title: Employee Free Time
 leetcode: 759
 difficulty: Medium
 patterns: [Merge then complement]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Meta, Microsoft, LinkedIn]
 frequency: 3
 tags: [arrays, sorting, intervals]
 sampleInput: |

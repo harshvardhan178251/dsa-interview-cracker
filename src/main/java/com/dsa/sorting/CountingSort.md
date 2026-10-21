@@ -3,7 +3,7 @@ title: Counting Sort
 leetcode: null
 difficulty: Medium
 patterns: [Non-comparison sort, Frequency counting]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Meta, Adobe]
 frequency: 3
 tags: [sorting, counting-sort, non-comparison-sort]
 sampleInput: |

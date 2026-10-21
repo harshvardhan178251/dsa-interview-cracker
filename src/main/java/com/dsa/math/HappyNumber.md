@@ -3,7 +3,7 @@ title: Happy Number
 leetcode: 202
 difficulty: Easy
 patterns: [Number theory, Cycle detection]
-companies: [Amazon, Google, Meta, Uber, Uber]
+companies: [Google, Adobe, LinkedIn]
 frequency: 3
 tags: [math, hashset, numbers]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Find All Duplicates in an Array
 leetcode: 442
 difficulty: Medium
 patterns: [Hashing, Frequency counting]
-companies: [Amazon, Meta, Google, Uber]
+companies: [Meta, Bloomberg, Facebook]
 frequency: 3
 tags: [hashmap, set, array, duplicates]
 sampleInput: |

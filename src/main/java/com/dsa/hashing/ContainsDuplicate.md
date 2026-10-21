@@ -3,7 +3,7 @@ title: Contains Duplicate
 leetcode: 217
 difficulty: Easy
 patterns: [Hashing, Set membership]
-companies: [Amazon, Meta, Google, Uber, Adobe]
+companies: [Google, Amazon, Adobe, Salesforce, Stripe]
 frequency: 4
 tags: [hashmap, set, array, duplicates]
 sampleInput: |

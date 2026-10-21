@@ -3,7 +3,7 @@ title: Two Sum
 leetcode: 1
 difficulty: Easy
 patterns: [Hashing, One-pass]
-companies: [Amazon, Google, Meta, Uber, Bloomberg, Adobe]
+companies: [Meta, Amazon, Google, Airbnb, Bloomberg, Adobe, Spotify]
 frequency: 5
 tags: [array, hashmap]
 sampleInput: |

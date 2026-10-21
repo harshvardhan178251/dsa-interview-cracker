@@ -3,7 +3,7 @@ title: K Closest Elements
 leetcode: 658
 difficulty: Medium
 patterns: [Heap, Top-K, Distance ranking, Two pointers]
-companies: [Amazon, Meta, Google, Microsoft, Uber]
+companies: [Meta, Google, Uber, Adobe, Walmart]
 frequency: 4
 tags: [heap, array, binary-search, top-k]
 sampleInput: |

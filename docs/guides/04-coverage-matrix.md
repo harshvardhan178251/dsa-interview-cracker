@@ -56,28 +56,37 @@ summary: Exactly what is in the set — problem counts per topic and difficulty,
 
 | Company | Problems tagged |
 |---|---:|
-| Amazon | 323 |
-| Google | 321 |
-| Meta | 316 |
-| Uber | 276 |
-| Microsoft | 100 |
-| Bloomberg | 65 |
-| Adobe | 42 |
-| Apple | 19 |
-| LinkedIn | 17 |
-| Airbnb | 16 |
-| Facebook | 7 |
-| Netflix | 6 |
-| Pinterest | 3 |
-| Intel | 2 |
-| Twitter | 2 |
-| ByteDance | 1 |
-| Cloudflare | 1 |
-| Flipkart | 1 |
-| Lyft | 1 |
-| Oracle | 1 |
-| Poker sites | 1 |
-| Stripe | 1 |
+| Amazon | 191 |
+| Google | 189 |
+| Meta | 172 |
+| Microsoft | 62 |
+| Uber | 61 |
+| Adobe | 58 |
+| Salesforce | 58 |
+| LinkedIn | 57 |
+| Apple | 56 |
+| Airbnb | 54 |
+| Facebook | 52 |
+| Bloomberg | 51 |
+| Netflix | 50 |
+| JP Morgan | 46 |
+| Goldman Sachs | 36 |
+| Cloudflare | 18 |
+| Flipkart | 17 |
+| Visa | 16 |
+| Walmart | 14 |
+| eBay | 12 |
+| Zillow | 12 |
+| ByteDance | 11 |
+| Lyft | 11 |
+| Paytm | 11 |
+| Stripe | 11 |
+| Datadog | 10 |
+| Intel | 10 |
+| Oracle | 10 |
+| Pinterest | 9 |
+| Spotify | 9 |
+| Twitter | 8 |
 
 ## Difficulty mix
 

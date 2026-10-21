@@ -3,7 +3,7 @@ title: Factorial Trailing Zeroes
 leetcode: 172
 difficulty: Easy
 patterns: [Number theory, Counting factors]
-companies: [Amazon, Meta, Google, Uber]
+companies: [Meta, Salesforce, Airbnb]
 frequency: 3
 tags: [math, numbers]
 sampleInput: |

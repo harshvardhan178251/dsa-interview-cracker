@@ -3,7 +3,7 @@ title: Maximum Profit Scheduling Jobs
 leetcode: null
 difficulty: Medium
 patterns: [Greedy sorting, Weighted interval scheduling]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Meta, Bloomberg]
 frequency: 3
 tags: [intervals, dynamic-programming, greedy]
 sampleInput: |

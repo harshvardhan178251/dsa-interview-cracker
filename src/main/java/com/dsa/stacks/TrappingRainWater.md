@@ -3,7 +3,7 @@ title: Trapping Rain Water
 leetcode: 42
 difficulty: Hard
 patterns: [Two pointers, Running maxima]
-companies: [Amazon, Google, Meta, Microsoft, Uber, Bloomberg, Adobe]
+companies: [Meta, Google, Amazon, Adobe, Airbnb, Uber, Cloudflare]
 frequency: 5
 tags: [array, two-pointers, stack, hard]
 sampleInput: |

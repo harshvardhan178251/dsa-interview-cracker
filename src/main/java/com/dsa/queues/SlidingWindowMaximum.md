@@ -3,7 +3,7 @@ title: Sliding Window Maximum
 leetcode: 239
 difficulty: Hard
 patterns: [Monotonic deque, Sliding window, Two pointers]
-companies: [Amazon, Meta, Google, Microsoft, Uber, Bloomberg]
+companies: [Meta, Google, Amazon, LinkedIn, Bloomberg, Netflix, Intel]
 frequency: 5
 tags: [array, deque, sliding-window, monotonic-stack]
 sampleInput: |

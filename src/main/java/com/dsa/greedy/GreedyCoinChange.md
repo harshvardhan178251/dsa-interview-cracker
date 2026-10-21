@@ -3,7 +3,7 @@ title: Coin Change with Greedy
 leetcode: null
 difficulty: Medium
 patterns: [Greedy, Largest denomination first]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Google, Microsoft]
 frequency: 3
 tags: [math, greedy, sorting]
 sampleInput: |

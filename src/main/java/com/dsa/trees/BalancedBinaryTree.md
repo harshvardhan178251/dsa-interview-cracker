@@ -3,7 +3,7 @@ title: Balanced Binary Tree
 leetcode: 110
 difficulty: Easy
 patterns: [DFS, Post-order height check]
-companies: [Amazon, Google, Meta, Uber, Adobe]
+companies: [Amazon, Meta, Google, Microsoft, LinkedIn, Uber, Oracle]
 frequency: 5
 tags: [tree, dfs, recursion, balance]
 sampleInput: |

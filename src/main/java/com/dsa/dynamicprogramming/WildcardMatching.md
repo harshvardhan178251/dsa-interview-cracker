@@ -3,7 +3,7 @@ title: Wildcard Matching
 leetcode: 44
 difficulty: Hard
 patterns: [2-D DP, String DP, Greedy]
-companies: [Amazon, Google, Meta, Facebook]
+companies: [Meta, Google, Facebook, Adobe, Datadog]
 frequency: 4
 tags: [dynamic-programming, strings, hard]
 sampleInput: |

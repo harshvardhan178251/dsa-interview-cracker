@@ -3,7 +3,7 @@ title: Selection Sort
 leetcode: null
 difficulty: Easy
 patterns: [Comparison sort, Divide and select]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Amazon, Adobe]
 frequency: 2
 tags: [sorting, selection-sort, comparison-sort]
 sampleInput: |

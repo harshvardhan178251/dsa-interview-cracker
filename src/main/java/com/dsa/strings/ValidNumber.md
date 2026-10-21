@@ -3,7 +3,7 @@ title: Valid Number
 leetcode: null
 difficulty: Medium
 patterns: [Parsing, Finite state machine]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Amazon, Facebook]
 frequency: 2
 tags: [string, parsing, state-machine, validation]
 sampleInput: |

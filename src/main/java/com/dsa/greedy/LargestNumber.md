@@ -3,7 +3,7 @@ title: Largest Number
 leetcode: 179
 difficulty: Medium
 patterns: [Greedy, Custom comparator]
-companies: [Amazon, Google, Meta, Microsoft, Uber]
+companies: [Amazon, Google, Airbnb, Uber, Visa]
 frequency: 4
 tags: [array, sorting, strings, greedy]
 sampleInput: |

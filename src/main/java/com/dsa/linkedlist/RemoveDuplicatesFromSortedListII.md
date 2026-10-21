@@ -3,7 +3,7 @@ title: Remove Duplicates from Sorted List II
 leetcode: 83
 difficulty: Medium
 patterns: [Dummy head, Run detection]
-companies: [Amazon, Google, Meta, Microsoft, Uber, Bloomberg]
+companies: [Amazon, Meta, Facebook, JP Morgan, Lyft]
 frequency: 4
 tags: [linked-list, pointers, sorted]
 sampleInput: |

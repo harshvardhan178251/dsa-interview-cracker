@@ -3,7 +3,7 @@ title: Minimum Number of Flips to Make the Binary String Alternating
 leetcode: 188
 difficulty: Medium
 patterns: [Sliding window, Counting, Strings]
-companies: [Amazon, Google, Meta, Facebook]
+companies: [Amazon, Airbnb, Apple]
 frequency: 3
 tags: [string, sliding-window, binary]
 sampleInput: |

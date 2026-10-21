@@ -3,7 +3,7 @@ title: Rate Limiter
 leetcode: null
 difficulty: Medium
 patterns: [Design, Sliding window, Rate limiting]
-companies: [Amazon, Google, Meta, Uber, Stripe, Cloudflare]
+companies: [Amazon, Salesforce, Goldman Sachs]
 frequency: 4
 tags: [sliding window, deque, system design]
 sampleInput: |

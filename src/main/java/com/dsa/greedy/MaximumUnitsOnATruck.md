@@ -3,7 +3,7 @@ title: Maximum Units on a Truck
 leetcode: null
 difficulty: Easy
 patterns: [Greedy, Sort by value per unit]
-companies: [Amazon, Google, Uber]
+companies: [Amazon, Apple]
 frequency: 2
 tags: [array, sorting, greedy]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Binary Tree Paths
 leetcode: 257
 difficulty: Easy
 patterns: [DFS, Backtracking]
-companies: [Amazon, Google, Meta]
+companies: [Google, Meta, Microsoft, Adobe, Cloudflare]
 frequency: 4
 tags: [tree, dfs, backtracking, strings]
 sampleInput: |

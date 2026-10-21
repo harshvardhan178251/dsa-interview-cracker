@@ -3,7 +3,7 @@ title: Construct Binary Tree from Preorder and Inorder Traversal
 leetcode: 105
 difficulty: Medium
 patterns: [Divide and conquer, Index maps]
-companies: [Amazon, Google, Meta, Uber, Adobe]
+companies: [Meta, Google, JP Morgan, Airbnb, Visa]
 frequency: 4
 tags: [tree, recursion, divide-and-conquer, reconstruction]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Interleaving String
 leetcode: 97
 difficulty: Medium
 patterns: [2-D DP, String DP]
-companies: [Amazon, Google, Meta, Microsoft]
+companies: [Google, Amazon, LinkedIn, Salesforce, Paytm]
 frequency: 4
 tags: [dynamic-programming, strings]
 sampleInput: |

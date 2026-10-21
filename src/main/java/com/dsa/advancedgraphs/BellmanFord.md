@@ -3,7 +3,7 @@ title: Bellman-Ford Shortest Path
 leetcode: null
 difficulty: Medium
 patterns: [Bellman-Ford, Negative weights, Cycle detection]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Amazon, Microsoft, Apple]
 frequency: 4
 tags: [graph, weighted, shortest-path, bellman-ford, negative-weights]
 sampleInput: |

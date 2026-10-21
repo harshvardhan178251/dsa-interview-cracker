@@ -3,7 +3,7 @@ title: Design HashMap
 leetcode: 706
 difficulty: Easy
 patterns: [Design, Hashing, Separate chaining]
-companies: [Amazon, Google, Meta, Uber, Bloomberg]
+companies: [Amazon, Bloomberg, Salesforce]
 frequency: 3
 tags: [hashmap, chaining, buckets]
 sampleInput: |

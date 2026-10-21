@@ -3,7 +3,7 @@ title: Sum of Left Leaves
 leetcode: 404
 difficulty: Easy
 patterns: [DFS, Recursion]
-companies: [Amazon, Google, Meta]
+companies: [Meta, Netflix, Microsoft]
 frequency: 3
 tags: [tree, dfs, recursion, leaves]
 sampleInput: |

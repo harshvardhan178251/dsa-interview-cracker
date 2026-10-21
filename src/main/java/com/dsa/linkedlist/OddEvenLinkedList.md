@@ -3,7 +3,7 @@ title: Odd Even Linked List
 leetcode: 328
 difficulty: Medium
 patterns: [Pointer rewiring, Two chains]
-companies: [Amazon, Google, Meta, Microsoft, Uber, Bloomberg]
+companies: [Google, Meta, Bloomberg, Adobe, Zillow]
 frequency: 4
 tags: [linked-list, pointers, in-place]
 sampleInput: |

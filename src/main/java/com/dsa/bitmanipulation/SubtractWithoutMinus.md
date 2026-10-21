@@ -3,7 +3,7 @@ title: Subtract Two Integers without Minus
 leetcode: null
 difficulty: Medium
 patterns: [Bit tricks, Two's complement, Borrow propagation]
-companies: [Amazon, Google, Meta, Adobe]
+companies: [Meta, Airbnb]
 frequency: 3
 tags: [bit-manipulation, numbers]
 sampleInput: |

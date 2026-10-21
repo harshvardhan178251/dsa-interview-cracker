@@ -3,7 +3,7 @@ title: Rotate List
 leetcode: 61
 difficulty: Medium
 patterns: [Pointer rewiring, Circular list]
-companies: [Amazon, Google, Meta, Microsoft, Uber, Bloomberg]
+companies: [Amazon, Meta, Microsoft, Netflix, Oracle]
 frequency: 4
 tags: [linked-list, pointers, in-place]
 sampleInput: |

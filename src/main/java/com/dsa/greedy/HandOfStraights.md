@@ -3,7 +3,7 @@ title: Hand of Straights
 leetcode: 846
 difficulty: Medium
 patterns: [Greedy, Frequency counting]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Google, Goldman Sachs, Adobe]
 frequency: 3
 tags: [array, hashmap, sorting, greedy]
 sampleInput: |

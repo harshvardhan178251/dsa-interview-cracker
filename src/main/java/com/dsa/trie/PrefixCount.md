@@ -3,7 +3,7 @@ title: Trie with Prefix Counting
 leetcode: null
 difficulty: Medium
 patterns: [Trie, Augmented node state]
-companies: [Amazon, Google, Meta]
+companies: [Amazon, Bloomberg]
 frequency: 3
 tags: [trie, design, counting, prefix]
 sampleInput: |

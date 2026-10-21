@@ -3,7 +3,7 @@ title: Floyd-Warshall All-Pairs Shortest Path
 leetcode: null
 difficulty: Medium
 patterns: [Dynamic programming, All-pairs shortest path]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Amazon, Uber, LinkedIn]
 frequency: 4
 tags: [graph, weighted, shortest-path, floyd-warshall, dynamic-programming]
 sampleInput: |

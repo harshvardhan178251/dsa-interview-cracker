@@ -3,7 +3,7 @@ title: Car Fleet
 leetcode: 1491
 difficulty: Medium
 patterns: [Greedy, Fleet time from the back]
-companies: [Amazon, Google, Meta, Uber, Bloomberg]
+companies: [Meta, Amazon, Bloomberg, Apple, Twitter]
 frequency: 4
 tags: [array, sorting, greedy]
 sampleInput: |

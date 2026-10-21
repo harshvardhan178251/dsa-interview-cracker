@@ -3,7 +3,7 @@ title: Subtree of Another Tree
 leetcode: 572
 difficulty: Easy
 patterns: [DFS, Structural comparison]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Meta, Google, Adobe, Netflix, Pinterest]
 frequency: 4
 tags: [tree, dfs, recursion, subtree]
 sampleInput: |

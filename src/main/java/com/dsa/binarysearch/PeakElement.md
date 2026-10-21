@@ -3,7 +3,7 @@ title: Find Peak Element
 leetcode: 162
 difficulty: Medium
 patterns: [Binary search, Divide and conquer]
-companies: [Amazon, Google, Meta, Uber, ByteDance]
+companies: [Google, Meta, Netflix, Salesforce, Walmart]
 frequency: 4
 tags: [array, binary-search, divide-and-conquer]
 sampleInput: |

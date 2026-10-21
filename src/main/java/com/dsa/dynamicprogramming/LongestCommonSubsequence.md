@@ -3,7 +3,7 @@ title: Longest Common Subsequence
 leetcode: 1143
 difficulty: Medium
 patterns: [2-D DP, String DP]
-companies: [Amazon, Google, Meta, Microsoft]
+companies: [Amazon, Meta, Google, Airbnb, Apple, Facebook, Datadog]
 frequency: 5
 tags: [dynamic-programming, strings]
 sampleInput: |

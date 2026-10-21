@@ -15,10 +15,8 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Uber",
-      "LinkedIn"
+      "Facebook",
+      "Bloomberg"
     ],
     "tags": [
       "graph",
@@ -49,9 +47,8 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Uber"
+      "Microsoft",
+      "Apple"
     ],
     "tags": [
       "graph",
@@ -82,10 +79,8 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Uber",
-      "LinkedIn"
+      "Bloomberg",
+      "Salesforce"
     ],
     "tags": [
       "graph",
@@ -115,11 +110,11 @@
       "Greedy"
     ],
     "companies": [
-      "Amazon",
       "Google",
       "Meta",
-      "Uber",
-      "Netflix"
+      "Goldman Sachs",
+      "Netflix",
+      "Visa"
     ],
     "tags": [
       "graph",
@@ -149,10 +144,9 @@
       "Degree conditions"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber"
+      "Bloomberg",
+      "Facebook"
     ],
     "tags": [
       "graph",
@@ -182,9 +176,8 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Uber"
+      "Uber",
+      "LinkedIn"
     ],
     "tags": [
       "graph",
@@ -215,11 +208,9 @@
       "NP-hard"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber",
-      "Intel"
+      "Airbnb",
+      "Netflix"
     ],
     "tags": [
       "graph",
@@ -249,11 +240,9 @@
       "Transpose graph"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
       "Uber",
-      "LinkedIn"
+      "Microsoft"
     ],
     "tags": [
       "graph",
@@ -283,10 +272,8 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Uber",
-      "Bloomberg"
+      "Airbnb",
+      "LinkedIn"
     ],
     "tags": [
       "graph",
@@ -317,11 +304,11 @@
       "Greedy"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber",
-      "Bloomberg"
+      "Amazon",
+      "Adobe",
+      "Salesforce",
+      "Twitter"
     ],
     "tags": [
       "graph",
@@ -352,10 +339,8 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Uber",
-      "Bloomberg"
+      "Netflix",
+      "Facebook"
     ],
     "tags": [
       "graph",
@@ -385,11 +370,9 @@
       "DFS"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber",
-      "LinkedIn"
+      "LinkedIn",
+      "Airbnb"
     ],
     "tags": [
       "graph",
@@ -418,11 +401,11 @@
       "One-pass minimum tracking"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber",
-      "Bloomberg"
+      "Amazon",
+      "Adobe",
+      "Bloomberg",
+      "Lyft"
     ],
     "tags": [
       "array",
@@ -450,9 +433,8 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Uber"
+      "Salesforce",
+      "Bloomberg"
     ],
     "tags": [
       "array",
@@ -479,9 +461,8 @@
       "Sliding distance window"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
+      "JP Morgan",
       "Uber"
     ],
     "tags": [
@@ -509,9 +490,8 @@
       "Single pass"
     ],
     "companies": [
-      "Amazon",
-      "Google",
-      "Meta"
+      "Meta",
+      "Apple"
     ],
     "tags": [
       "array",
@@ -538,11 +518,11 @@
       "Majority guarantee"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber",
-      "Microsoft"
+      "Google",
+      "LinkedIn",
+      "Salesforce",
+      "Visa"
     ],
     "tags": [
       "array",
@@ -570,9 +550,8 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Uber"
+      "Microsoft",
+      "Apple"
     ],
     "tags": [
       "array",
@@ -600,9 +579,7 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Uber"
+      "Airbnb"
     ],
     "tags": [
       "array",
@@ -630,11 +607,8 @@
       "Pigeonhole bound"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber",
-      "Twitter"
+      "Facebook"
     ],
     "tags": [
       "array",
@@ -662,12 +636,11 @@
       "Kadane's algorithm"
     ],
     "companies": [
-      "Amazon",
       "Google",
       "Meta",
-      "Uber",
-      "Microsoft",
-      "Adobe"
+      "Netflix",
+      "Salesforce",
+      "Intel"
     ],
     "tags": [
       "array",
@@ -695,9 +668,7 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Uber"
+      "LinkedIn"
     ],
     "tags": [
       "array",
@@ -724,9 +695,8 @@
       "Adjacent pair scan"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta"
+      "Netflix"
     ],
     "tags": [
       "array",
@@ -753,10 +723,8 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
       "Uber",
-      "Airbnb"
+      "Microsoft"
     ],
     "tags": [
       "array",
@@ -784,10 +752,8 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Uber",
-      "Microsoft"
+      "LinkedIn",
+      "Uber"
     ],
     "tags": [
       "array",
@@ -814,10 +780,8 @@
       "In-place compaction"
     ],
     "companies": [
-      "Amazon",
       "Meta",
-      "Uber",
-      "Intel"
+      "Microsoft"
     ],
     "tags": [
       "array",
@@ -845,10 +809,8 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Uber",
-      "Adobe"
+      "Salesforce",
+      "JP Morgan"
     ],
     "tags": [
       "array",
@@ -876,10 +838,10 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
       "Meta",
+      "Bloomberg",
       "Uber",
-      "Bloomberg"
+      "Twitter"
     ],
     "tags": [
       "matrix",
@@ -906,11 +868,11 @@
       "Two-phase scan"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Uber",
-      "Microsoft"
+      "Amazon",
+      "Salesforce",
+      "LinkedIn",
+      "Visa"
     ],
     "tags": [
       "matrix",
@@ -937,10 +899,8 @@
       "Uniform random permutation"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber",
+      "LinkedIn",
       "Microsoft"
     ],
     "tags": [
@@ -968,12 +928,11 @@
       "Simulation"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
+      "Amazon",
       "Uber",
-      "Bloomberg",
-      "Adobe"
+      "Netflix",
+      "Cloudflare"
     ],
     "tags": [
       "matrix",
@@ -1000,12 +959,13 @@
       "One-pass"
     ],
     "companies": [
+      "Meta",
       "Amazon",
       "Google",
-      "Meta",
-      "Uber",
+      "Airbnb",
       "Bloomberg",
-      "Adobe"
+      "Adobe",
+      "Spotify"
     ],
     "tags": [
       "array",
@@ -1034,7 +994,10 @@
       "Amazon",
       "Google",
       "Meta",
-      "Uber"
+      "JP Morgan",
+      "Airbnb",
+      "Uber",
+      "Lyft"
     ],
     "tags": [
       "backtracking",
@@ -1063,7 +1026,9 @@
     "companies": [
       "Amazon",
       "Google",
-      "Meta"
+      "LinkedIn",
+      "Microsoft",
+      "Oracle"
     ],
     "tags": [
       "backtracking",
@@ -1091,9 +1056,8 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Uber"
+      "LinkedIn",
+      "Bloomberg"
     ],
     "tags": [
       "dfs",
@@ -1122,8 +1086,9 @@
     "companies": [
       "Amazon",
       "Google",
-      "Meta",
-      "Adobe"
+      "Facebook",
+      "Netflix",
+      "Stripe"
     ],
     "tags": [
       "backtracking",
@@ -1150,11 +1115,11 @@
       "DFS with a path"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Microsoft",
-      "Uber"
+      "Amazon",
+      "Adobe",
+      "Netflix",
+      "Lyft"
     ],
     "tags": [
       "backtracking",
@@ -1181,10 +1146,11 @@
       "Constraint pruning"
     ],
     "companies": [
-      "Amazon",
       "Google",
       "Meta",
-      "Uber"
+      "Apple",
+      "Adobe",
+      "Zillow"
     ],
     "tags": [
       "backtracking",
@@ -1211,9 +1177,9 @@
       "Constraint pruning"
     ],
     "companies": [
-      "Amazon",
-      "Google",
-      "Meta"
+      "Meta",
+      "Airbnb",
+      "Bloomberg"
     ],
     "tags": [
       "backtracking",
@@ -1241,9 +1207,10 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
       "Meta",
-      "Uber"
+      "Apple",
+      "Salesforce",
+      "ByteDance"
     ],
     "tags": [
       "backtracking",
@@ -1269,11 +1236,13 @@
       "Used array"
     ],
     "companies": [
-      "Amazon",
       "Google",
+      "Amazon",
       "Meta",
-      "Microsoft",
-      "Uber"
+      "Adobe",
+      "JP Morgan",
+      "Uber",
+      "Stripe"
     ],
     "tags": [
       "backtracking",
@@ -1300,9 +1269,11 @@
       "Duplicate pruning"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta"
+      "Amazon",
+      "Airbnb",
+      "Uber",
+      "Datadog"
     ],
     "tags": [
       "backtracking",
@@ -1332,8 +1303,10 @@
       "Amazon",
       "Google",
       "Meta",
-      "Microsoft",
-      "Uber"
+      "Facebook",
+      "JP Morgan",
+      "Apple",
+      "Visa"
     ],
     "tags": [
       "backtracking",
@@ -1360,10 +1333,11 @@
       "Constraint pruning"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Microsoft"
+      "Amazon",
+      "Microsoft",
+      "Airbnb",
+      "eBay"
     ],
     "tags": [
       "backtracking",
@@ -1391,9 +1365,10 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
       "Meta",
-      "Uber"
+      "Facebook",
+      "Apple",
+      "Cloudflare"
     ],
     "tags": [
       "backtracking",
@@ -1420,10 +1395,8 @@
       "Greedy"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Adobe"
+      "Microsoft"
     ],
     "tags": [
       "binary-search",
@@ -1451,10 +1424,8 @@
       "Partition"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Adobe",
-      "Flipkart"
+      "Apple"
     ],
     "tags": [
       "binary-search",
@@ -1483,10 +1454,10 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Microsoft",
       "Meta",
-      "Uber"
+      "JP Morgan",
+      "Microsoft",
+      "Intel"
     ],
     "tags": [
       "array",
@@ -1515,9 +1486,9 @@
     "companies": [
       "Amazon",
       "Google",
-      "Meta",
-      "Uber",
-      "Microsoft"
+      "Apple",
+      "Netflix",
+      "eBay"
     ],
     "tags": [
       "binary-search",
@@ -1545,11 +1516,11 @@
       "Upper bound"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Microsoft",
-      "Uber"
+      "Google",
+      "LinkedIn",
+      "Salesforce",
+      "Paytm"
     ],
     "tags": [
       "array",
@@ -1576,11 +1547,11 @@
       "Rotated array"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Microsoft",
-      "Uber"
+      "Amazon",
+      "LinkedIn",
+      "Salesforce",
+      "Zillow"
     ],
     "tags": [
       "array",
@@ -1607,11 +1578,11 @@
       "Divide and conquer"
     ],
     "companies": [
-      "Amazon",
       "Google",
       "Meta",
-      "Uber",
-      "ByteDance"
+      "Netflix",
+      "Salesforce",
+      "Walmart"
     ],
     "tags": [
       "array",
@@ -1638,10 +1609,11 @@
       "Monotone predicate"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Facebook"
+      "Amazon",
+      "Apple",
+      "Uber",
+      "Cloudflare"
     ],
     "tags": [
       "binary-search",
@@ -1667,10 +1639,11 @@
       "Binary search on the answer"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber"
+      "Google",
+      "Apple",
+      "Uber",
+      "Oracle"
     ],
     "tags": [
       "binary-search",
@@ -1698,10 +1671,9 @@
       "Degree peeling"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Uber"
+      "Facebook",
+      "Adobe"
     ],
     "tags": [
       "tree",
@@ -1730,11 +1702,11 @@
       "Divide and conquer"
     ],
     "companies": [
-      "Amazon",
       "Google",
       "Meta",
       "Microsoft",
-      "Uber"
+      "JP Morgan",
+      "Flipkart"
     ],
     "tags": [
       "matrix",
@@ -1763,9 +1735,9 @@
     "companies": [
       "Amazon",
       "Google",
-      "Meta",
+      "Uber",
       "Microsoft",
-      "Uber"
+      "Spotify"
     ],
     "tags": [
       "matrix",
@@ -1792,12 +1764,13 @@
       "Rotated array"
     ],
     "companies": [
+      "Meta",
       "Amazon",
       "Google",
-      "Meta",
-      "Microsoft",
+      "LinkedIn",
       "Uber",
-      "Bloomberg"
+      "Facebook",
+      "eBay"
     ],
     "tags": [
       "array",
@@ -1825,11 +1798,11 @@
       "Duplicates"
     ],
     "companies": [
-      "Amazon",
       "Google",
       "Meta",
-      "Microsoft",
-      "Uber"
+      "Bloomberg",
+      "Airbnb",
+      "Flipkart"
     ],
     "tags": [
       "array",
@@ -1856,11 +1829,11 @@
       "Lower bound"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber",
-      "Airbnb"
+      "Google",
+      "Apple",
+      "Airbnb",
+      "Spotify"
     ],
     "tags": [
       "array",
@@ -1888,11 +1861,11 @@
       "Partition"
     ],
     "companies": [
-      "Amazon",
       "Google",
       "Meta",
+      "Microsoft",
       "Facebook",
-      "Uber"
+      "eBay"
     ],
     "tags": [
       "binary-search",
@@ -1919,11 +1892,11 @@
       "Binary search on the answer"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Facebook",
-      "Uber"
+      "Google",
+      "Uber",
+      "Microsoft",
+      "Pinterest"
     ],
     "tags": [
       "math",
@@ -1950,10 +1923,9 @@
       "Dynamic programming"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber"
+      "Adobe",
+      "Apple"
     ],
     "tags": [
       "bit-manipulation",
@@ -1981,11 +1953,11 @@
       "Long division"
     ],
     "companies": [
-      "Amazon",
       "Google",
       "Meta",
+      "Apple",
       "Uber",
-      "Apple"
+      "Datadog"
     ],
     "tags": [
       "bit-manipulation",
@@ -2013,10 +1985,8 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Uber",
-      "Apple"
+      "Adobe",
+      "Salesforce"
     ],
     "tags": [
       "bit-manipulation",
@@ -2043,11 +2013,11 @@
       "Bit tricks"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber",
-      "Apple"
+      "Amazon",
+      "Facebook",
+      "Netflix",
+      "ByteDance"
     ],
     "tags": [
       "bit-manipulation",
@@ -2074,10 +2044,10 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
       "Meta",
+      "Goldman Sachs",
       "Uber",
-      "Apple"
+      "eBay"
     ],
     "tags": [
       "bit-manipulation",
@@ -2102,11 +2072,11 @@
       "Bit tricks"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber",
-      "Apple"
+      "Amazon",
+      "Microsoft",
+      "Netflix",
+      "Zillow"
     ],
     "tags": [
       "bit-manipulation",
@@ -2134,9 +2104,9 @@
     "companies": [
       "Amazon",
       "Google",
-      "Meta",
-      "Uber",
-      "Apple"
+      "Apple",
+      "Goldman Sachs",
+      "Walmart"
     ],
     "tags": [
       "bit-manipulation",
@@ -2162,12 +2132,13 @@
       "Bit tricks"
     ],
     "companies": [
+      "Meta",
       "Amazon",
       "Google",
-      "Meta",
       "Uber",
-      "Apple",
-      "Adobe"
+      "Airbnb",
+      "Microsoft",
+      "Lyft"
     ],
     "tags": [
       "array",
@@ -2196,9 +2167,9 @@
     "companies": [
       "Amazon",
       "Google",
-      "Meta",
+      "Salesforce",
       "Uber",
-      "Apple"
+      "Datadog"
     ],
     "tags": [
       "array",
@@ -2226,10 +2197,8 @@
       "Borrow propagation"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Adobe"
+      "Airbnb"
     ],
     "tags": [
       "bit-manipulation",
@@ -2256,10 +2225,10 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
       "Meta",
       "Uber",
-      "Apple"
+      "Facebook",
+      "Datadog"
     ],
     "tags": [
       "bit-manipulation",
@@ -2285,11 +2254,9 @@
       "Bit tricks"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
       "Uber",
-      "Apple"
+      "Microsoft"
     ],
     "tags": [
       "array",
@@ -2317,11 +2284,9 @@
       "Condition variables"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Uber",
-      "Netflix"
+      "LinkedIn",
+      "Adobe"
     ],
     "tags": [
       "concurrency",
@@ -2350,10 +2315,8 @@
       "Join before reading"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber"
+      "Apple"
     ],
     "tags": [
       "concurrency",
@@ -2382,11 +2345,8 @@
       "Ordered merge"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Uber",
-      "Netflix"
+      "LinkedIn"
     ],
     "tags": [
       "concurrency",
@@ -2415,11 +2375,9 @@
       "Poison pill"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Uber",
-      "Netflix"
+      "JP Morgan",
+      "Microsoft"
     ],
     "tags": [
       "concurrency",
@@ -2447,11 +2405,9 @@
       "Safe publication"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Uber",
-      "Oracle"
+      "Netflix",
+      "Adobe"
     ],
     "tags": [
       "concurrency",
@@ -2480,11 +2436,9 @@
       "Lock-free"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Uber",
-      "Netflix"
+      "Apple",
+      "Airbnb"
     ],
     "tags": [
       "concurrency",
@@ -2512,11 +2466,9 @@
       "Array with a cursor"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Uber",
-      "Airbnb"
+      "Airbnb",
+      "JP Morgan"
     ],
     "tags": [
       "array",
@@ -2545,10 +2497,8 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Uber",
-      "Bloomberg"
+      "Bloomberg",
+      "Salesforce"
     ],
     "tags": [
       "hashmap",
@@ -2576,11 +2526,9 @@
       "Bucketing"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Uber",
-      "Pinterest"
+      "Bloomberg",
+      "Uber"
     ],
     "tags": [
       "sliding window",
@@ -2608,11 +2556,8 @@
       "Two stacks"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber",
-      "Adobe"
+      "Facebook"
     ],
     "tags": [
       "stack",
@@ -2641,9 +2586,7 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Uber"
+      "Salesforce"
     ],
     "tags": [
       "matrix",
@@ -2672,10 +2615,8 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Uber",
-      "Lyft"
+      "Adobe",
+      "LinkedIn"
     ],
     "tags": [
       "hashmap",
@@ -2703,12 +2644,11 @@
       "HashMap"
     ],
     "companies": [
-      "Amazon",
       "Google",
       "Meta",
-      "Uber",
+      "Adobe",
       "LinkedIn",
-      "Pinterest"
+      "Datadog"
     ],
     "tags": [
       "cache",
@@ -2737,13 +2677,13 @@
       "Doubly linked list"
     ],
     "companies": [
-      "Amazon",
       "Google",
       "Meta",
-      "Uber",
-      "LinkedIn",
-      "Netflix",
-      "Airbnb"
+      "Amazon",
+      "Facebook",
+      "Adobe",
+      "Airbnb",
+      "Walmart"
     ],
     "tags": [
       "cache",
@@ -2772,11 +2712,8 @@
       "Running aggregates"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Uber",
-      "Bloomberg"
+      "Apple"
     ],
     "tags": [
       "stack",
@@ -2805,10 +2742,8 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Uber",
-      "LinkedIn"
+      "LinkedIn",
+      "Facebook"
     ],
     "tags": [
       "sliding window",
@@ -2837,11 +2772,8 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Uber",
-      "Stripe",
-      "Cloudflare"
+      "Salesforce",
+      "Goldman Sachs"
     ],
     "tags": [
       "sliding window",
@@ -2870,9 +2802,7 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Uber"
+      "Netflix"
     ],
     "tags": [
       "concurrency",
@@ -2901,10 +2831,8 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Uber",
-      "Airbnb"
+      "Adobe",
+      "Facebook"
     ],
     "tags": [
       "snapshot",
@@ -2931,10 +2859,11 @@
       "Greedy"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Bloomberg"
+      "Amazon",
+      "Microsoft",
+      "Uber",
+      "Lyft"
     ],
     "tags": [
       "dynamic-programming",
@@ -2962,10 +2891,11 @@
       "Bottom-up DP"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Uber"
+      "Amazon",
+      "Bloomberg",
+      "LinkedIn",
+      "Flipkart"
     ],
     "tags": [
       "dynamic-programming",
@@ -2994,8 +2924,9 @@
     "companies": [
       "Amazon",
       "Google",
-      "Meta",
-      "Microsoft"
+      "Apple",
+      "Bloomberg",
+      "Spotify"
     ],
     "tags": [
       "dynamic-programming",
@@ -3023,9 +2954,10 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Adobe",
-      "Uber"
+      "Meta",
+      "JP Morgan",
+      "Apple",
+      "Paytm"
     ],
     "tags": [
       "dynamic-programming",
@@ -3053,10 +2985,12 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
       "Meta",
-      "Uber",
-      "Bloomberg"
+      "Google",
+      "Salesforce",
+      "Apple",
+      "Microsoft",
+      "Twitter"
     ],
     "tags": [
       "dynamic-programming",
@@ -3083,10 +3017,11 @@
       "Counting DP"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Uber"
+      "Amazon",
+      "LinkedIn",
+      "Airbnb",
+      "Visa"
     ],
     "tags": [
       "dynamic-programming",
@@ -3114,11 +3049,11 @@
       "String DP"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
+      "Amazon",
       "Adobe",
-      "Uber"
+      "Goldman Sachs",
+      "Flipkart"
     ],
     "tags": [
       "dynamic-programming",
@@ -3144,9 +3079,8 @@
       "Prefix DP"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Adobe"
+      "LinkedIn"
     ],
     "tags": [
       "dynamic-programming",
@@ -3173,11 +3107,13 @@
       "String DP"
     ],
     "companies": [
-      "Amazon",
       "Google",
+      "Amazon",
       "Meta",
-      "Microsoft",
-      "Uber"
+      "Uber",
+      "LinkedIn",
+      "JP Morgan",
+      "Flipkart"
     ],
     "tags": [
       "dynamic-programming",
@@ -3203,9 +3139,9 @@
       "Iterative recurrence"
     ],
     "companies": [
-      "Amazon",
-      "Google",
-      "Meta"
+      "Meta",
+      "Adobe",
+      "Airbnb"
     ],
     "tags": [
       "dynamic-programming",
@@ -3232,10 +3168,12 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
       "Meta",
-      "Uber",
-      "Adobe"
+      "Google",
+      "Bloomberg",
+      "Goldman Sachs",
+      "Airbnb",
+      "Cloudflare"
     ],
     "tags": [
       "dynamic-programming",
@@ -3263,7 +3201,9 @@
     "companies": [
       "Amazon",
       "Google",
-      "Meta"
+      "Facebook",
+      "LinkedIn",
+      "Zillow"
     ],
     "tags": [
       "dynamic-programming",
@@ -3290,10 +3230,11 @@
       "String DP"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Microsoft"
+      "Amazon",
+      "LinkedIn",
+      "Salesforce",
+      "Paytm"
     ],
     "tags": [
       "dynamic-programming",
@@ -3320,9 +3261,10 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
       "Meta",
-      "Uber"
+      "Facebook",
+      "Adobe",
+      "Lyft"
     ],
     "tags": [
       "dynamic-programming",
@@ -3350,9 +3292,12 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
       "Meta",
-      "Microsoft"
+      "Google",
+      "Airbnb",
+      "Apple",
+      "Facebook",
+      "Datadog"
     ],
     "tags": [
       "dynamic-programming",
@@ -3378,9 +3323,11 @@
       "String DP"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta"
+      "Amazon",
+      "Airbnb",
+      "Uber",
+      "Pinterest"
     ],
     "tags": [
       "dynamic-programming",
@@ -3406,11 +3353,13 @@
       "Patience sorting"
     ],
     "companies": [
-      "Amazon",
       "Google",
       "Meta",
-      "Microsoft",
-      "Uber"
+      "Amazon",
+      "Salesforce",
+      "Uber",
+      "Goldman Sachs",
+      "Twitter"
     ],
     "tags": [
       "dynamic-programming",
@@ -3438,9 +3387,10 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
       "Meta",
-      "Uber"
+      "Airbnb",
+      "Netflix",
+      "Visa"
     ],
     "tags": [
       "dynamic-programming",
@@ -3466,10 +3416,11 @@
       "Bottom-up DP"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Uber"
+      "Amazon",
+      "Airbnb",
+      "Adobe",
+      "eBay"
     ],
     "tags": [
       "dynamic-programming",
@@ -3496,8 +3447,7 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Microsoft"
+      "JP Morgan"
     ],
     "tags": [
       "dynamic-programming",
@@ -3524,10 +3474,11 @@
       "Expand around the centre"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber"
+      "Google",
+      "Airbnb",
+      "Bloomberg",
+      "Stripe"
     ],
     "tags": [
       "dynamic-programming",
@@ -3554,10 +3505,11 @@
       "0/1 knapsack"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Microsoft"
+      "Amazon",
+      "Uber",
+      "Airbnb",
+      "eBay"
     ],
     "tags": [
       "dynamic-programming",
@@ -3584,10 +3536,11 @@
       "String DP"
     ],
     "companies": [
-      "Amazon",
       "Google",
       "Meta",
-      "Microsoft"
+      "Bloomberg",
+      "Salesforce",
+      "Walmart"
     ],
     "tags": [
       "dynamic-programming",
@@ -3615,10 +3568,8 @@
       "Bottom-up DP"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Microsoft",
-      "Adobe"
+      "LinkedIn"
     ],
     "tags": [
       "dynamic-programming",
@@ -3645,10 +3596,9 @@
       "Bottom-up DP"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber"
+      "Apple",
+      "Salesforce"
     ],
     "tags": [
       "dynamic-programming",
@@ -3677,8 +3627,9 @@
     "companies": [
       "Amazon",
       "Google",
-      "Meta",
-      "Adobe"
+      "Airbnb",
+      "Uber",
+      "Pinterest"
     ],
     "tags": [
       "dynamic-programming",
@@ -3705,11 +3656,13 @@
       "Combinatorics"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber",
-      "Microsoft"
+      "Google",
+      "Amazon",
+      "LinkedIn",
+      "Salesforce",
+      "Airbnb",
+      "Walmart"
     ],
     "tags": [
       "dynamic-programming",
@@ -3737,9 +3690,8 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Uber"
+      "Goldman Sachs",
+      "Facebook"
     ],
     "tags": [
       "dynamic-programming",
@@ -3768,10 +3720,11 @@
       "Greedy"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Facebook"
+      "Google",
+      "Facebook",
+      "Adobe",
+      "Datadog"
     ],
     "tags": [
       "dynamic-programming",
@@ -3800,9 +3753,9 @@
     "companies": [
       "Amazon",
       "Google",
-      "Meta",
-      "Uber",
-      "Adobe"
+      "Apple",
+      "Netflix",
+      "eBay"
     ],
     "tags": [
       "dynamic-programming",
@@ -3830,10 +3783,10 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
       "Meta",
-      "Uber",
-      "Bloomberg"
+      "Facebook",
+      "Adobe",
+      "Oracle"
     ],
     "tags": [
       "graph",
@@ -3862,11 +3815,9 @@
       "String comparison"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Uber",
-      "Airbnb"
+      "Airbnb",
+      "Goldman Sachs"
     ],
     "tags": [
       "graph",
@@ -3895,11 +3846,11 @@
       "Shortest path"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber",
-      "Airbnb"
+      "Amazon",
+      "Facebook",
+      "Goldman Sachs",
+      "Lyft"
     ],
     "tags": [
       "graph",
@@ -3929,11 +3880,9 @@
       "BFS"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Uber",
-      "LinkedIn"
+      "LinkedIn",
+      "Bloomberg"
     ],
     "tags": [
       "graph",
@@ -3962,11 +3911,11 @@
       "BFS"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber",
-      "LinkedIn"
+      "Google",
+      "Netflix",
+      "LinkedIn",
+      "Visa"
     ],
     "tags": [
       "graph",
@@ -3995,10 +3944,11 @@
       "BFS"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber"
+      "Amazon",
+      "Adobe",
+      "Uber",
+      "Stripe"
     ],
     "tags": [
       "graph",
@@ -4028,10 +3978,8 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Uber",
-      "LinkedIn"
+      "Apple",
+      "Bloomberg"
     ],
     "tags": [
       "graph",
@@ -4060,11 +4008,11 @@
       "Union-Find"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Uber",
-      "LinkedIn"
+      "Amazon",
+      "Facebook",
+      "Bloomberg",
+      "ByteDance"
     ],
     "tags": [
       "graph",
@@ -4093,11 +4041,9 @@
       "Reachability"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber",
-      "Airbnb"
+      "Salesforce",
+      "Apple"
     ],
     "tags": [
       "graph",
@@ -4126,10 +4072,11 @@
       "Priority queue"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Uber"
+      "Amazon",
+      "Goldman Sachs",
+      "Apple",
+      "ByteDance"
     ],
     "tags": [
       "graph",
@@ -4158,11 +4105,11 @@
       "BFS"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber",
-      "LinkedIn"
+      "Google",
+      "Adobe",
+      "LinkedIn",
+      "Stripe"
     ],
     "tags": [
       "graph",
@@ -4191,11 +4138,11 @@
       "Grid traversal"
     ],
     "companies": [
-      "Amazon",
       "Google",
       "Meta",
-      "Uber",
-      "Microsoft"
+      "Goldman Sachs",
+      "Facebook",
+      "Zillow"
     ],
     "tags": [
       "graph",
@@ -4227,9 +4174,9 @@
     "companies": [
       "Amazon",
       "Google",
-      "Meta",
-      "Uber",
-      "LinkedIn"
+      "Microsoft",
+      "JP Morgan",
+      "Flipkart"
     ],
     "tags": [
       "graph",
@@ -4258,11 +4205,8 @@
       "Shortest path"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber",
-      "Airbnb"
+      "Salesforce"
     ],
     "tags": [
       "graph",
@@ -4291,11 +4235,11 @@
       "Greedy"
     ],
     "companies": [
-      "Amazon",
       "Google",
       "Meta",
-      "Uber",
-      "Airbnb"
+      "Netflix",
+      "Microsoft",
+      "Oracle"
     ],
     "tags": [
       "graph",
@@ -4324,10 +4268,11 @@
       "Grid traversal"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Uber"
+      "Amazon",
+      "JP Morgan",
+      "Netflix",
+      "Cloudflare"
     ],
     "tags": [
       "graph",
@@ -4356,9 +4301,8 @@
       "Dynamic programming"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
+      "Facebook",
       "Uber"
     ],
     "tags": [
@@ -4388,11 +4332,9 @@
       "Min-heap"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Uber",
-      "LinkedIn"
+      "Airbnb",
+      "Bloomberg"
     ],
     "tags": [
       "graph",
@@ -4420,10 +4362,9 @@
       "Grid traversal"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Uber"
+      "Adobe",
+      "Salesforce"
     ],
     "tags": [
       "graph",
@@ -4454,9 +4395,9 @@
     "companies": [
       "Amazon",
       "Google",
-      "Meta",
-      "Uber",
-      "LinkedIn"
+      "Facebook",
+      "Adobe",
+      "Oracle"
     ],
     "tags": [
       "graph",
@@ -4485,10 +4426,8 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Uber",
-      "Airbnb"
+      "LinkedIn",
+      "JP Morgan"
     ],
     "tags": [
       "array",
@@ -4516,10 +4455,11 @@
       "Two-pass constraint propagation"
     ],
     "companies": [
-      "Amazon",
       "Meta",
       "Google",
-      "Microsoft"
+      "Microsoft",
+      "Netflix",
+      "ByteDance"
     ],
     "tags": [
       "array",
@@ -4545,10 +4485,8 @@
       "Largest denomination first"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Uber"
+      "Microsoft"
     ],
     "tags": [
       "math",
@@ -4575,11 +4513,11 @@
       "Prefix-sum reset"
     ],
     "companies": [
-      "Amazon",
       "Meta",
-      "Google",
-      "Microsoft",
-      "Uber"
+      "Amazon",
+      "Salesforce",
+      "JP Morgan",
+      "Flipkart"
     ],
     "tags": [
       "array",
@@ -4606,10 +4544,9 @@
       "Frequency counting"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Uber"
+      "Goldman Sachs",
+      "Adobe"
     ],
     "tags": [
       "array",
@@ -4637,11 +4574,11 @@
       "Reach tracking"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
+      "Google",
+      "Netflix",
       "Uber",
-      "Bloomberg"
+      "Lyft"
     ],
     "tags": [
       "array",
@@ -4667,11 +4604,11 @@
       "BFS by layers"
     ],
     "companies": [
-      "Amazon",
-      "Meta",
       "Google",
-      "Microsoft",
-      "Uber"
+      "Amazon",
+      "LinkedIn",
+      "Apple",
+      "Pinterest"
     ],
     "tags": [
       "array",
@@ -4699,9 +4636,8 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Uber"
+      "Airbnb",
+      "Adobe"
     ],
     "tags": [
       "array",
@@ -4730,9 +4666,9 @@
     "companies": [
       "Amazon",
       "Google",
-      "Meta",
-      "Microsoft",
-      "Uber"
+      "Airbnb",
+      "Uber",
+      "Visa"
     ],
     "tags": [
       "array",
@@ -4760,10 +4696,8 @@
       "Weighted interval scheduling"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber"
+      "Bloomberg"
     ],
     "tags": [
       "intervals",
@@ -4791,8 +4725,7 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Uber"
+      "Apple"
     ],
     "tags": [
       "array",
@@ -4819,10 +4752,9 @@
       "Max-heap simulation"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber"
+      "Salesforce",
+      "Adobe"
     ],
     "tags": [
       "array",
@@ -4850,8 +4782,8 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta"
+      "Apple",
+      "Netflix"
     ],
     "tags": [
       "array",
@@ -4878,11 +4810,11 @@
       "Set membership"
     ],
     "companies": [
-      "Amazon",
-      "Meta",
       "Google",
-      "Uber",
-      "Adobe"
+      "Amazon",
+      "Adobe",
+      "Salesforce",
+      "Stripe"
     ],
     "tags": [
       "hashmap",
@@ -4910,10 +4842,9 @@
       "Frequency counting"
     ],
     "companies": [
-      "Amazon",
       "Meta",
-      "Google",
-      "Uber"
+      "Bloomberg",
+      "Facebook"
     ],
     "tags": [
       "hashmap",
@@ -4942,9 +4873,8 @@
     ],
     "companies": [
       "Amazon",
-      "Meta",
-      "Google",
-      "Uber"
+      "Airbnb",
+      "JP Morgan"
     ],
     "tags": [
       "hashmap",
@@ -4971,11 +4901,11 @@
       "Canonical key"
     ],
     "companies": [
-      "Amazon",
-      "Uber",
       "Meta",
       "Google",
-      "Bloomberg"
+      "Uber",
+      "Facebook",
+      "Walmart"
     ],
     "tags": [
       "hashmap",
@@ -5003,10 +4933,9 @@
       "Set intersection"
     ],
     "companies": [
-      "Amazon",
       "Meta",
-      "Google",
-      "Uber"
+      "Netflix",
+      "Apple"
     ],
     "tags": [
       "hashmap",
@@ -5035,8 +4964,7 @@
     ],
     "companies": [
       "Amazon",
-      "Meta",
-      "Google",
+      "Airbnb",
       "Uber"
     ],
     "tags": [
@@ -5065,11 +4993,11 @@
       "Run detection"
     ],
     "companies": [
-      "Amazon",
-      "Meta",
       "Google",
-      "Uber",
-      "Bloomberg"
+      "Meta",
+      "Apple",
+      "Facebook",
+      "Spotify"
     ],
     "tags": [
       "hashmap",
@@ -5098,9 +5026,7 @@
     ],
     "companies": [
       "Amazon",
-      "Meta",
-      "Google",
-      "Uber"
+      "JP Morgan"
     ],
     "tags": [
       "hashmap",
@@ -5128,10 +5054,9 @@
       "Bijective mapping"
     ],
     "companies": [
-      "Amazon",
-      "Meta",
       "Google",
-      "Uber"
+      "Uber",
+      "Microsoft"
     ],
     "tags": [
       "hashmap",
@@ -5160,11 +5085,9 @@
       "Bounded heap"
     ],
     "companies": [
-      "Amazon",
-      "Meta",
       "Google",
-      "Microsoft",
-      "Uber"
+      "Facebook",
+      "Bloomberg"
     ],
     "tags": [
       "greedy",
@@ -5193,10 +5116,8 @@
       "Twin bounded heaps"
     ],
     "companies": [
-      "Amazon",
-      "Meta",
       "Google",
-      "Microsoft"
+      "LinkedIn"
     ],
     "tags": [
       "heap",
@@ -5225,13 +5146,13 @@
       "Order statistics"
     ],
     "companies": [
-      "Amazon",
       "Meta",
+      "Amazon",
       "Google",
-      "Microsoft",
-      "Uber",
-      "Bloomberg",
-      "Pinterest"
+      "Salesforce",
+      "Apple",
+      "Airbnb",
+      "Paytm"
     ],
     "tags": [
       "heap",
@@ -5261,11 +5182,11 @@
       "Two pointers"
     ],
     "companies": [
-      "Amazon",
       "Meta",
       "Google",
-      "Microsoft",
-      "Uber"
+      "Uber",
+      "Adobe",
+      "Walmart"
     ],
     "tags": [
       "heap",
@@ -5294,12 +5215,13 @@
       "Bounded heap"
     ],
     "companies": [
-      "Amazon",
       "Meta",
       "Google",
-      "Microsoft",
+      "Amazon",
       "Uber",
-      "Bloomberg"
+      "Facebook",
+      "Netflix",
+      "Cloudflare"
     ],
     "tags": [
       "heap",
@@ -5329,10 +5251,10 @@
     ],
     "companies": [
       "Amazon",
-      "Meta",
       "Google",
-      "Microsoft",
-      "Uber"
+      "Bloomberg",
+      "Facebook",
+      "Cloudflare"
     ],
     "tags": [
       "heap",
@@ -5363,8 +5285,9 @@
     "companies": [
       "Amazon",
       "Meta",
-      "Google",
-      "Microsoft"
+      "Salesforce",
+      "Adobe",
+      "Datadog"
     ],
     "tags": [
       "dp",
@@ -5395,12 +5318,12 @@
     ],
     "companies": [
       "Amazon",
-      "Meta",
       "Google",
-      "Microsoft",
-      "Uber",
+      "Meta",
+      "Netflix",
       "Bloomberg",
-      "Apple"
+      "Uber",
+      "Intel"
     ],
     "tags": [
       "heap",
@@ -5430,11 +5353,10 @@
     ],
     "companies": [
       "Amazon",
-      "Meta",
       "Google",
-      "Microsoft",
-      "Uber",
-      "LinkedIn"
+      "Apple",
+      "Bloomberg",
+      "Stripe"
     ],
     "tags": [
       "heap",
@@ -5465,10 +5387,10 @@
     ],
     "companies": [
       "Amazon",
-      "Meta",
       "Google",
-      "Microsoft",
-      "Uber"
+      "Airbnb",
+      "Apple",
+      "Lyft"
     ],
     "tags": [
       "heap",
@@ -5498,12 +5420,13 @@
       "Frequency counting"
     ],
     "companies": [
-      "Amazon",
       "Meta",
+      "Amazon",
       "Google",
-      "Microsoft",
+      "Netflix",
       "Uber",
-      "Google"
+      "Salesforce",
+      "Flipkart"
     ],
     "tags": [
       "heap",
@@ -5533,12 +5456,13 @@
       "Frequency counting"
     ],
     "companies": [
+      "Google",
       "Amazon",
       "Meta",
-      "Google",
-      "Microsoft",
-      "Uber",
-      "Airbnb"
+      "LinkedIn",
+      "Netflix",
+      "JP Morgan",
+      "Intel"
     ],
     "tags": [
       "heap",
@@ -5566,11 +5490,11 @@
       "Fleet time from the back"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber",
-      "Bloomberg"
+      "Amazon",
+      "Bloomberg",
+      "Apple",
+      "Twitter"
     ],
     "tags": [
       "array",
@@ -5596,10 +5520,9 @@
       "Merge then complement"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber"
+      "Microsoft",
+      "LinkedIn"
     ],
     "tags": [
       "arrays",
@@ -5626,10 +5549,11 @@
       "Three-way sweep"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber"
+      "Amazon",
+      "Microsoft",
+      "Uber",
+      "Pinterest"
     ],
     "tags": [
       "array",
@@ -5656,9 +5580,9 @@
       "Sorted sweep"
     ],
     "companies": [
-      "Amazon",
-      "Google",
-      "Meta"
+      "Meta",
+      "Salesforce",
+      "Netflix"
     ],
     "tags": [
       "array",
@@ -5685,11 +5609,11 @@
       "Overlap detection"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber",
-      "Airbnb"
+      "Google",
+      "Facebook",
+      "Microsoft",
+      "Flipkart"
     ],
     "tags": [
       "array",
@@ -5716,10 +5640,11 @@
       "Min-heap of end times"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber"
+      "Google",
+      "Microsoft",
+      "Uber",
+      "Paytm"
     ],
     "tags": [
       "array",
@@ -5748,9 +5673,8 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Microsoft"
+      "Microsoft",
+      "Salesforce"
     ],
     "tags": [
       "array",
@@ -5782,8 +5706,10 @@
       "Amazon",
       "Google",
       "Meta",
+      "Airbnb",
       "Microsoft",
-      "Uber"
+      "Netflix",
+      "ByteDance"
     ],
     "tags": [
       "array",
@@ -5810,10 +5736,11 @@
       "Earliest finishing time"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber"
+      "Google",
+      "JP Morgan",
+      "LinkedIn",
+      "Oracle"
     ],
     "tags": [
       "array",
@@ -5842,12 +5769,12 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
       "Meta",
+      "Google",
       "Microsoft",
-      "Uber",
-      "Bloomberg",
-      "Adobe"
+      "Salesforce",
+      "Facebook",
+      "Flipkart"
     ],
     "tags": [
       "linked-list",
@@ -5875,11 +5802,10 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
       "Meta",
-      "Microsoft",
-      "Uber",
-      "Bloomberg"
+      "Bloomberg",
+      "Apple",
+      "Lyft"
     ],
     "tags": [
       "linked-list",
@@ -5907,12 +5833,11 @@
       "Deep copy with cycles"
     ],
     "companies": [
-      "Amazon",
       "Google",
       "Meta",
-      "Microsoft",
-      "Uber",
-      "Bloomberg"
+      "Adobe",
+      "Goldman Sachs",
+      "Walmart"
     ],
     "tags": [
       "linked-list",
@@ -5940,9 +5865,7 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Microsoft"
+      "Facebook"
     ],
     "tags": [
       "linked-list",
@@ -5972,10 +5895,9 @@
     "companies": [
       "Amazon",
       "Google",
-      "Meta",
-      "Microsoft",
-      "Uber",
-      "Bloomberg"
+      "Apple",
+      "LinkedIn",
+      "eBay"
     ],
     "tags": [
       "linked-list",
@@ -6002,11 +5924,8 @@
       "Simulation"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Microsoft",
-      "Uber"
+      "Microsoft"
     ],
     "tags": [
       "math",
@@ -6035,11 +5954,12 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
       "Meta",
-      "Microsoft",
-      "Uber",
-      "Bloomberg"
+      "Google",
+      "Goldman Sachs",
+      "Adobe",
+      "Airbnb",
+      "Cloudflare"
     ],
     "tags": [
       "linked-list",
@@ -6066,12 +5986,11 @@
       "Floyd cycle detection"
     ],
     "companies": [
-      "Amazon",
       "Google",
       "Meta",
-      "Microsoft",
-      "Uber",
-      "Bloomberg"
+      "JP Morgan",
+      "Airbnb",
+      "Flipkart"
     ],
     "tags": [
       "linked-list",
@@ -6098,12 +6017,13 @@
       "Dummy head"
     ],
     "companies": [
-      "Amazon",
       "Google",
+      "Amazon",
       "Meta",
-      "Microsoft",
+      "Adobe",
+      "Netflix",
       "Uber",
-      "Bloomberg"
+      "Datadog"
     ],
     "tags": [
       "linked-list",
@@ -6132,10 +6052,9 @@
     "companies": [
       "Amazon",
       "Google",
-      "Meta",
-      "Microsoft",
-      "Uber",
-      "Bloomberg"
+      "Apple",
+      "Salesforce",
+      "Zillow"
     ],
     "tags": [
       "linked-list",
@@ -6161,12 +6080,11 @@
       "Two chains"
     ],
     "companies": [
-      "Amazon",
       "Google",
       "Meta",
-      "Microsoft",
-      "Uber",
-      "Bloomberg"
+      "Bloomberg",
+      "Adobe",
+      "Zillow"
     ],
     "tags": [
       "linked-list",
@@ -6193,12 +6111,11 @@
       "Reverse a half list"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Microsoft",
-      "Uber",
-      "Bloomberg"
+      "Amazon",
+      "Goldman Sachs",
+      "Apple",
+      "eBay"
     ],
     "tags": [
       "linked-list",
@@ -6226,11 +6143,10 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
       "Meta",
-      "Microsoft",
-      "Uber",
-      "Bloomberg"
+      "Facebook",
+      "JP Morgan",
+      "Lyft"
     ],
     "tags": [
       "linked-list",
@@ -6257,12 +6173,13 @@
       "Dummy head"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Microsoft",
-      "Uber",
-      "Bloomberg"
+      "Google",
+      "Amazon",
+      "Adobe",
+      "LinkedIn",
+      "Goldman Sachs",
+      "ByteDance"
     ],
     "tags": [
       "linked-list",
@@ -6290,10 +6207,9 @@
     "companies": [
       "Amazon",
       "Google",
-      "Meta",
-      "Microsoft",
+      "Salesforce",
       "Uber",
-      "Bloomberg"
+      "Intel"
     ],
     "tags": [
       "linked-list",
@@ -6320,12 +6236,13 @@
       "Iterative reversal"
     ],
     "companies": [
-      "Amazon",
       "Google",
       "Meta",
-      "Microsoft",
-      "Uber",
-      "Bloomberg"
+      "Amazon",
+      "LinkedIn",
+      "JP Morgan",
+      "Salesforce",
+      "Paytm"
     ],
     "tags": [
       "linked-list",
@@ -6354,9 +6271,9 @@
     "companies": [
       "Amazon",
       "Google",
-      "Meta",
-      "Microsoft",
-      "Uber"
+      "JP Morgan",
+      "Netflix",
+      "Walmart"
     ],
     "tags": [
       "linked-list",
@@ -6385,10 +6302,9 @@
     "companies": [
       "Amazon",
       "Google",
-      "Meta",
       "Microsoft",
-      "Uber",
-      "Bloomberg"
+      "JP Morgan",
+      "Stripe"
     ],
     "tags": [
       "linked-list",
@@ -6416,11 +6332,10 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
       "Meta",
       "Microsoft",
-      "Uber",
-      "Bloomberg"
+      "Netflix",
+      "Oracle"
     ],
     "tags": [
       "linked-list",
@@ -6449,10 +6364,9 @@
     "companies": [
       "Amazon",
       "Google",
-      "Meta",
+      "Apple",
       "Microsoft",
-      "Uber",
-      "Bloomberg"
+      "Zillow"
     ],
     "tags": [
       "linked-list",
@@ -6480,9 +6394,10 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
       "Meta",
-      "Uber"
+      "JP Morgan",
+      "LinkedIn",
+      "Spotify"
     ],
     "tags": [
       "math",
@@ -6511,9 +6426,9 @@
     "companies": [
       "Amazon",
       "Google",
-      "Meta",
-      "Uber",
-      "Microsoft"
+      "Airbnb",
+      "Bloomberg",
+      "Flipkart"
     ],
     "tags": [
       "math",
@@ -6540,10 +6455,9 @@
       "Counting factors"
     ],
     "companies": [
-      "Amazon",
       "Meta",
-      "Google",
-      "Uber"
+      "Salesforce",
+      "Airbnb"
     ],
     "tags": [
       "math",
@@ -6568,10 +6482,9 @@
       "Euclidean algorithm"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber"
+      "Adobe",
+      "Bloomberg"
     ],
     "tags": [
       "math",
@@ -6597,11 +6510,9 @@
       "Cycle detection"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Uber",
-      "Uber"
+      "Adobe",
+      "LinkedIn"
     ],
     "tags": [
       "math",
@@ -6628,10 +6539,8 @@
       "Trial division"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Uber"
+      "Apple"
     ],
     "tags": [
       "math",
@@ -6658,8 +6567,7 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta"
+      "Bloomberg"
     ],
     "tags": [
       "math",
@@ -6685,11 +6593,11 @@
       "Half reversal"
     ],
     "companies": [
-      "Amazon",
       "Google",
       "Meta",
-      "Uber",
-      "Bloomberg"
+      "Apple",
+      "Goldman Sachs",
+      "Walmart"
     ],
     "tags": [
       "math",
@@ -6716,9 +6624,8 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Uber"
+      "Bloomberg",
+      "Goldman Sachs"
     ],
     "tags": [
       "math",
@@ -6744,11 +6651,11 @@
       "Fast exponentiation"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber",
-      "Bloomberg"
+      "Google",
+      "Airbnb",
+      "LinkedIn",
+      "Flipkart"
     ],
     "tags": [
       "math",
@@ -6775,11 +6682,11 @@
       "Overflow check"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber",
-      "Bloomberg"
+      "Google",
+      "Adobe",
+      "Goldman Sachs",
+      "Zillow"
     ],
     "tags": [
       "math",
@@ -6805,10 +6712,9 @@
       "Three pointers"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber"
+      "Apple",
+      "Microsoft"
     ],
     "tags": [
       "math",
@@ -6835,11 +6741,8 @@
       "Inclusion-exclusion"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Uber",
-      "Adobe"
+      "Microsoft"
     ],
     "tags": [
       "prefix-sum",
@@ -6866,10 +6769,9 @@
       "Balance counting"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber"
+      "Adobe",
+      "Microsoft"
     ],
     "tags": [
       "prefix-sum",
@@ -6897,9 +6799,7 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Uber"
+      "Microsoft"
     ],
     "tags": [
       "hashmap",
@@ -6927,8 +6827,8 @@
     ],
     "companies": [
       "Amazon",
-      "Meta",
-      "Uber"
+      "LinkedIn",
+      "Airbnb"
     ],
     "tags": [
       "prefix-sum",
@@ -6954,11 +6854,11 @@
       "No division"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Uber",
-      "Adobe"
+      "Amazon",
+      "Microsoft",
+      "Apple",
+      "Walmart"
     ],
     "tags": [
       "prefix-sum",
@@ -6986,10 +6886,8 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Uber",
-      "Apple"
+      "Salesforce",
+      "Goldman Sachs"
     ],
     "tags": [
       "prefix-sum",
@@ -7016,10 +6914,8 @@
       "In-place accumulation"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber"
+      "Salesforce"
     ],
     "tags": [
       "prefix-sum",
@@ -7045,10 +6941,10 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
       "Meta",
-      "Uber",
-      "Adobe"
+      "Microsoft",
+      "Facebook",
+      "Stripe"
     ],
     "tags": [
       "prefix-sum",
@@ -7076,10 +6972,8 @@
       "Amortised O(1)"
     ],
     "companies": [
-      "Amazon",
       "Meta",
-      "Google",
-      "Microsoft",
+      "JP Morgan",
       "Uber"
     ],
     "tags": [
@@ -7109,11 +7003,9 @@
       "Array"
     ],
     "companies": [
-      "Amazon",
       "Meta",
-      "Google",
-      "Uber",
-      "Adobe"
+      "LinkedIn",
+      "Salesforce"
     ],
     "tags": [
       "queue",
@@ -7142,10 +7034,8 @@
       "Amortised O(1)"
     ],
     "companies": [
-      "Amazon",
-      "Meta",
       "Google",
-      "Microsoft"
+      "Goldman Sachs"
     ],
     "tags": [
       "stack",
@@ -7174,11 +7064,9 @@
       "Amortised O(1)"
     ],
     "companies": [
-      "Amazon",
-      "Meta",
       "Google",
-      "Microsoft",
-      "Uber"
+      "Salesforce",
+      "Bloomberg"
     ],
     "tags": [
       "stack",
@@ -7208,8 +7096,6 @@
     ],
     "companies": [
       "Amazon",
-      "Meta",
-      "Google",
       "Microsoft"
     ],
     "tags": [
@@ -7239,12 +7125,13 @@
       "Two pointers"
     ],
     "companies": [
-      "Amazon",
       "Meta",
       "Google",
-      "Microsoft",
-      "Uber",
-      "Bloomberg"
+      "Amazon",
+      "LinkedIn",
+      "Bloomberg",
+      "Netflix",
+      "Intel"
     ],
     "tags": [
       "array",
@@ -7272,11 +7159,11 @@
       "Frequency counting"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Uber",
-      "Adobe"
+      "Amazon",
+      "Facebook",
+      "LinkedIn",
+      "Pinterest"
     ],
     "tags": [
       "string",
@@ -7305,10 +7192,10 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
       "Meta",
       "Uber",
-      "Adobe"
+      "Salesforce",
+      "Walmart"
     ],
     "tags": [
       "array",
@@ -7336,10 +7223,10 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
       "Meta",
-      "Uber",
-      "LinkedIn"
+      "Facebook",
+      "LinkedIn",
+      "Flipkart"
     ],
     "tags": [
       "string",
@@ -7368,10 +7255,8 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Uber",
-      "Airbnb"
+      "Salesforce",
+      "Apple"
     ],
     "tags": [
       "string",
@@ -7400,10 +7285,11 @@
       "Hashing"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber"
+      "Google",
+      "Microsoft",
+      "Uber",
+      "eBay"
     ],
     "tags": [
       "array",
@@ -7432,11 +7318,12 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
       "Meta",
-      "Uber",
-      "Adobe",
-      "Bloomberg"
+      "Google",
+      "Netflix",
+      "Salesforce",
+      "Bloomberg",
+      "Stripe"
     ],
     "tags": [
       "string",
@@ -7465,9 +7352,8 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Facebook"
+      "Airbnb",
+      "Apple"
     ],
     "tags": [
       "string",
@@ -7495,12 +7381,11 @@
       "Two pointers"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
+      "Google",
+      "JP Morgan",
       "Uber",
-      "Bloomberg",
-      "Adobe"
+      "ByteDance"
     ],
     "tags": [
       "string",
@@ -7529,11 +7414,11 @@
       "Hashing"
     ],
     "companies": [
-      "Amazon",
       "Google",
       "Meta",
-      "Uber",
-      "Adobe"
+      "JP Morgan",
+      "Goldman Sachs",
+      "Intel"
     ],
     "tags": [
       "string",
@@ -7561,10 +7446,7 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Uber",
-      "Apple"
+      "Goldman Sachs"
     ],
     "tags": [
       "sorting",
@@ -7591,10 +7473,8 @@
       "Frequency counting"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber"
+      "Adobe"
     ],
     "tags": [
       "sorting",
@@ -7623,8 +7503,9 @@
     "companies": [
       "Amazon",
       "Google",
-      "Meta",
-      "Uber"
+      "Netflix",
+      "Adobe",
+      "Cloudflare"
     ],
     "tags": [
       "sorting",
@@ -7652,11 +7533,8 @@
       "In-place sorting"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Uber",
-      "Adobe"
+      "LinkedIn"
     ],
     "tags": [
       "sorting",
@@ -7684,10 +7562,7 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Uber",
-      "Adobe"
+      "Uber"
     ],
     "tags": [
       "sorting",
@@ -7715,11 +7590,8 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Uber",
-      "Microsoft",
-      "Apple"
+      "JP Morgan",
+      "Netflix"
     ],
     "tags": [
       "sorting",
@@ -7747,11 +7619,8 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Uber",
-      "Microsoft",
-      "Apple"
+      "LinkedIn",
+      "Uber"
     ],
     "tags": [
       "sorting",
@@ -7779,9 +7648,7 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Uber"
+      "Adobe"
     ],
     "tags": [
       "sorting",
@@ -7808,11 +7675,8 @@
       "Stable counting sort"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber",
-      "Poker sites"
+      "Netflix"
     ],
     "tags": [
       "sorting",
@@ -7840,10 +7704,9 @@
       "Partitioning"
     ],
     "companies": [
-      "Amazon",
-      "Meta",
       "Google",
-      "Uber"
+      "Bloomberg",
+      "Facebook"
     ],
     "tags": [
       "sorting",
@@ -7871,12 +7734,11 @@
       "Recursive descent"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Microsoft",
-      "Uber",
-      "Bloomberg"
+      "Amazon",
+      "JP Morgan",
+      "Netflix",
+      "Cloudflare"
     ],
     "tags": [
       "stack",
@@ -7904,12 +7766,11 @@
       "Deferred evaluation"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
+      "Google",
       "Microsoft",
       "Uber",
-      "Bloomberg"
+      "Twitter"
     ],
     "tags": [
       "stack",
@@ -7935,12 +7796,11 @@
       "Monotonic stack"
     ],
     "companies": [
-      "Amazon",
       "Google",
       "Meta",
-      "Microsoft",
-      "Uber",
-      "Bloomberg"
+      "Bloomberg",
+      "Airbnb",
+      "Cloudflare"
     ],
     "tags": [
       "stack",
@@ -7967,12 +7827,11 @@
       "Nested parsing"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Microsoft",
-      "Uber",
-      "Bloomberg"
+      "Amazon",
+      "Netflix",
+      "Adobe",
+      "Cloudflare"
     ],
     "tags": [
       "stack",
@@ -7999,12 +7858,11 @@
       "Postfix evaluation"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Microsoft",
-      "Uber",
-      "Bloomberg"
+      "Amazon",
+      "Salesforce",
+      "Netflix",
+      "Cloudflare"
     ],
     "tags": [
       "stack",
@@ -8031,12 +7889,11 @@
       "Sentinel"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Microsoft",
-      "Uber",
-      "Bloomberg"
+      "Amazon",
+      "Apple",
+      "LinkedIn",
+      "Zillow"
     ],
     "tags": [
       "stack",
@@ -8065,8 +7922,6 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
       "Microsoft"
     ],
     "tags": [
@@ -8095,13 +7950,13 @@
       "Auxiliary minimum tracking"
     ],
     "companies": [
+      "Meta",
       "Amazon",
       "Google",
-      "Meta",
-      "Microsoft",
-      "Uber",
+      "Airbnb",
       "Bloomberg",
-      "Amazon"
+      "Uber",
+      "ByteDance"
     ],
     "tags": [
       "stack",
@@ -8127,12 +7982,11 @@
       "Monotonic stack"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Microsoft",
+      "Google",
+      "Airbnb",
       "Uber",
-      "Bloomberg"
+      "Twitter"
     ],
     "tags": [
       "stack",
@@ -8159,12 +8013,11 @@
       "Circular array"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Microsoft",
-      "Uber",
-      "Bloomberg"
+      "Amazon",
+      "Apple",
+      "Goldman Sachs",
+      "Intel"
     ],
     "tags": [
       "stack",
@@ -8190,11 +8043,8 @@
       "Monotonic stack"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Microsoft",
-      "Uber"
+      "LinkedIn"
     ],
     "tags": [
       "stack",
@@ -8221,13 +8071,13 @@
       "Running maxima"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Microsoft",
+      "Google",
+      "Amazon",
+      "Adobe",
+      "Airbnb",
       "Uber",
-      "Bloomberg",
-      "Adobe"
+      "Cloudflare"
     ],
     "tags": [
       "array",
@@ -8255,13 +8105,13 @@
       "Bracket matching"
     ],
     "companies": [
-      "Amazon",
       "Google",
+      "Amazon",
       "Meta",
-      "Microsoft",
-      "Uber",
-      "Bloomberg",
-      "Adobe"
+      "Goldman Sachs",
+      "JP Morgan",
+      "Salesforce",
+      "Pinterest"
     ],
     "tags": [
       "stack",
@@ -8289,10 +8139,8 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Uber",
-      "Airbnb"
+      "Salesforce",
+      "Facebook"
     ],
     "tags": [
       "string",
@@ -8320,10 +8168,8 @@
     ],
     "companies": [
       "Amazon",
-      "Meta",
-      "Google",
-      "Uber",
-      "Adobe"
+      "Adobe",
+      "Bloomberg"
     ],
     "tags": [
       "string",
@@ -8350,11 +8196,9 @@
       "Running value"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Uber",
-      "Bloomberg"
+      "Apple",
+      "Goldman Sachs"
     ],
     "tags": [
       "string",
@@ -8381,11 +8225,9 @@
       "Modular arithmetic"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Uber",
-      "Bloomberg"
+      "Netflix",
+      "Salesforce"
     ],
     "tags": [
       "string",
@@ -8412,10 +8254,9 @@
       "Lookup table"
     ],
     "companies": [
-      "Amazon",
-      "Meta",
       "Google",
-      "Uber"
+      "Adobe",
+      "Facebook"
     ],
     "tags": [
       "string",
@@ -8442,11 +8283,11 @@
       "Vertical scan"
     ],
     "companies": [
-      "Amazon",
       "Meta",
-      "Google",
-      "Uber",
-      "Bloomberg"
+      "Amazon",
+      "Apple",
+      "Goldman Sachs",
+      "Spotify"
     ],
     "tags": [
       "string",
@@ -8473,11 +8314,9 @@
       "Interval DP"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Microsoft",
-      "Adobe"
+      "JP Morgan",
+      "Bloomberg"
     ],
     "tags": [
       "string",
@@ -8505,11 +8344,11 @@
       "Two Pointers"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Uber",
-      "Apple"
+      "Amazon",
+      "Airbnb",
+      "Netflix",
+      "Visa"
     ],
     "tags": [
       "string",
@@ -8536,9 +8375,8 @@
       "In-place swap"
     ],
     "companies": [
-      "Amazon",
       "Meta",
-      "Google",
+      "JP Morgan",
       "Uber"
     ],
     "tags": [
@@ -8567,9 +8405,7 @@
     ],
     "companies": [
       "Amazon",
-      "Meta",
-      "Google",
-      "Uber",
+      "Goldman Sachs",
       "Facebook"
     ],
     "tags": [
@@ -8598,9 +8434,8 @@
     ],
     "companies": [
       "Amazon",
-      "Meta",
-      "Google",
-      "Uber"
+      "Salesforce",
+      "Adobe"
     ],
     "tags": [
       "string",
@@ -8627,11 +8462,8 @@
       "Two Pointers"
     ],
     "companies": [
-      "Amazon",
-      "Meta",
       "Google",
-      "Uber",
-      "Apple"
+      "Microsoft"
     ],
     "tags": [
       "string",
@@ -8658,12 +8490,11 @@
       "Overflow guards"
     ],
     "companies": [
-      "Amazon",
       "Google",
       "Meta",
-      "Uber",
-      "Microsoft",
-      "Apple"
+      "LinkedIn",
+      "Facebook",
+      "Walmart"
     ],
     "tags": [
       "string",
@@ -8691,11 +8522,11 @@
       "Hash map"
     ],
     "companies": [
-      "Amazon",
-      "Uber",
       "Meta",
-      "Google",
-      "Bloomberg"
+      "Amazon",
+      "Salesforce",
+      "Adobe",
+      "Intel"
     ],
     "tags": [
       "string",
@@ -8723,9 +8554,7 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta",
-      "Uber"
+      "Facebook"
     ],
     "tags": [
       "string",
@@ -8753,10 +8582,9 @@
       "One deletion"
     ],
     "companies": [
-      "Amazon",
-      "Meta",
       "Google",
-      "Microsoft"
+      "Salesforce",
+      "Goldman Sachs"
     ],
     "tags": [
       "string",
@@ -8784,10 +8612,12 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
       "Meta",
+      "Google",
+      "Microsoft",
+      "LinkedIn",
       "Uber",
-      "Adobe"
+      "Oracle"
     ],
     "tags": [
       "tree",
@@ -8815,9 +8645,9 @@
       "Tree DP"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta"
+      "JP Morgan",
+      "Facebook"
     ],
     "tags": [
       "tree",
@@ -8845,11 +8675,13 @@
       "Explicit stack"
     ],
     "companies": [
-      "Amazon",
       "Google",
+      "Amazon",
       "Meta",
-      "Uber",
-      "Adobe"
+      "Bloomberg",
+      "Microsoft",
+      "Facebook",
+      "Paytm"
     ],
     "tags": [
       "tree",
@@ -8876,11 +8708,13 @@
       "Queue"
     ],
     "companies": [
+      "Meta",
       "Amazon",
       "Google",
-      "Meta",
-      "Uber",
-      "Bloomberg"
+      "Salesforce",
+      "Microsoft",
+      "Airbnb",
+      "Flipkart"
     ],
     "tags": [
       "tree",
@@ -8908,9 +8742,11 @@
       "Post-order recursion"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta"
+      "Amazon",
+      "Microsoft",
+      "JP Morgan",
+      "Paytm"
     ],
     "tags": [
       "tree",
@@ -8938,9 +8774,11 @@
       "Backtracking"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta"
+      "Meta",
+      "Microsoft",
+      "Adobe",
+      "Cloudflare"
     ],
     "tags": [
       "tree",
@@ -8968,11 +8806,11 @@
       "Index maps"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber",
-      "Adobe"
+      "Google",
+      "JP Morgan",
+      "Airbnb",
+      "Visa"
     ],
     "tags": [
       "tree",
@@ -9000,10 +8838,11 @@
       "Recursive descent"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Uber"
+      "Amazon",
+      "Uber",
+      "Airbnb",
+      "Walmart"
     ],
     "tags": [
       "tree",
@@ -9031,10 +8870,11 @@
       "Post-order with global state"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Uber"
+      "Amazon",
+      "Microsoft",
+      "Uber",
+      "Paytm"
     ],
     "tags": [
       "tree",
@@ -9062,9 +8902,11 @@
       "Recursive descent"
     ],
     "companies": [
+      "Meta",
       "Amazon",
-      "Google",
-      "Meta"
+      "Bloomberg",
+      "Goldman Sachs",
+      "Cloudflare"
     ],
     "tags": [
       "tree",
@@ -9092,10 +8934,11 @@
       "Mirror recursion"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber"
+      "Amazon",
+      "Adobe",
+      "JP Morgan",
+      "Visa"
     ],
     "tags": [
       "tree",
@@ -9126,8 +8969,10 @@
       "Amazon",
       "Google",
       "Meta",
-      "Uber",
-      "Bloomberg"
+      "LinkedIn",
+      "Adobe",
+      "Apple",
+      "Stripe"
     ],
     "tags": [
       "tree",
@@ -9155,11 +9000,13 @@
       "Post-order recursion"
     ],
     "companies": [
+      "Meta",
       "Amazon",
       "Google",
-      "Meta",
+      "JP Morgan",
       "Uber",
-      "Adobe"
+      "Bloomberg",
+      "Oracle"
     ],
     "tags": [
       "tree",
@@ -9187,11 +9034,13 @@
       "Iterative descent"
     ],
     "companies": [
+      "Meta",
       "Amazon",
       "Google",
-      "Meta",
-      "Uber",
-      "Bloomberg"
+      "Goldman Sachs",
+      "Salesforce",
+      "Bloomberg",
+      "ByteDance"
     ],
     "tags": [
       "tree",
@@ -9222,8 +9071,10 @@
       "Amazon",
       "Google",
       "Meta",
-      "Uber",
-      "Adobe"
+      "Airbnb",
+      "Facebook",
+      "Goldman Sachs",
+      "Paytm"
     ],
     "tags": [
       "tree",
@@ -9251,11 +9102,13 @@
       "Running sum"
     ],
     "companies": [
+      "Meta",
       "Amazon",
       "Google",
-      "Meta",
-      "Uber",
-      "Adobe"
+      "Salesforce",
+      "Microsoft",
+      "Apple",
+      "Visa"
     ],
     "tags": [
       "tree",
@@ -9283,10 +9136,11 @@
       "Prefix sums"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber"
+      "Google",
+      "Adobe",
+      "LinkedIn",
+      "Oracle"
     ],
     "tags": [
       "tree",
@@ -9314,10 +9168,11 @@
       "Level linking"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber"
+      "Google",
+      "LinkedIn",
+      "Uber",
+      "Cloudflare"
     ],
     "tags": [
       "tree",
@@ -9346,9 +9201,12 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
       "Meta",
-      "Uber"
+      "Google",
+      "LinkedIn",
+      "Apple",
+      "Goldman Sachs",
+      "Flipkart"
     ],
     "tags": [
       "tree",
@@ -9377,8 +9235,10 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta"
+      "Meta",
+      "Adobe",
+      "Bloomberg",
+      "Cloudflare"
     ],
     "tags": [
       "tree",
@@ -9406,11 +9266,11 @@
       "Round trip"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber",
-      "Adobe"
+      "Amazon",
+      "Adobe",
+      "Microsoft",
+      "ByteDance"
     ],
     "tags": [
       "tree",
@@ -9438,10 +9298,11 @@
       "Structural comparison"
     ],
     "companies": [
-      "Amazon",
-      "Google",
       "Meta",
-      "Uber"
+      "Google",
+      "Adobe",
+      "Netflix",
+      "Pinterest"
     ],
     "tags": [
       "tree",
@@ -9469,9 +9330,9 @@
       "Recursion"
     ],
     "companies": [
-      "Amazon",
-      "Google",
-      "Meta"
+      "Meta",
+      "Netflix",
+      "Microsoft"
     ],
     "tags": [
       "tree",
@@ -9499,9 +9360,11 @@
       "Mirror recursion"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta"
+      "Amazon",
+      "Microsoft",
+      "JP Morgan",
+      "Pinterest"
     ],
     "tags": [
       "tree",
@@ -9529,11 +9392,13 @@
       "Range bounds"
     ],
     "companies": [
+      "Meta",
       "Amazon",
       "Google",
-      "Meta",
-      "Uber",
-      "Bloomberg"
+      "Salesforce",
+      "LinkedIn",
+      "Microsoft",
+      "Zillow"
     ],
     "tags": [
       "tree",
@@ -9562,9 +9427,10 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
       "Meta",
-      "Uber"
+      "Airbnb",
+      "Adobe",
+      "Visa"
     ],
     "tags": [
       "tree",
@@ -9592,10 +9458,9 @@
       "Case rules"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Uber"
+      "Adobe",
+      "Bloomberg"
     ],
     "tags": [
       "two-pointers",
@@ -9623,10 +9488,11 @@
       "Backtracking with wildcards"
     ],
     "companies": [
-      "Amazon",
       "Google",
       "Meta",
-      "Uber"
+      "JP Morgan",
+      "Netflix",
+      "Visa"
     ],
     "tags": [
       "trie",
@@ -9656,9 +9522,9 @@
     "companies": [
       "Amazon",
       "Google",
-      "Meta",
-      "Uber",
-      "Twitter"
+      "Facebook",
+      "Netflix",
+      "Visa"
     ],
     "tags": [
       "trie",
@@ -9686,10 +9552,9 @@
       "Prefix walk"
     ],
     "companies": [
-      "Amazon",
       "Google",
-      "Meta",
-      "Uber"
+      "Netflix",
+      "Microsoft"
     ],
     "tags": [
       "trie",
@@ -9718,8 +9583,7 @@
     ],
     "companies": [
       "Amazon",
-      "Google",
-      "Meta"
+      "Bloomberg"
     ],
     "tags": [
       "trie",
@@ -9747,11 +9611,11 @@
       "Grid search"
     ],
     "companies": [
-      "Amazon",
       "Google",
       "Meta",
-      "Uber",
-      "Airbnb"
+      "JP Morgan",
+      "Goldman Sachs",
+      "Visa"
     ],
     "tags": [
       "trie",
@@ -9781,12 +9645,12 @@
     ],
     "companies": [
       "Amazon",
-      "Meta",
       "Google",
+      "Meta",
+      "Facebook",
       "Microsoft",
-      "Uber",
-      "Bloomberg",
-      "Apple"
+      "JP Morgan",
+      "Zillow"
     ],
     "tags": [
       "array",
@@ -9815,11 +9679,11 @@
       "Running best"
     ],
     "companies": [
-      "Amazon",
-      "Meta",
       "Google",
+      "Meta",
       "Microsoft",
-      "Uber"
+      "Uber",
+      "Spotify"
     ],
     "tags": [
       "array",
@@ -9846,12 +9710,13 @@
       "Greedy"
     ],
     "companies": [
-      "Amazon",
       "Meta",
+      "Amazon",
       "Google",
-      "Microsoft",
       "Uber",
-      "Bloomberg"
+      "Apple",
+      "JP Morgan",
+      "Twitter"
     ],
     "tags": [
       "array",
@@ -9879,11 +9744,9 @@
       "Greedy"
     ],
     "companies": [
-      "Amazon",
-      "Meta",
       "Google",
-      "Microsoft",
-      "Uber"
+      "Airbnb",
+      "Salesforce"
     ],
     "tags": [
       "array",
@@ -9911,11 +9774,10 @@
     ],
     "companies": [
       "Amazon",
-      "Meta",
       "Google",
-      "Microsoft",
-      "Uber",
-      "Adobe"
+      "JP Morgan",
+      "Netflix",
+      "Spotify"
     ],
     "tags": [
       "array",
@@ -9942,11 +9804,11 @@
       "In-place compaction"
     ],
     "companies": [
-      "Amazon",
-      "Meta",
       "Google",
-      "Microsoft",
-      "Uber"
+      "Meta",
+      "Bloomberg",
+      "Goldman Sachs",
+      "eBay"
     ],
     "tags": [
       "array",
@@ -9974,11 +9836,11 @@
       "Run detection"
     ],
     "companies": [
-      "Amazon",
-      "Meta",
       "Google",
-      "Microsoft",
-      "Uber"
+      "Meta",
+      "Netflix",
+      "Apple",
+      "Datadog"
     ],
     "tags": [
       "array",
@@ -10006,11 +9868,10 @@
     ],
     "companies": [
       "Amazon",
-      "Meta",
       "Google",
       "Microsoft",
-      "Uber",
-      "Facebook"
+      "JP Morgan",
+      "Flipkart"
     ],
     "tags": [
       "array",
@@ -10037,12 +9898,11 @@
       "Sorted array"
     ],
     "companies": [
-      "Amazon",
       "Meta",
-      "Google",
-      "Microsoft",
-      "Uber",
-      "Bloomberg"
+      "Amazon",
+      "Facebook",
+      "Netflix",
+      "Paytm"
     ],
     "tags": [
       "array",
@@ -10070,10 +9930,10 @@
     ],
     "companies": [
       "Amazon",
-      "Meta",
       "Google",
-      "Microsoft",
-      "Uber"
+      "Bloomberg",
+      "Salesforce",
+      "Intel"
     ],
     "tags": [
       "string",

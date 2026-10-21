@@ -3,7 +3,7 @@ title: Kth Smallest Element in a Sorted Matrix
 leetcode: 378
 difficulty: Medium
 patterns: [Heap, Top-K, Bounded heap]
-companies: [Amazon, Meta, Google, Microsoft, Uber]
+companies: [Amazon, Google, Bloomberg, Facebook, Cloudflare]
 frequency: 4
 tags: [heap, matrix, top-k, selection]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Best Time to Buy and Sell Stock
 leetcode: 121
 difficulty: Easy
 patterns: [Greedy, One-pass minimum tracking]
-companies: [Amazon, Google, Meta, Uber, Bloomberg]
+companies: [Meta, Amazon, Adobe, Bloomberg, Lyft]
 frequency: 4
 tags: [array, greedy, stock]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Minimum Spanning Tree
 leetcode: 1584
 difficulty: Medium
 patterns: [Minimum spanning tree, Union-Find, Greedy]
-companies: [Amazon, Google, Meta, Uber, Bloomberg]
+companies: [Meta, Amazon, Adobe, Salesforce, Twitter]
 frequency: 4
 tags: [graph, undirected, weighted, mst, union-find]
 sampleInput: |

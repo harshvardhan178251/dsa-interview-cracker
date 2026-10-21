@@ -3,7 +3,7 @@ title: Meeting Rooms III
 leetcode: 1859
 difficulty: Hard
 patterns: [Greedy, Sorted sweep with room availability]
-companies: [Amazon, Google, Meta, Microsoft]
+companies: [Amazon, Microsoft, Salesforce]
 frequency: 3
 tags: [array, sorting, greedy, intervals, tree-map]
 sampleInput: |

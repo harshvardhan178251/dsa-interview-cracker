@@ -3,7 +3,7 @@ title: Capacity To Ship Packages Within D Days
 leetcode: 1011
 difficulty: Medium
 patterns: [Binary search on the answer, Greedy]
-companies: [Amazon, Google, Meta, Uber, Microsoft]
+companies: [Amazon, Google, Apple, Netflix, eBay]
 frequency: 4
 tags: [binary-search, greedy, arrays]
 sampleInput: |

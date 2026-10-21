@@ -3,7 +3,7 @@ title: Pow(x, n)
 leetcode: 50
 difficulty: Medium
 patterns: [Divide and conquer, Fast exponentiation]
-companies: [Amazon, Google, Meta, Uber, Bloomberg]
+companies: [Meta, Google, Airbnb, LinkedIn, Flipkart]
 frequency: 4
 tags: [math, recursion, bit-manipulation]
 sampleInput: |

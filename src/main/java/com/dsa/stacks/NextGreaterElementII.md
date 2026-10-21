@@ -3,7 +3,7 @@ title: Next Greater Element II
 leetcode: 503
 difficulty: Medium
 patterns: [Monotonic stack, Circular array]
-companies: [Amazon, Google, Meta, Microsoft, Uber, Bloomberg]
+companies: [Google, Amazon, Apple, Goldman Sachs, Intel]
 frequency: 4
 tags: [stack, monotonic-stack, circular]
 sampleInput: |

@@ -1,0 +1,17 @@
+# Build artefacts
+web/dist/
+web/node_modules/
+node_modules/
+target/
+
+# Tooling
+.git/
+.github/
+*.log
+dev.log
+preview.log
+
+# Local scratch
+tmp/
+scratch/
+*.tsbuildinfo

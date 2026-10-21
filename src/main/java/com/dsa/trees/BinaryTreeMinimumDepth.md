@@ -3,7 +3,7 @@ title: Binary Tree Minimum Depth
 leetcode: 111
 difficulty: Easy
 patterns: [DFS, Post-order recursion]
-companies: [Amazon, Google, Meta]
+companies: [Google, Amazon, Microsoft, JP Morgan, Paytm]
 frequency: 4
 tags: [tree, dfs, recursion, depth]
 sampleInput: |

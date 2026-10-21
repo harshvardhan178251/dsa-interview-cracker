@@ -3,7 +3,7 @@ title: Excel Sheet Column Title
 leetcode: 168
 difficulty: Easy
 patterns: [Base-26 conversion, Modular arithmetic]
-companies: [Amazon, Google, Meta, Uber, Bloomberg]
+companies: [Google, Netflix, Salesforce]
 frequency: 3
 tags: [string, math, base-conversion]
 sampleInput: |

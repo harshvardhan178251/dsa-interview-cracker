@@ -3,7 +3,7 @@ title: Intersection of Two Arrays
 leetcode: 349
 difficulty: Easy
 patterns: [Hashing, Set intersection]
-companies: [Amazon, Meta, Google, Uber]
+companies: [Meta, Netflix, Apple]
 frequency: 3
 tags: [hashmap, set, array, intersection]
 sampleInput: |

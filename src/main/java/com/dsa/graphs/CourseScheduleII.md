@@ -3,7 +3,7 @@ title: Course Schedule II
 leetcode: 210
 difficulty: Medium
 patterns: [Topological sort, Priority queue, BFS]
-companies: [Amazon, Google, Meta, Uber]
+companies: [Meta, Amazon, Adobe, Uber, Stripe]
 frequency: 4
 tags: [graph, directed, topological-sort, min-heap]
 sampleInput: |
