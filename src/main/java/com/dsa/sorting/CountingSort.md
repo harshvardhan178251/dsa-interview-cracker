@@ -3,7 +3,7 @@ title: Counting Sort
 leetcode: null
 difficulty: Medium
 patterns: [Non-comparison sort, Frequency counting]
-companies: [Meta, Adobe]
+companies: [Meta, Adobe, Wipro]
 frequency: 3
 tags: [sorting, counting-sort, non-comparison-sort]
 sampleInput: |

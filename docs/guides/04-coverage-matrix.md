@@ -59,34 +59,66 @@ summary: Exactly what is in the set — problem counts per topic and difficulty,
 | Amazon | 191 |
 | Google | 189 |
 | Meta | 172 |
+| Capgemini | 69 |
+| HCLTech | 68 |
+| TCS | 67 |
+| Wipro | 66 |
+| Cognizant | 65 |
 | Microsoft | 62 |
 | Uber | 61 |
+| Infosys | 59 |
 | Adobe | 58 |
 | Salesforce | 58 |
+| Tech Mahindra | 58 |
 | LinkedIn | 57 |
 | Apple | 56 |
 | Airbnb | 54 |
 | Facebook | 52 |
 | Bloomberg | 51 |
 | Netflix | 50 |
+| Accenture | 49 |
 | JP Morgan | 46 |
 | Goldman Sachs | 36 |
-| Cloudflare | 18 |
-| Flipkart | 17 |
-| Visa | 16 |
-| Walmart | 14 |
-| eBay | 12 |
-| Zillow | 12 |
-| ByteDance | 11 |
-| Lyft | 11 |
-| Paytm | 11 |
-| Stripe | 11 |
-| Datadog | 10 |
-| Intel | 10 |
-| Oracle | 10 |
-| Pinterest | 9 |
-| Spotify | 9 |
+| Philips | 22 |
+| Lyft | 21 |
+| Zebra | 19 |
+| EY | 18 |
+| KPMG | 18 |
+| Razorpay | 18 |
+| ByteDance | 17 |
+| Barclays | 15 |
+| Cloudflare | 14 |
+| Qualcomm | 14 |
+| Stripe | 14 |
+| Visa | 14 |
+| Zillow | 14 |
+| Flipkart | 13 |
+| Sony | 13 |
+| Deloitte | 12 |
+| Paytm | 12 |
+| Siemens | 12 |
+| Swiggy | 12 |
+| Zomato | 12 |
+| Bosch | 11 |
+| eBay | 11 |
+| Freshworks | 11 |
+| IBM | 11 |
+| Oracle | 11 |
+| Spotify | 10 |
+| Standard Chartered | 10 |
+| Canva | 9 |
+| Samsung | 9 |
+| Cisco | 8 |
+| Datadog | 8 |
+| Dell | 8 |
+| Intel | 8 |
 | Twitter | 8 |
+| Walmart | 8 |
+| Ernst & Young | 6 |
+| Figma | 6 |
+| Pinterest | 6 |
+| Atlassian | 5 |
+| HSBC | 5 |
 
 ## Difficulty mix
 

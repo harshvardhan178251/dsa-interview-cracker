@@ -3,7 +3,7 @@ title: Josephus Problem
 leetcode: null
 difficulty: Medium
 patterns: [Recurrence, Simulation]
-companies: [Google, Microsoft]
+companies: [Google, Microsoft, Capgemini]
 frequency: 3
 tags: [math, recurrence, circular, linked-list]
 sampleInput: |

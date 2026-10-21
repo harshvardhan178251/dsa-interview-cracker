@@ -3,7 +3,7 @@ title: Merge Intervals
 leetcode: 56
 difficulty: Medium
 patterns: [Sorting, Sweep line]
-companies: [Amazon, Google, Meta, Airbnb, Microsoft, Netflix, ByteDance]
+companies: [Amazon, Google, Meta, Airbnb, Microsoft, Netflix, ByteDance, Capgemini, TCS, Siemens]
 frequency: 5
 tags: [array, sorting, intervals]
 sampleInput: |

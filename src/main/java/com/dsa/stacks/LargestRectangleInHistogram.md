@@ -3,7 +3,7 @@ title: Largest Rectangle in Histogram
 leetcode: 84
 difficulty: Hard
 patterns: [Monotonic stack, Sentinel]
-companies: [Google, Amazon, Apple, LinkedIn, Zillow]
+companies: [Google, Amazon, Apple, LinkedIn, Visa, HCLTech, Cognizant, Deloitte]
 frequency: 4
 tags: [stack, monotonic-stack, array, hard]
 sampleInput: |

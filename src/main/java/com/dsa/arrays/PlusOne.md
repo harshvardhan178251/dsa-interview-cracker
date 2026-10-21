@@ -3,7 +3,7 @@ title: Plus One
 leetcode: 66
 difficulty: Easy
 patterns: [Carry propagation, Right-to-left scan]
-companies: [Amazon, LinkedIn, Uber]
+companies: [Amazon, LinkedIn, Uber, TCS, Standard Chartered]
 frequency: 3
 tags: [array, digits, carry]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Move Zeroes
 leetcode: 283
 difficulty: Easy
 patterns: [Two Pointers, In-place compaction]
-companies: [Amazon, Google, JP Morgan, Netflix, Spotify]
+companies: [Amazon, Google, JP Morgan, Netflix, Oracle, Wipro, Cognizant, KPMG]
 frequency: 4
 tags: [array, two-pointers, in-place]
 sampleInput: |

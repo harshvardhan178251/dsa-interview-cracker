@@ -3,7 +3,7 @@ title: Employee Free Time
 leetcode: 759
 difficulty: Medium
 patterns: [Merge then complement]
-companies: [Meta, Microsoft, LinkedIn]
+companies: [Meta, Microsoft, LinkedIn, Capgemini, Cisco]
 frequency: 3
 tags: [arrays, sorting, intervals]
 sampleInput: |

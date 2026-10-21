@@ -3,7 +3,7 @@ title: Decode Ways
 leetcode: 91
 difficulty: Medium
 patterns: [Prefix DP, String DP]
-companies: [Meta, Amazon, Adobe, Goldman Sachs, Flipkart]
+companies: [Meta, Amazon, Adobe, Goldman Sachs, Cloudflare, Accenture, TCS, Sony]
 frequency: 4
 tags: [dynamic-programming, strings]
 sampleInput: |

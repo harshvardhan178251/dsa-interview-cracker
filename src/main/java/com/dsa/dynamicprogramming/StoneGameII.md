@@ -3,7 +3,7 @@ title: Stone Game II
 leetcode: 1140
 difficulty: Medium
 patterns: [Game DP, Bottom-up DP]
-companies: [Meta, Apple, Salesforce]
+companies: [Meta, Apple, Salesforce, Tech Mahindra, Philips]
 frequency: 3
 tags: [dynamic-programming, game-theory, prefix-sum]
 sampleInput: |

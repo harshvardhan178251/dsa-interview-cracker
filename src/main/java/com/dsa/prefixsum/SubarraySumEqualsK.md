@@ -3,7 +3,7 @@ title: Subarray Sum Equals K
 leetcode: 560
 difficulty: Medium
 patterns: [Prefix sums with a hash map]
-companies: [Amazon, Meta, Microsoft, Facebook, Stripe]
+companies: [Amazon, Meta, Microsoft, Facebook, Flipkart, TCS, Capgemini, Canva]
 frequency: 4
 tags: [prefix-sum, hashmap, array]
 sampleInput: |

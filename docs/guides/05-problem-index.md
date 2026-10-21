@@ -25,14 +25,14 @@ Use the [pattern index](./03-pattern-index.md) to work by technique instead, and
 | Find Minimum and Maximum Element | Easy | — | ★★☆☆☆ | Linear scan, Single pass | Meta, Apple |
 | Majority Element | Easy | LC 169 | ★★★★☆ | Boyer-Moore voting, Majority guarantee | Meta, Google, LinkedIn |
 | Majority Element II | Medium | LC 229 | ★★★☆☆ | Boyer-Moore voting, Extended to two candidates | Amazon, Microsoft, Apple |
-| Maximum Circular Subarray | Medium | LC 134 | ★★☆☆☆ | Kadane's algorithm, Complement trick | Amazon, Airbnb |
-| Maximum Gap | Hard | LC 164 | ★★☆☆☆ | Bucket sort, Pigeonhole bound | Meta, Facebook |
+| Maximum Circular Subarray | Medium | LC 134 | ★★☆☆☆ | Kadane's algorithm, Complement trick | Amazon, Airbnb, Tech Mahindra |
+| Maximum Gap | Hard | LC 164 | ★★☆☆☆ | Bucket sort, Pigeonhole bound | Meta, Facebook, HCLTech |
 | Maximum Subarray | Medium | LC 53 | ★★★★☆ | Dynamic programming, Kadane's algorithm | Google, Meta, Netflix |
-| Maximum Width Ramp | Hard | LC 962 | ★★☆☆☆ | Monotonic stack, Two pointers | Amazon, LinkedIn |
-| Minimum Absolute Difference | Medium | LC 1200 | ★★☆☆☆ | Sorting, Adjacent pair scan | Google, Netflix |
+| Maximum Width Ramp | Hard | LC 962 | ★★☆☆☆ | Monotonic stack, Two pointers | Amazon, LinkedIn, Infosys |
+| Minimum Absolute Difference | Medium | LC 1200 | ★★☆☆☆ | Sorting, Adjacent pair scan | Google, Netflix, Wipro |
 | Missing Number | Easy | LC 268 | ★★★☆☆ | Arithmetic, XOR trick | Amazon, Uber, Microsoft |
 | Plus One | Easy | LC 66 | ★★★☆☆ | Carry propagation, Right-to-left scan | Amazon, LinkedIn, Uber |
-| Remove Element | Easy | LC 27 | ★★☆☆☆ | Two pointers, In-place compaction | Meta, Microsoft |
+| Remove Element | Easy | LC 27 | ★★☆☆☆ | Two pointers, In-place compaction | Meta, Microsoft, HCLTech |
 | Rotate Array | Medium | LC 189 | ★★★☆☆ | Modulo indexing, Cyclic shift | Amazon, Salesforce, JP Morgan |
 | Rotate Image | Medium | LC 48 | ★★★★☆ | Matrix transposition, In-place transformation | Amazon, Meta, Bloomberg |
 | Set Matrix Zeroes | Medium | LC 73 | ★★★★☆ | Marker rows and columns, Two-phase scan | Google, Amazon, Salesforce |
@@ -68,9 +68,9 @@ Use the [pattern index](./03-pattern-index.md) to work by technique instead, and
 | Add Two Numbers | Medium | LC 2 | ★★★★★ | Digit-by-digit carry, Dummy head | Amazon, Meta, Google |
 | Add Two Numbers II | Medium | LC 445 | ★★★★☆ | Two stacks, Carry propagation | Amazon, Meta, Bloomberg |
 | Copy List with Random Pointer | Medium | LC 138 | ★★★★☆ | Interleaving, Deep copy with cycles | Google, Meta, Adobe |
-| Flatten a Multilevel Linked List | Medium | — | ★★★☆☆ | Recursion, Parsing a nested structure | Amazon, Facebook |
+| Flatten a Multilevel Linked List | Medium | — | ★★★☆☆ | Recursion, Parsing a nested structure | Amazon, Facebook, Capgemini |
 | Intersection of Two Linked Lists | Easy | LC 160 | ★★★★☆ | Two pointers, Pointer switching | Amazon, Google, Apple |
-| Josephus Problem | Medium | — | ★★★☆☆ | Recurrence, Simulation | Google, Microsoft |
+| Josephus Problem | Medium | — | ★★★☆☆ | Recurrence, Simulation | Google, Microsoft, Capgemini |
 | Linked List Cycle | Easy | LC 141 | ★★★★★ | Two pointers, Floyd cycle detection | Amazon, Meta, Google |
 | Linked List Cycle II | Medium | LC 142 | ★★★★☆ | Two pointers, Floyd cycle detection | Google, Meta, JP Morgan |
 | Merge Two Sorted Lists | Easy | LC 21 | ★★★★★ | Two pointers, Dummy head | Google, Amazon, Meta |
@@ -96,11 +96,11 @@ Use the [pattern index](./03-pattern-index.md) to work by technique instead, and
 | Decode String | Medium | LC 394 | ★★★★☆ | Stack of frames, Nested parsing | Meta, Amazon, Netflix |
 | Evaluate Reverse Polish Notation | Medium | LC 150 | ★★★★☆ | Stack, Postfix evaluation | Google, Amazon, Salesforce |
 | Largest Rectangle in Histogram | Hard | LC 84 | ★★★★☆ | Monotonic stack, Sentinel | Google, Amazon, Apple |
-| Max of Min for Every Window | Hard | — | ★★★☆☆ | Monotonic stack, Suffix maximum | Amazon, Microsoft |
+| Max of Min for Every Window | Hard | — | ★★★☆☆ | Monotonic stack, Suffix maximum | Amazon, Microsoft, Infosys |
 | Min Stack | Medium | LC 155 | ★★★★★ | Stack, Auxiliary minimum tracking | Meta, Amazon, Google |
 | Next Greater Element | Easy | LC 496 | ★★★★☆ | Monotonic stack | Meta, Google, Airbnb |
 | Next Greater Element II | Medium | LC 503 | ★★★★☆ | Monotonic stack, Circular array | Google, Amazon, Apple |
-| Stock Span | Medium | — | ★★★☆☆ | Monotonic stack | Meta, LinkedIn |
+| Stock Span | Medium | — | ★★★☆☆ | Monotonic stack | Meta, LinkedIn, Accenture |
 | Trapping Rain Water | Hard | LC 42 | ★★★★★ | Two pointers, Running maxima | Meta, Google, Amazon |
 | Valid Parentheses | Easy | LC 20 | ★★★★★ | Stack, Bracket matching | Google, Amazon, Meta |
 
@@ -110,9 +110,9 @@ Use the [pattern index](./03-pattern-index.md) to work by technique instead, and
 |---|---|---|---|---|---|
 | Design a Min Queue | Medium | — | ★★★★☆ | Stack, Running minimum, Amortised O(1) | Meta, JP Morgan, Uber |
 | Design Circular Queue | Medium | LC 622 | ★★★☆☆ | Ring buffer, Modular arithmetic, Array | Meta, LinkedIn, Salesforce |
-| Implement Deque using Two Stacks | Medium | — | ★★★☆☆ | Stack, Symmetric two-stack deque, Amortised O(1) | Google, Goldman Sachs |
+| Implement Deque using Two Stacks | Medium | — | ★★★☆☆ | Stack, Symmetric two-stack deque, Amortised O(1) | Google, Goldman Sachs, Accenture |
 | Implement Queue using Stacks | Medium | — | ★★★★☆ | Stack, Two-stack FIFO, Amortised O(1) | Google, Salesforce, Bloomberg |
-| Implement Stack using Queues | Medium | — | ★★★☆☆ | Queue, Rotation, LIFO over FIFO | Amazon, Microsoft |
+| Implement Stack using Queues | Medium | — | ★★★☆☆ | Queue, Rotation, LIFO over FIFO | Amazon, Microsoft, Accenture |
 | Sliding Window Maximum | Hard | LC 239 | ★★★★★ | Monotonic deque, Sliding window, Two pointers | Meta, Google, Amazon |
 
 ### Heaps & Priority Queues (12)
@@ -120,7 +120,7 @@ Use the [pattern index](./03-pattern-index.md) to work by technique instead, and
 | Problem | Difficulty | LeetCode | Heat | Patterns | Companies |
 |---|---|---|---|---|---|
 | Employee Free Day | Medium | LC 1497 | ★★★☆☆ | Greedy, Interval scheduling, Bounded heap | Google, Facebook, Bloomberg |
-| Find Kth Largest and Kth Smallest | Medium | — | ★★★☆☆ | Heap, Top-K, Twin bounded heaps | Google, LinkedIn |
+| Find Kth Largest and Kth Smallest | Medium | — | ★★★☆☆ | Heap, Top-K, Twin bounded heaps | Google, LinkedIn, Infosys |
 | Find Median from Data Stream | Hard | LC 295 | ★★★★★ | Heap, Two heaps, Order statistics | Meta, Amazon, Google |
 | K Closest Elements | Medium | LC 658 | ★★★★☆ | Heap, Top-K, Distance ranking, Two pointers | Meta, Google, Uber |
 | Kth Largest Element in an Array | Medium | LC 215 | ★★★★★ | Heap, Top-K, Bounded heap | Meta, Google, Amazon |
@@ -136,8 +136,8 @@ Use the [pattern index](./03-pattern-index.md) to work by technique instead, and
 
 | Problem | Difficulty | LeetCode | Heat | Patterns | Companies |
 |---|---|---|---|---|---|
-| Aggressive Cows | Medium | — | ★★★☆☆ | Binary search on the answer, Greedy | Meta, Microsoft |
-| Allocate Minimum Number of Painters | Hard | — | ★★★☆☆ | Binary search on the answer, Greedy, Partition | Google, Apple |
+| Aggressive Cows | Medium | — | ★★★☆☆ | Binary search on the answer, Greedy | Meta, Microsoft, Tech Mahindra |
+| Allocate Minimum Number of Painters | Hard | — | ★★★☆☆ | Binary search on the answer, Greedy, Partition | Google, Apple, Wipro |
 | Binary Search | Easy | LC 704 | ★★★★☆ | Binary search, Divide and conquer | Amazon, Meta, JP Morgan |
 | Capacity To Ship Packages Within D Days | Medium | LC 1011 | ★★★★☆ | Binary search on the answer, Greedy | Amazon, Google, Apple |
 | Find First and Last Position of Element in Sorted Array | Medium | LC 34 | ★★★★☆ | Binary search, Lower bound, Upper bound | Meta, Google, LinkedIn |
@@ -158,11 +158,11 @@ Use the [pattern index](./03-pattern-index.md) to work by technique instead, and
 
 | Problem | Difficulty | LeetCode | Heat | Patterns | Companies |
 |---|---|---|---|---|---|
-| Bubble Sort | Easy | — | ★★★☆☆ | Comparison sort, Repeated swapping | Amazon, Goldman Sachs |
-| Counting Sort | Medium | — | ★★★☆☆ | Non-comparison sort, Frequency counting | Meta, Adobe |
+| Bubble Sort | Easy | — | ★★★☆☆ | Comparison sort, Repeated swapping | Amazon, Goldman Sachs, Wipro |
+| Counting Sort | Medium | — | ★★★☆☆ | Non-comparison sort, Frequency counting | Meta, Adobe, Wipro |
 | Dutch National Flag | Medium | LC 75 | ★★★★☆ | Three-way partitioning, Two pointers | Amazon, Google, Netflix |
-| Heap Sort | Medium | — | ★★★☆☆ | Heap, In-place sorting | Google, LinkedIn |
-| Insertion Sort | Easy | — | ★★★☆☆ | Comparison sort, Growing sorted prefix | Amazon, Uber |
+| Heap Sort | Medium | — | ★★★☆☆ | Heap, In-place sorting | Google, LinkedIn, Tech Mahindra |
+| Insertion Sort | Easy | — | ★★★☆☆ | Comparison sort, Growing sorted prefix | Amazon, Uber, Cognizant |
 | Merge Sort | Medium | — | ★★★★☆ | Divide and conquer, Merging | Amazon, JP Morgan, Netflix |
 | Quick Sort | Medium | — | ★★★★☆ | Divide and conquer, Partitioning | Amazon, LinkedIn, Uber |
 | Selection Sort | Easy | — | ★★☆☆☆ | Comparison sort, Divide and select | Amazon, Adobe |
@@ -218,11 +218,11 @@ Use the [pattern index](./03-pattern-index.md) to work by technique instead, and
 |---|---|---|---|---|---|
 | 2D Prefix Sum | Medium | — | ★★☆☆☆ | 2D prefix sums, Inclusion-exclusion | Google, Microsoft |
 | Contiguous Array | Medium | LC 525 | ★★★☆☆ | Prefix sum with a hash map, Balance counting | Meta, Adobe, Microsoft |
-| Pairs With a Target Sum | Medium | LC 1674 | ★★☆☆☆ | Hashing, Complement counting | Amazon, Microsoft |
+| Pairs With a Target Sum | Medium | LC 1674 | ★★☆☆☆ | Hashing, Complement counting | Amazon, Microsoft, Infosys |
 | Pivot Index | Easy | LC 724 | ★★★☆☆ | Prefix sums, Running balance | Amazon, LinkedIn, Airbnb |
 | Product of Array Except Self | Medium | LC 238 | ★★★★☆ | Prefix and suffix products, No division | Google, Amazon, Microsoft |
 | Range Sum Query — Immutable | Easy | LC 303 | ★★★☆☆ | Prefix sums, O(1) range queries | Amazon, Salesforce, Goldman Sachs |
-| Running Sum of 1d Array | Easy | LC 1480 | ★★☆☆☆ | Running sum, In-place accumulation | Meta, Salesforce |
+| Running Sum of 1d Array | Easy | LC 1480 | ★★☆☆☆ | Running sum, In-place accumulation | Meta, Salesforce, TCS |
 | Subarray Sum Equals K | Medium | LC 560 | ★★★★☆ | Prefix sums with a hash map | Amazon, Meta, Microsoft |
 
 ### Trees & BST (26)
@@ -264,7 +264,7 @@ Use the [pattern index](./03-pattern-index.md) to work by technique instead, and
 | Design Add and Search Words | Medium | LC 211 | ★★★★☆ | Trie, Backtracking with wildcards | Google, Meta, JP Morgan |
 | Implement Trie | Medium | LC 208 | ★★★★☆ | Trie, Prefix tree | Amazon, Google, Facebook |
 | Longest Prefix of a Phone Number | Medium | LC 17 | ★★★☆☆ | Trie, Prefix walk | Google, Netflix, Microsoft |
-| Trie with Prefix Counting | Medium | — | ★★★☆☆ | Trie, Augmented node state | Amazon, Bloomberg |
+| Trie with Prefix Counting | Medium | — | ★★★☆☆ | Trie, Augmented node state | Amazon, Bloomberg, Capgemini |
 | Word Search II | Hard | LC 212 | ★★★★☆ | Trie + backtracking, Grid search | Google, Meta, JP Morgan |
 
 ### Graphs (20)
@@ -284,7 +284,7 @@ Use the [pattern index](./03-pattern-index.md) to work by technique instead, and
 | Number of Connected Components in an Undirected Graph | Medium | LC 547 | ★★★★☆ | Union-Find, Connected components, BFS | Meta, Google, Adobe |
 | Number of Islands | Medium | LC 200 | ★★★★☆ | DFS, BFS, Grid traversal | Google, Meta, Goldman Sachs |
 | Number of Provinces | Medium | LC 547 | ★★★★☆ | Union-Find, Connected components, Adjacency matrix | Amazon, Google, Microsoft |
-| Pacman Paths | Medium | — | ★★★☆☆ | BFS, Grid traversal, Shortest path | Meta, Salesforce |
+| Pacman Paths | Medium | — | ★★★☆☆ | BFS, Grid traversal, Shortest path | Meta, Salesforce, Infosys |
 | Reconstruct Itinerary | Hard | LC 332 | ★★★★☆ | Hierholzer's algorithm, Eulerian path, Greedy | Google, Meta, Netflix |
 | Rotting Oranges | Medium | LC 994 | ★★★★☆ | Multi-source BFS, Grid traversal | Google, Amazon, JP Morgan |
 | Shortest Path in a Binary Maze | Medium | LC 1293 | ★★★☆☆ | BFS, Grid traversal, Dynamic programming | Google, Facebook, Uber |
@@ -320,7 +320,7 @@ Use the [pattern index](./03-pattern-index.md) to work by technique instead, and
 | Coin Change | Medium | LC 322 | ★★★★★ | Unbounded knapsack, Bottom-up DP | Amazon, Meta, Google |
 | Coin Change II | Medium | LC 518 | ★★★★☆ | Unbounded knapsack, Counting DP | Google, Amazon, LinkedIn |
 | Decode Ways | Medium | LC 91 | ★★★★☆ | Prefix DP, String DP | Meta, Amazon, Adobe |
-| Distinct Subsequences | Medium | — | ★★★☆☆ | Counting DP, Prefix DP | Google, LinkedIn |
+| Distinct Subsequences | Medium | — | ★★★☆☆ | Counting DP, Prefix DP | Google, LinkedIn, Capgemini |
 | Edit Distance | Medium | LC 72 | ★★★★★ | 2-D DP, String DP | Google, Amazon, Meta |
 | Fibonacci Number | Easy | LC 509 | ★★★☆☆ | Bottom-up DP, Iterative recurrence | Meta, Adobe, Airbnb |
 | House Robber | Medium | LC 198 | ★★★★★ | Bottom-up DP, Take-or-skip | Amazon, Meta, Google |
@@ -332,11 +332,11 @@ Use the [pattern index](./03-pattern-index.md) to work by technique instead, and
 | Longest Increasing Subsequence | Medium | LC 300 | ★★★★★ | Bottom-up DP, Patience sorting | Google, Meta, Amazon |
 | Maximum Product Subarray | Medium | LC 152 | ★★★★☆ | Bottom-up DP, State compression | Amazon, Meta, Airbnb |
 | Minimum Path Sum | Medium | LC 64 | ★★★★☆ | Grid DP, Bottom-up DP | Google, Amazon, Airbnb |
-| Number of Partitions | Medium | — | ★★★☆☆ | Counting DP, Unbounded knapsack | Amazon, JP Morgan |
+| Number of Partitions | Medium | — | ★★★☆☆ | Counting DP, Unbounded knapsack | Amazon, JP Morgan, Tech Mahindra |
 | Palindromic Substrings | Medium | LC 647 | ★★★★☆ | Interval DP, Expand around the centre | Meta, Google, Airbnb |
 | Partition Equal Subset Sum | Medium | LC 416 | ★★★★☆ | Subset-sum DP, 0/1 knapsack | Google, Amazon, Uber |
 | Regular Expression Matching | Hard | LC 10 | ★★★★☆ | 2-D DP, String DP | Google, Meta, Bloomberg |
-| Rod Cutting | Medium | — | ★★★☆☆ | Unbounded knapsack, Bottom-up DP | Google, LinkedIn |
+| Rod Cutting | Medium | — | ★★★☆☆ | Unbounded knapsack, Bottom-up DP | Google, LinkedIn, Cognizant |
 | Stone Game II | Medium | LC 1140 | ★★★☆☆ | Game DP, Bottom-up DP | Meta, Apple, Salesforce |
 | Target Sum | Medium | LC 494 | ★★★★☆ | Subset-sum DP, Counting DP | Amazon, Google, Airbnb |
 | Unique Paths | Medium | LC 62 | ★★★★★ | Grid DP, Combinatorics | Meta, Google, Amazon |
@@ -368,14 +368,14 @@ Use the [pattern index](./03-pattern-index.md) to work by technique instead, and
 |---|---|---|---|---|---|
 | Assign Cookies | Easy | LC 455 | ★★★☆☆ | Greedy, Sort and two pointers | Amazon, LinkedIn, JP Morgan |
 | Candy | Hard | LC 135 | ★★★★☆ | Greedy, Two-pass constraint propagation | Meta, Google, Microsoft |
-| Coin Change with Greedy | Medium | — | ★★★☆☆ | Greedy, Largest denomination first | Google, Microsoft |
+| Coin Change with Greedy | Medium | — | ★★★☆☆ | Greedy, Largest denomination first | Google, Microsoft, HCLTech |
 | Gas Station | Medium | LC 134 | ★★★★☆ | Greedy, Prefix-sum reset | Meta, Amazon, Salesforce |
 | Hand of Straights | Medium | LC 846 | ★★★☆☆ | Greedy, Frequency counting | Google, Goldman Sachs, Adobe |
 | Jump Game | Medium | LC 55 | ★★★★☆ | Greedy, Reach tracking | Meta, Google, Netflix |
 | Jump Game II | Medium | LC 45 | ★★★★☆ | Greedy, BFS by layers | Google, Amazon, LinkedIn |
 | Jump Game III | Medium | LC 1306 | ★★★☆☆ | BFS, Visited set | Amazon, Airbnb, Adobe |
 | Largest Number | Medium | LC 179 | ★★★★☆ | Greedy, Custom comparator | Amazon, Google, Airbnb |
-| Maximum Profit Scheduling Jobs | Medium | — | ★★★☆☆ | Greedy sorting, Weighted interval scheduling | Meta, Bloomberg |
+| Maximum Profit Scheduling Jobs | Medium | — | ★★★☆☆ | Greedy sorting, Weighted interval scheduling | Meta, Bloomberg, Infosys |
 | Maximum Units on a Truck | Easy | — | ★★☆☆☆ | Greedy, Sort by value per unit | Amazon, Apple |
 | Minimum Number of Refueling Stops | Medium | LC 871 | ★★★☆☆ | Greedy, Max-heap simulation | Meta, Salesforce, Adobe |
 | Partition Array Into Maximum Subarrays | Medium | LC 813 | ★★★☆☆ | Greedy, Keep the k largest | Amazon, Apple, Netflix |
@@ -407,7 +407,7 @@ Use the [pattern index](./03-pattern-index.md) to work by technique instead, and
 | Reverse Bits | Easy | LC 190 | ★★★★☆ | Bit tricks, Shifts | Amazon, Google, Apple |
 | Single Number | Easy | LC 136 | ★★★★★ | XOR, Bit tricks | Meta, Amazon, Google |
 | Single Number III | Medium | LC 260 | ★★★★☆ | XOR, Bit partitioning | Amazon, Google, Salesforce |
-| Subtract Two Integers without Minus | Medium | — | ★★★☆☆ | Bit tricks, Two's complement, Borrow propagation | Meta, Airbnb |
+| Subtract Two Integers without Minus | Medium | — | ★★★☆☆ | Bit tricks, Two's complement, Borrow propagation | Meta, Airbnb, HCLTech |
 | Sum of Two Integers | Medium | LC 371 | ★★★★☆ | Bit tricks, Addition without the + operator | Amazon, Meta, Uber |
 | XOR of All Elements | Easy | LC 1486 | ★★★☆☆ | XOR, Bit tricks | Google, Uber, Microsoft |
 
@@ -420,7 +420,7 @@ Use the [pattern index](./03-pattern-index.md) to work by technique instead, and
 | Factorial Trailing Zeroes | Easy | LC 172 | ★★★☆☆ | Number theory, Counting factors | Meta, Salesforce, Airbnb |
 | GCD and LCM | Easy | — | ★★★★☆ | Euclidean algorithm | Meta, Adobe, Bloomberg |
 | Happy Number | Easy | LC 202 | ★★★☆☆ | Number theory, Cycle detection | Google, Adobe, LinkedIn |
-| Is a Number Prime | Medium | — | ★★★☆☆ | Number theory, Trial division | Google, Apple |
+| Is a Number Prime | Medium | — | ★★★☆☆ | Number theory, Trial division | Google, Apple, Infosys |
 | Largest Prime Factor | Medium | — | ★★☆☆☆ | Number theory, Trial division | Amazon, Bloomberg |
 | Palindrome Number | Easy | LC 9 | ★★★★☆ | Digit manipulation, Half reversal | Google, Meta, Apple |
 | Perfect Number | Easy | LC 507 | ★★★☆☆ | Number theory, Divisor pairs | Amazon, Bloomberg, Goldman Sachs |
@@ -435,15 +435,15 @@ Use the [pattern index](./03-pattern-index.md) to work by technique instead, and
 | Design Browser History | Medium | LC 348 | ★★★☆☆ | Design, Array with a cursor | Google, Airbnb, JP Morgan |
 | Design HashMap | Easy | LC 706 | ★★★☆☆ | Design, Hashing, Separate chaining | Amazon, Bloomberg, Salesforce |
 | Design Hit Counter | Medium | LC 362 | ★★★☆☆ | Design, Sliding window, Bucketing | Google, Bloomberg, Uber |
-| Design Text Editor | Hard | LC 2296 | ★★☆☆☆ | Design, Undo journal, Two stacks | Meta, Facebook |
-| Design Tic-Tac-Toe | Medium | — | ★★★☆☆ | Design, State machine, Win detection | Amazon, Salesforce |
+| Design Text Editor | Hard | LC 2296 | ★★☆☆☆ | Design, Undo journal, Two stacks | Meta, Facebook, Infosys |
+| Design Tic-Tac-Toe | Medium | — | ★★★☆☆ | Design, State machine, Win detection | Amazon, Salesforce, Infosys |
 | Design Underground System | Medium | LC 373 | ★★★☆☆ | Design, Aggregation, Sorted map | Amazon, Adobe, LinkedIn |
 | LFU Cache | Hard | LC 460 | ★★★★☆ | Design, Frequency buckets, HashMap | Google, Meta, Adobe |
 | LRU Cache | Medium | LC 146 | ★★★★★ | Design, HashMap, Doubly linked list | Google, Meta, Amazon |
-| Min Max Stack | Medium | — | ★★★☆☆ | Design, Stack, Running aggregates | Google, Apple |
+| Min Max Stack | Medium | — | ★★★☆☆ | Design, Stack, Running aggregates | Google, Apple, Wipro |
 | Moving Average | Easy | LC 346 | ★★★☆☆ | Design, Sliding window, Running sum | Amazon, LinkedIn, Facebook |
 | Rate Limiter | Medium | — | ★★★★☆ | Design, Sliding window, Rate limiting | Amazon, Salesforce, Goldman Sachs |
-| Semaphore | Medium | — | ★★★☆☆ | Design, Concurrency, Condition variables | Amazon, Netflix |
+| Semaphore | Medium | — | ★★★☆☆ | Design, Concurrency, Condition variables | Amazon, Netflix, Cognizant |
 | Snapshot Array | Medium | LC 1146 | ★★★☆☆ | Design, Versioning, Per-index history | Amazon, Adobe, Facebook |
 
 ### Concurrency (6)
@@ -451,7 +451,7 @@ Use the [pattern index](./03-pattern-index.md) to work by technique instead, and
 | Problem | Difficulty | LeetCode | Heat | Patterns | Companies |
 |---|---|---|---|---|---|
 | Bounded Blocking Queue | Medium | — | ★★★★☆ | Concurrency, Lock, Condition variables | Google, LinkedIn, Adobe |
-| Concurrent Sum using Threads | Medium | — | ★★★☆☆ | Concurrency, Work splitting, Join before reading | Meta, Apple |
+| Concurrent Sum using Threads | Medium | — | ★★★☆☆ | Concurrency, Work splitting, Join before reading | Meta, Apple, Tech Mahindra |
 | Parallel Pipeline Merge | Hard | — | ★★☆☆☆ | Concurrency, Pipeline, Ordered merge | Google, LinkedIn |
 | Producer–Consumer Problem | Medium | — | ★★★★☆ | Concurrency, Blocking queue, Poison pill | Google, JP Morgan, Microsoft |
 | Singleton with Double-Checked Locking | Medium | — | ★★★★☆ | Concurrency, Double-checked locking, Safe publication | Google, Netflix, Adobe |

@@ -3,7 +3,7 @@ title: Search Insert Position
 leetcode: 35
 difficulty: Easy
 patterns: [Binary search, Lower bound]
-companies: [Meta, Google, Apple, Airbnb, Spotify]
+companies: [Meta, Google, Apple, Airbnb, Lyft, Infosys, Capgemini, Freshworks]
 frequency: 4
 tags: [array, sorting, binary-search]
 sampleInput: |

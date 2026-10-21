@@ -3,7 +3,7 @@ title: Product of Array Except Self
 leetcode: 238
 difficulty: Medium
 patterns: [Prefix and suffix products, No division]
-companies: [Google, Amazon, Microsoft, Apple, Walmart]
+companies: [Google, Amazon, Microsoft, Apple, Datadog, Cognizant, Wipro, Canva]
 frequency: 4
 tags: [prefix-sum, array, product]
 sampleInput: |

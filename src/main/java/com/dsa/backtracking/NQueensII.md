@@ -3,7 +3,7 @@ title: N-Queens II
 leetcode: 52
 difficulty: Hard
 patterns: [Backtracking, Constraint pruning]
-companies: [Meta, Airbnb, Bloomberg]
+companies: [Meta, Airbnb, Bloomberg, TCS, EY]
 frequency: 3
 tags: [backtracking, hard, board]
 sampleInput: |

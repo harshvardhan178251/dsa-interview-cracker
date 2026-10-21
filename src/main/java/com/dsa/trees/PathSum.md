@@ -3,7 +3,7 @@ title: Path Sum
 leetcode: 112
 difficulty: Easy
 patterns: [DFS, Running sum]
-companies: [Meta, Amazon, Google, Salesforce, Microsoft, Apple, Visa]
+companies: [Meta, Amazon, Google, Salesforce, Microsoft, Apple, Lyft, Wipro, Capgemini, Barclays]
 frequency: 5
 tags: [tree, dfs, recursion, path-sum]
 sampleInput: |

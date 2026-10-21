@@ -3,7 +3,7 @@ title: Design Hit Counter
 leetcode: 362
 difficulty: Medium
 patterns: [Design, Sliding window, Bucketing]
-companies: [Google, Bloomberg, Uber]
+companies: [Google, Bloomberg, Uber, Accenture, Atlassian]
 frequency: 3
 tags: [sliding window, deque, timestamps]
 sampleInput: |

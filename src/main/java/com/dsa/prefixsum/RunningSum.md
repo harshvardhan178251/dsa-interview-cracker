@@ -3,7 +3,7 @@ title: Running Sum of 1d Array
 leetcode: 1480
 difficulty: Easy
 patterns: [Running sum, In-place accumulation]
-companies: [Meta, Salesforce]
+companies: [Meta, Salesforce, TCS]
 frequency: 2
 tags: [prefix-sum, array]
 sampleInput: |

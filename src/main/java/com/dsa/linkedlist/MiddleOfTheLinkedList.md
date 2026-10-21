@@ -3,7 +3,7 @@ title: Middle of the Linked List
 leetcode: 876
 difficulty: Easy
 patterns: [Two pointers, Fast and slow]
-companies: [Amazon, Google, Apple, Salesforce, Zillow]
+companies: [Amazon, Google, Apple, Salesforce, ByteDance, Accenture, TCS, Philips]
 frequency: 4
 tags: [linked-list, pointers]
 sampleInput: |

@@ -16,7 +16,7 @@
     "gen:404": "node scripts/generate-404.mjs",
     "deploy:pages": "node scripts/deploy-pages.mjs",
     "verify:judge": "node scripts/verify-judge-sources.mjs",
-    "sync": "npm run gen:guides && npm run gen:data && npm run gen:sitemap"
+    "sync": "npm run gen:data && npm run gen:guides && npm run gen:sitemap"
   },
   "dependencies": {
     "@codemirror/autocomplete": "^6.18.6",

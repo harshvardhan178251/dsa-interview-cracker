@@ -3,7 +3,7 @@ title: Subtree of Another Tree
 leetcode: 572
 difficulty: Easy
 patterns: [DFS, Structural comparison]
-companies: [Meta, Google, Adobe, Netflix, Pinterest]
+companies: [Meta, Google, Adobe, Netflix, Intel, TCS, Infosys, Bosch]
 frequency: 4
 tags: [tree, dfs, recursion, subtree]
 sampleInput: |

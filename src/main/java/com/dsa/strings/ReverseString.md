@@ -3,7 +3,7 @@ title: Reverse String
 leetcode: 344
 difficulty: Easy
 patterns: [Two Pointers, In-place swap]
-companies: [Meta, JP Morgan, Uber]
+companies: [Meta, JP Morgan, Uber, Capgemini, Barclays]
 frequency: 3
 tags: [string, two-pointers, array]
 sampleInput: |

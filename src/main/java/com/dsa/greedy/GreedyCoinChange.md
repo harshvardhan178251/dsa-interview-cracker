@@ -3,7 +3,7 @@ title: Coin Change with Greedy
 leetcode: null
 difficulty: Medium
 patterns: [Greedy, Largest denomination first]
-companies: [Google, Microsoft]
+companies: [Google, Microsoft, HCLTech]
 frequency: 3
 tags: [math, greedy, sorting]
 sampleInput: |

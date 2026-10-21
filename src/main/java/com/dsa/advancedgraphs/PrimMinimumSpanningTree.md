@@ -3,7 +3,7 @@ title: Prim's Minimum Spanning Tree
 leetcode: null
 difficulty: Medium
 patterns: [Greedy, Priority queue, Cut property]
-companies: [Amazon, Netflix, Facebook]
+companies: [Amazon, Netflix, Facebook, Infosys, Samsung]
 frequency: 4
 tags: [graph, undirected, weighted, mst, prim]
 sampleInput: |

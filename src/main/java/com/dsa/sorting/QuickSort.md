@@ -3,7 +3,7 @@ title: Quick Sort
 leetcode: null
 difficulty: Medium
 patterns: [Divide and conquer, Partitioning]
-companies: [Amazon, LinkedIn, Uber]
+companies: [Amazon, LinkedIn, Uber, HCLTech, Razorpay]
 frequency: 4
 tags: [sorting, quick-sort, divide-and-conquer]
 sampleInput: |

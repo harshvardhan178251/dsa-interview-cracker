@@ -3,7 +3,7 @@ title: Jump Game
 leetcode: 55
 difficulty: Medium
 patterns: [Greedy, Reach tracking]
-companies: [Meta, Google, Netflix, Uber, Lyft]
+companies: [Meta, Google, Netflix, Uber, Stripe, Accenture, Infosys, Swiggy]
 frequency: 4
 tags: [array, greedy]
 sampleInput: |

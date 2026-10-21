@@ -3,7 +3,7 @@ title: Bounded Blocking Queue
 leetcode: null
 difficulty: Medium
 patterns: [Concurrency, Lock, Condition variables]
-companies: [Google, LinkedIn, Adobe]
+companies: [Google, LinkedIn, Adobe, Cognizant, HSBC]
 frequency: 4
 tags: [concurrency, lock, condition, blocking queue]
 sampleInput: |

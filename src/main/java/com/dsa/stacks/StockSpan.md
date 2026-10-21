@@ -3,7 +3,7 @@ title: Stock Span
 leetcode: null
 difficulty: Medium
 patterns: [Monotonic stack]
-companies: [Meta, LinkedIn]
+companies: [Meta, LinkedIn, Accenture]
 frequency: 3
 tags: [stack, monotonic-stack, array]
 sampleInput: |

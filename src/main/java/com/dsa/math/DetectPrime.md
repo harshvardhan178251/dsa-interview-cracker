@@ -3,7 +3,7 @@ title: Is a Number Prime
 leetcode: null
 difficulty: Medium
 patterns: [Number theory, Trial division]
-companies: [Google, Apple]
+companies: [Google, Apple, Infosys]
 frequency: 3
 tags: [math, numbers]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Word Pattern
 leetcode: 290
 difficulty: Easy
 patterns: [Hashing, Bijective mapping]
-companies: [Google, Uber, Microsoft]
+companies: [Google, Uber, Microsoft, Capgemini, KPMG]
 frequency: 3
 tags: [hashmap, string, bijection, pattern-matching]
 sampleInput: |

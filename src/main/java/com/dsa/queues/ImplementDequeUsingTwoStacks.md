@@ -3,7 +3,7 @@ title: Implement Deque using Two Stacks
 leetcode: null
 difficulty: Medium
 patterns: [Stack, Symmetric two-stack deque, Amortised O(1)]
-companies: [Google, Goldman Sachs]
+companies: [Google, Goldman Sachs, Accenture]
 frequency: 3
 tags: [stack, deque, design, fifo]
 sampleInput: |

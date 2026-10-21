@@ -3,7 +3,7 @@ title: Word Search
 leetcode: 79
 difficulty: Medium
 patterns: [Backtracking, DFS on a grid]
-companies: [Amazon, Meta, Facebook, Apple, Cloudflare]
+companies: [Amazon, Meta, Facebook, Apple, Cloudflare, Wipro, Cognizant, Qualcomm]
 frequency: 4
 tags: [backtracking, matrix, strings]
 sampleInput: |

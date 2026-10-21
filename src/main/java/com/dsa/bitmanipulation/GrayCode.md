@@ -3,7 +3,7 @@ title: Gray Code
 leetcode: 89
 difficulty: Medium
 patterns: [Bit tricks, XOR]
-companies: [Amazon, Adobe, Salesforce]
+companies: [Amazon, Adobe, Salesforce, Tech Mahindra, Qualcomm]
 frequency: 3
 tags: [bit-manipulation, numbers, math]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Excel Sheet Column Number
 leetcode: 171
 difficulty: Easy
 patterns: [Base-26 conversion, Running value]
-companies: [Google, Apple, Goldman Sachs]
+companies: [Google, Apple, Goldman Sachs, Capgemini, Philips]
 frequency: 3
 tags: [string, math, base-conversion]
 sampleInput: |

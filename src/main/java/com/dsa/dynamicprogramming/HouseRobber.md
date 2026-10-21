@@ -3,7 +3,7 @@ title: House Robber
 leetcode: 198
 difficulty: Medium
 patterns: [Bottom-up DP, Take-or-skip]
-companies: [Amazon, Meta, Google, Bloomberg, Goldman Sachs, Airbnb, Cloudflare]
+companies: [Amazon, Meta, Google, Bloomberg, Goldman Sachs, Airbnb, Cloudflare, HCLTech, Tech Mahindra, Zebra]
 frequency: 5
 tags: [dynamic-programming, arrays]
 sampleInput: |

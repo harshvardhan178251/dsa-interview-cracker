@@ -3,7 +3,7 @@ title: Roman to Integer
 leetcode: 13
 difficulty: Easy
 patterns: [Greedy, Left-to-right scan]
-companies: [Amazon, Salesforce, Adobe]
+companies: [Amazon, Salesforce, Adobe, Cognizant, Razorpay]
 frequency: 3
 tags: [string, roman-numerals, parsing]
 sampleInput: |

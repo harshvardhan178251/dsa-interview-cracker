@@ -3,7 +3,7 @@ title: Minimum Height Trees
 leetcode: 910
 difficulty: Medium
 patterns: [BFS by layers, Tree, Degree peeling]
-companies: [Google, Facebook, Adobe]
+companies: [Google, Facebook, Adobe, Cognizant, Samsung]
 frequency: 3
 tags: [tree, bfs, graph, degrees]
 sampleInput: |

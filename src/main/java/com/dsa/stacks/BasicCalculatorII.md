@@ -3,7 +3,7 @@ title: Basic Calculator II
 leetcode: 227
 difficulty: Medium
 patterns: [Operator precedence, Deferred evaluation]
-companies: [Meta, Google, Microsoft, Uber, Twitter]
+companies: [Meta, Google, Microsoft, Uber, Lyft, Cognizant, Capgemini, Sony]
 frequency: 4
 tags: [stack, parsing, math]
 sampleInput: |

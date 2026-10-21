@@ -3,7 +3,7 @@ title: Snapshot Array
 leetcode: 1146
 difficulty: Medium
 patterns: [Design, Versioning, Per-index history]
-companies: [Amazon, Adobe, Facebook]
+companies: [Amazon, Adobe, Facebook, HCLTech, Barclays]
 frequency: 3
 tags: [snapshot, versioning, history]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Capacity To Ship Packages Within D Days
 leetcode: 1011
 difficulty: Medium
 patterns: [Binary search on the answer, Greedy]
-companies: [Amazon, Google, Apple, Netflix, eBay]
+companies: [Amazon, Google, Apple, Netflix, Stripe, Accenture, Capgemini, HSBC]
 frequency: 4
 tags: [binary-search, greedy, arrays]
 sampleInput: |

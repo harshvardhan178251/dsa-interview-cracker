@@ -3,7 +3,7 @@ title: Linked List Cycle
 leetcode: 141
 difficulty: Easy
 patterns: [Two pointers, Floyd cycle detection]
-companies: [Amazon, Meta, Google, Goldman Sachs, Adobe, Airbnb, Cloudflare]
+companies: [Amazon, Meta, Google, Goldman Sachs, Adobe, Airbnb, Cloudflare, TCS, Tech Mahindra, Philips]
 frequency: 5
 tags: [linked-list, pointers, cycle]
 sampleInput: |

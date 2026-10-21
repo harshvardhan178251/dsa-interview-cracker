@@ -3,7 +3,7 @@ title: Eulerian Path
 leetcode: null
 difficulty: Hard
 patterns: [Hierholzer's algorithm, Eulerian path, Degree conditions]
-companies: [Meta, Bloomberg, Facebook]
+companies: [Meta, Bloomberg, Facebook, HCLTech, Razorpay]
 frequency: 4
 tags: [graph, directed, eulerian-path, hierholzer, graph-theory]
 sampleInput: |

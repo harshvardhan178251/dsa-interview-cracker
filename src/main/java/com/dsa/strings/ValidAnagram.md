@@ -3,7 +3,7 @@ title: Valid Anagram
 leetcode: 242
 difficulty: Easy
 patterns: [Frequency counting, Hash map]
-companies: [Meta, Amazon, Salesforce, Adobe, Intel]
+companies: [Meta, Amazon, Salesforce, Adobe, Visa, Cognizant, Infosys, Sony]
 frequency: 4
 tags: [string, hashmap, frequency-counting]
 sampleInput: |

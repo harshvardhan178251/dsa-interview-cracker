@@ -146,6 +146,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Accenture</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Adobe</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -166,7 +171,22 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Atlassian</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Barclays</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Bloomberg</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Bosch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -176,7 +196,27 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Canva</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Capgemini</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Cisco</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Cloudflare</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Cognizant</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -186,7 +226,27 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Dell</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Deloitte</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/eBay</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Ernst%20%26%20Young</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/EY</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -196,7 +256,17 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Figma</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Flipkart</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Freshworks</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -211,12 +281,37 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/HCLTech</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/HSBC</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/IBM</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Infosys</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Intel</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/JP%20Morgan</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/KPMG</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -256,7 +351,22 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Philips</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Pinterest</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Qualcomm</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Razorpay</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -266,12 +376,47 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Samsung</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Siemens</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Sony</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Spotify</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Standard%20Chartered</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Stripe</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Swiggy</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/TCS</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Tech%20Mahindra</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -296,7 +441,22 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Wipro</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Zebra</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Zillow</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Zomato</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>

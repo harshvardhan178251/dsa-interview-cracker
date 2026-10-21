@@ -3,7 +3,7 @@ title: Palindrome Linked List
 leetcode: 234
 difficulty: Medium
 patterns: [Two pointers, Reverse a half list]
-companies: [Meta, Amazon, Goldman Sachs, Apple, eBay]
+companies: [Meta, Amazon, Goldman Sachs, Apple, Intel, Capgemini, HCLTech, Canva]
 frequency: 4
 tags: [linked-list, pointers, palindrome]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Meeting Rooms
 leetcode: 862
 difficulty: Easy
 patterns: [Sorting, Overlap detection]
-companies: [Meta, Google, Facebook, Microsoft, Flipkart]
+companies: [Meta, Google, Facebook, Microsoft, Lyft, HCLTech, TCS, Sony]
 frequency: 4
 tags: [array, sorting, intervals]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Hamming Distance
 leetcode: 461
 difficulty: Easy
 patterns: [XOR, Bit tricks]
-companies: [Meta, Amazon, Facebook, Netflix, ByteDance]
+companies: [Meta, Amazon, Facebook, Netflix, Zillow, Infosys, Tech Mahindra, Standard Chartered]
 frequency: 4
 tags: [bit-manipulation, math]
 sampleInput: |

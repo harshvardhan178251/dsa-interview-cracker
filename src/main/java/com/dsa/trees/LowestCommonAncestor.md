@@ -3,7 +3,7 @@ title: Lowest Common Ancestor of a Binary Tree
 leetcode: 236
 difficulty: Medium
 patterns: [DFS, Post-order recursion]
-companies: [Meta, Amazon, Google, JP Morgan, Uber, Bloomberg, Oracle]
+companies: [Meta, Amazon, Google, JP Morgan, Uber, Bloomberg, ByteDance, Cognizant, Tech Mahindra, Freshworks]
 frequency: 5
 tags: [tree, dfs, recursion, lca]
 sampleInput: |

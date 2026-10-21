@@ -3,7 +3,7 @@ title: Next Greater Element
 leetcode: 496
 difficulty: Easy
 patterns: [Monotonic stack]
-companies: [Meta, Google, Airbnb, Uber, Twitter]
+companies: [Meta, Google, Airbnb, Uber, eBay, Accenture, Cognizant, Standard Chartered]
 frequency: 4
 tags: [stack, monotonic-stack, array]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Is Graph Bipartite
 leetcode: 785
 difficulty: Medium
 patterns: [BFS, Two-colouring, Union-Find]
-companies: [Google, Amazon, Facebook, Bloomberg, ByteDance]
+companies: [Google, Amazon, Facebook, Bloomberg, Spotify, Capgemini, Wipro, Qualcomm]
 frequency: 4
 tags: [graph, undirected, bfs, bipartite]
 sampleInput: |

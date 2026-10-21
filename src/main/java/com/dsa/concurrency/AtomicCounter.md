@@ -3,7 +3,7 @@ title: Thread-Safe Counter
 leetcode: null
 difficulty: Easy
 patterns: [Concurrency, Atomics, Lock-free]
-companies: [Google, Apple, Airbnb]
+companies: [Google, Apple, Airbnb, Capgemini, EY]
 frequency: 4
 tags: [concurrency, atomic, synchronized, longadder]
 sampleInput: |

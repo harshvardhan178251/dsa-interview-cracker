@@ -3,7 +3,7 @@ title: Next Greater Element II
 leetcode: 503
 difficulty: Medium
 patterns: [Monotonic stack, Circular array]
-companies: [Google, Amazon, Apple, Goldman Sachs, Intel]
+companies: [Google, Amazon, Apple, Goldman Sachs, Paytm, TCS, Wipro, Figma]
 frequency: 4
 tags: [stack, monotonic-stack, circular]
 sampleInput: |

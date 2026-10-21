@@ -3,7 +3,7 @@ title: Top K Frequent Elements
 leetcode: 347
 difficulty: Medium
 patterns: [Hashing, Heap, Top-K, Frequency counting]
-companies: [Google, Amazon, Meta, LinkedIn, Netflix, JP Morgan, Intel]
+companies: [Google, Amazon, Meta, LinkedIn, Netflix, JP Morgan, Stripe, TCS, Tech Mahindra, KPMG]
 frequency: 5
 tags: [heap, hashmap, frequency, top-k]
 sampleInput: |

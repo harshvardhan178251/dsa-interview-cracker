@@ -3,7 +3,7 @@ title: Reverse Linked List II
 leetcode: 92
 difficulty: Medium
 patterns: [Pointer rewiring, Segment reversal]
-companies: [Amazon, Google, JP Morgan, Netflix, Walmart]
+companies: [Amazon, Google, JP Morgan, Netflix, Spotify, Wipro, Tech Mahindra, Razorpay]
 frequency: 4
 tags: [linked-list, pointers, in-place]
 sampleInput: |

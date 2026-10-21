@@ -3,7 +3,7 @@ title: Counting Bits
 leetcode: 338
 difficulty: Easy
 patterns: [Bit tricks, Dynamic programming]
-companies: [Meta, Adobe, Apple]
+companies: [Meta, Adobe, Apple, Cognizant, Siemens]
 frequency: 3
 tags: [bit-manipulation, dynamic-programming, numbers]
 sampleInput: |

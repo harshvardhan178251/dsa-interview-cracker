@@ -3,7 +3,7 @@ title: Sqrt(x)
 leetcode: 69
 difficulty: Easy
 patterns: [Binary search on the answer]
-companies: [Meta, Google, Uber, Microsoft, Pinterest]
+companies: [Meta, Google, Uber, Microsoft, Zillow, Infosys, TCS, Freshworks]
 frequency: 4
 tags: [math, binary-search, numbers]
 sampleInput: |

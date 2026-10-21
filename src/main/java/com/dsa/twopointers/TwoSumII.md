@@ -3,7 +3,7 @@ title: Two Sum II - Input Array Is Sorted
 leetcode: 167
 difficulty: Easy
 patterns: [Two Pointers, Sorted array]
-companies: [Meta, Amazon, Facebook, Netflix, Paytm]
+companies: [Meta, Amazon, Facebook, Netflix, Visa, Infosys, Capgemini, Freshworks]
 frequency: 4
 tags: [array, two-pointers, sorting]
 sampleInput: |

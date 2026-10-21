@@ -3,7 +3,7 @@ title: Shortest Path in a Binary Maze
 leetcode: 1293
 difficulty: Medium
 patterns: [BFS, Grid traversal, Dynamic programming]
-companies: [Google, Facebook, Uber]
+companies: [Google, Facebook, Uber, Cognizant, KPMG]
 frequency: 3
 tags: [graph, grid, bfs, shortest-path]
 sampleInput: |

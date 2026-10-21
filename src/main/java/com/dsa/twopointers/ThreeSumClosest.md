@@ -3,7 +3,7 @@ title: 3Sum Closest
 leetcode: 16
 difficulty: Medium
 patterns: [Two Pointers, Sorting, Running best]
-companies: [Google, Meta, Microsoft, Uber, Spotify]
+companies: [Google, Meta, Microsoft, Uber, Intel, Wipro, Tech Mahindra, Qualcomm]
 frequency: 4
 tags: [array, two-pointers, sorting]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Max of Min for Every Window
 leetcode: null
 difficulty: Hard
 patterns: [Monotonic stack, Suffix maximum]
-companies: [Amazon, Microsoft]
+companies: [Amazon, Microsoft, Infosys]
 frequency: 3
 tags: [stack, monotonic-stack, sliding-window, hard]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Power of Two
 leetcode: 231
 difficulty: Easy
 patterns: [Bit tricks]
-companies: [Meta, Amazon, Microsoft, Netflix, Zillow]
+companies: [Meta, Amazon, Microsoft, Netflix, Pinterest, Cognizant, Capgemini, Razorpay]
 frequency: 4
 tags: [bit-manipulation, numbers]
 sampleInput: |

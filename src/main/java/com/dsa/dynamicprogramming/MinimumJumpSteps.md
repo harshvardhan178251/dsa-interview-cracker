@@ -3,7 +3,7 @@ title: Jump Game II
 leetcode: 45
 difficulty: Medium
 patterns: [Greedy + DP, Jump game]
-companies: [Amazon, Meta, Facebook, Adobe, Lyft]
+companies: [Amazon, Meta, Facebook, Adobe, Walmart, Cognizant, Capgemini, Zomato]
 frequency: 4
 tags: [dynamic-programming, greedy, arrays]
 sampleInput: |

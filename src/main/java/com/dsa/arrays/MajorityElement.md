@@ -3,7 +3,7 @@ title: Majority Element
 leetcode: 169
 difficulty: Easy
 patterns: [Boyer-Moore voting, Majority guarantee]
-companies: [Meta, Google, LinkedIn, Salesforce, Visa]
+companies: [Meta, Google, LinkedIn, Salesforce, Flipkart, Infosys, Tech Mahindra, Swiggy]
 frequency: 4
 tags: [array, voting, frequency]
 sampleInput: |

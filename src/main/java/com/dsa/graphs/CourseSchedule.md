@@ -3,7 +3,7 @@ title: Course Schedule
 leetcode: 207
 difficulty: Medium
 patterns: [Topological sort, Cycle detection, BFS]
-companies: [Meta, Google, Netflix, LinkedIn, Visa]
+companies: [Meta, Google, Netflix, LinkedIn, Lyft, Cognizant, Infosys, Qualcomm]
 frequency: 4
 tags: [graph, directed, topological-sort, cycle-detection]
 sampleInput: |

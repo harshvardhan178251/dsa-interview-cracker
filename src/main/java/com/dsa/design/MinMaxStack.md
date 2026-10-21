@@ -3,7 +3,7 @@ title: Min Max Stack
 leetcode: null
 difficulty: Medium
 patterns: [Design, Stack, Running aggregates]
-companies: [Google, Apple]
+companies: [Google, Apple, Wipro]
 frequency: 3
 tags: [stack, min, max]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Flood Fill
 leetcode: 733
 difficulty: Easy
 patterns: [DFS on a grid, Flood fill]
-companies: [Amazon, LinkedIn, Bloomberg]
+companies: [Amazon, LinkedIn, Bloomberg, Accenture, Dell]
 frequency: 3
 tags: [dfs, matrix, backtracking]
 sampleInput: |

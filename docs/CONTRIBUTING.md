@@ -229,3 +229,5 @@ a case that exercises the boundary of the constraint.
 
 **Run them in this order** after editing a problem: `normalise-companies` → `gen:data` →
 `gen:guides` → `gen:sitemap`. `npm run sync` at the repository root does the first three.
+The order matters: `gen:guides` and `gen:sitemap` read the catalogue, so `gen:data` has to
+run first.

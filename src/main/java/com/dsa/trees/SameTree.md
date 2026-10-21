@@ -3,7 +3,7 @@ title: Same Tree
 leetcode: 100
 difficulty: Easy
 patterns: [DFS, Structural comparison]
-companies: [Amazon, Meta, Google, LinkedIn, Apple, Goldman Sachs, Flipkart]
+companies: [Amazon, Meta, Google, LinkedIn, Apple, Goldman Sachs, Stripe, TCS, Tech Mahindra, Qualcomm]
 frequency: 5
 tags: [tree, dfs, recursion, comparison]
 sampleInput: |

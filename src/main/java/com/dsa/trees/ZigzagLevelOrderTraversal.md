@@ -3,7 +3,7 @@ title: Zigzag Level Order Traversal
 leetcode: 103
 difficulty: Medium
 patterns: [BFS, Alternating direction]
-companies: [Amazon, Meta, Airbnb, Adobe, Visa]
+companies: [Amazon, Meta, Airbnb, Adobe, Pinterest, Cognizant, Capgemini, Zomato]
 frequency: 4
 tags: [tree, bfs, traversal, queue]
 sampleInput: |

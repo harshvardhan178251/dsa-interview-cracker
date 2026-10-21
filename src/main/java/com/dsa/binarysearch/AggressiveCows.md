@@ -3,7 +3,7 @@ title: Aggressive Cows
 leetcode: null
 difficulty: Medium
 patterns: [Binary search on the answer, Greedy]
-companies: [Meta, Microsoft]
+companies: [Meta, Microsoft, Tech Mahindra]
 frequency: 3
 tags: [binary-search, greedy, arrays]
 sampleInput: |

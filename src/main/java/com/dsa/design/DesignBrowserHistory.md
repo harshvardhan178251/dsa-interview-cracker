@@ -3,7 +3,7 @@ title: Design Browser History
 leetcode: 348
 difficulty: Medium
 patterns: [Design, Array with a cursor]
-companies: [Google, Airbnb, JP Morgan]
+companies: [Google, Airbnb, JP Morgan, Cognizant, Bosch, Ernst & Young]
 frequency: 3
 tags: [array, cursor, history]
 sampleInput: |

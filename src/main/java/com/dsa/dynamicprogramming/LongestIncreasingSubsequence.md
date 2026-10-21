@@ -3,7 +3,7 @@ title: Longest Increasing Subsequence
 leetcode: 300
 difficulty: Medium
 patterns: [Bottom-up DP, Patience sorting]
-companies: [Google, Meta, Amazon, Salesforce, Uber, Goldman Sachs, Twitter]
+companies: [Google, Meta, Amazon, Salesforce, Uber, Goldman Sachs, ByteDance, Wipro, Cognizant, Swiggy]
 frequency: 5
 tags: [dynamic-programming, arrays, binary-search]
 sampleInput: |

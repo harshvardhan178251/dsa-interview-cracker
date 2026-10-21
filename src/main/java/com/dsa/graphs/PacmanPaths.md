@@ -3,7 +3,7 @@ title: Pacman Paths
 leetcode: null
 difficulty: Medium
 patterns: [BFS, Grid traversal, Shortest path]
-companies: [Meta, Salesforce]
+companies: [Meta, Salesforce, Infosys]
 frequency: 3
 tags: [graph, grid, bfs, shortest-path]
 sampleInput: |

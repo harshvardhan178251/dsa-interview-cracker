@@ -3,7 +3,7 @@ title: Minimum Absolute Difference
 leetcode: 1200
 difficulty: Medium
 patterns: [Sorting, Adjacent pair scan]
-companies: [Google, Netflix]
+companies: [Google, Netflix, Wipro]
 frequency: 2
 tags: [array, sorting]
 sampleInput: |

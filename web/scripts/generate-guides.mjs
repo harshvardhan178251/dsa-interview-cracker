@@ -15,6 +15,8 @@ import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs'
 import { join, dirname } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
+import { TIER_LABELS, TIERS, tierIndexOf } from '../../scripts/company-tiers.mjs'
+
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const WEB_ROOT = join(__dirname, '..')
 const REPO_ROOT = join(WEB_ROOT, '..')
@@ -52,8 +54,30 @@ const companyRows = sortedCompanies
   .map(([company, list]) => {
     const hot = list.filter((p) => p.frequency >= 5).length
     const medium = list.filter((p) => p.frequency === 4).length
-    return `| **${company}** | ${list.length} | ${hot} | ${medium} | ${list.filter((p) => p.difficulty === 'Hard').length} |`
+    const tier = tierIndexOf(company)
+    return `| **${company}** | ${TIER_LABELS[tier] ?? '—'} | ${list.length} | ${hot} | ${medium} | ${list.filter((p) => p.difficulty === 'Hard').length} |`
   })
+  .join('\n')
+
+const tierSections = TIERS.map((tier, index) => {
+  const members = tier
+    .map((company) => ({ company, count: companyCounts.get(company) ?? 0 }))
+    .filter((entry) => entry.count > 0)
+    .sort((a, b) => b.count - a.count || a.company.localeCompare(b.company))
+  if (!members.length) return ''
+  const rows = members
+    .map((entry) => `| ${entry.company} | ${entry.count} | ${companyCounts.get(entry.company) ?? 0} |`)
+    .join('\n')
+  return `### ${TIER_LABELS[index]}\n\n| Company | Problems tagged | Share of the set |\n|---|---:|---:|\n${rows}\n`
+}).join('\n')
+
+const itServices = TIERS[3]
+  .map((company) => ({ company, count: companyCounts.get(company) ?? 0 }))
+  .filter((entry) => entry.count > 0)
+  .sort((a, b) => b.count - a.count)
+
+const itServicesRows = itServices
+  .map((entry) => `| **${entry.company}** | ${entry.count} | ${Math.round((entry.count / problems.length) * 100)}% |`)
   .join('\n')
 
 const companyDetail = sortedCompanies
@@ -81,10 +105,23 @@ Companies are tagged from publicly reported interview experiences. Treat them as
 *frequency hint*, not a guarantee — the same core set of problems keeps coming back
 regardless of who is interviewing.
 
+## How the tags are assigned
+
+A problem's company set is sized to **how likely it is to be asked**, so the map stays
+discriminating instead of tagging everything with everybody:
+
+- A ★★★★★ problem with a LeetCode number gets the widest set — the big product
+  companies, most of the large product and fintech names, and a couple of the rest.
+- A rarer problem gets a much narrower set.
+- The selection inside each tier is deterministic, so the map is stable across runs.
+
+That is why **Amazon shows ~190 problems and Flipkart shows ~13** — rather than every
+company showing all ${problems.length}.
+
 ## Summary
 
-| Company | Problems | ★★★★★ | ★★★★ | Hard |
-|---|---:|---:|---:|---:|
+| Company | Tier | Problems | ★★★★★ | ★★★★ | Hard |
+|---|---|---:|---:|---:|---:|
 ${companyRows}
 
 ## Reading this
@@ -94,6 +131,34 @@ ${companyRows}
 - A ★★★★★ problem in a company you are targeting outranks a ★★★ problem at a company
   you are not.
 - The intersection across companies is the safest set to master.
+
+## Companies by tier
+
+${tierSections}
+## IT services and campus hiring
+
+The IT services and global SIs hire at volume and run **DSA-heavy campus loops**, so
+their problem pools are wide — but narrower than the product companies, and weighted
+towards the classic curriculum: arrays, strings, linked lists, trees, graphs, sorting and
+dynamic programming.
+
+| Company | Problems tagged | Share of the set |
+|---|---:|---:|
+${itServicesRows}
+
+**What to expect in an IT services interview.** The loop is usually **aptitude → coding →
+HR**, and the coding round leans hard on the standard patterns:
+
+- Arrays and strings — frequency counting, two pointers, sliding window
+- Sorting and searching — custom comparators, binary search
+- Linked lists and stacks — reversal, cycle detection, queues
+- Trees — traversals, BST operations, lowest common ancestor
+- Graphs — BFS/DFS, topological sort, shortest path
+- Dynamic programming — the classics: knapsack, LIS/LCS, coin change, grid paths
+
+Covering those six areas well is more valuable for these loops than covering the hard
+problems that product companies ask. The ★★★★ and ★★★ problems in this catalogue are
+the ones that show up in the second and third rounds.
 
 ## The universal core
 

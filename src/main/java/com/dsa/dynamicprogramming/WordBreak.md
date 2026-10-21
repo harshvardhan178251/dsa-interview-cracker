@@ -3,7 +3,7 @@ title: Word Break
 leetcode: 139
 difficulty: Medium
 patterns: [Prefix DP, HashSet lookups]
-companies: [Amazon, Google, Apple, Netflix, eBay]
+companies: [Amazon, Google, Apple, Netflix, Zillow, TCS, HCLTech, Figma]
 frequency: 4
 tags: [dynamic-programming, strings, hashmap]
 sampleInput: |

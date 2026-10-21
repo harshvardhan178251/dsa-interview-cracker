@@ -3,7 +3,7 @@ title: Task Scheduler
 leetcode: 621
 difficulty: Medium
 patterns: [Greedy, Max-heap, Cooldown, Frequency counting]
-companies: [Meta, Amazon, Google, Netflix, Uber, Salesforce, Flipkart]
+companies: [Meta, Amazon, Google, Netflix, Uber, Salesforce, Datadog, Cognizant, Capgemini, Philips]
 frequency: 5
 tags: [heap, greedy, scheduling, frequency]
 sampleInput: |

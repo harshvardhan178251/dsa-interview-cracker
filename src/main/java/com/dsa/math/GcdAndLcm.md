@@ -3,7 +3,7 @@ title: GCD and LCM
 leetcode: null
 difficulty: Easy
 patterns: [Euclidean algorithm]
-companies: [Meta, Adobe, Bloomberg]
+companies: [Meta, Adobe, Bloomberg, Tech Mahindra, IBM]
 frequency: 4
 tags: [math, numbers]
 sampleInput: |

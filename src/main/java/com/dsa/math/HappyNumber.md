@@ -3,7 +3,7 @@ title: Happy Number
 leetcode: 202
 difficulty: Easy
 patterns: [Number theory, Cycle detection]
-companies: [Google, Adobe, LinkedIn]
+companies: [Google, Adobe, LinkedIn, Tech Mahindra, Zebra, Ernst & Young]
 frequency: 3
 tags: [math, hashset, numbers]
 sampleInput: |

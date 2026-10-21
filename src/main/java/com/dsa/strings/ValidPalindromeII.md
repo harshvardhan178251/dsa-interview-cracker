@@ -3,7 +3,7 @@ title: Valid Palindrome II
 leetcode: 680
 difficulty: Easy
 patterns: [Two Pointers, One deletion]
-companies: [Google, Salesforce, Goldman Sachs]
+companies: [Google, Salesforce, Goldman Sachs, Cognizant, Philips]
 frequency: 3
 tags: [string, palindrome, two-pointers]
 sampleInput: |

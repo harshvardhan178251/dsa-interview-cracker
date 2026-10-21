@@ -3,7 +3,7 @@ title: Longest Substring Without Repeating Characters
 leetcode: 3
 difficulty: Medium
 patterns: [Sliding window, Hashing, Two pointers]
-companies: [Amazon, Meta, Google, Netflix, Salesforce, Bloomberg, Stripe]
+companies: [Amazon, Meta, Google, Netflix, Salesforce, Bloomberg, Flipkart, Capgemini, Cognizant, EY]
 frequency: 5
 tags: [string, sliding-window, hashmap]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Partition Equal Subset Sum
 leetcode: 416
 difficulty: Medium
 patterns: [Subset-sum DP, 0/1 knapsack]
-companies: [Google, Amazon, Uber, Airbnb, eBay]
+companies: [Google, Amazon, Uber, Airbnb, Paytm, Infosys, Tech Mahindra, Zebra]
 frequency: 4
 tags: [dynamic-programming, knapsack, arrays]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Reorganize String
 leetcode: 358
 difficulty: Medium
 patterns: [Greedy, Max-heap, Frequency counting, Cooldown]
-companies: [Amazon, Google, Airbnb, Apple, Lyft]
+companies: [Amazon, Google, Airbnb, Apple, Cloudflare, Infosys, TCS, Samsung]
 frequency: 4
 tags: [heap, greedy, string, frequency]
 sampleInput: |

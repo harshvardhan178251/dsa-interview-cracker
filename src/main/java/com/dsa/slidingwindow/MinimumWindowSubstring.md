@@ -3,7 +3,7 @@ title: Minimum Window Substring
 leetcode: 76
 difficulty: Hard
 patterns: [Sliding window, Hashing, Two pointers]
-companies: [Meta, Google, JP Morgan, Uber, ByteDance]
+companies: [Meta, Google, JP Morgan, Uber, Walmart, Cognizant, Wipro, Philips]
 frequency: 4
 tags: [string, sliding-window, hashmap, hard]
 sampleInput: |

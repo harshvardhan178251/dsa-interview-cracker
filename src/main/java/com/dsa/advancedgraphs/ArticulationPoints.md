@@ -3,7 +3,7 @@ title: Articulation Points in a Graph
 leetcode: null
 difficulty: Hard
 patterns: [Low-link values, DFS, Cut vertices]
-companies: [Amazon, Facebook, Bloomberg]
+companies: [Amazon, Facebook, Bloomberg, HCLTech, Canva]
 frequency: 4
 tags: [graph, undirected, articulation-points, low-link, tarjan]
 sampleInput: |

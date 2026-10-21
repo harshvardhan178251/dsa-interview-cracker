@@ -3,7 +3,7 @@ title: Maximum Difference Between Two Elements of an Array
 leetcode: 2016
 difficulty: Medium
 patterns: [Running minimum, One pass, Greedy]
-companies: [Google, Airbnb, Salesforce]
+companies: [Google, Airbnb, Salesforce, Accenture, Figma]
 frequency: 3
 tags: [array, greedy, one-pass]
 sampleInput: |

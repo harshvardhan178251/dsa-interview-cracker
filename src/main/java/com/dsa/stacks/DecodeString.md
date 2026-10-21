@@ -3,7 +3,7 @@ title: Decode String
 leetcode: 394
 difficulty: Medium
 patterns: [Stack of frames, Nested parsing]
-companies: [Meta, Amazon, Netflix, Adobe, Cloudflare]
+companies: [Meta, Amazon, Netflix, Adobe, Stripe, Infosys, Capgemini, Figma]
 frequency: 4
 tags: [stack, parsing, string]
 sampleInput: |

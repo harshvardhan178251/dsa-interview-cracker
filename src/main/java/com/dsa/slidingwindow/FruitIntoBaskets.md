@@ -3,7 +3,7 @@ title: Fruit Into Baskets
 leetcode: 904
 difficulty: Medium
 patterns: [Sliding window, Frequency counting, Hashing]
-companies: [Amazon, Meta, Uber, Salesforce, Walmart]
+companies: [Amazon, Meta, Uber, Salesforce, Spotify, Wipro, HCLTech, Figma]
 frequency: 4
 tags: [array, sliding-window, hashmap]
 sampleInput: |

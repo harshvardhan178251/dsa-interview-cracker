@@ -3,7 +3,7 @@ title: Maximum Profit Scheduling Jobs
 leetcode: null
 difficulty: Medium
 patterns: [Greedy sorting, Weighted interval scheduling]
-companies: [Meta, Bloomberg]
+companies: [Meta, Bloomberg, Infosys]
 frequency: 3
 tags: [intervals, dynamic-programming, greedy]
 sampleInput: |

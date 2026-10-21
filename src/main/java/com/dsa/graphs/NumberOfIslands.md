@@ -3,7 +3,7 @@ title: Number of Islands
 leetcode: 200
 difficulty: Medium
 patterns: [DFS, BFS, Grid traversal]
-companies: [Google, Meta, Goldman Sachs, Facebook, Zillow]
+companies: [Google, Meta, Goldman Sachs, Facebook, Visa, TCS, Tech Mahindra, EY]
 frequency: 4
 tags: [graph, grid, dfs, bfs, flood-fill]
 sampleInput: |

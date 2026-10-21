@@ -3,7 +3,7 @@ title: Semaphore
 leetcode: null
 difficulty: Medium
 patterns: [Design, Concurrency, Condition variables]
-companies: [Amazon, Netflix]
+companies: [Amazon, Netflix, Cognizant]
 frequency: 3
 tags: [concurrency, synchronized, wait notify]
 sampleInput: |

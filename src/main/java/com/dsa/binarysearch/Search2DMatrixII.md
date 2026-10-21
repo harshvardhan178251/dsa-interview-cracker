@@ -3,7 +3,7 @@ title: Search a 2D Matrix II
 leetcode: 240
 difficulty: Medium
 patterns: [Staircase search, Matrix]
-companies: [Amazon, Google, Uber, Microsoft, Spotify]
+companies: [Amazon, Google, Uber, Microsoft, Flipkart, TCS, Accenture, Siemens]
 frequency: 4
 tags: [matrix, array, two-pointers]
 sampleInput: |

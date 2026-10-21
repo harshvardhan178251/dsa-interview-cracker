@@ -3,7 +3,7 @@ title: Graph Valid Tree
 leetcode: 261
 difficulty: Medium
 patterns: [Union-Find, Cycle detection, Graph theory]
-companies: [Amazon, Apple, Bloomberg]
+companies: [Amazon, Apple, Bloomberg, HCLTech, Samsung]
 frequency: 3
 tags: [graph, undirected, union-find, tree]
 sampleInput: |

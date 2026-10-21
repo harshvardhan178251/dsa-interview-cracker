@@ -3,7 +3,7 @@ title: Best Time to Buy and Sell Stock II
 leetcode: 122
 difficulty: Medium
 patterns: [Greedy, Running difference]
-companies: [Amazon, Salesforce, Bloomberg]
+companies: [Amazon, Salesforce, Bloomberg, Tech Mahindra, EY]
 frequency: 3
 tags: [array, greedy, stock]
 sampleInput: |

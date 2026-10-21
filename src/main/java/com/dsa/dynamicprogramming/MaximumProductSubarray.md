@@ -3,7 +3,7 @@ title: Maximum Product Subarray
 leetcode: 152
 difficulty: Medium
 patterns: [Bottom-up DP, State compression]
-companies: [Amazon, Meta, Airbnb, Netflix, Visa]
+companies: [Amazon, Meta, Airbnb, Netflix, eBay, HCLTech, Capgemini, Sony]
 frequency: 4
 tags: [dynamic-programming, arrays]
 sampleInput: |

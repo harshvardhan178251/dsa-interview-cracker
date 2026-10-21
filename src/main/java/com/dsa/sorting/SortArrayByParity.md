@@ -3,7 +3,7 @@ title: Sort Array By Parity
 leetcode: 905
 difficulty: Easy
 patterns: [Two Pointers, Partitioning]
-companies: [Google, Bloomberg, Facebook]
+companies: [Google, Bloomberg, Facebook, TCS, Zebra]
 frequency: 3
 tags: [sorting, partitioning, two-pointers, array]
 sampleInput: |

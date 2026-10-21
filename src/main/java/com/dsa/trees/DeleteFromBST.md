@@ -3,7 +3,7 @@ title: Delete Node in a BST
 leetcode: 450
 difficulty: Medium
 patterns: [BST, Recursive descent]
-companies: [Google, Amazon, Uber, Airbnb, Walmart]
+companies: [Google, Amazon, Uber, Airbnb, Twitter, Capgemini, Cognizant, EY]
 frequency: 4
 tags: [tree, bst, recursion, deletion]
 sampleInput: |

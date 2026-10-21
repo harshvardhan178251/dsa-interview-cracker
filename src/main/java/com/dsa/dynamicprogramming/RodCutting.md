@@ -3,7 +3,7 @@ title: Rod Cutting
 leetcode: null
 difficulty: Medium
 patterns: [Unbounded knapsack, Bottom-up DP]
-companies: [Google, LinkedIn]
+companies: [Google, LinkedIn, Cognizant]
 frequency: 3
 tags: [dynamic-programming, knapsack, unbounded]
 sampleInput: |

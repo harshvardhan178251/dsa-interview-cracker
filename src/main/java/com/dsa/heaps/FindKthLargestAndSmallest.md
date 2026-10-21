@@ -3,7 +3,7 @@ title: Find Kth Largest and Kth Smallest
 leetcode: null
 difficulty: Medium
 patterns: [Heap, Top-K, Twin bounded heaps]
-companies: [Google, LinkedIn]
+companies: [Google, LinkedIn, Infosys]
 frequency: 3
 tags: [heap, array, top-k, selection]
 sampleInput: |

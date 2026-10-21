@@ -3,7 +3,7 @@ title: Pairs With a Target Sum
 leetcode: 1674
 difficulty: Medium
 patterns: [Hashing, Complement counting]
-companies: [Amazon, Microsoft]
+companies: [Amazon, Microsoft, Infosys]
 frequency: 2
 tags: [hashmap, prefix-sum, two-sum]
 sampleInput: |

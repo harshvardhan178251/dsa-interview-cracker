@@ -3,7 +3,7 @@ title: Implement Trie
 leetcode: 208
 difficulty: Medium
 patterns: [Trie, Prefix tree]
-companies: [Amazon, Google, Facebook, Netflix, Visa]
+companies: [Amazon, Google, Facebook, Netflix, Oracle, Accenture, HCLTech, Qualcomm]
 frequency: 4
 tags: [trie, design, prefix-tree, strings]
 sampleInput: |

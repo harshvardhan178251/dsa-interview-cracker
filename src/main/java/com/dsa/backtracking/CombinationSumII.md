@@ -3,7 +3,7 @@ title: Combination Sum II
 leetcode: 40
 difficulty: Medium
 patterns: [Backtracking, Duplicate pruning]
-companies: [Amazon, Google, LinkedIn, Microsoft, Oracle]
+companies: [Amazon, Google, LinkedIn, Microsoft, Visa, HCLTech, TCS, Philips]
 frequency: 4
 tags: [backtracking, arrays, recursion]
 sampleInput: |

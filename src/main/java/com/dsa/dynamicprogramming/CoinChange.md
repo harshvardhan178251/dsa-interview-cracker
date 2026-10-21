@@ -3,7 +3,7 @@ title: Coin Change
 leetcode: 322
 difficulty: Medium
 patterns: [Unbounded knapsack, Bottom-up DP]
-companies: [Amazon, Meta, Google, Salesforce, Apple, Microsoft, Twitter]
+companies: [Amazon, Meta, Google, Salesforce, Apple, Microsoft, Visa, Accenture, TCS, IBM]
 frequency: 5
 tags: [dynamic-programming, knapsack, unbounded]
 sampleInput: |

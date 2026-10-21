@@ -3,7 +3,7 @@ title: Split Array Largest Sum
 leetcode: 410
 difficulty: Hard
 patterns: [Binary search on the answer, Greedy, Partition]
-companies: [Google, Meta, Microsoft, Facebook, eBay]
+companies: [Google, Meta, Microsoft, Facebook, Stripe, Infosys, HCLTech, Razorpay]
 frequency: 4
 tags: [binary-search, greedy, partition, hard]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Maximum Gap
 leetcode: 164
 difficulty: Hard
 patterns: [Bucket sort, Pigeonhole bound]
-companies: [Meta, Facebook]
+companies: [Meta, Facebook, HCLTech]
 frequency: 2
 tags: [array, sorting, buckets, hard]
 sampleInput: |

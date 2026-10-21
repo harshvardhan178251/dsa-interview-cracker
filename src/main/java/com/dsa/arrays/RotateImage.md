@@ -3,7 +3,7 @@ title: Rotate Image
 leetcode: 48
 difficulty: Medium
 patterns: [Matrix transposition, In-place transformation]
-companies: [Amazon, Meta, Bloomberg, Uber, Twitter]
+companies: [Amazon, Meta, Bloomberg, Uber, ByteDance, Accenture, Tech Mahindra, Qualcomm]
 frequency: 4
 tags: [matrix, in-place, rotation]
 sampleInput: |

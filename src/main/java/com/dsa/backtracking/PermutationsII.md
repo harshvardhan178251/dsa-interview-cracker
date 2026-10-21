@@ -3,7 +3,7 @@ title: Permutations II
 leetcode: 47
 difficulty: Medium
 patterns: [Backtracking, Duplicate pruning]
-companies: [Google, Amazon, Airbnb, Uber, Datadog]
+companies: [Google, Amazon, Airbnb, Uber, Intel, Wipro, Capgemini, Siemens]
 frequency: 4
 tags: [backtracking, arrays, recursion]
 sampleInput: |

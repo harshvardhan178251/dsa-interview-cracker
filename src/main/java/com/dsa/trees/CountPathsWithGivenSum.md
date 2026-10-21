@@ -3,7 +3,7 @@ title: Path Sum III
 leetcode: 437
 difficulty: Medium
 patterns: [DFS, Prefix sums]
-companies: [Meta, Google, Adobe, LinkedIn, Oracle]
+companies: [Meta, Google, Adobe, LinkedIn, Paytm, Accenture, Wipro, IBM]
 frequency: 4
 tags: [tree, dfs, prefix-sum, hashmap]
 sampleInput: |

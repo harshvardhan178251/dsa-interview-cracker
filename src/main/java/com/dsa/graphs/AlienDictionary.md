@@ -3,7 +3,7 @@ title: Alien Dictionary
 leetcode: 269
 difficulty: Medium
 patterns: [Topological sort, Precedence graph, String comparison]
-companies: [Google, Airbnb, Goldman Sachs]
+companies: [Google, Airbnb, Goldman Sachs, HCLTech, Siemens]
 frequency: 3
 tags: [graph, strings, topological-sort, lexicographic]
 sampleInput: |

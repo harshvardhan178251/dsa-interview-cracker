@@ -3,7 +3,7 @@ title: Coin Change II
 leetcode: 518
 difficulty: Medium
 patterns: [Unbounded knapsack, Counting DP]
-companies: [Google, Amazon, LinkedIn, Airbnb, Visa]
+companies: [Google, Amazon, LinkedIn, Airbnb, Flipkart, Tech Mahindra, Infosys, Canva]
 frequency: 4
 tags: [dynamic-programming, knapsack, unbounded, combinatorics]
 sampleInput: |

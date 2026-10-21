@@ -3,7 +3,7 @@ title: Shuffle Array
 leetcode: 384
 difficulty: Medium
 patterns: [Fisher-Yates, Uniform random permutation]
-companies: [Meta, LinkedIn, Microsoft]
+companies: [Meta, LinkedIn, Microsoft, TCS, Barclays]
 frequency: 3
 tags: [array, random, permutation]
 sampleInput: |

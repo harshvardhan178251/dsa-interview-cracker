@@ -27,35 +27,12 @@ import { join, dirname, resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { parse as parseYaml, stringify as stringifyYaml } from 'yaml'
 
+import { REMOVE, SELECTION, TIERS, fameTier } from './company-tiers.mjs'
+
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const REPO = resolve(__dirname, '..')
 const PROBLEM_ROOT = join(REPO, 'src', 'main', 'java', 'com', 'dsa')
 const checkOnly = process.argv.includes('--check')
-
-/** Companies that ask a very wide range of problems. */
-const TIER0 = ['Amazon', 'Google', 'Meta']
-/** Companies with a broad but noticeably smaller pool. */
-const TIER1 = [
-  'Microsoft', 'Uber', 'Bloomberg', 'Adobe', 'Apple', 'LinkedIn', 'Airbnb',
-  'Facebook', 'Netflix', 'Salesforce', 'Goldman Sachs', 'JP Morgan',
-]
-/** Companies known for a more selective set. */
-const TIER2 = [
-  'Flipkart', 'ByteDance', 'Oracle', 'Lyft', 'Stripe', 'Cloudflare',
-  'Pinterest', 'Twitter', 'Intel', 'Visa', 'Paytm', 'Walmart', 'eBay',
-  'Zillow', 'Spotify', 'Datadog',
-]
-
-/** Tags that are not companies and should simply be dropped. */
-const REMOVE = new Set(['Poker sites'])
-
-const SELECTION = {
-  A: { 0: 3, 1: 3, 2: 1 },
-  B: { 0: 2, 1: 2, 2: 1 },
-  C: { 0: 1, 1: 2, 2: 0 },
-  D: { 0: 1, 1: 1, 2: 0 },
-  E: { 0: 1, 1: 1, 2: 0 },
-}
 
 /** Deterministic 32-bit hash of a string. */
 function hash(text) {
@@ -77,14 +54,6 @@ function shuffled(list, seed) {
     ;[out[i], out[j]] = [out[j], out[i]]
   }
   return out
-}
-
-function fameTier(frequency, hasLeetCode) {
-  if (frequency >= 5 && hasLeetCode) return 'A'
-  if (frequency >= 5 || (frequency >= 4 && hasLeetCode)) return 'B'
-  if (frequency >= 4 || (frequency >= 3 && hasLeetCode)) return 'C'
-  if (frequency >= 3 || (frequency >= 2 && hasLeetCode)) return 'D'
-  return 'E'
 }
 
 function walk(dir) {
@@ -120,16 +89,17 @@ for (const file of walk(PROBLEM_ROOT)) {
   const counts_ = SELECTION[tier]
 
   // Companies outside the known tiers are already selective — keep them.
-  const known = new Set([...TIER0, ...TIER1, ...TIER2])
+  const known = new Set(TIERS.flat())
   const extras = data.companies.filter((c) => !known.has(c) && !REMOVE.has(c))
 
   const seed = hash(id)
-  const picked = [
-    ...shuffled(TIER0, seed).slice(0, counts_[0]),
-    ...shuffled(TIER1, seed ^ 0x9e3779b9).slice(0, counts_[1]),
-    ...shuffled(TIER2, seed ^ 0x85ebca6b).slice(0, counts_[2]),
-    ...extras,
-  ]
+  const picked = []
+  TIERS.forEach((tier, index) => {
+    const count = counts_[index] ?? 0
+    if (count === 0) return
+    picked.push(...shuffled(tier, seed ^ (index * 0x9e3779b9)).slice(0, count))
+  })
+  picked.push(...extras)
 
   for (const company of picked) counts.set(company, (counts.get(company) ?? 0) + 1)
 

@@ -3,7 +3,7 @@ title: Maximum Depth of Binary Tree
 leetcode: 104
 difficulty: Easy
 patterns: [DFS, Post-order recursion]
-companies: [Amazon, Google, Meta, Airbnb, Facebook, Goldman Sachs, Paytm]
+companies: [Amazon, Google, Meta, Airbnb, Facebook, Goldman Sachs, Walmart, HCLTech, Capgemini, Siemens]
 frequency: 5
 tags: [tree, dfs, recursion, depth]
 sampleInput: |

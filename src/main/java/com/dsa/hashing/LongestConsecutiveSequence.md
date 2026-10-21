@@ -3,7 +3,7 @@ title: Longest Consecutive Sequence
 leetcode: 128
 difficulty: Medium
 patterns: [Hashing, Run detection]
-companies: [Google, Meta, Apple, Facebook, Spotify]
+companies: [Google, Meta, Apple, Facebook, ByteDance, Cognizant, HCLTech, Deloitte]
 frequency: 4
 tags: [hashmap, set, array, longest-run]
 sampleInput: |

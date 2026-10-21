@@ -3,7 +3,7 @@ title: Burst Balloons
 leetcode: 312
 difficulty: Hard
 patterns: [Interval DP, Bottom-up DP]
-companies: [Google, Amazon, Bloomberg, LinkedIn, Flipkart]
+companies: [Google, Amazon, Bloomberg, LinkedIn, Lyft, Capgemini, HCLTech, Zomato]
 frequency: 4
 tags: [dynamic-programming, interval-dp, hard]
 sampleInput: |

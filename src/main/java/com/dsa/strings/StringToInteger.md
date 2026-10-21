@@ -3,7 +3,7 @@ title: String to Integer (atoi)
 leetcode: 8
 difficulty: Medium
 patterns: [Parsing, Overflow guards]
-companies: [Google, Meta, LinkedIn, Facebook, Walmart]
+companies: [Google, Meta, LinkedIn, Facebook, ByteDance, Infosys, Cognizant, Standard Chartered]
 frequency: 4
 tags: [string, parsing, overflow, atoi]
 sampleInput: |

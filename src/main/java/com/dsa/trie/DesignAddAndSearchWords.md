@@ -3,7 +3,7 @@ title: Design Add and Search Words
 leetcode: 211
 difficulty: Medium
 patterns: [Trie, Backtracking with wildcards]
-companies: [Google, Meta, JP Morgan, Netflix, Visa]
+companies: [Google, Meta, JP Morgan, Netflix, Cloudflare, HCLTech, Cognizant, Barclays]
 frequency: 4
 tags: [trie, design, backtracking, wildcard]
 sampleInput: |

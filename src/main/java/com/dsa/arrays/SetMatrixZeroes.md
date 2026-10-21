@@ -3,7 +3,7 @@ title: Set Matrix Zeroes
 leetcode: 73
 difficulty: Medium
 patterns: [Marker rows and columns, Two-phase scan]
-companies: [Google, Amazon, Salesforce, LinkedIn, Visa]
+companies: [Google, Amazon, Salesforce, LinkedIn, Lyft, HCLTech, Wipro, Freshworks]
 frequency: 4
 tags: [matrix, in-place, two-pass]
 sampleInput: |

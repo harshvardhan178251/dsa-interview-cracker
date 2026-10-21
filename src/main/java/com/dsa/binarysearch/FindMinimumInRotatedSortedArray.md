@@ -3,7 +3,7 @@ title: Find Minimum in Rotated Sorted Array
 leetcode: 153
 difficulty: Medium
 patterns: [Binary search, Rotated array]
-companies: [Meta, Amazon, LinkedIn, Salesforce, Zillow]
+companies: [Meta, Amazon, LinkedIn, Salesforce, Stripe, TCS, HCLTech, Siemens]
 frequency: 4
 tags: [array, sorting, binary-search]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Count and Say
 leetcode: 38
 difficulty: Medium
 patterns: [Run-length encoding, String building]
-companies: [Amazon, Adobe, Bloomberg]
+companies: [Amazon, Adobe, Bloomberg, Capgemini, Zebra]
 frequency: 3
 tags: [string, run-length-encoding, simulation]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Heap Sort
 leetcode: null
 difficulty: Medium
 patterns: [Heap, In-place sorting]
-companies: [Google, LinkedIn]
+companies: [Google, LinkedIn, Tech Mahindra]
 frequency: 3
 tags: [sorting, heap-sort, priority-queue]
 sampleInput: |

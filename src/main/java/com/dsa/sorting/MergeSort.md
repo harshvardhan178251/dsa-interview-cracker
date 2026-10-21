@@ -3,7 +3,7 @@ title: Merge Sort
 leetcode: null
 difficulty: Medium
 patterns: [Divide and conquer, Merging]
-companies: [Amazon, JP Morgan, Netflix]
+companies: [Amazon, JP Morgan, Netflix, HCLTech, Barclays]
 frequency: 4
 tags: [sorting, merge-sort, divide-and-conquer]
 sampleInput: |

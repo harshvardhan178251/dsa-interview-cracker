@@ -3,7 +3,7 @@ title: Topological Sort
 leetcode: null
 difficulty: Medium
 patterns: [Topological sort, Kahn's algorithm, Min-heap]
-companies: [Google, Airbnb, Bloomberg]
+companies: [Google, Airbnb, Bloomberg, Infosys, EY]
 frequency: 4
 tags: [graph, directed, topological-sort, interview-core]
 sampleInput: |

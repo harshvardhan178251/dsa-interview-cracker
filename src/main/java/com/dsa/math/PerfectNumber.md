@@ -3,7 +3,7 @@ title: Perfect Number
 leetcode: 507
 difficulty: Easy
 patterns: [Number theory, Divisor pairs]
-companies: [Amazon, Bloomberg, Goldman Sachs]
+companies: [Amazon, Bloomberg, Goldman Sachs, Accenture, IBM]
 frequency: 3
 tags: [math, numbers]
 sampleInput: |

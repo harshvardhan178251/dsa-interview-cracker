@@ -3,7 +3,7 @@ title: Symmetric Tree
 leetcode: 101
 difficulty: Easy
 patterns: [DFS, Mirror recursion]
-companies: [Google, Amazon, Microsoft, JP Morgan, Pinterest]
+companies: [Google, Amazon, Microsoft, JP Morgan, Oracle, TCS, Infosys, Deloitte]
 frequency: 4
 tags: [tree, dfs, recursion, mirror]
 sampleInput: |

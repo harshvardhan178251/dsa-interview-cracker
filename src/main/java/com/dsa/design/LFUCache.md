@@ -3,7 +3,7 @@ title: LFU Cache
 leetcode: 460
 difficulty: Hard
 patterns: [Design, Frequency buckets, HashMap]
-companies: [Google, Meta, Adobe, LinkedIn, Datadog]
+companies: [Google, Meta, Adobe, LinkedIn, Visa, Wipro, Tech Mahindra, Zebra]
 frequency: 4
 tags: [cache, hashmap, linked list, eviction]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Interval List Intersections
 leetcode: 986
 difficulty: Medium
 patterns: [Two pointers, Sorted sweep]
-companies: [Meta, Salesforce, Netflix]
+companies: [Meta, Salesforce, Netflix, Capgemini, Zomato]
 frequency: 3
 tags: [array, two-pointers, intervals]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Clone Graph
 leetcode: 133
 difficulty: Medium
 patterns: [Graph traversal, HashMap, BFS]
-companies: [Google, LinkedIn, Bloomberg]
+companies: [Google, LinkedIn, Bloomberg, TCS, IBM]
 frequency: 3
 tags: [graph, hashmap, bfs, deep-copy]
 sampleInput: |

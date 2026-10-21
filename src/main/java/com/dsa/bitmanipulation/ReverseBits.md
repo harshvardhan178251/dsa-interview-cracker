@@ -3,7 +3,7 @@ title: Reverse Bits
 leetcode: 190
 difficulty: Easy
 patterns: [Bit tricks, Shifts]
-companies: [Amazon, Google, Apple, Goldman Sachs, Walmart]
+companies: [Amazon, Google, Apple, Goldman Sachs, Spotify, TCS, HCLTech, Bosch]
 frequency: 4
 tags: [bit-manipulation, numbers]
 sampleInput: |

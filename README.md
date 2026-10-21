@@ -71,7 +71,7 @@ The site is the fastest way to work through the set.
 | Feature | What it does |
 |---|---|
 | **Search + filters** | Instant client-side search over title, pattern, company, tag and LeetCode id. Filter chips for topic, difficulty, company, pattern and status. All state lives in the URL, so any filtered view is shareable. |
-| **Topic pages** | Click any topic to open a page with **every** problem it contains, its difficulty mix, the patterns it covers, the companies that ask it, and a per-difficulty filter. Company pages work the same way. |
+| **Topic pages** | Click any topic to open a page with **every** problem it contains, its difficulty mix, the patterns it covers, the companies that ask it, and a per-difficulty filter. Company pages work the same way — **63 companies**, from the product companies down to TCS, Wipro, Infosys, HCLTech, Cognizant, Tech Mahindra, Capgemini and Accenture. |
 | **Dry-run viewer** | The companion markdown rendered as styled HTML — including the dry-run tables as real tables. |
 | **Code viewer** | Syntax-highlighted Java with line numbers and a copy button, plus the self-contained source the browser runner receives. |
 | **In-browser Java runner** | Compiles and runs the solution on the public Judge0 API against stdin you type. Verifies the output against the documented sample. |
@@ -131,7 +131,7 @@ duplicates and boundary values.
 
 | Folder | Contents |
 |---|---|
-| `guides/` | How to use this repo, the 8-week study plan, the company problem map, the pattern index, the coverage matrix, the full problem index, the Java cheatsheet, the interview playbook |
+| `guides/` | How to use this repo, the 8-week study plan, the company problem map (63 companies, tiered, with a section on IT-services and campus loops), the pattern index, the coverage matrix, the full problem index, the Java cheatsheet, the interview playbook |
 | `topics/` | One concept note per topic — intuition, when to use which pattern, traps, complexity cheat sheet |
 | `system-design/` | Caching, load balancing, sharding, message queues, rate limiting, and four case studies |
 | `lld/` | Low-level design: LRU, parking lot, elevator, chess, tic-tac-toe, rate limiter |

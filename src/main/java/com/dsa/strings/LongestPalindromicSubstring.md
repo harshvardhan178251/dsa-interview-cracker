@@ -3,7 +3,7 @@ title: Longest Palindromic Substring
 leetcode: 5
 difficulty: Medium
 patterns: [Expand around centre, Two Pointers]
-companies: [Google, Amazon, Airbnb, Netflix, Visa]
+companies: [Google, Amazon, Airbnb, Netflix, Paytm, Infosys, Cognizant, Philips]
 frequency: 4
 tags: [string, palindrome, expand-around-centre]
 sampleInput: |

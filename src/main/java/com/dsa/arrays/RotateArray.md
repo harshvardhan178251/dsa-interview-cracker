@@ -3,7 +3,7 @@ title: Rotate Array
 leetcode: 189
 difficulty: Medium
 patterns: [Modulo indexing, Cyclic shift]
-companies: [Amazon, Salesforce, JP Morgan]
+companies: [Amazon, Salesforce, JP Morgan, TCS, Zomato]
 frequency: 3
 tags: [array, modulo, rotation]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Assign Cookies
 leetcode: 455
 difficulty: Easy
 patterns: [Greedy, Sort and two pointers]
-companies: [Amazon, LinkedIn, JP Morgan]
+companies: [Amazon, LinkedIn, JP Morgan, Wipro, IBM]
 frequency: 3
 tags: [array, sorting, greedy, two-pointers]
 sampleInput: |

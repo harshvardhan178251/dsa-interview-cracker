@@ -3,7 +3,7 @@ title: Reverse Integer
 leetcode: 7
 difficulty: Medium
 patterns: [Digit manipulation, Overflow check]
-companies: [Meta, Google, Adobe, Goldman Sachs, Zillow]
+companies: [Meta, Google, Adobe, Goldman Sachs, Oracle, HCLTech, Infosys, Qualcomm]
 frequency: 4
 tags: [math, numbers]
 sampleInput: |

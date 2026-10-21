@@ -3,7 +3,7 @@ title: Reconstruct Itinerary
 leetcode: 332
 difficulty: Hard
 patterns: [Hierholzer's algorithm, Eulerian path, Greedy]
-companies: [Google, Meta, Netflix, Microsoft, Oracle]
+companies: [Google, Meta, Netflix, Microsoft, ByteDance, Accenture, HCLTech, EY]
 frequency: 4
 tags: [graph, directed, eulerian-path, hierholzer, greedy]
 sampleInput: |

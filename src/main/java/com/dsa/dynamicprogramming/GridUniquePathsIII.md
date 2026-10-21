@@ -3,7 +3,7 @@ title: Unique Paths III
 leetcode: 980
 difficulty: Hard
 patterns: [Backtracking, DFS on a grid]
-companies: [Amazon, Goldman Sachs, Facebook]
+companies: [Amazon, Goldman Sachs, Facebook, Infosys, Philips]
 frequency: 3
 tags: [dynamic-programming, backtracking, grid, hard]
 sampleInput: |

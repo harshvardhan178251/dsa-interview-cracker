@@ -3,7 +3,7 @@ title: Producer–Consumer Problem
 leetcode: null
 difficulty: Medium
 patterns: [Concurrency, Blocking queue, Poison pill]
-companies: [Google, JP Morgan, Microsoft]
+companies: [Google, JP Morgan, Microsoft, HCLTech, EY]
 frequency: 4
 tags: [concurrency, blocking queue, threads]
 sampleInput: |

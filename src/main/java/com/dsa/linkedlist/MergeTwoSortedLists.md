@@ -3,7 +3,7 @@ title: Merge Two Sorted Lists
 leetcode: 21
 difficulty: Easy
 patterns: [Two pointers, Dummy head]
-companies: [Google, Amazon, Meta, Adobe, Netflix, Uber, Datadog]
+companies: [Google, Amazon, Meta, Adobe, Netflix, Uber, Cloudflare, Tech Mahindra, Infosys, Razorpay]
 frequency: 5
 tags: [linked-list, pointers, merge]
 sampleInput: |

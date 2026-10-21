@@ -3,7 +3,7 @@ title: Koko Eating Bananas
 leetcode: 875
 difficulty: Medium
 patterns: [Binary search on the answer]
-companies: [Meta, Google, Apple, Uber, Oracle]
+companies: [Meta, Google, Apple, Uber, Spotify, Infosys, Accenture, Deloitte]
 frequency: 4
 tags: [binary-search, arrays, greedy]
 sampleInput: |

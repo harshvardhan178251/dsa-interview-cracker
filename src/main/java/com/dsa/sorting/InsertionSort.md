@@ -3,7 +3,7 @@ title: Insertion Sort
 leetcode: null
 difficulty: Easy
 patterns: [Comparison sort, Growing sorted prefix]
-companies: [Amazon, Uber]
+companies: [Amazon, Uber, Cognizant]
 frequency: 3
 tags: [sorting, insertion-sort, comparison-sort]
 sampleInput: |

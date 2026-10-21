@@ -3,7 +3,7 @@ title: Add Two Numbers
 leetcode: 2
 difficulty: Medium
 patterns: [Digit-by-digit carry, Dummy head]
-companies: [Amazon, Meta, Google, Microsoft, Salesforce, Facebook, Flipkart]
+companies: [Amazon, Meta, Google, Microsoft, Salesforce, Facebook, Twitter, Accenture, Cognizant, Razorpay]
 frequency: 5
 tags: [linked-list, math, carry]
 sampleInput: |

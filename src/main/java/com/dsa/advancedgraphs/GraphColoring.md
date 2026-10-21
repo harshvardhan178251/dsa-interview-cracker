@@ -3,7 +3,7 @@ title: Graph Coloring
 leetcode: null
 difficulty: Hard
 patterns: [Backtracking, Greedy, DSATUR, NP-hard]
-companies: [Meta, Airbnb, Netflix]
+companies: [Meta, Airbnb, Netflix, Cognizant, Zomato]
 frequency: 4
 tags: [graph, undirected, coloring, backtracking, chromatic-number]
 sampleInput: |

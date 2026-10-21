@@ -3,7 +3,7 @@ title: Longest Palindromic Subsequence
 leetcode: 516
 difficulty: Medium
 patterns: [Dynamic Programming, Interval DP]
-companies: [Google, JP Morgan, Bloomberg]
+companies: [Google, JP Morgan, Bloomberg, Capgemini, Dell]
 frequency: 3
 tags: [string, palindrome, dynamic-programming, dp]
 sampleInput: |

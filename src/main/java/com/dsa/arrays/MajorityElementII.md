@@ -3,7 +3,7 @@ title: Majority Element II
 leetcode: 229
 difficulty: Medium
 patterns: [Boyer-Moore voting, Extended to two candidates]
-companies: [Amazon, Microsoft, Apple]
+companies: [Amazon, Microsoft, Apple, Capgemini, Philips]
 frequency: 3
 tags: [array, voting, frequency]
 sampleInput: |

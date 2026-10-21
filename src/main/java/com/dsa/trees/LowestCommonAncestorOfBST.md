@@ -3,7 +3,7 @@ title: Lowest Common Ancestor of a BST
 leetcode: 235
 difficulty: Medium
 patterns: [BST, Iterative descent]
-companies: [Meta, Amazon, Google, Goldman Sachs, Salesforce, Bloomberg, ByteDance]
+companies: [Meta, Amazon, Google, Goldman Sachs, Salesforce, Bloomberg, Paytm, Capgemini, TCS, HSBC]
 frequency: 5
 tags: [tree, bst, lca, iteration]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Remove Duplicates from Sorted Array II
 leetcode: 80
 difficulty: Medium
 patterns: [Two Pointers, In-place compaction, Run detection]
-companies: [Google, Meta, Netflix, Apple, Datadog]
+companies: [Google, Meta, Netflix, Apple, Paytm, Cognizant, TCS, Standard Chartered]
 frequency: 4
 tags: [array, two-pointers, in-place]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Range Sum Query — Immutable
 leetcode: 303
 difficulty: Easy
 patterns: [Prefix sums, O(1) range queries]
-companies: [Amazon, Salesforce, Goldman Sachs]
+companies: [Amazon, Salesforce, Goldman Sachs, HCLTech, Zebra]
 frequency: 3
 tags: [prefix-sum, array, range-query]
 sampleInput: |

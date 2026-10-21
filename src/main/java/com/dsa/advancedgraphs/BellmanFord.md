@@ -3,7 +3,7 @@ title: Bellman-Ford Shortest Path
 leetcode: null
 difficulty: Medium
 patterns: [Bellman-Ford, Negative weights, Cycle detection]
-companies: [Amazon, Microsoft, Apple]
+companies: [Amazon, Microsoft, Apple, Wipro, KPMG]
 frequency: 4
 tags: [graph, weighted, shortest-path, bellman-ford, negative-weights]
 sampleInput: |

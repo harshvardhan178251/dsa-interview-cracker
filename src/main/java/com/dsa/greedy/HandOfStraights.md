@@ -3,7 +3,7 @@ title: Hand of Straights
 leetcode: 846
 difficulty: Medium
 patterns: [Greedy, Frequency counting]
-companies: [Google, Goldman Sachs, Adobe]
+companies: [Google, Goldman Sachs, Adobe, Capgemini, Philips]
 frequency: 3
 tags: [array, hashmap, sorting, greedy]
 sampleInput: |

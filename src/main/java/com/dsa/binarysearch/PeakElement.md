@@ -3,7 +3,7 @@ title: Find Peak Element
 leetcode: 162
 difficulty: Medium
 patterns: [Binary search, Divide and conquer]
-companies: [Google, Meta, Netflix, Salesforce, Walmart]
+companies: [Google, Meta, Netflix, Salesforce, Stripe, Capgemini, Wipro, Bosch]
 frequency: 4
 tags: [array, binary-search, divide-and-conquer]
 sampleInput: |

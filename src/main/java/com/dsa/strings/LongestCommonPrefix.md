@@ -3,7 +3,7 @@ title: Longest Common Prefix
 leetcode: 14
 difficulty: Easy
 patterns: [Two Pointers, Vertical scan]
-companies: [Meta, Amazon, Apple, Goldman Sachs, Spotify]
+companies: [Meta, Amazon, Apple, Goldman Sachs, Paytm, Infosys, Cognizant, HSBC]
 frequency: 4
 tags: [string, two-pointers, array]
 sampleInput: |

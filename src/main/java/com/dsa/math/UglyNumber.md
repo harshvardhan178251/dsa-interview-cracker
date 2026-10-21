@@ -3,7 +3,7 @@ title: Ugly Number
 leetcode: 313
 difficulty: Medium
 patterns: [Dynamic programming, Three pointers]
-companies: [Meta, Apple, Microsoft]
+companies: [Meta, Apple, Microsoft, Infosys, Sony]
 frequency: 3
 tags: [math, dynamic-programming, pointers]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Last Stone Weight II
 leetcode: 1049
 difficulty: Medium
 patterns: [Partition, Subset sum DP, Greedy heap (the wrong answer)]
-companies: [Amazon, Meta, Salesforce, Adobe, Datadog]
+companies: [Amazon, Meta, Salesforce, Adobe, Zillow, HCLTech, Infosys, KPMG]
 frequency: 4
 tags: [dp, knapsack, partition, heap]
 sampleInput: |

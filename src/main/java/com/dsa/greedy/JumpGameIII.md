@@ -3,7 +3,7 @@ title: Jump Game III
 leetcode: 1306
 difficulty: Medium
 patterns: [BFS, Visited set]
-companies: [Amazon, Airbnb, Adobe]
+companies: [Amazon, Airbnb, Adobe, Wipro, Zebra]
 frequency: 3
 tags: [array, bfs, graph]
 sampleInput: |

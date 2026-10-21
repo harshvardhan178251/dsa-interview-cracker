@@ -3,7 +3,7 @@ title: Rotting Oranges
 leetcode: 994
 difficulty: Medium
 patterns: [Multi-source BFS, Grid traversal]
-companies: [Google, Amazon, JP Morgan, Netflix, Cloudflare]
+companies: [Google, Amazon, JP Morgan, Netflix, eBay, Wipro, Infosys, Barclays]
 frequency: 4
 tags: [graph, grid, bfs, simulation]
 sampleInput: |

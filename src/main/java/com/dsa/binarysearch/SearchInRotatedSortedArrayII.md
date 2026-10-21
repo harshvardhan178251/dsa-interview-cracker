@@ -3,7 +3,7 @@ title: Search in Rotated Sorted Array II
 leetcode: 81
 difficulty: Medium
 patterns: [Binary search, Rotated array, Duplicates]
-companies: [Google, Meta, Bloomberg, Airbnb, Flipkart]
+companies: [Google, Meta, Bloomberg, Airbnb, Flipkart, Wipro, TCS, KPMG]
 frequency: 4
 tags: [array, sorting, binary-search]
 sampleInput: |

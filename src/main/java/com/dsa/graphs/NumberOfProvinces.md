@@ -3,7 +3,7 @@ title: Number of Provinces
 leetcode: 547
 difficulty: Medium
 patterns: [Union-Find, Connected components, Adjacency matrix]
-companies: [Amazon, Google, Microsoft, JP Morgan, Flipkart]
+companies: [Amazon, Google, Microsoft, JP Morgan, Spotify, Infosys, Cognizant, Philips]
 frequency: 4
 tags: [graph, matrix, union-find, components]
 sampleInput: |

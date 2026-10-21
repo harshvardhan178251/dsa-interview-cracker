@@ -3,7 +3,7 @@ title: Reorder List
 leetcode: 143
 difficulty: Medium
 patterns: [Two pointers, Divide and conquer on a list]
-companies: [Amazon, Google, Salesforce, Uber, Intel]
+companies: [Amazon, Google, Salesforce, Uber, Lyft, Cognizant, TCS, Deloitte]
 frequency: 4
 tags: [linked-list, pointers, in-place]
 sampleInput: |

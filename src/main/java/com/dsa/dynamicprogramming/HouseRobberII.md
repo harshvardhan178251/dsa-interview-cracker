@@ -3,7 +3,7 @@ title: House Robber II
 leetcode: 213
 difficulty: Medium
 patterns: [Circular DP, Divide and conquer]
-companies: [Amazon, Google, Facebook, LinkedIn, Zillow]
+companies: [Amazon, Google, Facebook, LinkedIn, Cloudflare, Wipro, Capgemini, Zebra]
 frequency: 4
 tags: [dynamic-programming, arrays, circular]
 sampleInput: |

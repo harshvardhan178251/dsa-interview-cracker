@@ -3,7 +3,7 @@ title: Longest Common Substring
 leetcode: 718
 difficulty: Medium
 patterns: [2-D DP, String DP]
-companies: [Google, Amazon, Airbnb, Uber, Pinterest]
+companies: [Google, Amazon, Airbnb, Uber, Twitter, Accenture, Capgemini, Razorpay]
 frequency: 4
 tags: [dynamic-programming, strings]
 sampleInput: |

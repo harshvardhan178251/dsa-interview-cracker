@@ -3,7 +3,7 @@ title: Walls and Gates
 leetcode: 286
 difficulty: Medium
 patterns: [Multi-source BFS, Grid traversal]
-companies: [Google, Adobe, Salesforce]
+companies: [Google, Adobe, Salesforce, Infosys, KPMG]
 frequency: 3
 tags: [graph, grid, bfs, multi-source]
 sampleInput: |

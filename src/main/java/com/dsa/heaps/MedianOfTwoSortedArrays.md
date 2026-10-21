@@ -3,7 +3,7 @@ title: Median of Two Sorted Arrays
 leetcode: 4
 difficulty: Hard
 patterns: [Heap, K-way merge, Order statistics, Binary search]
-companies: [Amazon, Google, Meta, Netflix, Bloomberg, Uber, Intel]
+companies: [Amazon, Google, Meta, Netflix, Bloomberg, Uber, Twitter, Cognizant, TCS, Sony]
 frequency: 5
 tags: [heap, binary-search, divide-and-conquer, median]
 sampleInput: |

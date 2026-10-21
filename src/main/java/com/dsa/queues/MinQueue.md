@@ -3,7 +3,7 @@ title: Design a Min Queue
 leetcode: null
 difficulty: Medium
 patterns: [Stack, Running minimum, Amortised O(1)]
-companies: [Meta, JP Morgan, Uber]
+companies: [Meta, JP Morgan, Uber, HCLTech, KPMG]
 frequency: 4
 tags: [queue, stack, min, design]
 sampleInput: |

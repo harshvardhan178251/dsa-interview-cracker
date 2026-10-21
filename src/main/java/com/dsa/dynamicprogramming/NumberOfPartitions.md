@@ -3,7 +3,7 @@ title: Number of Partitions
 leetcode: null
 difficulty: Medium
 patterns: [Counting DP, Unbounded knapsack]
-companies: [Amazon, JP Morgan]
+companies: [Amazon, JP Morgan, Tech Mahindra]
 frequency: 3
 tags: [dynamic-programming, combinatorics, knapsack]
 sampleInput: |

@@ -3,7 +3,7 @@ title: Pivot Index
 leetcode: 724
 difficulty: Easy
 patterns: [Prefix sums, Running balance]
-companies: [Amazon, LinkedIn, Airbnb]
+companies: [Amazon, LinkedIn, Airbnb, Wipro, Samsung]
 frequency: 3
 tags: [prefix-sum, array]
 sampleInput: |

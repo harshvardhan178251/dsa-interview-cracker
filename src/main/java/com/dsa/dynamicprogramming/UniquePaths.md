@@ -3,7 +3,7 @@ title: Unique Paths
 leetcode: 62
 difficulty: Medium
 patterns: [Grid DP, Combinatorics]
-companies: [Meta, Google, Amazon, LinkedIn, Salesforce, Airbnb, Walmart]
+companies: [Meta, Google, Amazon, LinkedIn, Salesforce, Airbnb, Pinterest, Cognizant, Wipro, Standard Chartered]
 frequency: 5
 tags: [dynamic-programming, grid, combinatorics]
 sampleInput: |

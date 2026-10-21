@@ -3,7 +3,7 @@ title: Number of Connected Components in an Undirected Graph
 leetcode: 547
 difficulty: Medium
 patterns: [Union-Find, Connected components, BFS]
-companies: [Meta, Google, Adobe, LinkedIn, Stripe]
+companies: [Meta, Google, Adobe, LinkedIn, Datadog, Cognizant, Accenture, Freshworks]
 frequency: 4
 tags: [graph, undirected, union-find, components]
 sampleInput: |

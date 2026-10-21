@@ -3,7 +3,7 @@ title: Bubble Sort
 leetcode: null
 difficulty: Easy
 patterns: [Comparison sort, Repeated swapping]
-companies: [Amazon, Goldman Sachs]
+companies: [Amazon, Goldman Sachs, Wipro]
 frequency: 3
 tags: [sorting, bubble-sort, comparison-sort]
 sampleInput: |

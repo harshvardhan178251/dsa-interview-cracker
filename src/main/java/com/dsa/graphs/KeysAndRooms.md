@@ -3,7 +3,7 @@ title: Keys and Rooms
 leetcode: 841
 difficulty: Medium
 patterns: [Graph traversal, DFS, Reachability]
-companies: [Meta, Salesforce, Apple]
+companies: [Meta, Salesforce, Apple, Tech Mahindra, Zomato]
 frequency: 3
 tags: [graph, traversal, dfs, visited]
 sampleInput: |

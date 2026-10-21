@@ -3,7 +3,7 @@ title: Jump Game II
 leetcode: 45
 difficulty: Medium
 patterns: [Greedy, BFS by layers]
-companies: [Google, Amazon, LinkedIn, Apple, Pinterest]
+companies: [Google, Amazon, LinkedIn, Apple, ByteDance, Infosys, HCLTech, KPMG]
 frequency: 4
 tags: [array, greedy, bfs]
 sampleInput: |

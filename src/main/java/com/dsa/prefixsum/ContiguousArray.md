@@ -3,7 +3,7 @@ title: Contiguous Array
 leetcode: 525
 difficulty: Medium
 patterns: [Prefix sum with a hash map, Balance counting]
-companies: [Meta, Adobe, Microsoft]
+companies: [Meta, Adobe, Microsoft, Cognizant, Swiggy]
 frequency: 3
 tags: [prefix-sum, hashmap, array]
 sampleInput: |

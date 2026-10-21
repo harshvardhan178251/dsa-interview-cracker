@@ -3,7 +3,7 @@ title: Invert Binary Tree
 leetcode: 226
 difficulty: Easy
 patterns: [DFS, Mirror recursion]
-companies: [Meta, Amazon, Adobe, JP Morgan, Visa]
+companies: [Meta, Amazon, Adobe, JP Morgan, Datadog, Capgemini, HCLTech, Canva]
 frequency: 4
 tags: [tree, dfs, recursion, mirror]
 sampleInput: |

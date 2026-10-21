@@ -3,7 +3,7 @@ title: Gas Station
 leetcode: 134
 difficulty: Medium
 patterns: [Greedy, Prefix-sum reset]
-companies: [Meta, Amazon, Salesforce, JP Morgan, Flipkart]
+companies: [Meta, Amazon, Salesforce, JP Morgan, Paytm, Cognizant, HCLTech, Sony]
 frequency: 4
 tags: [array, greedy, prefix-sum]
 sampleInput: |

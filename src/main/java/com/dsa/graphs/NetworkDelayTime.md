@@ -3,7 +3,7 @@ title: Network Delay Time
 leetcode: 743
 difficulty: Medium
 patterns: [Dijkstra, Shortest path, Priority queue]
-companies: [Google, Amazon, Goldman Sachs, Apple, ByteDance]
+companies: [Google, Amazon, Goldman Sachs, Apple, Intel, TCS, Tech Mahindra, Philips]
 frequency: 4
 tags: [graph, weighted, shortest-path, dijkstra]
 sampleInput: |

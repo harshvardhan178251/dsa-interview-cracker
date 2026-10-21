@@ -3,7 +3,7 @@ title: Remove Nth Node From End of List
 leetcode: 19
 difficulty: Medium
 patterns: [Two pointers, Dummy head]
-companies: [Meta, Google, Amazon, Adobe, LinkedIn, Goldman Sachs, ByteDance]
+companies: [Meta, Google, Amazon, Adobe, LinkedIn, Goldman Sachs, Visa, Cognizant, TCS, Siemens]
 frequency: 5
 tags: [linked-list, pointers]
 sampleInput: |

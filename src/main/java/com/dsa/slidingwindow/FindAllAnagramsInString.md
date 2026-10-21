@@ -3,7 +3,7 @@ title: Find All Anagrams in a String
 leetcode: 438
 difficulty: Medium
 patterns: [Sliding window, Frequency counting]
-companies: [Google, Amazon, Facebook, LinkedIn, Pinterest]
+companies: [Google, Amazon, Facebook, LinkedIn, Twitter, Accenture, Infosys, Dell]
 frequency: 4
 tags: [string, sliding-window, hashmap]
 sampleInput: |

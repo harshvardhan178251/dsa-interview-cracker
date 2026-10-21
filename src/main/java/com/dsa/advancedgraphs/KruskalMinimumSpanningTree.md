@@ -3,7 +3,7 @@ title: Kruskal's Minimum Spanning Tree
 leetcode: null
 difficulty: Medium
 patterns: [Greedy, Union-Find, Sorting]
-companies: [Amazon, Airbnb, LinkedIn]
+companies: [Amazon, Airbnb, LinkedIn, Tech Mahindra, Bosch]
 frequency: 4
 tags: [graph, undirected, weighted, mst, union-find, kruskal]
 sampleInput: |

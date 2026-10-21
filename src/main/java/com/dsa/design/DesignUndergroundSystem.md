@@ -3,7 +3,7 @@ title: Design Underground System
 leetcode: 373
 difficulty: Medium
 patterns: [Design, Aggregation, Sorted map]
-companies: [Amazon, Adobe, LinkedIn]
+companies: [Amazon, Adobe, LinkedIn, Wipro, Barclays]
 frequency: 3
 tags: [hashmap, aggregation, average]
 sampleInput: |

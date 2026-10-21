@@ -3,7 +3,7 @@ title: 01 Matrix
 leetcode: 542
 difficulty: Medium
 patterns: [Multi-source BFS, Grid traversal]
-companies: [Amazon, Meta, Facebook, Adobe, Oracle]
+companies: [Amazon, Meta, Facebook, Adobe, eBay, Wipro, Tech Mahindra, Razorpay]
 frequency: 4
 tags: [graph, grid, bfs, multi-source]
 sampleInput: |

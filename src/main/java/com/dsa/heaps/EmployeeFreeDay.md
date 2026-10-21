@@ -3,7 +3,7 @@ title: Employee Free Day
 leetcode: 1497
 difficulty: Medium
 patterns: [Greedy, Interval scheduling, Bounded heap]
-companies: [Google, Facebook, Bloomberg]
+companies: [Google, Facebook, Bloomberg, TCS, Cisco]
 frequency: 3
 tags: [greedy, intervals, heap, scheduling]
 sampleInput: |

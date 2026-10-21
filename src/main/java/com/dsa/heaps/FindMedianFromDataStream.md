@@ -3,7 +3,7 @@ title: Find Median from Data Stream
 leetcode: 295
 difficulty: Hard
 patterns: [Heap, Two heaps, Order statistics]
-companies: [Meta, Amazon, Google, Salesforce, Apple, Airbnb, Paytm]
+companies: [Meta, Amazon, Google, Salesforce, Apple, Airbnb, ByteDance, Wipro, Infosys, Philips]
 frequency: 5
 tags: [heap, stream, median, design]
 sampleInput: |
