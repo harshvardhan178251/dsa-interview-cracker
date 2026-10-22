@@ -50,7 +50,7 @@ export const TIER_LABELS = [
 ]
 
 /** Tags that are not companies and should simply be dropped. */
-export const REMOVE = new Set(['Poker sites'])
+export const REMOVE = new Set(['Poker sites', 'Ernst & Young'])
 
 /**
  * How many companies a problem gets from each tier, by how likely it is to be

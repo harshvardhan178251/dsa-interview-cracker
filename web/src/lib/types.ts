@@ -57,7 +57,7 @@ export interface ProblemDetail {
   methods: string[]
 }
 
-export type GuideCategory = 'topic' | 'system-design' | 'lld' | 'guide'
+export type GuideCategory = 'topic' | 'system-design' | 'lld' | 'guide' | 'ibps'
 
 export interface Guide {
   id: string

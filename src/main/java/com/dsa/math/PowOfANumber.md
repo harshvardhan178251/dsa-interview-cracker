@@ -3,7 +3,7 @@ title: Pow(x, n)
 leetcode: 50
 difficulty: Medium
 patterns: [Divide and conquer, Fast exponentiation]
-companies: [Meta, Google, Airbnb, LinkedIn, Stripe, Wipro, HCLTech, Zebra, Ernst & Young]
+companies: [Meta, Google, Airbnb, LinkedIn, Stripe, Wipro, HCLTech, Zebra]
 frequency: 4
 tags: [math, recursion, bit-manipulation]
 sampleInput: |

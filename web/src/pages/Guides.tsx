@@ -12,9 +12,10 @@ const CATEGORY_LABELS: Record<GuideCategory, string> = {
   'system-design': 'System design',
   lld: 'Low-level design',
   guide: 'Guides',
+  ibps: 'IBPS PO — bank exam prep',
 }
 
-const CATEGORY_ORDER: GuideCategory[] = ['guide', 'topic', 'system-design', 'lld']
+const CATEGORY_ORDER: GuideCategory[] = ['guide', 'ibps', 'topic', 'system-design', 'lld']
 
 export function Guides() {
   const [query, setQuery] = useState('')

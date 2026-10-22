@@ -88,7 +88,6 @@ company showing all 322.
 | **Intel** | Selective product and startup companies | 8 | 0 | 8 | 1 |
 | **Twitter** | Selective product and startup companies | 8 | 2 | 6 | 1 |
 | **Walmart** | Selective product and startup companies | 8 | 3 | 5 | 2 |
-| **Ernst & Young** | — | 6 | 0 | 3 | 0 |
 | **Figma** | Selective enterprise and other companies | 6 | 0 | 4 | 0 |
 | **Pinterest** | Selective product and startup companies | 6 | 3 | 3 | 0 |
 | **Atlassian** | Selective enterprise and other companies | 5 | 1 | 2 | 1 |
@@ -2584,15 +2583,6 @@ These problems show up at essentially every company. If you only do one thing, d
 - **Jump Game II** — Medium · `dynamicprogramming.MinimumJumpSteps`
 - **Linked List Cycle II** — Medium · `linkedlist.LinkedListCycleII`
 - **Minimum Window Substring** — Hard · `slidingwindow.MinimumWindowSubstring`
-
-### Ernst & Young (6)
-
-- **Populating Next Right Pointers in Each Node** — Medium · `trees.PopulateNextRightPointers`
-- **Pow(x, n)** — Medium · `math.PowOfANumber`
-- **Rate Limiter** — Medium · `design.RateLimiter`
-- **Design Browser History** — Medium · `design.DesignBrowserHistory`
-- **Happy Number** — Easy · `math.HappyNumber`
-- **Intersection of Two Arrays** — Easy · `hashing.IntersectionOfTwoArrays`
 
 ### Figma (6)
 

@@ -12,8 +12,8 @@ summary: Every problem in the repository, grouped by topic, with difficulty, Lee
 **322 problems** across 24 topics. The heat column is the interview
 frequency: ★★★★★ means the problem is asked constantly, ★ means it is rare.
 
-Use the [pattern index](./03-pattern-index.md) to work by technique instead, and the
-[company problem map](./02-company-problem-map.md) to work by target company.
+Use the [pattern index](03-pattern-index) to work by technique instead, and the
+[company problem map](02-company-problem-map) to work by target company.
 
 ### Arrays (20)
 

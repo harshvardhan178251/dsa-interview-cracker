@@ -1,0 +1,506 @@
+{
+  "exam": "IBPS PO",
+  "fullName": "Common Recruitment Process for Probationary Officer / Management Trainee (CRP-PO/MT-XVI)",
+  "conductingBody": "Institute of Banking Personnel Selection (IBPS)",
+  "authorityNote": "IBPS revises the exam structure periodically. This snapshot records the pattern as published in the CRP-PO/MT-XVI notification. Always confirm against www.ibps.in before you plan your final month.",
+  "vacancyCycle": "2027-28",
+  "version": "2026.10",
+  "lastCheckedAt": "2026-10-22T05:04:41.273Z",
+  "lastReviewedAt": "2026-10-21T12:00:00Z",
+  "changeDetectedAt": null,
+  "prelims": {
+    "totalQuestions": 100,
+    "totalMarks": 100,
+    "totalMinutes": 60,
+    "negativeMarking": 0.25,
+    "mediumNote": "English only in English; the other two in English and Hindi.",
+    "sectionalCutoff": true,
+    "sections": [
+      {
+        "name": "English Language",
+        "questions": 30,
+        "marks": 30,
+        "minutes": 20,
+        "medium": "English"
+      },
+      {
+        "name": "Quantitative Aptitude",
+        "questions": 35,
+        "marks": 30,
+        "minutes": 20,
+        "medium": "English and Hindi"
+      },
+      {
+        "name": "Reasoning Ability",
+        "questions": 35,
+        "marks": 40,
+        "minutes": 20,
+        "medium": "English and Hindi"
+      }
+    ]
+  },
+  "mains": {
+    "totalQuestions": 170,
+    "totalMarks": 200,
+    "totalMinutes": 160,
+    "negativeMarking": 0.25,
+    "sectionalCutoff": true,
+    "sections": [
+      {
+        "name": "Reasoning",
+        "questions": 40,
+        "marks": 60,
+        "minutes": 45,
+        "medium": "English and Hindi"
+      },
+      {
+        "name": "General / Economy / Banking Awareness / Digital & Financial Awareness (incl. RBI circulars)",
+        "questions": 50,
+        "marks": 60,
+        "minutes": 35,
+        "medium": "English and Hindi"
+      },
+      {
+        "name": "English Language",
+        "questions": 40,
+        "marks": 20,
+        "minutes": 35,
+        "medium": "English"
+      },
+      {
+        "name": "Data Analysis & Interpretation",
+        "questions": 40,
+        "marks": 60,
+        "minutes": 45,
+        "medium": "English and Hindi"
+      }
+    ]
+  },
+  "descriptive": {
+    "questions": 2,
+    "marks": 25,
+    "minutes": 30,
+    "paper": "Essay and Comprehension",
+    "medium": "English",
+    "note": "The paper may be evaluated by an automated scoring mechanism that analyses writing proficiency."
+  },
+  "personalityTest": {
+    "qualifying": false,
+    "mandatoryToAttend": true,
+    "mode": "Proctored or at identified centres",
+    "note": "Non-qualifying in nature, but attendance is mandatory to be eligible for the interview."
+  },
+  "interview": {
+    "marks": 100,
+    "finalMerit": "Mains marks + Interview marks",
+    "weightage": "Mains : Interview = 80 : 20"
+  },
+  "sources": [
+    {
+      "name": "IBPS official website",
+      "url": "https://www.ibps.in/",
+      "kind": "authority",
+      "fingerprint": "sha256:1a8051f911f402aff8817714f9cc351818041f1229dcdcabb899a73e2da189b0"
+    },
+    {
+      "name": "IBPS PO CRP-XVI notification (PDF)",
+      "url": "https://ibtapp-project.s3.ap-south-1.amazonaws.com/course_file_meta/6563052ibps_po_official_pdf.pdf",
+      "kind": "authority",
+      "fingerprint": "sha256:cd70866579ada45bb91a619cf34925911b08a00ed4d6b06e0b182e60245b52ea"
+    },
+    {
+      "name": "IBPS PO CRP notice listing",
+      "url": "https://www.ibps.in/index.php/crp-po-mt-xiii/",
+      "kind": "authority",
+      "fingerprint": "sha256:1670c0e3bab62991febac28f0352b44a12ca2225d1ef7f4d926aaa5bb207f941"
+    }
+  ],
+  "topics": {
+    "english": [
+      {
+        "name": "Reading Comprehension",
+        "level": "basic",
+        "prelimsWeight": "8-10",
+        "mainsWeight": "10-17",
+        "priority": "critical"
+      },
+      {
+        "name": "Error Spotting / Sentence Correction",
+        "level": "basic",
+        "prelimsWeight": "1-10",
+        "mainsWeight": "3-8",
+        "priority": "critical"
+      },
+      {
+        "name": "Cloze Test / Fill in the Blanks",
+        "level": "basic",
+        "prelimsWeight": "2-7",
+        "mainsWeight": "4-6",
+        "priority": "critical"
+      },
+      {
+        "name": "Para Jumbles / Sentence Rearrangement",
+        "level": "intermediate",
+        "prelimsWeight": "0-5",
+        "mainsWeight": "3-5",
+        "priority": "high"
+      },
+      {
+        "name": "Sentence Improvement / Phrase Replacement",
+        "level": "intermediate",
+        "prelimsWeight": "2-5",
+        "mainsWeight": "4-5",
+        "priority": "high"
+      },
+      {
+        "name": "Vocabulary (Synonyms, Antonyms, Idioms)",
+        "level": "basic",
+        "prelimsWeight": "2-3",
+        "mainsWeight": "3-4",
+        "priority": "medium"
+      },
+      {
+        "name": "Reading Comprehension — Inference & Theme",
+        "level": "advanced",
+        "prelimsWeight": "3-5",
+        "mainsWeight": "4-6",
+        "priority": "medium"
+      },
+      {
+        "name": "Letter Writing & Essay (Descriptive)",
+        "level": "advanced",
+        "prelimsWeight": "0",
+        "mainsWeight": "25 marks",
+        "priority": "critical"
+      }
+    ],
+    "quant": [
+      {
+        "name": "Data Interpretation & Caselet",
+        "level": "basic",
+        "prelimsWeight": "10-23",
+        "mainsWeight": "17-23",
+        "priority": "critical"
+      },
+      {
+        "name": "Simplification & Approximation",
+        "level": "basic",
+        "prelimsWeight": "4-7",
+        "mainsWeight": "4-7",
+        "priority": "critical"
+      },
+      {
+        "name": "Number Series",
+        "level": "basic",
+        "prelimsWeight": "0-6",
+        "mainsWeight": "4-5",
+        "priority": "high"
+      },
+      {
+        "name": "Arithmetic (Percent, Ratio, Average, P&L, SI/CI)",
+        "level": "basic",
+        "prelimsWeight": "7-15",
+        "mainsWeight": "5-11",
+        "priority": "critical"
+      },
+      {
+        "name": "Time, Speed & Distance",
+        "level": "intermediate",
+        "prelimsWeight": "1-2",
+        "mainsWeight": "1-2",
+        "priority": "high"
+      },
+      {
+        "name": "Time & Work",
+        "level": "intermediate",
+        "prelimsWeight": "1-2",
+        "mainsWeight": "1-2",
+        "priority": "high"
+      },
+      {
+        "name": "Mixture & Alligation",
+        "level": "intermediate",
+        "prelimsWeight": "1-2",
+        "mainsWeight": "1-2",
+        "priority": "high"
+      },
+      {
+        "name": "Partnership",
+        "level": "intermediate",
+        "prelimsWeight": "0-1",
+        "mainsWeight": "1-2",
+        "priority": "medium"
+      },
+      {
+        "name": "Quadratic Equations",
+        "level": "intermediate",
+        "prelimsWeight": "0-6",
+        "mainsWeight": "3-4",
+        "priority": "high"
+      },
+      {
+        "name": "Mensuration & Geometry",
+        "level": "intermediate",
+        "prelimsWeight": "1-2",
+        "mainsWeight": "1-2",
+        "priority": "medium"
+      },
+      {
+        "name": "Permutation, Combination & Probability",
+        "level": "advanced",
+        "prelimsWeight": "1-3",
+        "mainsWeight": "2-4",
+        "priority": "medium"
+      },
+      {
+        "name": "Number System, HCF & LCM",
+        "level": "basic",
+        "prelimsWeight": "1-2",
+        "mainsWeight": "1-2",
+        "priority": "medium"
+      },
+      {
+        "name": "Problems on Ages",
+        "level": "basic",
+        "prelimsWeight": "1-2",
+        "mainsWeight": "1-2",
+        "priority": "medium"
+      },
+      {
+        "name": "Inequality (Quantity Comparison)",
+        "level": "intermediate",
+        "prelimsWeight": "1-2",
+        "mainsWeight": "3-4",
+        "priority": "medium"
+      },
+      {
+        "name": "Data Sufficiency",
+        "level": "advanced",
+        "prelimsWeight": "0-3",
+        "mainsWeight": "2-4",
+        "priority": "medium"
+      },
+      {
+        "name": "Boats & Streams, Pipes & Cisterns",
+        "level": "advanced",
+        "prelimsWeight": "0-1",
+        "mainsWeight": "0-1",
+        "priority": "low"
+      },
+      {
+        "name": "Calendar, Clock & Heights & Distances",
+        "level": "advanced",
+        "prelimsWeight": "0-1",
+        "mainsWeight": "0-1",
+        "priority": "low"
+      }
+    ],
+    "reasoning": [
+      {
+        "name": "Puzzles & Seating Arrangement",
+        "level": "basic",
+        "prelimsWeight": "14-25",
+        "mainsWeight": "18-28",
+        "priority": "critical"
+      },
+      {
+        "name": "Syllogism",
+        "level": "basic",
+        "prelimsWeight": "3-5",
+        "mainsWeight": "2-3",
+        "priority": "critical"
+      },
+      {
+        "name": "Inequality",
+        "level": "basic",
+        "prelimsWeight": "0-5",
+        "mainsWeight": "2-4",
+        "priority": "critical"
+      },
+      {
+        "name": "Coding-Decoding",
+        "level": "basic",
+        "prelimsWeight": "1-5",
+        "mainsWeight": "2-5",
+        "priority": "high"
+      },
+      {
+        "name": "Machine Input-Output",
+        "level": "intermediate",
+        "prelimsWeight": "0-1",
+        "mainsWeight": "5-7",
+        "priority": "high"
+      },
+      {
+        "name": "Blood Relations",
+        "level": "basic",
+        "prelimsWeight": "0-3",
+        "mainsWeight": "0-3",
+        "priority": "medium"
+      },
+      {
+        "name": "Direction Sense",
+        "level": "basic",
+        "prelimsWeight": "0-3",
+        "mainsWeight": "0-3",
+        "priority": "medium"
+      },
+      {
+        "name": "Order & Ranking",
+        "level": "basic",
+        "prelimsWeight": "0-3",
+        "mainsWeight": "2-3",
+        "priority": "medium"
+      },
+      {
+        "name": "Data Sufficiency (Reasoning)",
+        "level": "advanced",
+        "prelimsWeight": "0-2",
+        "mainsWeight": "3-4",
+        "priority": "medium"
+      },
+      {
+        "name": "Statement & Assumption / Conclusion",
+        "level": "advanced",
+        "prelimsWeight": "0-2",
+        "mainsWeight": "2-3",
+        "priority": "medium"
+      },
+      {
+        "name": "Scheduling & Calendar puzzles",
+        "level": "advanced",
+        "prelimsWeight": "1-3",
+        "mainsWeight": "3-5",
+        "priority": "medium"
+      }
+    ],
+    "computer": [
+      {
+        "name": "Computer Fundamentals & Terminologies",
+        "level": "basic",
+        "prelimsWeight": "0",
+        "mainsWeight": "2-3",
+        "priority": "medium"
+      },
+      {
+        "name": "Generations of Computers & Hardware",
+        "level": "basic",
+        "prelimsWeight": "0",
+        "mainsWeight": "1-2",
+        "priority": "low"
+      },
+      {
+        "name": "Memory (RAM, ROM, Cache, Secondary)",
+        "level": "basic",
+        "prelimsWeight": "0",
+        "mainsWeight": "1-2",
+        "priority": "low"
+      },
+      {
+        "name": "Operating Systems",
+        "level": "intermediate",
+        "prelimsWeight": "0",
+        "mainsWeight": "1-2",
+        "priority": "medium"
+      },
+      {
+        "name": "MS Office & Shortcuts",
+        "level": "basic",
+        "prelimsWeight": "0",
+        "mainsWeight": "1-2",
+        "priority": "medium"
+      },
+      {
+        "name": "Networking & Internet",
+        "level": "intermediate",
+        "prelimsWeight": "0",
+        "mainsWeight": "2-3",
+        "priority": "medium"
+      },
+      {
+        "name": "Database Management (DBMS, SQL)",
+        "level": "intermediate",
+        "prelimsWeight": "0",
+        "mainsWeight": "1-2",
+        "priority": "low"
+      },
+      {
+        "name": "Digital Banking (UPI, NEFT, RTGS, IMPS, Cards)",
+        "level": "intermediate",
+        "prelimsWeight": "0",
+        "mainsWeight": "2-3",
+        "priority": "high"
+      },
+      {
+        "name": "Security & Cyber Frauds",
+        "level": "advanced",
+        "prelimsWeight": "0",
+        "mainsWeight": "1-2",
+        "priority": "medium"
+      }
+    ],
+    "ga": [
+      {
+        "name": "Current Affairs (last 6 months)",
+        "level": "intermediate",
+        "prelimsWeight": "0",
+        "mainsWeight": "15-30",
+        "priority": "critical"
+      },
+      {
+        "name": "Indian Economy — Concepts, Budget, Economic Survey",
+        "level": "intermediate",
+        "prelimsWeight": "0",
+        "mainsWeight": "4-6",
+        "priority": "high"
+      },
+      {
+        "name": "RBI — Functions, Monetary Policy, Circulars",
+        "level": "intermediate",
+        "prelimsWeight": "0",
+        "mainsWeight": "4-6",
+        "priority": "high"
+      },
+      {
+        "name": "Banking Awareness — Accounts, Cards, Loans, Deposits",
+        "level": "basic",
+        "prelimsWeight": "0",
+        "mainsWeight": "5-7",
+        "priority": "critical"
+      },
+      {
+        "name": "Financial Institutions & Regulators (SEBI, IRDAI, NABARD)",
+        "level": "basic",
+        "prelimsWeight": "0",
+        "mainsWeight": "3-5",
+        "priority": "high"
+      },
+      {
+        "name": "Insurance, Markets & Capital Markets",
+        "level": "intermediate",
+        "prelimsWeight": "0",
+        "mainsWeight": "2-4",
+        "priority": "medium"
+      },
+      {
+        "name": "Static GK — Awards, Sports, Important Days, Schemes",
+        "level": "basic",
+        "prelimsWeight": "0",
+        "mainsWeight": "4-6",
+        "priority": "medium"
+      },
+      {
+        "name": "Government Schemes & Committees",
+        "level": "basic",
+        "prelimsWeight": "0",
+        "mainsWeight": "2-3",
+        "priority": "medium"
+      }
+    ]
+  },
+  "levelDefinitions": {
+    "basic": "Zero prior knowledge assumed. Learn the concept, then the standard method.",
+    "intermediate": "You know the topic. The work is speed and edge cases.",
+    "advanced": "Mains-level depth, multi-step application, and the twist questions."
+  }
+}

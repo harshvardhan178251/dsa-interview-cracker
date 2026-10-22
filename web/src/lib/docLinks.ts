@@ -20,9 +20,10 @@
  */
 
 import { problems } from './data'
+import type { GuideCategory } from './types'
 
 /** The guide categories, matching the slugs in `docs/`. */
-export type DocCategory = 'guide' | 'topic' | 'system-design' | 'lld'
+export type DocCategory = GuideCategory
 
 /** Class name -> the site's slug for that problem. */
 const slugByClassName = new Map(problems.map((p) => [p.className, p.slug]))
@@ -33,6 +34,7 @@ const FOLDER_TO_CATEGORY: Record<string, DocCategory> = {
   topics: 'topic',
   'system-design': 'system-design',
   lld: 'lld',
+  ibps: 'ibps',
 }
 
 /** Joins POSIX path segments, resolving `.` and `..`. */
@@ -77,11 +79,28 @@ export function rewriteDocLink(
     return `${base}/blob/main/${resolved}`
   }
 
-  if (!href.endsWith('.md')) return null
+  if (!href.endsWith('.md')) {
+    // An explicit site-style path, e.g. ../guides/guide/8-week-study-plan
+    const routeMatch = href.match(
+      /^(?:\.\.\/)*guides\/(guide|ibps|topic|system-design|lld)\/([\w-]+)$/,
+    )
+    if (routeMatch) {
+      const [, target, name] = routeMatch
+      return `/guides/${target}/${name}`
+    }
+
+    // A bare sibling reference with a numeric prefix, e.g. 04-computer-apptitude
+    const bareMatch = href.match(/^(?:\d+-)?([\w-]+)$/)
+    if (bareMatch && !href.includes('/')) {
+      return `/guides/${category}/${bareMatch[1]}`
+    }
+
+    return null
+  }
 
   // --- A link into the docs tree -> a guide route ---
   const docsMatch = href.match(
-    /^(?:\.\.\/)*(?:docs\/)?(guides|topics|system-design|lld)\/(?:\d+-)?([\w-]+)\.md$/,
+    /^(?:\.\.\/)*(?:docs\/)?(guides|topics|system-design|lld|ibps)\/(?:\d+-)?([\w-]+)\.md$/,
   )
   if (docsMatch) {
     const [, folder, name] = docsMatch

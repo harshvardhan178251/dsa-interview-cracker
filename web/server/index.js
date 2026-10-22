@@ -23,6 +23,7 @@ import { fileURLToPath } from 'node:url'
 import { gzipSync } from 'node:zlib'
 
 import { judge, loadReferenceSource, validateSource, javaVersion, LIMITS } from './judge.js'
+import { checkSyllabus } from './ibps.js'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const WEB_ROOT = join(__dirname, '..')
@@ -239,6 +240,17 @@ const server = createServer(async (req, res) => {
 
     if (req.method === 'POST' && pathname === '/api/run') {
       await handleRun(req, res)
+      return
+    }
+
+    if (req.method === 'GET' && pathname === '/api/ibps/status') {
+      try {
+        const force = url.searchParams.get('force') === '1'
+        const status = await checkSyllabus({ force })
+        sendJson(res, 200, status)
+      } catch (error) {
+        sendJson(res, 500, { error: String(error?.message ?? error) })
+      }
       return
     }
 

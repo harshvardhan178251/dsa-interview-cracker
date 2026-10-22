@@ -145,12 +145,63 @@ export function Landing() {
         </div>
       </section>
 
+      {/* -------------------------------------------------------------- IBPS */}
+      <section>
+        <SectionHeading
+          eyebrow="Also in this repo"
+          title="IBPS PO — bank exam preparation, from scratch to advanced"
+          body="A separate, complete section for the Probationary Officer Common Recruitment Process: the current exam pattern, every topic from basic to advanced, the formula sheet, the previous-year analysis, and a twelve-week plan."
+        />
+        <div className="mt-6 grid gap-4 lg:grid-cols-[1.4fr_1fr]">
+          <div className="rounded-2xl border border-line bg-surface p-5">
+            <div className="flex flex-wrap items-center gap-2">
+              <Badge tone="brand">Prelims</Badge>
+              <Badge tone="neutral">Mains</Badge>
+              <Badge tone="accent">Descriptive</Badge>
+              <Badge tone="neutral">Interview</Badge>
+            </div>
+            <p className="mt-3 text-sm leading-relaxed text-muted">
+              Nine written guides: the exam overview, English, Quantitative Aptitude,
+              Reasoning, Computer Aptitude and digital banking, Banking and the economy, a
+              one-page formula sheet, a previous-year analysis, and the study plan.
+            </p>
+            <div className="mt-4 flex flex-wrap gap-2">
+              <Link
+                to="/ibps"
+                className="inline-flex h-9 items-center rounded-lg bg-brand px-3.5 text-sm font-medium text-brand-ink hover:opacity-90"
+              >
+                Open the IBPS PO section
+              </Link>
+              <Link
+                to="/guides/ibps/overview"
+                className="inline-flex h-9 items-center rounded-lg border border-line bg-elevated px-3.5 text-sm font-medium text-ink hover:bg-line/60"
+              >
+                Start with the exam pattern
+              </Link>
+            </div>
+          </div>
+
+          <div className="rounded-2xl border border-line bg-surface p-5">
+            <h3 className="text-sm font-semibold text-ink">Kept up to date</h3>
+            <p className="mt-2 text-xs leading-relaxed text-muted">
+              IBPS revises the exam pattern. A scheduled job checks the official sources
+              every day, so a change is picked up within 24 hours — and the site tells you
+              to verify before you plan.
+            </p>
+            <div className="mt-3 flex items-center gap-2 text-xs text-faint">
+              <span className="h-1.5 w-1.5 rounded-full bg-ok" />
+              Auto-checked daily
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* -------------------------------------------------------------- Topics */}
       <section>
         <SectionHeading
           eyebrow="24 topics"
           title="Pick a topic and see every problem in it"
-          body="Each topic page lists all of its problems, its difficulty mix, the patterns it covers, and the companies that ask it."
+          body="Each topic page lists all of its problems, its difficulty mix, the patterns it covers, the companies that ask it, and a per-difficulty filter. Company pages work the same way — 63 companies, from the product giants down to TCS, Wipro, Infosys, HCLTech, Cognizant, Tech Mahindra, Capgemini and Accenture."
         />
         <div className="mt-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
           {topics.map((topic) => {

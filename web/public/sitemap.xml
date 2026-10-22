@@ -1,2312 +1,2352 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/</loc>
+    <loc>http://localhost:5173/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems</loc>
+    <loc>http://localhost:5173/problems</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/dashboard</loc>
+    <loc>http://localhost:5173/dashboard</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/review</loc>
+    <loc>http://localhost:5173/review</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides</loc>
+    <loc>http://localhost:5173/guides</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/topics/arrays</loc>
+    <loc>http://localhost:5173/topics/arrays</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/topics/strings</loc>
+    <loc>http://localhost:5173/topics/strings</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/topics/linkedlist</loc>
+    <loc>http://localhost:5173/topics/linkedlist</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/topics/stacks</loc>
+    <loc>http://localhost:5173/topics/stacks</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/topics/queues</loc>
+    <loc>http://localhost:5173/topics/queues</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/topics/heaps</loc>
+    <loc>http://localhost:5173/topics/heaps</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/topics/binarysearch</loc>
+    <loc>http://localhost:5173/topics/binarysearch</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/topics/sorting</loc>
+    <loc>http://localhost:5173/topics/sorting</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/topics/hashing</loc>
+    <loc>http://localhost:5173/topics/hashing</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/topics/twopointers</loc>
+    <loc>http://localhost:5173/topics/twopointers</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/topics/slidingwindow</loc>
+    <loc>http://localhost:5173/topics/slidingwindow</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/topics/prefixsum</loc>
+    <loc>http://localhost:5173/topics/prefixsum</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/topics/trees</loc>
+    <loc>http://localhost:5173/topics/trees</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/topics/trie</loc>
+    <loc>http://localhost:5173/topics/trie</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/topics/graphs</loc>
+    <loc>http://localhost:5173/topics/graphs</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/topics/advancedgraphs</loc>
+    <loc>http://localhost:5173/topics/advancedgraphs</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/topics/dynamicprogramming</loc>
+    <loc>http://localhost:5173/topics/dynamicprogramming</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/topics/backtracking</loc>
+    <loc>http://localhost:5173/topics/backtracking</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/topics/greedy</loc>
+    <loc>http://localhost:5173/topics/greedy</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/topics/intervals</loc>
+    <loc>http://localhost:5173/topics/intervals</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/topics/bitmanipulation</loc>
+    <loc>http://localhost:5173/topics/bitmanipulation</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/topics/math</loc>
+    <loc>http://localhost:5173/topics/math</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/topics/design</loc>
+    <loc>http://localhost:5173/topics/design</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/topics/concurrency</loc>
+    <loc>http://localhost:5173/topics/concurrency</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Accenture</loc>
+    <loc>http://localhost:5173/companies/Accenture</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Adobe</loc>
+    <loc>http://localhost:5173/companies/Adobe</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Airbnb</loc>
+    <loc>http://localhost:5173/companies/Airbnb</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Amazon</loc>
+    <loc>http://localhost:5173/companies/Amazon</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Apple</loc>
+    <loc>http://localhost:5173/companies/Apple</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Atlassian</loc>
+    <loc>http://localhost:5173/companies/Atlassian</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Barclays</loc>
+    <loc>http://localhost:5173/companies/Barclays</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Bloomberg</loc>
+    <loc>http://localhost:5173/companies/Bloomberg</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Bosch</loc>
+    <loc>http://localhost:5173/companies/Bosch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/ByteDance</loc>
+    <loc>http://localhost:5173/companies/ByteDance</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Canva</loc>
+    <loc>http://localhost:5173/companies/Canva</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Capgemini</loc>
+    <loc>http://localhost:5173/companies/Capgemini</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Cisco</loc>
+    <loc>http://localhost:5173/companies/Cisco</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Cloudflare</loc>
+    <loc>http://localhost:5173/companies/Cloudflare</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Cognizant</loc>
+    <loc>http://localhost:5173/companies/Cognizant</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Datadog</loc>
+    <loc>http://localhost:5173/companies/Datadog</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Dell</loc>
+    <loc>http://localhost:5173/companies/Dell</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Deloitte</loc>
+    <loc>http://localhost:5173/companies/Deloitte</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/eBay</loc>
+    <loc>http://localhost:5173/companies/eBay</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Ernst%20%26%20Young</loc>
+    <loc>http://localhost:5173/companies/EY</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/EY</loc>
+    <loc>http://localhost:5173/companies/Facebook</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Facebook</loc>
+    <loc>http://localhost:5173/companies/Figma</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Figma</loc>
+    <loc>http://localhost:5173/companies/Flipkart</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Flipkart</loc>
+    <loc>http://localhost:5173/companies/Freshworks</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Freshworks</loc>
+    <loc>http://localhost:5173/companies/Goldman%20Sachs</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Goldman%20Sachs</loc>
+    <loc>http://localhost:5173/companies/Google</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Google</loc>
+    <loc>http://localhost:5173/companies/HCLTech</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/HCLTech</loc>
+    <loc>http://localhost:5173/companies/HSBC</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/HSBC</loc>
+    <loc>http://localhost:5173/companies/IBM</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/IBM</loc>
+    <loc>http://localhost:5173/companies/Infosys</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Infosys</loc>
+    <loc>http://localhost:5173/companies/Intel</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Intel</loc>
+    <loc>http://localhost:5173/companies/JP%20Morgan</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/JP%20Morgan</loc>
+    <loc>http://localhost:5173/companies/KPMG</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/KPMG</loc>
+    <loc>http://localhost:5173/companies/LinkedIn</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/LinkedIn</loc>
+    <loc>http://localhost:5173/companies/Lyft</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Lyft</loc>
+    <loc>http://localhost:5173/companies/Meta</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Meta</loc>
+    <loc>http://localhost:5173/companies/Microsoft</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Microsoft</loc>
+    <loc>http://localhost:5173/companies/Netflix</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Netflix</loc>
+    <loc>http://localhost:5173/companies/Oracle</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Oracle</loc>
+    <loc>http://localhost:5173/companies/Paytm</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Paytm</loc>
+    <loc>http://localhost:5173/companies/Philips</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Philips</loc>
+    <loc>http://localhost:5173/companies/Pinterest</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Pinterest</loc>
+    <loc>http://localhost:5173/companies/Qualcomm</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Qualcomm</loc>
+    <loc>http://localhost:5173/companies/Razorpay</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Razorpay</loc>
+    <loc>http://localhost:5173/companies/Salesforce</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Salesforce</loc>
+    <loc>http://localhost:5173/companies/Samsung</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Samsung</loc>
+    <loc>http://localhost:5173/companies/Siemens</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Siemens</loc>
+    <loc>http://localhost:5173/companies/Sony</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Sony</loc>
+    <loc>http://localhost:5173/companies/Spotify</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Spotify</loc>
+    <loc>http://localhost:5173/companies/Standard%20Chartered</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Standard%20Chartered</loc>
+    <loc>http://localhost:5173/companies/Stripe</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Stripe</loc>
+    <loc>http://localhost:5173/companies/Swiggy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Swiggy</loc>
+    <loc>http://localhost:5173/companies/TCS</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/TCS</loc>
+    <loc>http://localhost:5173/companies/Tech%20Mahindra</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Tech%20Mahindra</loc>
+    <loc>http://localhost:5173/companies/Twitter</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Twitter</loc>
+    <loc>http://localhost:5173/companies/Uber</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Uber</loc>
+    <loc>http://localhost:5173/companies/Visa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Visa</loc>
+    <loc>http://localhost:5173/companies/Walmart</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Walmart</loc>
+    <loc>http://localhost:5173/companies/Wipro</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Wipro</loc>
+    <loc>http://localhost:5173/companies/Zebra</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Zebra</loc>
+    <loc>http://localhost:5173/companies/Zillow</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Zillow</loc>
+    <loc>http://localhost:5173/companies/Zomato</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/companies/Zomato</loc>
+    <loc>http://localhost:5173/guides/guide/how-to-use-this-repo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/guide/how-to-use-this-repo</loc>
+    <loc>http://localhost:5173/guides/guide/8-week-study-plan</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/guide/8-week-study-plan</loc>
+    <loc>http://localhost:5173/guides/guide/company-problem-map</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/guide/company-problem-map</loc>
+    <loc>http://localhost:5173/guides/guide/pattern-index</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/guide/pattern-index</loc>
+    <loc>http://localhost:5173/guides/guide/coverage-matrix</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/guide/coverage-matrix</loc>
+    <loc>http://localhost:5173/guides/guide/java-cheatsheet</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/guide/java-cheatsheet</loc>
+    <loc>http://localhost:5173/guides/guide/interview-playbook</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/guide/interview-playbook</loc>
+    <loc>http://localhost:5173/guides/guide/problem-index</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/guide/problem-index</loc>
+    <loc>http://localhost:5173/guides/ibps/overview</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/lld/lru-cache</loc>
+    <loc>http://localhost:5173/guides/ibps/english</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/lld/parking-lot</loc>
+    <loc>http://localhost:5173/guides/ibps/quant</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/lld/elevator</loc>
+    <loc>http://localhost:5173/guides/ibps/reasoning</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/lld/chess</loc>
+    <loc>http://localhost:5173/guides/ibps/computer-apptitude</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/lld/rate-limiter</loc>
+    <loc>http://localhost:5173/guides/ibps/banking-economy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/lld/tic-tac-toe</loc>
+    <loc>http://localhost:5173/guides/ibps/formula-sheet</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/system-design/fundamentals</loc>
+    <loc>http://localhost:5173/guides/ibps/previous-year-analysis</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/system-design/caching</loc>
+    <loc>http://localhost:5173/guides/ibps/study-plan</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/system-design/load-balancing</loc>
+    <loc>http://localhost:5173/guides/lld/lru-cache</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/system-design/database-sharding</loc>
+    <loc>http://localhost:5173/guides/lld/parking-lot</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/system-design/message-queues</loc>
+    <loc>http://localhost:5173/guides/lld/elevator</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/system-design/rate-limiting</loc>
+    <loc>http://localhost:5173/guides/lld/chess</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/system-design/url-shortener</loc>
+    <loc>http://localhost:5173/guides/lld/rate-limiter</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/system-design/news-feed</loc>
+    <loc>http://localhost:5173/guides/lld/tic-tac-toe</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/system-design/rideshare</loc>
+    <loc>http://localhost:5173/guides/system-design/fundamentals</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/system-design/video-platform</loc>
+    <loc>http://localhost:5173/guides/system-design/caching</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/topic/arrays</loc>
+    <loc>http://localhost:5173/guides/system-design/load-balancing</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/topic/strings</loc>
+    <loc>http://localhost:5173/guides/system-design/database-sharding</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/topic/linkedlist</loc>
+    <loc>http://localhost:5173/guides/system-design/message-queues</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/topic/stacks</loc>
+    <loc>http://localhost:5173/guides/system-design/rate-limiting</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/topic/queues</loc>
+    <loc>http://localhost:5173/guides/system-design/url-shortener</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/topic/heaps</loc>
+    <loc>http://localhost:5173/guides/system-design/news-feed</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/topic/binarysearch</loc>
+    <loc>http://localhost:5173/guides/system-design/rideshare</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/topic/sorting</loc>
+    <loc>http://localhost:5173/guides/system-design/video-platform</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/topic/hashing</loc>
+    <loc>http://localhost:5173/guides/topic/arrays</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/topic/twopointers</loc>
+    <loc>http://localhost:5173/guides/topic/strings</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/topic/slidingwindow</loc>
+    <loc>http://localhost:5173/guides/topic/linkedlist</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/topic/prefixsum</loc>
+    <loc>http://localhost:5173/guides/topic/stacks</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/topic/trees</loc>
+    <loc>http://localhost:5173/guides/topic/queues</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/topic/trie</loc>
+    <loc>http://localhost:5173/guides/topic/heaps</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/topic/graphs</loc>
+    <loc>http://localhost:5173/guides/topic/binarysearch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/topic/advancedgraphs</loc>
+    <loc>http://localhost:5173/guides/topic/sorting</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/topic/dynamicprogramming</loc>
+    <loc>http://localhost:5173/guides/topic/hashing</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/topic/backtracking</loc>
+    <loc>http://localhost:5173/guides/topic/twopointers</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/topic/greedy</loc>
+    <loc>http://localhost:5173/guides/topic/slidingwindow</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/topic/intervals</loc>
+    <loc>http://localhost:5173/guides/topic/prefixsum</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/topic/bitmanipulation</loc>
+    <loc>http://localhost:5173/guides/topic/trees</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/topic/math</loc>
+    <loc>http://localhost:5173/guides/topic/trie</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/topic/design</loc>
+    <loc>http://localhost:5173/guides/topic/graphs</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/guides/topic/concurrency</loc>
+    <loc>http://localhost:5173/guides/topic/advancedgraphs</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/advancedgraphs-articulation-points-in-a-graph</loc>
+    <loc>http://localhost:5173/guides/topic/dynamicprogramming</loc>
     <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5173/guides/topic/backtracking</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5173/guides/topic/greedy</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5173/guides/topic/intervals</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5173/guides/topic/bitmanipulation</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5173/guides/topic/math</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5173/guides/topic/design</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5173/guides/topic/concurrency</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5173/problems/advancedgraphs-articulation-points-in-a-graph</loc>
+    <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/advancedgraphs-bellman-ford-shortest-path</loc>
+    <loc>http://localhost:5173/problems/advancedgraphs-bellman-ford-shortest-path</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/advancedgraphs-bridges-in-a-graph</loc>
+    <loc>http://localhost:5173/problems/advancedgraphs-bridges-in-a-graph</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/advancedgraphs-dijkstra-s-shortest-path</loc>
+    <loc>http://localhost:5173/problems/advancedgraphs-dijkstra-s-shortest-path</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/advancedgraphs-eulerian-path</loc>
+    <loc>http://localhost:5173/problems/advancedgraphs-eulerian-path</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/advancedgraphs-floyd-warshall-all-pairs-shortest-path</loc>
+    <loc>http://localhost:5173/problems/advancedgraphs-floyd-warshall-all-pairs-shortest-path</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/advancedgraphs-graph-coloring</loc>
+    <loc>http://localhost:5173/problems/advancedgraphs-graph-coloring</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/advancedgraphs-kosaraju-s-strongly-connected-components</loc>
+    <loc>http://localhost:5173/problems/advancedgraphs-kosaraju-s-strongly-connected-components</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/advancedgraphs-kruskal-s-minimum-spanning-tree</loc>
+    <loc>http://localhost:5173/problems/advancedgraphs-kruskal-s-minimum-spanning-tree</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/advancedgraphs-minimum-spanning-tree</loc>
+    <loc>http://localhost:5173/problems/advancedgraphs-minimum-spanning-tree</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/advancedgraphs-prim-s-minimum-spanning-tree</loc>
+    <loc>http://localhost:5173/problems/advancedgraphs-prim-s-minimum-spanning-tree</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/advancedgraphs-tarjan-s-strongly-connected-components</loc>
+    <loc>http://localhost:5173/problems/advancedgraphs-tarjan-s-strongly-connected-components</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/arrays-best-time-to-buy-and-sell-stock</loc>
+    <loc>http://localhost:5173/problems/arrays-best-time-to-buy-and-sell-stock</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/arrays-best-time-to-buy-and-sell-stock-ii</loc>
+    <loc>http://localhost:5173/problems/arrays-best-time-to-buy-and-sell-stock-ii</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/arrays-contains-duplicate-ii</loc>
+    <loc>http://localhost:5173/problems/arrays-contains-duplicate-ii</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/arrays-find-minimum-and-maximum-element</loc>
+    <loc>http://localhost:5173/problems/arrays-find-minimum-and-maximum-element</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/arrays-majority-element</loc>
+    <loc>http://localhost:5173/problems/arrays-majority-element</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/arrays-majority-element-ii</loc>
+    <loc>http://localhost:5173/problems/arrays-majority-element-ii</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/arrays-maximum-circular-subarray</loc>
+    <loc>http://localhost:5173/problems/arrays-maximum-circular-subarray</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/arrays-maximum-gap</loc>
+    <loc>http://localhost:5173/problems/arrays-maximum-gap</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/arrays-maximum-subarray</loc>
+    <loc>http://localhost:5173/problems/arrays-maximum-subarray</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/arrays-maximum-width-ramp</loc>
+    <loc>http://localhost:5173/problems/arrays-maximum-width-ramp</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/arrays-minimum-absolute-difference</loc>
+    <loc>http://localhost:5173/problems/arrays-minimum-absolute-difference</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/arrays-missing-number</loc>
+    <loc>http://localhost:5173/problems/arrays-missing-number</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/arrays-plus-one</loc>
+    <loc>http://localhost:5173/problems/arrays-plus-one</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/arrays-remove-element</loc>
+    <loc>http://localhost:5173/problems/arrays-remove-element</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/arrays-rotate-array</loc>
+    <loc>http://localhost:5173/problems/arrays-rotate-array</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/arrays-rotate-image</loc>
+    <loc>http://localhost:5173/problems/arrays-rotate-image</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/arrays-set-matrix-zeroes</loc>
+    <loc>http://localhost:5173/problems/arrays-set-matrix-zeroes</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/arrays-shuffle-array</loc>
+    <loc>http://localhost:5173/problems/arrays-shuffle-array</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/arrays-spiral-matrix</loc>
+    <loc>http://localhost:5173/problems/arrays-spiral-matrix</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/arrays-two-sum</loc>
+    <loc>http://localhost:5173/problems/arrays-two-sum</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/backtracking-combination-sum</loc>
+    <loc>http://localhost:5173/problems/backtracking-combination-sum</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/backtracking-combination-sum-ii</loc>
+    <loc>http://localhost:5173/problems/backtracking-combination-sum-ii</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/backtracking-flood-fill</loc>
+    <loc>http://localhost:5173/problems/backtracking-flood-fill</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/backtracking-generate-parentheses</loc>
+    <loc>http://localhost:5173/problems/backtracking-generate-parentheses</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/backtracking-letter-combinations-of-a-phone-number</loc>
+    <loc>http://localhost:5173/problems/backtracking-letter-combinations-of-a-phone-number</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/backtracking-n-queens</loc>
+    <loc>http://localhost:5173/problems/backtracking-n-queens</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/backtracking-n-queens-ii</loc>
+    <loc>http://localhost:5173/problems/backtracking-n-queens-ii</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/backtracking-palindrome-partitioning</loc>
+    <loc>http://localhost:5173/problems/backtracking-palindrome-partitioning</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/backtracking-permutations</loc>
+    <loc>http://localhost:5173/problems/backtracking-permutations</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/backtracking-permutations-ii</loc>
+    <loc>http://localhost:5173/problems/backtracking-permutations-ii</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/backtracking-subsets</loc>
+    <loc>http://localhost:5173/problems/backtracking-subsets</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/backtracking-sudoku-solver</loc>
+    <loc>http://localhost:5173/problems/backtracking-sudoku-solver</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/backtracking-word-search</loc>
+    <loc>http://localhost:5173/problems/backtracking-word-search</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/binarysearch-aggressive-cows</loc>
+    <loc>http://localhost:5173/problems/binarysearch-aggressive-cows</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/binarysearch-allocate-minimum-number-of-painters</loc>
+    <loc>http://localhost:5173/problems/binarysearch-allocate-minimum-number-of-painters</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/binarysearch-binary-search</loc>
+    <loc>http://localhost:5173/problems/binarysearch-binary-search</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/binarysearch-capacity-to-ship-packages-within-d-days</loc>
+    <loc>http://localhost:5173/problems/binarysearch-capacity-to-ship-packages-within-d-days</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/binarysearch-find-first-and-last-position-of-element-in-sorted-array</loc>
+    <loc>http://localhost:5173/problems/binarysearch-find-first-and-last-position-of-element-in-sorted-array</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/binarysearch-find-minimum-in-rotated-sorted-array</loc>
+    <loc>http://localhost:5173/problems/binarysearch-find-minimum-in-rotated-sorted-array</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/binarysearch-find-peak-element</loc>
+    <loc>http://localhost:5173/problems/binarysearch-find-peak-element</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/binarysearch-first-bad-version</loc>
+    <loc>http://localhost:5173/problems/binarysearch-first-bad-version</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/binarysearch-koko-eating-bananas</loc>
+    <loc>http://localhost:5173/problems/binarysearch-koko-eating-bananas</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/binarysearch-minimum-height-trees</loc>
+    <loc>http://localhost:5173/problems/binarysearch-minimum-height-trees</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/binarysearch-search-a-2d-matrix</loc>
+    <loc>http://localhost:5173/problems/binarysearch-search-a-2d-matrix</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/binarysearch-search-a-2d-matrix-ii</loc>
+    <loc>http://localhost:5173/problems/binarysearch-search-a-2d-matrix-ii</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/binarysearch-search-in-rotated-sorted-array</loc>
+    <loc>http://localhost:5173/problems/binarysearch-search-in-rotated-sorted-array</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/binarysearch-search-in-rotated-sorted-array-ii</loc>
+    <loc>http://localhost:5173/problems/binarysearch-search-in-rotated-sorted-array-ii</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/binarysearch-search-insert-position</loc>
+    <loc>http://localhost:5173/problems/binarysearch-search-insert-position</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/binarysearch-split-array-largest-sum</loc>
+    <loc>http://localhost:5173/problems/binarysearch-split-array-largest-sum</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/binarysearch-sqrt-x</loc>
+    <loc>http://localhost:5173/problems/binarysearch-sqrt-x</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/bitmanipulation-counting-bits</loc>
+    <loc>http://localhost:5173/problems/bitmanipulation-counting-bits</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/bitmanipulation-divide-two-integers</loc>
+    <loc>http://localhost:5173/problems/bitmanipulation-divide-two-integers</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/bitmanipulation-gray-code</loc>
+    <loc>http://localhost:5173/problems/bitmanipulation-gray-code</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/bitmanipulation-hamming-distance</loc>
+    <loc>http://localhost:5173/problems/bitmanipulation-hamming-distance</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/bitmanipulation-number-of-1-bits</loc>
+    <loc>http://localhost:5173/problems/bitmanipulation-number-of-1-bits</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/bitmanipulation-power-of-two</loc>
+    <loc>http://localhost:5173/problems/bitmanipulation-power-of-two</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/bitmanipulation-reverse-bits</loc>
+    <loc>http://localhost:5173/problems/bitmanipulation-reverse-bits</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/bitmanipulation-single-number</loc>
+    <loc>http://localhost:5173/problems/bitmanipulation-single-number</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/bitmanipulation-single-number-iii</loc>
+    <loc>http://localhost:5173/problems/bitmanipulation-single-number-iii</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/bitmanipulation-subtract-two-integers-without-minus</loc>
+    <loc>http://localhost:5173/problems/bitmanipulation-subtract-two-integers-without-minus</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/bitmanipulation-sum-of-two-integers</loc>
+    <loc>http://localhost:5173/problems/bitmanipulation-sum-of-two-integers</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/bitmanipulation-xor-of-all-elements</loc>
+    <loc>http://localhost:5173/problems/bitmanipulation-xor-of-all-elements</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/concurrency-bounded-blocking-queue</loc>
+    <loc>http://localhost:5173/problems/concurrency-bounded-blocking-queue</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/concurrency-concurrent-sum-using-threads</loc>
+    <loc>http://localhost:5173/problems/concurrency-concurrent-sum-using-threads</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/concurrency-parallel-pipeline-merge</loc>
+    <loc>http://localhost:5173/problems/concurrency-parallel-pipeline-merge</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/concurrency-producer-consumer-problem</loc>
+    <loc>http://localhost:5173/problems/concurrency-producer-consumer-problem</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/concurrency-singleton-with-double-checked-locking</loc>
+    <loc>http://localhost:5173/problems/concurrency-singleton-with-double-checked-locking</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/concurrency-thread-safe-counter</loc>
+    <loc>http://localhost:5173/problems/concurrency-thread-safe-counter</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/design-design-browser-history</loc>
+    <loc>http://localhost:5173/problems/design-design-browser-history</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/design-design-hashmap</loc>
+    <loc>http://localhost:5173/problems/design-design-hashmap</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/design-design-hit-counter</loc>
+    <loc>http://localhost:5173/problems/design-design-hit-counter</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/design-design-text-editor</loc>
+    <loc>http://localhost:5173/problems/design-design-text-editor</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/design-design-tic-tac-toe</loc>
+    <loc>http://localhost:5173/problems/design-design-tic-tac-toe</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/design-design-underground-system</loc>
+    <loc>http://localhost:5173/problems/design-design-underground-system</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/design-lfu-cache</loc>
+    <loc>http://localhost:5173/problems/design-lfu-cache</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/design-lru-cache</loc>
+    <loc>http://localhost:5173/problems/design-lru-cache</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/design-min-max-stack</loc>
+    <loc>http://localhost:5173/problems/design-min-max-stack</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/design-moving-average</loc>
+    <loc>http://localhost:5173/problems/design-moving-average</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/design-rate-limiter</loc>
+    <loc>http://localhost:5173/problems/design-rate-limiter</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/design-semaphore</loc>
+    <loc>http://localhost:5173/problems/design-semaphore</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/design-snapshot-array</loc>
+    <loc>http://localhost:5173/problems/design-snapshot-array</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/dynamicprogramming-best-time-to-buy-and-sell-stock-iii</loc>
+    <loc>http://localhost:5173/problems/dynamicprogramming-best-time-to-buy-and-sell-stock-iii</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/dynamicprogramming-burst-balloons</loc>
+    <loc>http://localhost:5173/problems/dynamicprogramming-burst-balloons</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/dynamicprogramming-catalan-number</loc>
+    <loc>http://localhost:5173/problems/dynamicprogramming-catalan-number</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/dynamicprogramming-climbing-stairs</loc>
+    <loc>http://localhost:5173/problems/dynamicprogramming-climbing-stairs</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/dynamicprogramming-coin-change</loc>
+    <loc>http://localhost:5173/problems/dynamicprogramming-coin-change</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/dynamicprogramming-coin-change-ii</loc>
+    <loc>http://localhost:5173/problems/dynamicprogramming-coin-change-ii</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/dynamicprogramming-decode-ways</loc>
+    <loc>http://localhost:5173/problems/dynamicprogramming-decode-ways</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/dynamicprogramming-distinct-subsequences</loc>
+    <loc>http://localhost:5173/problems/dynamicprogramming-distinct-subsequences</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/dynamicprogramming-edit-distance</loc>
+    <loc>http://localhost:5173/problems/dynamicprogramming-edit-distance</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/dynamicprogramming-fibonacci-number</loc>
+    <loc>http://localhost:5173/problems/dynamicprogramming-fibonacci-number</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/dynamicprogramming-house-robber</loc>
+    <loc>http://localhost:5173/problems/dynamicprogramming-house-robber</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/dynamicprogramming-house-robber-ii</loc>
+    <loc>http://localhost:5173/problems/dynamicprogramming-house-robber-ii</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/dynamicprogramming-interleaving-string</loc>
+    <loc>http://localhost:5173/problems/dynamicprogramming-interleaving-string</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/dynamicprogramming-jump-game-ii</loc>
+    <loc>http://localhost:5173/problems/dynamicprogramming-jump-game-ii</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/dynamicprogramming-longest-common-subsequence</loc>
+    <loc>http://localhost:5173/problems/dynamicprogramming-longest-common-subsequence</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/dynamicprogramming-longest-common-substring</loc>
+    <loc>http://localhost:5173/problems/dynamicprogramming-longest-common-substring</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/dynamicprogramming-longest-increasing-subsequence</loc>
+    <loc>http://localhost:5173/problems/dynamicprogramming-longest-increasing-subsequence</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/dynamicprogramming-maximum-product-subarray</loc>
+    <loc>http://localhost:5173/problems/dynamicprogramming-maximum-product-subarray</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/dynamicprogramming-minimum-path-sum</loc>
+    <loc>http://localhost:5173/problems/dynamicprogramming-minimum-path-sum</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/dynamicprogramming-number-of-partitions</loc>
+    <loc>http://localhost:5173/problems/dynamicprogramming-number-of-partitions</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/dynamicprogramming-palindromic-substrings</loc>
+    <loc>http://localhost:5173/problems/dynamicprogramming-palindromic-substrings</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/dynamicprogramming-partition-equal-subset-sum</loc>
+    <loc>http://localhost:5173/problems/dynamicprogramming-partition-equal-subset-sum</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/dynamicprogramming-regular-expression-matching</loc>
+    <loc>http://localhost:5173/problems/dynamicprogramming-regular-expression-matching</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/dynamicprogramming-rod-cutting</loc>
+    <loc>http://localhost:5173/problems/dynamicprogramming-rod-cutting</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/dynamicprogramming-stone-game-ii</loc>
+    <loc>http://localhost:5173/problems/dynamicprogramming-stone-game-ii</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/dynamicprogramming-target-sum</loc>
+    <loc>http://localhost:5173/problems/dynamicprogramming-target-sum</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/dynamicprogramming-unique-paths</loc>
+    <loc>http://localhost:5173/problems/dynamicprogramming-unique-paths</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/dynamicprogramming-unique-paths-iii</loc>
+    <loc>http://localhost:5173/problems/dynamicprogramming-unique-paths-iii</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/dynamicprogramming-wildcard-matching</loc>
+    <loc>http://localhost:5173/problems/dynamicprogramming-wildcard-matching</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/dynamicprogramming-word-break</loc>
+    <loc>http://localhost:5173/problems/dynamicprogramming-word-break</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/graphs-01-matrix</loc>
+    <loc>http://localhost:5173/problems/graphs-01-matrix</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/graphs-alien-dictionary</loc>
+    <loc>http://localhost:5173/problems/graphs-alien-dictionary</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/graphs-cheapest-flights-within-k-stops</loc>
+    <loc>http://localhost:5173/problems/graphs-cheapest-flights-within-k-stops</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/graphs-clone-graph</loc>
+    <loc>http://localhost:5173/problems/graphs-clone-graph</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/graphs-course-schedule</loc>
+    <loc>http://localhost:5173/problems/graphs-course-schedule</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/graphs-course-schedule-ii</loc>
+    <loc>http://localhost:5173/problems/graphs-course-schedule-ii</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/graphs-graph-valid-tree</loc>
+    <loc>http://localhost:5173/problems/graphs-graph-valid-tree</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/graphs-is-graph-bipartite</loc>
+    <loc>http://localhost:5173/problems/graphs-is-graph-bipartite</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/graphs-keys-and-rooms</loc>
+    <loc>http://localhost:5173/problems/graphs-keys-and-rooms</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/graphs-network-delay-time</loc>
+    <loc>http://localhost:5173/problems/graphs-network-delay-time</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/graphs-number-of-connected-components-in-an-undirected-graph</loc>
+    <loc>http://localhost:5173/problems/graphs-number-of-connected-components-in-an-undirected-graph</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/graphs-number-of-islands</loc>
+    <loc>http://localhost:5173/problems/graphs-number-of-islands</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/graphs-number-of-provinces</loc>
+    <loc>http://localhost:5173/problems/graphs-number-of-provinces</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/graphs-pacman-paths</loc>
+    <loc>http://localhost:5173/problems/graphs-pacman-paths</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/graphs-reconstruct-itinerary</loc>
+    <loc>http://localhost:5173/problems/graphs-reconstruct-itinerary</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/graphs-rotting-oranges</loc>
+    <loc>http://localhost:5173/problems/graphs-rotting-oranges</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/graphs-shortest-path-in-a-binary-maze</loc>
+    <loc>http://localhost:5173/problems/graphs-shortest-path-in-a-binary-maze</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/graphs-topological-sort</loc>
+    <loc>http://localhost:5173/problems/graphs-topological-sort</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/graphs-walls-and-gates</loc>
+    <loc>http://localhost:5173/problems/graphs-walls-and-gates</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/graphs-word-ladder</loc>
+    <loc>http://localhost:5173/problems/graphs-word-ladder</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/greedy-assign-cookies</loc>
+    <loc>http://localhost:5173/problems/greedy-assign-cookies</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/greedy-candy</loc>
+    <loc>http://localhost:5173/problems/greedy-candy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/greedy-coin-change-with-greedy</loc>
+    <loc>http://localhost:5173/problems/greedy-coin-change-with-greedy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/greedy-gas-station</loc>
+    <loc>http://localhost:5173/problems/greedy-gas-station</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/greedy-hand-of-straights</loc>
+    <loc>http://localhost:5173/problems/greedy-hand-of-straights</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/greedy-jump-game</loc>
+    <loc>http://localhost:5173/problems/greedy-jump-game</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/greedy-jump-game-ii</loc>
+    <loc>http://localhost:5173/problems/greedy-jump-game-ii</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/greedy-jump-game-iii</loc>
+    <loc>http://localhost:5173/problems/greedy-jump-game-iii</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/greedy-largest-number</loc>
+    <loc>http://localhost:5173/problems/greedy-largest-number</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/greedy-maximum-profit-scheduling-jobs</loc>
+    <loc>http://localhost:5173/problems/greedy-maximum-profit-scheduling-jobs</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/greedy-maximum-units-on-a-truck</loc>
+    <loc>http://localhost:5173/problems/greedy-maximum-units-on-a-truck</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/greedy-minimum-number-of-refueling-stops</loc>
+    <loc>http://localhost:5173/problems/greedy-minimum-number-of-refueling-stops</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/greedy-partition-array-into-maximum-subarrays</loc>
+    <loc>http://localhost:5173/problems/greedy-partition-array-into-maximum-subarrays</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/hashing-contains-duplicate</loc>
+    <loc>http://localhost:5173/problems/hashing-contains-duplicate</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/hashing-find-all-duplicates-in-an-array</loc>
+    <loc>http://localhost:5173/problems/hashing-find-all-duplicates-in-an-array</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/hashing-first-unique-character-in-a-string</loc>
+    <loc>http://localhost:5173/problems/hashing-first-unique-character-in-a-string</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/hashing-group-anagrams</loc>
+    <loc>http://localhost:5173/problems/hashing-group-anagrams</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/hashing-intersection-of-two-arrays</loc>
+    <loc>http://localhost:5173/problems/hashing-intersection-of-two-arrays</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/hashing-isomorphic-strings</loc>
+    <loc>http://localhost:5173/problems/hashing-isomorphic-strings</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/hashing-longest-consecutive-sequence</loc>
+    <loc>http://localhost:5173/problems/hashing-longest-consecutive-sequence</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/hashing-sort-by-frequency-of-characters</loc>
+    <loc>http://localhost:5173/problems/hashing-sort-by-frequency-of-characters</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/hashing-word-pattern</loc>
+    <loc>http://localhost:5173/problems/hashing-word-pattern</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/heaps-employee-free-day</loc>
+    <loc>http://localhost:5173/problems/heaps-employee-free-day</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/heaps-find-kth-largest-and-kth-smallest</loc>
+    <loc>http://localhost:5173/problems/heaps-find-kth-largest-and-kth-smallest</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/heaps-find-median-from-data-stream</loc>
+    <loc>http://localhost:5173/problems/heaps-find-median-from-data-stream</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/heaps-k-closest-elements</loc>
+    <loc>http://localhost:5173/problems/heaps-k-closest-elements</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/heaps-kth-largest-element-in-an-array</loc>
+    <loc>http://localhost:5173/problems/heaps-kth-largest-element-in-an-array</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/heaps-kth-smallest-element-in-a-sorted-matrix</loc>
+    <loc>http://localhost:5173/problems/heaps-kth-smallest-element-in-a-sorted-matrix</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/heaps-last-stone-weight-ii</loc>
+    <loc>http://localhost:5173/problems/heaps-last-stone-weight-ii</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/heaps-median-of-two-sorted-arrays</loc>
+    <loc>http://localhost:5173/problems/heaps-median-of-two-sorted-arrays</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/heaps-merge-k-sorted-lists</loc>
+    <loc>http://localhost:5173/problems/heaps-merge-k-sorted-lists</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/heaps-reorganize-string</loc>
+    <loc>http://localhost:5173/problems/heaps-reorganize-string</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/heaps-task-scheduler</loc>
+    <loc>http://localhost:5173/problems/heaps-task-scheduler</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/heaps-top-k-frequent-elements</loc>
+    <loc>http://localhost:5173/problems/heaps-top-k-frequent-elements</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/intervals-car-fleet</loc>
+    <loc>http://localhost:5173/problems/intervals-car-fleet</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/intervals-employee-free-time</loc>
+    <loc>http://localhost:5173/problems/intervals-employee-free-time</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/intervals-insert-interval</loc>
+    <loc>http://localhost:5173/problems/intervals-insert-interval</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/intervals-interval-list-intersections</loc>
+    <loc>http://localhost:5173/problems/intervals-interval-list-intersections</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/intervals-meeting-rooms</loc>
+    <loc>http://localhost:5173/problems/intervals-meeting-rooms</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/intervals-meeting-rooms-ii</loc>
+    <loc>http://localhost:5173/problems/intervals-meeting-rooms-ii</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/intervals-meeting-rooms-iii</loc>
+    <loc>http://localhost:5173/problems/intervals-meeting-rooms-iii</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/intervals-merge-intervals</loc>
+    <loc>http://localhost:5173/problems/intervals-merge-intervals</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/intervals-non-overlapping-intervals</loc>
+    <loc>http://localhost:5173/problems/intervals-non-overlapping-intervals</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/linkedlist-add-two-numbers</loc>
+    <loc>http://localhost:5173/problems/linkedlist-add-two-numbers</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/linkedlist-add-two-numbers-ii</loc>
+    <loc>http://localhost:5173/problems/linkedlist-add-two-numbers-ii</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/linkedlist-copy-list-with-random-pointer</loc>
+    <loc>http://localhost:5173/problems/linkedlist-copy-list-with-random-pointer</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/linkedlist-flatten-a-multilevel-linked-list</loc>
+    <loc>http://localhost:5173/problems/linkedlist-flatten-a-multilevel-linked-list</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/linkedlist-intersection-of-two-linked-lists</loc>
+    <loc>http://localhost:5173/problems/linkedlist-intersection-of-two-linked-lists</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/linkedlist-josephus-problem</loc>
+    <loc>http://localhost:5173/problems/linkedlist-josephus-problem</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/linkedlist-linked-list-cycle</loc>
+    <loc>http://localhost:5173/problems/linkedlist-linked-list-cycle</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/linkedlist-linked-list-cycle-ii</loc>
+    <loc>http://localhost:5173/problems/linkedlist-linked-list-cycle-ii</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/linkedlist-merge-two-sorted-lists</loc>
+    <loc>http://localhost:5173/problems/linkedlist-merge-two-sorted-lists</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/linkedlist-middle-of-the-linked-list</loc>
+    <loc>http://localhost:5173/problems/linkedlist-middle-of-the-linked-list</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/linkedlist-odd-even-linked-list</loc>
+    <loc>http://localhost:5173/problems/linkedlist-odd-even-linked-list</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/linkedlist-palindrome-linked-list</loc>
+    <loc>http://localhost:5173/problems/linkedlist-palindrome-linked-list</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/linkedlist-remove-duplicates-from-sorted-list-ii</loc>
+    <loc>http://localhost:5173/problems/linkedlist-remove-duplicates-from-sorted-list-ii</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/linkedlist-remove-nth-node-from-end-of-list</loc>
+    <loc>http://localhost:5173/problems/linkedlist-remove-nth-node-from-end-of-list</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/linkedlist-reorder-list</loc>
+    <loc>http://localhost:5173/problems/linkedlist-reorder-list</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/linkedlist-reverse-linked-list</loc>
+    <loc>http://localhost:5173/problems/linkedlist-reverse-linked-list</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/linkedlist-reverse-linked-list-ii</loc>
+    <loc>http://localhost:5173/problems/linkedlist-reverse-linked-list-ii</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/linkedlist-reverse-nodes-in-k-group</loc>
+    <loc>http://localhost:5173/problems/linkedlist-reverse-nodes-in-k-group</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/linkedlist-rotate-list</loc>
+    <loc>http://localhost:5173/problems/linkedlist-rotate-list</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/linkedlist-swap-nodes-in-pairs</loc>
+    <loc>http://localhost:5173/problems/linkedlist-swap-nodes-in-pairs</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/math-add-binary</loc>
+    <loc>http://localhost:5173/problems/math-add-binary</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/math-count-primes</loc>
+    <loc>http://localhost:5173/problems/math-count-primes</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/math-factorial-trailing-zeroes</loc>
+    <loc>http://localhost:5173/problems/math-factorial-trailing-zeroes</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/math-gcd-and-lcm</loc>
+    <loc>http://localhost:5173/problems/math-gcd-and-lcm</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/math-happy-number</loc>
+    <loc>http://localhost:5173/problems/math-happy-number</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/math-is-a-number-prime</loc>
+    <loc>http://localhost:5173/problems/math-is-a-number-prime</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/math-largest-prime-factor</loc>
+    <loc>http://localhost:5173/problems/math-largest-prime-factor</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/math-palindrome-number</loc>
+    <loc>http://localhost:5173/problems/math-palindrome-number</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/math-perfect-number</loc>
+    <loc>http://localhost:5173/problems/math-perfect-number</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/math-pow-x-n</loc>
+    <loc>http://localhost:5173/problems/math-pow-x-n</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/math-reverse-integer</loc>
+    <loc>http://localhost:5173/problems/math-reverse-integer</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/math-ugly-number</loc>
+    <loc>http://localhost:5173/problems/math-ugly-number</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/prefixsum-2d-prefix-sum</loc>
+    <loc>http://localhost:5173/problems/prefixsum-2d-prefix-sum</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/prefixsum-contiguous-array</loc>
+    <loc>http://localhost:5173/problems/prefixsum-contiguous-array</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/prefixsum-pairs-with-a-target-sum</loc>
+    <loc>http://localhost:5173/problems/prefixsum-pairs-with-a-target-sum</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/prefixsum-pivot-index</loc>
+    <loc>http://localhost:5173/problems/prefixsum-pivot-index</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/prefixsum-product-of-array-except-self</loc>
+    <loc>http://localhost:5173/problems/prefixsum-product-of-array-except-self</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/prefixsum-range-sum-query-immutable</loc>
+    <loc>http://localhost:5173/problems/prefixsum-range-sum-query-immutable</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/prefixsum-running-sum-of-1d-array</loc>
+    <loc>http://localhost:5173/problems/prefixsum-running-sum-of-1d-array</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/prefixsum-subarray-sum-equals-k</loc>
+    <loc>http://localhost:5173/problems/prefixsum-subarray-sum-equals-k</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/queues-design-a-min-queue</loc>
+    <loc>http://localhost:5173/problems/queues-design-a-min-queue</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/queues-design-circular-queue</loc>
+    <loc>http://localhost:5173/problems/queues-design-circular-queue</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/queues-implement-deque-using-two-stacks</loc>
+    <loc>http://localhost:5173/problems/queues-implement-deque-using-two-stacks</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/queues-implement-queue-using-stacks</loc>
+    <loc>http://localhost:5173/problems/queues-implement-queue-using-stacks</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/queues-implement-stack-using-queues</loc>
+    <loc>http://localhost:5173/problems/queues-implement-stack-using-queues</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/queues-sliding-window-maximum</loc>
+    <loc>http://localhost:5173/problems/queues-sliding-window-maximum</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/slidingwindow-find-all-anagrams-in-a-string</loc>
+    <loc>http://localhost:5173/problems/slidingwindow-find-all-anagrams-in-a-string</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/slidingwindow-fruit-into-baskets</loc>
+    <loc>http://localhost:5173/problems/slidingwindow-fruit-into-baskets</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/slidingwindow-longest-repeating-character-replacement</loc>
+    <loc>http://localhost:5173/problems/slidingwindow-longest-repeating-character-replacement</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/slidingwindow-longest-repeating-substring</loc>
+    <loc>http://localhost:5173/problems/slidingwindow-longest-repeating-substring</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/slidingwindow-longest-subarray-with-at-most-k-distinct</loc>
+    <loc>http://localhost:5173/problems/slidingwindow-longest-subarray-with-at-most-k-distinct</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/slidingwindow-longest-substring-without-repeating-characters</loc>
+    <loc>http://localhost:5173/problems/slidingwindow-longest-substring-without-repeating-characters</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/slidingwindow-minimum-number-of-flips-to-make-the-binary-string-alternating</loc>
+    <loc>http://localhost:5173/problems/slidingwindow-minimum-number-of-flips-to-make-the-binary-string-alternating</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/slidingwindow-minimum-window-substring</loc>
+    <loc>http://localhost:5173/problems/slidingwindow-minimum-window-substring</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/slidingwindow-permutation-in-string</loc>
+    <loc>http://localhost:5173/problems/slidingwindow-permutation-in-string</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/sorting-bubble-sort</loc>
+    <loc>http://localhost:5173/problems/sorting-bubble-sort</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/sorting-counting-sort</loc>
+    <loc>http://localhost:5173/problems/sorting-counting-sort</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/sorting-dutch-national-flag</loc>
+    <loc>http://localhost:5173/problems/sorting-dutch-national-flag</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/sorting-heap-sort</loc>
+    <loc>http://localhost:5173/problems/sorting-heap-sort</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/sorting-insertion-sort</loc>
+    <loc>http://localhost:5173/problems/sorting-insertion-sort</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/sorting-merge-sort</loc>
+    <loc>http://localhost:5173/problems/sorting-merge-sort</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/sorting-quick-sort</loc>
+    <loc>http://localhost:5173/problems/sorting-quick-sort</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/sorting-selection-sort</loc>
+    <loc>http://localhost:5173/problems/sorting-selection-sort</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/sorting-sort-a-hand-of-cards</loc>
+    <loc>http://localhost:5173/problems/sorting-sort-a-hand-of-cards</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/sorting-sort-array-by-parity</loc>
+    <loc>http://localhost:5173/problems/sorting-sort-array-by-parity</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/stacks-basic-calculator</loc>
+    <loc>http://localhost:5173/problems/stacks-basic-calculator</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/stacks-basic-calculator-ii</loc>
+    <loc>http://localhost:5173/problems/stacks-basic-calculator-ii</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/stacks-daily-temperatures</loc>
+    <loc>http://localhost:5173/problems/stacks-daily-temperatures</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/stacks-decode-string</loc>
+    <loc>http://localhost:5173/problems/stacks-decode-string</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/stacks-evaluate-reverse-polish-notation</loc>
+    <loc>http://localhost:5173/problems/stacks-evaluate-reverse-polish-notation</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/stacks-largest-rectangle-in-histogram</loc>
+    <loc>http://localhost:5173/problems/stacks-largest-rectangle-in-histogram</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/stacks-max-of-min-for-every-window</loc>
+    <loc>http://localhost:5173/problems/stacks-max-of-min-for-every-window</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/stacks-min-stack</loc>
+    <loc>http://localhost:5173/problems/stacks-min-stack</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/stacks-next-greater-element</loc>
+    <loc>http://localhost:5173/problems/stacks-next-greater-element</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/stacks-next-greater-element-ii</loc>
+    <loc>http://localhost:5173/problems/stacks-next-greater-element-ii</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/stacks-stock-span</loc>
+    <loc>http://localhost:5173/problems/stacks-stock-span</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/stacks-trapping-rain-water</loc>
+    <loc>http://localhost:5173/problems/stacks-trapping-rain-water</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/stacks-valid-parentheses</loc>
+    <loc>http://localhost:5173/problems/stacks-valid-parentheses</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/strings-compare-version-numbers</loc>
+    <loc>http://localhost:5173/problems/strings-compare-version-numbers</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/strings-count-and-say</loc>
+    <loc>http://localhost:5173/problems/strings-count-and-say</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/strings-excel-sheet-column-number</loc>
+    <loc>http://localhost:5173/problems/strings-excel-sheet-column-number</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/strings-excel-sheet-column-title</loc>
+    <loc>http://localhost:5173/problems/strings-excel-sheet-column-title</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/strings-integer-to-roman</loc>
+    <loc>http://localhost:5173/problems/strings-integer-to-roman</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/strings-longest-common-prefix</loc>
+    <loc>http://localhost:5173/problems/strings-longest-common-prefix</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/strings-longest-palindromic-subsequence</loc>
+    <loc>http://localhost:5173/problems/strings-longest-palindromic-subsequence</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/strings-longest-palindromic-substring</loc>
+    <loc>http://localhost:5173/problems/strings-longest-palindromic-substring</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/strings-reverse-string</loc>
+    <loc>http://localhost:5173/problems/strings-reverse-string</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/strings-reverse-words-in-a-string</loc>
+    <loc>http://localhost:5173/problems/strings-reverse-words-in-a-string</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/strings-roman-to-integer</loc>
+    <loc>http://localhost:5173/problems/strings-roman-to-integer</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/strings-string-compression</loc>
+    <loc>http://localhost:5173/problems/strings-string-compression</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/strings-string-to-integer-atoi</loc>
+    <loc>http://localhost:5173/problems/strings-string-to-integer-atoi</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/strings-valid-anagram</loc>
+    <loc>http://localhost:5173/problems/strings-valid-anagram</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/strings-valid-number</loc>
+    <loc>http://localhost:5173/problems/strings-valid-number</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/strings-valid-palindrome-ii</loc>
+    <loc>http://localhost:5173/problems/strings-valid-palindrome-ii</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/trees-balanced-binary-tree</loc>
+    <loc>http://localhost:5173/problems/trees-balanced-binary-tree</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/trees-binary-tree-cameras</loc>
+    <loc>http://localhost:5173/problems/trees-binary-tree-cameras</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/trees-binary-tree-inorder-traversal</loc>
+    <loc>http://localhost:5173/problems/trees-binary-tree-inorder-traversal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/trees-binary-tree-level-order-traversal</loc>
+    <loc>http://localhost:5173/problems/trees-binary-tree-level-order-traversal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/trees-binary-tree-minimum-depth</loc>
+    <loc>http://localhost:5173/problems/trees-binary-tree-minimum-depth</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/trees-binary-tree-paths</loc>
+    <loc>http://localhost:5173/problems/trees-binary-tree-paths</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/trees-construct-binary-tree-from-preorder-and-inorder-traversal</loc>
+    <loc>http://localhost:5173/problems/trees-construct-binary-tree-from-preorder-and-inorder-traversal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/trees-delete-node-in-a-bst</loc>
+    <loc>http://localhost:5173/problems/trees-delete-node-in-a-bst</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/trees-diameter-of-binary-tree</loc>
+    <loc>http://localhost:5173/problems/trees-diameter-of-binary-tree</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/trees-insert-into-a-binary-search-tree</loc>
+    <loc>http://localhost:5173/problems/trees-insert-into-a-binary-search-tree</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/trees-invert-binary-tree</loc>
+    <loc>http://localhost:5173/problems/trees-invert-binary-tree</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/trees-kth-smallest-element-in-a-bst</loc>
+    <loc>http://localhost:5173/problems/trees-kth-smallest-element-in-a-bst</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/trees-lowest-common-ancestor-of-a-binary-tree</loc>
+    <loc>http://localhost:5173/problems/trees-lowest-common-ancestor-of-a-binary-tree</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/trees-lowest-common-ancestor-of-a-bst</loc>
+    <loc>http://localhost:5173/problems/trees-lowest-common-ancestor-of-a-bst</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/trees-maximum-depth-of-binary-tree</loc>
+    <loc>http://localhost:5173/problems/trees-maximum-depth-of-binary-tree</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/trees-path-sum</loc>
+    <loc>http://localhost:5173/problems/trees-path-sum</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/trees-path-sum-iii</loc>
+    <loc>http://localhost:5173/problems/trees-path-sum-iii</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/trees-populating-next-right-pointers-in-each-node</loc>
+    <loc>http://localhost:5173/problems/trees-populating-next-right-pointers-in-each-node</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/trees-same-tree</loc>
+    <loc>http://localhost:5173/problems/trees-same-tree</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/trees-search-in-a-binary-search-tree</loc>
+    <loc>http://localhost:5173/problems/trees-search-in-a-binary-search-tree</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/trees-serialize-and-deserialize-binary-tree</loc>
+    <loc>http://localhost:5173/problems/trees-serialize-and-deserialize-binary-tree</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/trees-subtree-of-another-tree</loc>
+    <loc>http://localhost:5173/problems/trees-subtree-of-another-tree</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/trees-sum-of-left-leaves</loc>
+    <loc>http://localhost:5173/problems/trees-sum-of-left-leaves</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/trees-symmetric-tree</loc>
+    <loc>http://localhost:5173/problems/trees-symmetric-tree</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/trees-validate-binary-search-tree</loc>
+    <loc>http://localhost:5173/problems/trees-validate-binary-search-tree</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/trees-zigzag-level-order-traversal</loc>
+    <loc>http://localhost:5173/problems/trees-zigzag-level-order-traversal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/trie-camelcase-matching</loc>
+    <loc>http://localhost:5173/problems/trie-camelcase-matching</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/trie-design-add-and-search-words</loc>
+    <loc>http://localhost:5173/problems/trie-design-add-and-search-words</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/trie-implement-trie</loc>
+    <loc>http://localhost:5173/problems/trie-implement-trie</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/trie-longest-prefix-of-a-phone-number</loc>
+    <loc>http://localhost:5173/problems/trie-longest-prefix-of-a-phone-number</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/trie-trie-with-prefix-counting</loc>
+    <loc>http://localhost:5173/problems/trie-trie-with-prefix-counting</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/trie-word-search-ii</loc>
+    <loc>http://localhost:5173/problems/trie-word-search-ii</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/twopointers-3sum</loc>
+    <loc>http://localhost:5173/problems/twopointers-3sum</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/twopointers-3sum-closest</loc>
+    <loc>http://localhost:5173/problems/twopointers-3sum-closest</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/twopointers-container-with-most-water</loc>
+    <loc>http://localhost:5173/problems/twopointers-container-with-most-water</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/twopointers-maximum-difference-between-two-elements-of-an-array</loc>
+    <loc>http://localhost:5173/problems/twopointers-maximum-difference-between-two-elements-of-an-array</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/twopointers-move-zeroes</loc>
+    <loc>http://localhost:5173/problems/twopointers-move-zeroes</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/twopointers-remove-duplicates-from-sorted-array</loc>
+    <loc>http://localhost:5173/problems/twopointers-remove-duplicates-from-sorted-array</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/twopointers-remove-duplicates-from-sorted-array-ii</loc>
+    <loc>http://localhost:5173/problems/twopointers-remove-duplicates-from-sorted-array-ii</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/twopointers-squares-of-a-sorted-array</loc>
+    <loc>http://localhost:5173/problems/twopointers-squares-of-a-sorted-array</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/twopointers-two-sum-ii-input-array-is-sorted</loc>
+    <loc>http://localhost:5173/problems/twopointers-two-sum-ii-input-array-is-sorted</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://harshvardhan178251.github.io/dsa-interview-cracker/problems/twopointers-valid-palindrome</loc>
+    <loc>http://localhost:5173/problems/twopointers-valid-palindrome</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>

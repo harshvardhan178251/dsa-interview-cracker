@@ -5,6 +5,7 @@ import { Catalog } from './pages/Catalog'
 import { Dashboard } from './pages/Dashboard'
 import { GuideDetail } from './pages/GuideDetail'
 import { Guides } from './pages/Guides'
+import { IbpsPage } from './pages/IbpsPage'
 import { Landing } from './pages/Landing'
 import { NotFound } from './pages/NotFound'
 import { ProblemDetail } from './pages/ProblemDetail'
@@ -21,6 +22,7 @@ export function App() {
         <Route path="problems/:slug" element={<ProblemDetail />} />
         <Route path="topics/:topic" element={<TopicPage />} />
         <Route path="companies/:company" element={<CompanyPage />} />
+        <Route path="ibps" element={<IbpsPage />} />
         <Route path="review" element={<Review />} />
         <Route path="guides" element={<Guides />} />
         <Route path="guides/*" element={<GuideDetail />} />

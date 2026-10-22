@@ -8,6 +8,7 @@ const NAV_ITEMS = [
   { to: '/', label: 'Home', icon: 'M3 11l9-8 9 8M5 10v10h5v-6h4v6h5V10', end: true },
   { to: '/dashboard', label: 'My dashboard', icon: 'M4 13h6V4H4v9zM4 20h6v-3H4v3zM14 20h6v-9h-6v9zM14 4v3h6V4h-6z' },
   { to: '/problems', label: 'All problems', icon: 'M4 6h16M4 12h16M4 18h10' },
+  { to: '/ibps', label: 'IBPS PO exam', icon: 'M3 21h18M5 21V8l7-5 7 5v13M9 21v-6h6v6' },
   { to: '/review', label: 'Review queue', icon: 'M12 8v4l3 2M21 12a9 9 0 11-18 0 9 9 0 0118 0z' },
   { to: '/guides', label: 'Guides & notes', icon: 'M4 5h7v15H4zM13 5h7v15h-7z' },
 ]

@@ -14,9 +14,15 @@
     "gen:guides": "node scripts/generate-guides.mjs",
     "gen:sitemap": "node scripts/generate-sitemap.mjs",
     "gen:404": "node scripts/generate-404.mjs",
+    "check:ibps": "node scripts/check-ibps-updates.mjs",
+    "check:ibps:write": "node scripts/check-ibps-updates.mjs --write",
     "deploy:pages": "node scripts/deploy-pages.mjs",
     "verify:judge": "node scripts/verify-judge-sources.mjs",
-    "sync": "npm run gen:data && npm run gen:guides && npm run gen:sitemap"
+    "sync": "npm run gen:data && npm run gen:guides && npm run gen:sitemap",
+    "test": "npm run verify:judge",
+    "qa:ibps": "node scripts/qa-ibps.mjs",
+    "qa:links": "node scripts/qa-links.mjs",
+    "qa:companies": "node scripts/qa-companies.mjs"
   },
   "dependencies": {
     "@codemirror/autocomplete": "^6.18.6",

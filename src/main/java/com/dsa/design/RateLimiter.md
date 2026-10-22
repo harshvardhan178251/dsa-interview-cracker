@@ -3,7 +3,7 @@ title: Rate Limiter
 leetcode: null
 difficulty: Medium
 patterns: [Design, Sliding window, Rate limiting]
-companies: [Amazon, Salesforce, Goldman Sachs, Tech Mahindra, Freshworks, Ernst & Young]
+companies: [Amazon, Salesforce, Goldman Sachs, Tech Mahindra, Freshworks]
 frequency: 4
 tags: [sliding window, deque, system design]
 sampleInput: |

@@ -114,7 +114,6 @@ summary: Exactly what is in the set — problem counts per topic and difficulty,
 | Intel | 8 |
 | Twitter | 8 |
 | Walmart | 8 |
-| Ernst & Young | 6 |
 | Figma | 6 |
 | Pinterest | 6 |
 | Atlassian | 5 |

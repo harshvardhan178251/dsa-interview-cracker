@@ -355,6 +355,7 @@ function clamp(n, lo, hi) {
 
 const GUIDE_SOURCES = [
   { dir: join(DOCS_ROOT, 'guides'), category: 'guide' },
+  { dir: join(DOCS_ROOT, 'ibps'), category: 'ibps' },
   { dir: join(DOCS_ROOT, 'topics'), category: 'topic' },
   { dir: join(DOCS_ROOT, 'system-design'), category: 'system-design' },
   { dir: join(DOCS_ROOT, 'lld'), category: 'lld' },
@@ -365,7 +366,7 @@ function collectGuides() {
 
   for (const source of GUIDE_SOURCES) {
     if (!existsSync(source.dir)) continue
-    const files = listFiles(source.dir, '.md')
+    const files = listFiles(source.dir, '.md').filter((f) => f !== 'CHANGELOG.md')
 
     for (const file of files) {
       const raw = read(join(source.dir, file))
@@ -393,7 +394,7 @@ function collectGuides() {
 
 /** File name used for a guide's lazily-loaded body. */
 function guideFileName(guide) {
-  return `${guide.category}-${guide.slug.split('/').join('-')}.json`
+  return `${guide.category}-${guide.slug.split('/').pop()}.json`
 }
 
 function firstParagraph(body) {
@@ -517,6 +518,13 @@ function main() {
   }
 
   writeFileSync(join(OUT_DIR, 'meta.json'), JSON.stringify(meta, null, 2) + '\n')
+
+  // The IBPS syllabus snapshot is kept in docs/ so the content checker can
+  // update it; copy it into the site bundle as well.
+  const ibpsSyllabus = join(DOCS_ROOT, 'ibps', 'syllabus.json')
+  if (existsSync(ibpsSyllabus)) {
+    writeFileSync(join(OUT_DIR, 'ibps-syllabus.json'), readFileSync(ibpsSyllabus, 'utf8'), 'utf8')
+  }
 
   const missingDoc = problems.filter((p) => !p.hasDoc)
   console.log(

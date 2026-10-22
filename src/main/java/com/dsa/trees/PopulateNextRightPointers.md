@@ -3,7 +3,7 @@ title: Populating Next Right Pointers in Each Node
 leetcode: 116
 difficulty: Medium
 patterns: [BFS, Level linking]
-companies: [Meta, Google, LinkedIn, Uber, Paytm, Capgemini, Tech Mahindra, Zebra, Ernst & Young]
+companies: [Meta, Google, LinkedIn, Uber, Paytm, Capgemini, Tech Mahindra, Zebra]
 frequency: 4
 tags: [tree, bfs, pointers, level-order]
 sampleInput: |

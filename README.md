@@ -19,8 +19,57 @@ solution, the exact stdin format, a **step-by-step dry run**, a complexity analy
 interview notes, a JUnit test, and an in-browser editor that compiles and runs your code
 and tells you exactly why it is wrong.
 
-Plus 48 written guides: topic concept notes, an 8-week study plan, the interview
-playbook, a Java cheatsheet, and system-design / low-level-design material.
+Plus **57 written guides**: topic concept notes, an 8-week study plan, the interview
+playbook, a Java cheatsheet, system-design / low-level-design material, and a complete
+**IBPS PO** bank-exam section.
+
+---
+
+## 📚 IBPS PO — bank exam preparation
+
+A separate, self-contained section for the **Probationary Officer** Common Recruitment
+Process: `https://harshvardhan178251.github.io/dsa-interview-cracker/ibps`
+
+| | |
+|---|---|
+| **Overview** | The current exam pattern — prelims, mains, descriptive, personality test, interview — and how to plan around them |
+| **English Language** | The seven grammar rules, RC technique, cloze method, para-jumble structure, vocabulary, the descriptive paper |
+| **Quantitative Aptitude** | DI, simplification, series, the full arithmetic toolkit, Vieta's formulas, data sufficiency |
+| **Reasoning Ability** | The puzzle method that works, syllogism and inequality shortcuts, coding traps |
+| **Computer Aptitude** | Fundamentals, OS, MS Office, networking, DBMS, and the digital payment rails |
+| **Banking & Economy** | The RBI, monetary policy, Indian economy, financial institutions, and a current-affairs system that does not eat your life |
+| **Formula sheet** | Everything worth memorising, on one page |
+| **Previous-year analysis** | Where the marks actually are, attempt strategy, and how to analyse a mock |
+| **12-week study plan** | From absolute zero to Mains-ready, with a daily structure |
+
+**Every topic is written in three layers** — *concept* (never seen it), *speed* (you know
+it, now do it in 60 seconds) and *advanced* (Mains-level depth and the twist questions).
+The site lets you filter the syllabus by depth, so you always see the next thing to work
+on rather than everything at once.
+
+### Kept current automatically
+
+IBPS revises the exam pattern. The repo fingerprints the official sources
+(`ibps.in`, the CRP-XVI notification PDF and the CRP-PO notice listing) and compares them
+with the recorded snapshot in `docs/ibps/syllabus.json`:
+
+- The **backend** re-checks the sources on demand, so `GET /api/ibps/status` reflects a
+  change within minutes of anyone loading the page.
+- A **scheduled job** runs the same check daily (`npm run check:ibps`), so the recorded
+  snapshot is refreshed within 24 hours and an issue is raised for the notes to be revised.
+- The IBPS PO page shows a **"content may be stale" banner** the moment a change is
+  detected, until a human has reviewed the notes and cleared `changeDetectedAt`.
+
+```powershell
+cd web
+npm run check:ibps          # report only
+npm run check:ibps:write   # refresh the snapshot and the changelog
+```
+
+The fingerprinting is deliberately conservative: a page that cannot be reached is treated
+as a network failure, **not** as a content change.
+
+---
 
 ```
 D:\dsa
@@ -131,7 +180,8 @@ duplicates and boundary values.
 
 | Folder | Contents |
 |---|---|
-| `guides/` | How to use this repo, the 8-week study plan, the company problem map (63 companies, tiered, with a section on IT-services and campus loops), the pattern index, the coverage matrix, the full problem index, the Java cheatsheet, the interview playbook |
+| `guides/` | How to use this repo, the 8-week study plan, the company problem map (62 companies, tiered, with a section on IT-services and campus loops), the pattern index, the coverage matrix, the full problem index, the Java cheatsheet, the interview playbook |
+| `ibps/` | **IBPS PO bank exam section** — exam pattern, English, Quant, Reasoning, Computer Aptitude, Banking & Economy, formula sheet, PYQ analysis, 12-week plan, plus the machine-readable `syllabus.json` the auto-updater maintains |
 | `topics/` | One concept note per topic — intuition, when to use which pattern, traps, complexity cheat sheet |
 | `system-design/` | Caching, load balancing, sharding, message queues, rate limiting, and four case studies |
 | `lld/` | Low-level design: LRU, parking lot, elevator, chess, tic-tac-toe, rate limiter |
@@ -205,6 +255,8 @@ Four gates, all green:
 | **Runner sources** | `cd web; npm run verify:judge` | Every problem compiles standalone and prints exactly its documented output — the same path the browser uses |
 | **Site build** | `cd web; npm run build` | The site compiles and bundles cleanly |
 | **Browser smoke test** | `npm run qa` | The landing page, topic pages, catalogue, search, filters, write-ups, code viewer, the Java editor and progress tracking all work in a real browser |
+| **IBPS section** | `cd web; npm run qa:ibps` | The exam pattern renders, the depth filter narrows the syllabus, and every guide link resolves |
+| **Content freshness** | `cd web; npm run check:ibps` | The official IBPS sources are reachable and unchanged |
 | **Compiler backend** | `cd web; npm run test:backend` | The backend compiles, runs, detects wrong answers and produces a diff |
 | **Production build** | `node scripts/qa-offline.mjs` | The built static bundle works when served over http, with no console errors |
 

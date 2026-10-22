@@ -128,6 +128,10 @@ for (const file of collectMarkdownFiles()) {
   const updated = original.replace(/\]\(([^)\s]+)\)/g, (match, link) => {
     if (/^(https?:|mailto:|#)/i.test(link)) return match
 
+    // A link that is already a site route (`/guides/...`, `../guides/<cat>/<name>`)
+    // is resolved by the site's own link rewriter, not by the file system.
+    if (/^\/?guides\//.test(link) || /^(\.\.\/)+guides\//.test(link)) return match
+
     const hashIndex = link.indexOf('#')
     const pathPart = hashIndex === -1 ? link : link.slice(0, hashIndex)
     const anchor = hashIndex === -1 ? '' : link.slice(hashIndex)
