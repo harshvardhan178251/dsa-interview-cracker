@@ -1,0 +1,5 @@
+{
+  "ok": false,
+  "service": "static-host",
+  "note": "This static deployment has no compiler backend. The site falls back to the public Judge0 API. Self-host with `npm run serve` (or the Docker image) to compile code locally."
+}
